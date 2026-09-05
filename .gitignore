@@ -1,4 +1,6 @@
 .DS_Store
 .godot/
 .import/
+node_modules/
+*.tgz
 *.tmp

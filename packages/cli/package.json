@@ -1,0 +1,37 @@
+{
+  "name": "playgrove",
+  "version": "0.0.1",
+  "description": "The command-line interface for the open-source PlayGrove game creation platform.",
+  "type": "module",
+  "bin": {
+    "grove": "bin/grove.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "scripts": {
+    "test": "node test/cli.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playgrovehq/playgrove.git"
+  },
+  "homepage": "https://github.com/playgrovehq/playgrove#readme",
+  "bugs": {
+    "url": "https://github.com/playgrovehq/playgrove/issues"
+  },
+  "keywords": [
+    "game-development",
+    "godot",
+    "ai",
+    "assets",
+    "cli"
+  ],
+  "license": "UNLICENSED",
+  "publishConfig": {
+    "access": "public"
+  }
+}
