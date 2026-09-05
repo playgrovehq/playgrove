@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "details-pipes-medium",
+  "label": "Details Pipes Medium",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "details",
+    "pipes",
+    "medium",
+    "quaternius",
+    "ultimatemodularscifi",
+    "plane",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#b28641",
+    "#797979",
+    "#76582b",
+    "#333333"
+  ],
+  "colorNames": [
+    "orange",
+    "gray",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "details-pipes-medium.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 794,
+    "triangles": 498,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.257165,
+      -0.382957,
+      0
+    ],
+    "max": [
+      0.257164,
+      0.382957,
+      0.093163
+    ],
+    "size": [
+      0.514329,
+      0.765914,
+      0.093163
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Details_Pipes_Medium_Plane.060"
+  ],
+  "materialNames": [
+    "Accent",
+    "DarkGrey",
+    "DarkAccent",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1DJn1HX0lUvWJmKSGvMQC1ZLOOg6S5HED",
+    "file": "OBJ/Details_Pipes_Medium.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "shotgun-2",
+  "label": "Shotgun 2",
+  "description": "Survival Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "shotgun",
+    "quaternius",
+    "survival",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5c4c42",
+    "#414241",
+    "#373736",
+    "#28292a"
+  ],
+  "colorNames": [
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "shotgun-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1660,
+    "triangles": 978,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.477144,
+      -0.563263,
+      -0.123267
+    ],
+    "max": [
+      4.307756,
+      0.379417,
+      0.123267
+    ],
+    "size": [
+      5.7849,
+      0.94268,
+      0.246534
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Shotgun_3_Cube.022"
+  ],
+  "materialNames": [
+    "Wood",
+    "Metal",
+    "DarkMetal",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/survival.html",
+    "download": "https://drive.google.com/uc?export=download&id=15_jprDih0UvQGqllRhEVTvYyFoXxWB-c",
+    "file": "OBJ/Shotgun_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

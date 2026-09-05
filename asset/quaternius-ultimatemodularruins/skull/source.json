@@ -1,0 +1,30 @@
+{
+  "id": "skull",
+  "label": "Skull",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1DRZE9z7GI0zsLCl7vDHqb6ISd6LRZ7FB",
+  "file": "OBJ/Skull.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d80cc3580d623e60d524456fe53ad7d8a7290c0ddaac15e419417f12979f116c",
+  "originalInputSha256": "d80cc3580d623e60d524456fe53ad7d8a7290c0ddaac15e419417f12979f116c",
+  "dependencies": [
+    {
+      "path": "OBJ/Skull.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17sixiKwECqLeRgqLAe_Y6ETV2qJCewjc",
+      "sha256": "2be7494bb36eab8c93730c413c0698c1f5c4ed80343607a4b5b0992d3f840281",
+      "bytes": 231
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "skull.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.44358399510383606,0.4606209984049201,0.5965909957885742]",
+  "convertedAt": "2026-09-05T13:32:45.644Z"
+}

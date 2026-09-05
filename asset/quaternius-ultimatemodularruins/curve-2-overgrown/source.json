@@ -1,0 +1,30 @@
+{
+  "id": "curve-2-overgrown",
+  "label": "Curve 2 Overgrown",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1MKxr3hTq7gqiKFQltEAa5NXkaJNZ5Hh2",
+  "file": "OBJ/Curve_2_Overgrown.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7a6b25671a407c32f9b818fcac4c650281ce707c0e4e80549f974c7a35cf90e2",
+  "originalInputSha256": "7a6b25671a407c32f9b818fcac4c650281ce707c0e4e80549f974c7a35cf90e2",
+  "dependencies": [
+    {
+      "path": "OBJ/Curve_2_Overgrown.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17SZGf-ni1c6g92czxxd4budTttZcmjCy",
+      "sha256": "97ad95fe9fae8815423157e05e48001dae764d6d72573aa077e8769fb9c71606",
+      "bytes": 789
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "curve-2-overgrown.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.3047890830785036,2.000857985112816,2.0689400169067085]",
+  "convertedAt": "2026-09-05T13:32:45.142Z"
+}

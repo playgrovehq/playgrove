@@ -1,0 +1,30 @@
+{
+  "id": "hay",
+  "label": "Hay",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1As4vIrMEPVYJ0LLqpDTou5Xdr8JTHry-",
+  "file": "Props/OBJ/Hay.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8faf992ef76d14250f637e21530d9ad5b0342805748dddd69e1130d533998188",
+  "originalInputSha256": "8faf992ef76d14250f637e21530d9ad5b0342805748dddd69e1130d533998188",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Hay.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Z3CUAwTgNzFbSF0lip96yQ-1pzdpnUsp",
+      "sha256": "0f7ac2ac30d737c2fcd0892633fe21d88939c26593bb1bf2da3536b8b2ef3967",
+      "bytes": 228
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "hay.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.12098800018429756,0.17850199542590417,0.1248680017888546]",
+  "convertedAt": "2026-09-05T13:36:04.840Z"
+}

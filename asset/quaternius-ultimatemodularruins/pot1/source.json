@@ -1,0 +1,30 @@
+{
+  "id": "pot1",
+  "label": "Pot1",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1XPBA6RUMSahOpeQG0TlzLYhOii5LsIvH",
+  "file": "OBJ/Pot1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ad0f50f793d2d9aa544cfcd0738174eb105d5c29131f836834ae4ebd5c1ce2bb",
+  "originalInputSha256": "ad0f50f793d2d9aa544cfcd0738174eb105d5c29131f836834ae4ebd5c1ce2bb",
+  "dependencies": [
+    {
+      "path": "OBJ/Pot1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Rl6_SC_RZW0nY8eMnqh0nz6VbPMYva0v",
+      "sha256": "679132d3ad73ab64cfaad4fb7b93e83ea51f49dc39509b2c9d840282df2d9381",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pot1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7684419751167297,0.9616729766130447,0.7682639956474304]",
+  "convertedAt": "2026-09-05T13:32:45.495Z"
+}

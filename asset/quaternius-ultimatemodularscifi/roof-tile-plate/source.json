@@ -1,0 +1,30 @@
+{
+  "id": "roof-tile-plate",
+  "label": "RoofTile Plate",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1y-vtWoz2wQbAYXL-Zyd2u8UPNxHGflUb",
+  "file": "OBJ/RoofTile_Plate.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a729941a05031c937a4f15f855faa3460ae8c0b050c4c1643fc625eb5299a965",
+  "originalInputSha256": "a729941a05031c937a4f15f855faa3460ae8c0b050c4c1643fc625eb5299a965",
+  "dependencies": [
+    {
+      "path": "OBJ/RoofTile_Plate.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1nxirdNyhCgimTKPpb4P0ac6gflhiNXFB",
+      "sha256": "5904aba9d9b2b091d4df23e08e8696afd809bd24b2e45b9f0da0ca04aba3de50",
+      "bytes": 600
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "roof-tile-plate.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2,0.07733799843117595,2]",
+  "convertedAt": "2026-09-05T13:34:57.674Z"
+}

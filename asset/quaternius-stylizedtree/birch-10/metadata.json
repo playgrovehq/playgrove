@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "birch-10",
+  "label": "Birch 10",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "birch",
+    "quaternius",
+    "stylizedtree",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "birch-10.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1537,
+    "triangles": 2264,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -3.224507,
+      -0.002992,
+      -2.189356
+    ],
+    "max": [
+      2.136352,
+      10.229007,
+      2.552184
+    ],
+    "size": [
+      5.360859,
+      10.231999,
+      4.74154
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Birch_10_Cylinder.022"
+  ],
+  "materialNames": [
+    "Birch_Bark",
+    "Birch_Leaves"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/stylizedtree.html",
+    "download": "https://drive.google.com/uc?export=download&id=1WvFKijxIWuUgj31f-VCnuC5_YLVnqPhM",
+    "file": "OBJ/Birch_10.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

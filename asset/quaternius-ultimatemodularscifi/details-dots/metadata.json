@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "details-dots",
+  "label": "Details Dots",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "details",
+    "dots",
+    "quaternius",
+    "ultimatemodularscifi",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a"
+  ],
+  "colorNames": [
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "details-dots.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 392,
+    "triangles": 378,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.275633,
+      -0.111543,
+      -0.029381
+    ],
+    "max": [
+      0.275633,
+      0.111543,
+      0.029381
+    ],
+    "size": [
+      0.551266,
+      0.223086,
+      0.058762
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Details_Dots_Cylinder.022"
+  ],
+  "materialNames": [
+    "Main"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1h267I8yOUUJmesHLmjaN4dIpvQ3a1jQH",
+    "file": "OBJ/Details_Dots.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

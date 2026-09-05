@@ -16,6 +16,7 @@ Usage:
   grove assets verify <asset.ts> [...]
   grove assets search [query] [--pack pack-id] [--limit 10] [--offset 0] [--catalog path-or-https-url]
                       [--source kenney|quaternius|poly-haven|playgrove] [--type model|texture|hdri]
+                      [--availability ready|source|all]
 
 Installed search reads the public GitHub catalog. In a full checkout it uses local assets.
 The run, view and verify commands require the converter/viewer source checkout.

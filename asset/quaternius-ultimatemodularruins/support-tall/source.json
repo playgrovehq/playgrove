@@ -1,0 +1,30 @@
+{
+  "id": "support-tall",
+  "label": "Support Tall",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=18IIo8c7Ntt8rVrcGP3iY90br5cb-JieT",
+  "file": "OBJ/Support_Tall.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "60d3ebbd28cc726a06b13305e5a4b10b34ab66d9a736b48a8f74c7064abcbb83",
+  "originalInputSha256": "60d3ebbd28cc726a06b13305e5a4b10b34ab66d9a736b48a8f74c7064abcbb83",
+  "dependencies": [
+    {
+      "path": "OBJ/Support_Tall.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1I2iyS3qrLI0mv8W3WeIBNeO4QX0VWrD-",
+      "sha256": "b5e062c3250d80f3b846efc530f4d24b369f831ec7d4815084644ab0c9696d95",
+      "bytes": 421
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "support-tall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7951770126819611,4.122235985047155,0.6544219851493835]",
+  "convertedAt": "2026-09-05T13:32:45.800Z"
+}

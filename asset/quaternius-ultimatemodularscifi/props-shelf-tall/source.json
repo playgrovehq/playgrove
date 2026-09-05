@@ -1,0 +1,30 @@
+{
+  "id": "props-shelf-tall",
+  "label": "Props Shelf Tall",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1j3ztDrYtqgxL3yR6GTuu9b8FZVkyGOV5",
+  "file": "OBJ/Props_Shelf_Tall.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "38e19b22b387445bd35f4f43de23e7305bc133cf9ff4b85d22d8f543817d83da",
+  "originalInputSha256": "38e19b22b387445bd35f4f43de23e7305bc133cf9ff4b85d22d8f543817d83da",
+  "dependencies": [
+    {
+      "path": "OBJ/Props_Shelf_Tall.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1s9uVfFpQlmvGUL7JaRzP2CYgDYxJeB8Q",
+      "sha256": "187098433bfe70938ce3e8a79ac1ef1584903a936f5e3073dfd6b2cf05eb32bb",
+      "bytes": 602
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "props-shelf-tall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.056917905807495,3.1066990809049457,0.8107900023460388]",
+  "convertedAt": "2026-09-05T13:34:57.428Z"
+}

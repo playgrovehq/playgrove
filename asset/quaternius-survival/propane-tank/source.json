@@ -1,0 +1,30 @@
+{
+  "id": "propane-tank",
+  "label": "PropaneTank",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1EygY2pnAYuVZaP1KOLI2RRI-3SDcgU8l",
+  "file": "OBJ/PropaneTank.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ac46ef95b36b43700b9ec4ab3b33350be5d092e551b56cd079c5f9ccf9d4773b",
+  "originalInputSha256": "ac46ef95b36b43700b9ec4ab3b33350be5d092e551b56cd079c5f9ccf9d4773b",
+  "dependencies": [
+    {
+      "path": "OBJ/PropaneTank.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1YjNIWyje5TfxY6U3bZk5DUEBD_33Pu7d",
+      "sha256": "ddf2e3ede496b71dbfd888f3dccae3e4132f08e431f9dddb71c011086760961b",
+      "bytes": 771
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "propane-tank.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2.1551820039749146,2.8909709453582764,2.0496999621391296]",
+  "convertedAt": "2026-09-05T13:37:26.639Z"
+}

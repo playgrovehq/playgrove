@@ -1,0 +1,30 @@
+{
+  "id": "gun-5",
+  "label": "Gun 5",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "pack": "quaternius-turretpack",
+  "listing": "https://quaternius.com/packs/turretpack.html",
+  "download": "https://drive.google.com/uc?export=download&id=1kSh4MyHh9nu2gebn3w7Rj8IC1Lk9prVf",
+  "file": "OBJ/Gun_5.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f16c4f30a02da0a5030e1be25e366da296bf725ff95da34662390b409de20770",
+  "originalInputSha256": "f16c4f30a02da0a5030e1be25e366da296bf725ff95da34662390b409de20770",
+  "dependencies": [
+    {
+      "path": "OBJ/Gun_5.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1dg2uxgguFZt7cPue03FK47YPIch8SKRK",
+      "sha256": "743cb4e22279b1f2cd55733ccc5025a4dd1c4349bcccdbdd85ad279ca541bf85",
+      "bytes": 409
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "gun-5.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=6 materials=6 bounds=[1.3767600059509277,2.3183249086141586,2.8272130489349365]",
+  "convertedAt": "2026-09-05T13:42:54.518Z"
+}

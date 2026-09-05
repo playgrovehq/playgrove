@@ -1,0 +1,30 @@
+{
+  "id": "laser-1",
+  "label": "Laser 1",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "pack": "quaternius-turretpack",
+  "listing": "https://quaternius.com/packs/turretpack.html",
+  "download": "https://drive.google.com/uc?export=download&id=1NhqQZ-lmlpNF67Mp8v-ZSDkIvjJURnKz",
+  "file": "OBJ/Laser_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8a7ae8bd1eea4b216b2e1d2cd2ba62a1c611f90b4d4e5f929c8ec258dc159fd0",
+  "originalInputSha256": "8a7ae8bd1eea4b216b2e1d2cd2ba62a1c611f90b4d4e5f929c8ec258dc159fd0",
+  "dependencies": [
+    {
+      "path": "OBJ/Laser_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1WeDrJ4GVTim2VcTfQ3EsYrlzWIfU-K05",
+      "sha256": "27728f8ad15a92d609e7eed9bc83b8c1ce83d4574599e8219f8b29e89ac34867",
+      "bytes": 411
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "laser-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.9975410103797913,2.053089089691639,1.9149430096149445]",
+  "convertedAt": "2026-09-05T13:42:54.615Z"
+}

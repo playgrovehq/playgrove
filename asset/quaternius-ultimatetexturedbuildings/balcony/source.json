@@ -1,0 +1,30 @@
+{
+  "id": "balcony",
+  "label": "Balcony",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1AL9gZINch0ZhoW0jufHR_78bTwBRCqRQ",
+  "file": "Textured Models/Base Modular Parts/OBJ/Balcony.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "55585612cfc8db77c4312f3528a00c39be0d9cf712b3c209832a804bbae8749f",
+  "originalInputSha256": "55585612cfc8db77c4312f3528a00c39be0d9cf712b3c209832a804bbae8749f",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Balcony.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1RqKwgZ7DRiwkzRH-JlXxioppUrFLcoWR",
+      "sha256": "785c880f21943d26c7070f8b8b0fed71894ca0cf46e4531b64814cbc8135b852",
+      "bytes": 236
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "balcony.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.8343819975852966,0.2702459990978241,0.47474798560142517]",
+  "convertedAt": "2026-09-05T13:48:28.516Z"
+}

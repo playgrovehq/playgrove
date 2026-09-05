@@ -1,0 +1,30 @@
+{
+  "id": "watermelon-crop",
+  "label": "Watermelon Crop",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1wkBFIcXmZ2WzTMSCkIv4na0E1lubbgN3",
+  "file": "OBJ/Watermelon_Crop.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "44a00b625db82519ed33673227e792875be8b65def7cd55a0cca2b4ff853057d",
+  "originalInputSha256": "44a00b625db82519ed33673227e792875be8b65def7cd55a0cca2b4ff853057d",
+  "dependencies": [
+    {
+      "path": "OBJ/Watermelon_Crop.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=11owD1jeZiEzE7GwdPu6gj-S_Pjszv7KD",
+      "sha256": "78f74918c0d90c45f55f903d912c527d76699917ebf83e0dc646bafb061caca4",
+      "bytes": 425
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "watermelon-crop.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.4443359971046448,0.35097599029541016,0.3690379858016968]",
+  "convertedAt": "2026-09-05T13:45:27.430Z"
+}

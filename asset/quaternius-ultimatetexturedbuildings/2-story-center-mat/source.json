@@ -1,0 +1,30 @@
+{
+  "id": "2-story-center-mat",
+  "label": "2Story Center Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1z8bRlQzAtvcBnsXy0eccmbXJOJnAuMNn",
+  "file": "Models with Materials/OBJ/2Story_Center_Mat.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e79a94a5034f436d7879ba16ed6282c057c7c5dffb98673dd12ba1ffdfd62f99",
+  "originalInputSha256": "e79a94a5034f436d7879ba16ed6282c057c7c5dffb98673dd12ba1ffdfd62f99",
+  "dependencies": [
+    {
+      "path": "Models with Materials/OBJ/2Story_Center_Mat.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1KmeHFAg9CuR39iDO4wgU_QiU_MqE8Ja8",
+      "sha256": "11680703793782caae6dc3ef1b662f5e1bbad6dc18e4ba1467bb09dd6153b359",
+      "bytes": 1313
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "2-story-center-mat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[2.421149969100952,2.7365069002844393,2.4985049962997437]",
+  "convertedAt": "2026-09-05T13:48:27.496Z"
+}

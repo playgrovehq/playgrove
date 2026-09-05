@@ -1,0 +1,30 @@
+{
+  "id": "3-story-slim",
+  "label": "3Story Slim",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1HjJOvbKD2NjsD1n6csH4Udsz4CZ_Un6l",
+  "file": "Textured Models/Finished Textured Buildings/OBJ/3Story_Slim.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f24cc3bd3d86d596516078fe4d142c0455fddf04ef7c44c4a493b16ca5fd7cd1",
+  "originalInputSha256": "f24cc3bd3d86d596516078fe4d142c0455fddf04ef7c44c4a493b16ca5fd7cd1",
+  "dependencies": [
+    {
+      "path": "Textured Models/Finished Textured Buildings/OBJ/3Story_Slim.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16dts3VckJmU-VUmbHXTNgdHu5gKrXf17",
+      "sha256": "f73f4a7c06b972a7a093c857bdbe5e08f6675d0aa1db68e29609232c12f4182f",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "3-story-slim.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.1155789494514465,3.9919610172510147,2.154603958129883]",
+  "convertedAt": "2026-09-05T13:48:29.450Z"
+}

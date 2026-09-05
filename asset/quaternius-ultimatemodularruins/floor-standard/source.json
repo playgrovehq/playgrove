@@ -1,0 +1,30 @@
+{
+  "id": "floor-standard",
+  "label": "Floor Standard",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=13RRkfj-WAPdPbjwBxi_NyM-KkXc4Sy6Y",
+  "file": "OBJ/Floor_Standard.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bc75d648f70bd18e67b664baf120af0146a4c0c818e9b3a2f4c9c0098756e8a2",
+  "originalInputSha256": "bc75d648f70bd18e67b664baf120af0146a4c0c818e9b3a2f4c9c0098756e8a2",
+  "dependencies": [
+    {
+      "path": "OBJ/Floor_Standard.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1TjxK7jyoXrjqVwQuXXLdem3tCQ8mpBwF",
+      "sha256": "2e4df93fc438771d6a80e235f3fcf7b5ae174a702cb5358d805c72738e1f4009",
+      "bytes": 423
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "floor-standard.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.9904060363769531,0.28594301268458366,1.9765580296516418]",
+  "convertedAt": "2026-09-05T13:32:45.426Z"
+}

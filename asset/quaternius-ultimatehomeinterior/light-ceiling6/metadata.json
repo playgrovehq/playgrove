@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "light-ceiling6",
+  "label": "Light Ceiling6",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "light",
+    "ceiling6",
+    "quaternius",
+    "ultimatehomeinterior",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#7e7d7b",
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "gray",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "light-ceiling6.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 120,
+    "triangles": 112,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.265543,
+      -0.126209,
+      -0.279208
+    ],
+    "max": [
+      0.265543,
+      0.002505,
+      0.279208
+    ],
+    "size": [
+      0.531086,
+      0.128714,
+      0.558416
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Light_Ceiling6_Cylinder.035"
+  ],
+  "materialNames": [
+    "Grey",
+    "Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+    "download": "https://drive.google.com/uc?export=download&id=1msX2n21sLDGMIelFDxMYpkhXXBdBENhB",
+    "file": "OBJ/Light_Ceiling6.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

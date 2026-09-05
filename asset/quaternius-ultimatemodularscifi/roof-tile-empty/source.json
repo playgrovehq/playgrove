@@ -1,0 +1,30 @@
+{
+  "id": "roof-tile-empty",
+  "label": "RoofTile Empty",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FtkmcjsG-NqYe9I1HJyX7gzM2WQTnC-B",
+  "file": "OBJ/RoofTile_Empty.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f0bea365ee3a040866081de2e416569df21b2a9e12fe0fdfd38e7731de486426",
+  "originalInputSha256": "f0bea365ee3a040866081de2e416569df21b2a9e12fe0fdfd38e7731de486426",
+  "dependencies": [
+    {
+      "path": "OBJ/RoofTile_Empty.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1WviST1umfP0h4OpukpKN29_ZNXf-FrHG",
+      "sha256": "8bc707cc18efae945d04e30a23096b24a9ba6e4c6a18dac4c7ae6b26dbd675f9",
+      "bytes": 421
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "roof-tile-empty.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2,0.07733799843117595,2]",
+  "convertedAt": "2026-09-05T13:34:57.589Z"
+}

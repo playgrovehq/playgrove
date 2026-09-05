@@ -1,0 +1,30 @@
+{
+  "id": "gear-cannon-1",
+  "label": "GearCannon 1",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "pack": "quaternius-turretpack",
+  "listing": "https://quaternius.com/packs/turretpack.html",
+  "download": "https://drive.google.com/uc?export=download&id=1IJJRZvzRxc5PR52uqJWRXp3vaYl0X17_",
+  "file": "OBJ/GearCannon_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f9af11c3526056e5e6243867d66ecb9281342f416e4fd11bb75c3db774a021c5",
+  "originalInputSha256": "f9af11c3526056e5e6243867d66ecb9281342f416e4fd11bb75c3db774a021c5",
+  "dependencies": [
+    {
+      "path": "OBJ/GearCannon_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1pWBwPaVIzocJHWBXnc6AggDSOrCHPDtx",
+      "sha256": "566b51a881b26c493bb35989186c2e67e9439445ef9a5c890f06654b2ee09591",
+      "bytes": 416
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "gear-cannon-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=6 materials=6 bounds=[1.883180022239685,1.5140960067510605,1.504951000213623]",
+  "convertedAt": "2026-09-05T13:42:54.383Z"
+}

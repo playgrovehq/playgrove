@@ -1,0 +1,30 @@
+{
+  "id": "dead-tree-3",
+  "label": "DeadTree 3",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1e1Kva2phK6cI6oEk569KBBj5oIb1Bmpe",
+  "file": "OBJ/DeadTree_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "32c7c7c329b8aeaf9771d6c9b9463f6c1c0c8d1df4477fd8f23aff6fe1863116",
+  "originalInputSha256": "32c7c7c329b8aeaf9771d6c9b9463f6c1c0c8d1df4477fd8f23aff6fe1863116",
+  "dependencies": [
+    {
+      "path": "OBJ/DeadTree_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1bg91s3kpCo2jjqcq-OqqSxh1aKpv-ZtM",
+      "sha256": "51f4191f775337a9556fde94cda5a85649abc18e8997b3c8454d80b5760e56f1",
+      "bytes": 236
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "dead-tree-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.2518320083618164,2.809356944519095,2.2580538988113403]",
+  "convertedAt": "2026-09-05T13:32:45.192Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "3-story-base",
+  "label": "3Story Base",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_RwKQGjYzkq6h2UAZGWPShYIit_V4xVI",
+  "file": "Textured Models/Base Modular Buildings/OBJ/3Story_Base.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9271f1a80a33fade8a94b1d22c6a2031db753658b522a8537a7af1d06fdd2720",
+  "originalInputSha256": "9271f1a80a33fade8a94b1d22c6a2031db753658b522a8537a7af1d06fdd2720",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Buildings/OBJ/3Story_Base.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1tpO7AmKEDw4-SOyROAP5WZHKUkU2yflV",
+      "sha256": "c088b0029bf9034bf8127c9429974a586228f06118b702ef0175b00ee5a4974e",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "3-story-base.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1586461067199707,4.082719926023856,2.174857020378113]",
+  "convertedAt": "2026-09-05T13:48:28.404Z"
+}

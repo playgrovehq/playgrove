@@ -1,0 +1,30 @@
+{
+  "id": "props-computer-small",
+  "label": "Props ComputerSmall",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1w9oYALPIV6n04uAc6IdeA42QesNfCfZ9",
+  "file": "OBJ/Props_ComputerSmall.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "34a310504af831f88f2987fc5d34f2776317e34a7f712a0df8088e53e610b5df",
+  "originalInputSha256": "34a310504af831f88f2987fc5d34f2776317e34a7f712a0df8088e53e610b5df",
+  "dependencies": [
+    {
+      "path": "OBJ/Props_ComputerSmall.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1evzGn1Mpj9jRmFpH_GyzgD-hZyMQLrr0",
+      "sha256": "9d57d52775e86861d1d218b1e91c26e1c4e44a1e47840a9a86523b4552b670f8",
+      "bytes": 966
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "props-computer-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.7512159943580627,1.5377689725719392,0.4563850164413452]",
+  "convertedAt": "2026-09-05T13:34:57.294Z"
+}

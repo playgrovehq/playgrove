@@ -1,0 +1,30 @@
+{
+  "id": "kitchen-fridge",
+  "label": "Kitchen Fridge",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1M2LGKMYxx1arevBn4tNHIxHsCX-AWCIH",
+  "file": "OBJ/Kitchen_Fridge.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d44613a31f0fe40a58eed6542fee84cd35eaa2a4b43df05c007160a3e4e1cb95",
+  "originalInputSha256": "d44613a31f0fe40a58eed6542fee84cd35eaa2a4b43df05c007160a3e4e1cb95",
+  "dependencies": [
+    {
+      "path": "OBJ/Kitchen_Fridge.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17YqcnepLqNSwdVqGMVDPDSAFrNzavHpq",
+      "sha256": "52833bb3858867dd7d8adabeba53af26cdd81ab18e36a9151f2cf93d0fa826ad",
+      "bytes": 419
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "kitchen-fridge.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.297592043876648,3.3084440887905657,1.3018600344657898]",
+  "convertedAt": "2026-09-05T13:40:39.593Z"
+}

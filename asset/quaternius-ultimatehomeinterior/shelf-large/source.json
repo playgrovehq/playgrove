@@ -1,0 +1,30 @@
+{
+  "id": "shelf-large",
+  "label": "Shelf Large",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1tKwqMnTR3Otd-WaIcMJte9PO9qca03s7",
+  "file": "OBJ/Shelf_Large.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c74160eb06427e6bd21a6ef671236ebb981856c72f949506954ba7a90a923155",
+  "originalInputSha256": "c74160eb06427e6bd21a6ef671236ebb981856c72f949506954ba7a90a923155",
+  "dependencies": [
+    {
+      "path": "OBJ/Shelf_Large.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1bNHhELjjCS0rGanKLStKnT-aC7MYAF_d",
+      "sha256": "fb6495b05b26f1223bb9e1281e0b47779cee587f13a70c1f59ba7f33af16e14d",
+      "bytes": 238
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "shelf-large.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3.3808960914611816,4.438080178573728,0.7559980154037476]",
+  "convertedAt": "2026-09-05T13:40:40.158Z"
+}

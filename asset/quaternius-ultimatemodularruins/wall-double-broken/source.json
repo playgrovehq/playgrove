@@ -1,0 +1,30 @@
+{
+  "id": "wall-double-broken",
+  "label": "Wall Double Broken",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1VSnyvjPFiVxa_W4LAi_pPwxM796t9sCG",
+  "file": "OBJ/Wall_Double_Broken.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0dcd2a5e9d87b40e52c44a24e187ba42903684b0b5cf56300f909e7deb91c119",
+  "originalInputSha256": "0dcd2a5e9d87b40e52c44a24e187ba42903684b0b5cf56300f909e7deb91c119",
+  "dependencies": [
+    {
+      "path": "OBJ/Wall_Double_Broken.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1eNwlrK0myD3q4kpYlAYMXYbNZtElwXls",
+      "sha256": "2e0f2f863c6d5ad031c8d142998b73446b55f8596eb19c744789675668172e9e",
+      "bytes": 427
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "wall-double-broken.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.9903860092163086,0.9867899902164936,0.5656100213527679]",
+  "convertedAt": "2026-09-05T13:32:46.043Z"
+}

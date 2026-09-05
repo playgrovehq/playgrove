@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "column-2",
+  "label": "Column 2",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "column",
+    "quaternius",
+    "ultimatemodularscifi",
+    "plane",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a",
+    "#797979"
+  ],
+  "colorNames": [
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "column-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 296,
+    "triangles": 188,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.342145,
+      0,
+      -0.342145
+    ],
+    "max": [
+      0.342145,
+      4.463406,
+      0.342145
+    ],
+    "size": [
+      0.68429,
+      4.463406,
+      0.68429
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Column_2_Plane.269"
+  ],
+  "materialNames": [
+    "Main",
+    "DarkGrey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=16Zx9B0ch9Nz5IeV6HcqE8lUkM0fXB2Sz",
+    "file": "OBJ/Column_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "support-tall",
+  "label": "Support Tall",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "support",
+    "tall",
+    "quaternius",
+    "ultimatemodularruins",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#646559",
+    "#848676"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "support-tall.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 898,
+    "triangles": 670,
+    "parts": 2,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -0.392922,
+      -0.000056,
+      -0.327211
+    ],
+    "max": [
+      0.402255,
+      4.12218,
+      0.327211
+    ],
+    "size": [
+      0.795177,
+      4.122236,
+      0.654422
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Support_Tall_Cylinder.012"
+  ],
+  "materialNames": [
+    "Main",
+    "Highlights"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=18IIo8c7Ntt8rVrcGP3iY90br5cb-JieT",
+    "file": "OBJ/Support_Tall.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "pine-2",
+  "label": "Pine 2",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "pine",
+    "quaternius",
+    "stylizedtree",
+    "cylinder",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pine-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 528,
+    "triangles": 608,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -3.680732,
+      -0.380554,
+      -3.512053
+    ],
+    "max": [
+      2.931853,
+      7.963258,
+      3.27267
+    ],
+    "size": [
+      6.612585,
+      8.343812,
+      6.784723
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pine_2_Cylinder.024"
+  ],
+  "materialNames": [
+    "Bark",
+    "Pine_Leaves"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/stylizedtree.html",
+    "download": "https://drive.google.com/uc?export=download&id=1pLIK9v6iOcqgNP8QBjUn63-D7t2Gn4Qt",
+    "file": "OBJ/Pine_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

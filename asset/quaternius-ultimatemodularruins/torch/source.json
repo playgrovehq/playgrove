@@ -1,0 +1,30 @@
+{
+  "id": "torch",
+  "label": "Torch",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1RjUsDmqyMbp_IaELYl_LyOl74Iys4wHU",
+  "file": "OBJ/Torch.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d06350d0cc7288426f827c0a9f9aa8ccae8e11895f1a9518c498da1ae39f0d04",
+  "originalInputSha256": "d06350d0cc7288426f827c0a9f9aa8ccae8e11895f1a9518c498da1ae39f0d04",
+  "dependencies": [
+    {
+      "path": "OBJ/Torch.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1VyOG10Nyqcc2drAaAFpL5-l6VjL0arKm",
+      "sha256": "843693715f22ab6a49cf3471d5424b901497828a746ac92fdf26745d511cb9a4",
+      "bytes": 413
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "torch.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.2782739996910095,1.1704359948635101,0.4376470148563385]",
+  "convertedAt": "2026-09-05T13:32:45.818Z"
+}

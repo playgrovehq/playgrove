@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "id": "candles-2",
+  "label": "Candles 2",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "candles",
+    "quaternius",
+    "ultimatemodularruins",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9e955c",
+    "#c55442",
+    "#353535"
+  ],
+  "colorNames": [
+    "gray",
+    "red",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "candles-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1042,
+    "triangles": 1224,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.489037,
+      -0.002762,
+      -0.428707
+    ],
+    "max": [
+      0.504085,
+      0.642966,
+      0.557417
+    ],
+    "size": [
+      0.993122,
+      0.645728,
+      0.986124
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Candles_2_Cube"
+  ],
+  "materialNames": [
+    "Candle",
+    "Light",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1xrpXlWSNV4CeSoiNODhIrkCEPCaHGydA",
+    "file": "OBJ/Candles_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

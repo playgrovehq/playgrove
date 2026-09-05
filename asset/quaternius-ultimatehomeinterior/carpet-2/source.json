@@ -1,0 +1,30 @@
+{
+  "id": "carpet-2",
+  "label": "Carpet 2",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1CepTdm4QpZr6yIhq5ti3ktKbKkfTm2ot",
+  "file": "OBJ/Carpet_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1a97967315f03978178b67eaefb3ebd6c63455b023f5a23d45a6bb4e61ac2179",
+  "originalInputSha256": "1a97967315f03978178b67eaefb3ebd6c63455b023f5a23d45a6bb4e61ac2179",
+  "dependencies": [
+    {
+      "path": "OBJ/Carpet_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1T1BuG0Kc3BA5aQ-ckhYZBhWln16Bz_BP",
+      "sha256": "67eb5e3dcf0a435b302fc2f2b360602d19b59a8de2dd60db169d893729310eaa",
+      "bytes": 421
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "carpet-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[3.093208909034729,0.036657998512964696,3.181445002555847]",
+  "convertedAt": "2026-09-05T13:40:38.676Z"
+}

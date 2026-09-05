@@ -1,0 +1,30 @@
+{
+  "id": "pistol-1",
+  "label": "Pistol 1",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1PI6KvmlC61omiH8p6QaYe7_b73P0bdMX",
+  "file": "OBJ/Pistol_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2e22bcc00873de5dda983e38ccaced8681a4af36c677e7ffce8838f8022185f8",
+  "originalInputSha256": "2e22bcc00873de5dda983e38ccaced8681a4af36c677e7ffce8838f8022185f8",
+  "dependencies": [
+    {
+      "path": "OBJ/Pistol_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=13Z3u3DtcSov343UQbPOyByki1t0PKPIH",
+      "sha256": "ad9563d1719544e1eb47286e609c803ee46feb6def24a33ed92ba57c3eaa65c2",
+      "bytes": 955
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pistol-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.81940096616745,1.1615559756755829,0.3232100009918213]",
+  "convertedAt": "2026-09-05T13:37:26.572Z"
+}

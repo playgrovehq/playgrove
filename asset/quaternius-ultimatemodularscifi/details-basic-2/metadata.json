@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "details-basic-2",
+  "label": "Details Basic 2",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "details",
+    "basic",
+    "quaternius",
+    "ultimatemodularscifi",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a",
+    "#797979"
+  ],
+  "colorNames": [
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "details-basic-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 256,
+    "triangles": 212,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.134961,
+      -0.264618,
+      -0.028701
+    ],
+    "max": [
+      0.134961,
+      0.264618,
+      0.022996
+    ],
+    "size": [
+      0.269922,
+      0.529236,
+      0.051697
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Details_Basic_2_Cube.058"
+  ],
+  "materialNames": [
+    "Main",
+    "DarkGrey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=15rrfKBbuC5ePMlfeER_E1OrcdPMMkB3W",
+    "file": "OBJ/Details_Basic_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

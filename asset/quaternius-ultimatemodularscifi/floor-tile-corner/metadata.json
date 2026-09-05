@@ -1,0 +1,98 @@
+{
+  "version": 2,
+  "id": "floor-tile-corner",
+  "label": "FloorTile Corner",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "floor",
+    "tile",
+    "corner",
+    "quaternius",
+    "ultimatemodularscifi",
+    "plane",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#b28641",
+    "#76582b",
+    "#333333",
+    "#9a9a9a",
+    "#797979"
+  ],
+  "colorNames": [
+    "orange",
+    "brown",
+    "black",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "floor-tile-corner.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 560,
+    "triangles": 360,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1,
+      -0.020181,
+      -1
+    ],
+    "max": [
+      1,
+      0.041344,
+      1
+    ],
+    "size": [
+      2,
+      0.061525,
+      2
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "FloorTile_Corner_Plane.250"
+  ],
+  "materialNames": [
+    "Accent",
+    "DarkAccent",
+    "Black",
+    "Main",
+    "DarkGrey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1fH0i9E9rKOBHyxOGxfjKOj_o8eld_lJq",
+    "file": "OBJ/FloorTile_Corner.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

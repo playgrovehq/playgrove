@@ -1,0 +1,30 @@
+{
+  "id": "4-story-mat",
+  "label": "4Story Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1bfYl3p8JI-8OxqG1B0ysd24k3XbHMir9",
+  "file": "Models with Materials/OBJ/4Story_Mat.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d326d20f0c29ad2499132dd7773aacab675946efadf18f56a926a5a8d004366a",
+  "originalInputSha256": "d326d20f0c29ad2499132dd7773aacab675946efadf18f56a926a5a8d004366a",
+  "dependencies": [
+    {
+      "path": "Models with Materials/OBJ/4Story_Mat.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1jxdJ6S6Vz8aROLaKr8AopXjaeUWpBhlN",
+      "sha256": "df1c8f0fdff17e0fecffec423d57f240011a024d9d16b16ff092dfe8e72fb44a",
+      "bytes": 1306
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "4-story-mat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[2.4211490154266357,5.091838006163016,2.5321749448776245]",
+  "convertedAt": "2026-09-05T13:48:28.019Z"
+}

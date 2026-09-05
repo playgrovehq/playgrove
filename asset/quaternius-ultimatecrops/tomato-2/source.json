@@ -1,0 +1,30 @@
+{
+  "id": "tomato-2",
+  "label": "Tomato 2",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ebM1Qp--OMcMBDlOVs36R25JTCdPDtfB",
+  "file": "OBJ/Tomato_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2cc20f9c3ce76878e2637a66167836d214b7f540673c8e7e46fa4ebda66d15ff",
+  "originalInputSha256": "2cc20f9c3ce76878e2637a66167836d214b7f540673c8e7e46fa4ebda66d15ff",
+  "dependencies": [
+    {
+      "path": "OBJ/Tomato_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=19fb-lqKnmKFiL_LSE9lD_xKK4yS1pHkd",
+      "sha256": "470251bd3edd9d38c2459a3fdd02355f945daaba7c7fae0f040e90558cac72c4",
+      "bytes": 235
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tomato-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.3768109977245331,0.7908109999261796,0.18738900125026703]",
+  "convertedAt": "2026-09-05T13:45:27.251Z"
+}

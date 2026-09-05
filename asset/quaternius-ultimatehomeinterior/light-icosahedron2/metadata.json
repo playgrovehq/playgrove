@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "light-icosahedron2",
+  "label": "Light Icosahedron2",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "light",
+    "icosahedron2",
+    "quaternius",
+    "ultimatehomeinterior",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#7e7d7b",
+    "#d1d1d1",
+    "#686868",
+    "#a1a19e"
+  ],
+  "colorNames": [
+    "gray",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "light-icosahedron2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 6144,
+    "triangles": 3596,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.821277,
+      -0.879794,
+      -0.251074
+    ],
+    "max": [
+      0.804885,
+      0,
+      0.251076
+    ],
+    "size": [
+      1.626162,
+      0.879794,
+      0.50215
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Light_Icosahedron2_Cylinder.053"
+  ],
+  "materialNames": [
+    "Grey",
+    "Light",
+    "LightMetal",
+    "White"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+    "download": "https://drive.google.com/uc?export=download&id=1oVxxxScz0ZFMD42Ime61Ax3gGByf7wci",
+    "file": "OBJ/Light_Icosahedron2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

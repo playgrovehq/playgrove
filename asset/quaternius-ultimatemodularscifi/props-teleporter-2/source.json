@@ -1,0 +1,30 @@
+{
+  "id": "props-teleporter-2",
+  "label": "Props Teleporter 2",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=16DdptTXaBQLq5R9X8mqV0SkO7BNDYScs",
+  "file": "OBJ/Props_Teleporter_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e426f232a5c795b8ee9fbaa6f2acf69e9ad605c8df10725ff0118569ba3d051f",
+  "originalInputSha256": "e426f232a5c795b8ee9fbaa6f2acf69e9ad605c8df10725ff0118569ba3d051f",
+  "dependencies": [
+    {
+      "path": "OBJ/Props_Teleporter_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1TYSPN0ZPKphtyiIUCLRt-2cchLaeXe1V",
+      "sha256": "e57437c35b8fd4f8c92ec040061a9d91e8b8dbd379f9292a81593d9bfc1fcdfc",
+      "bytes": 604
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "props-teleporter-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.2057899832725525,1.3388119842857122,1.2057900428771973]",
+  "convertedAt": "2026-09-05T13:34:57.481Z"
+}

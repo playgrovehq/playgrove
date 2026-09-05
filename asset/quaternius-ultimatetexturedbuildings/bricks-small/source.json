@@ -1,0 +1,30 @@
+{
+  "id": "bricks-small",
+  "label": "Bricks Small",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1KtJNoX_Yur4gk0WbIY7xt3p41fUnOih6",
+  "file": "Textured Models/Base Modular Parts/OBJ/Bricks_Small.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "19e987bbff3feda3e8fc714be364af10645012554342135e7d4a83ef378203df",
+  "originalInputSha256": "19e987bbff3feda3e8fc714be364af10645012554342135e7d4a83ef378203df",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Bricks_Small.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1scHuay-ZzXlNP82u6UieYllkt-j_V40C",
+      "sha256": "08f87c7e8543d83561565e8cc440895a410ea30976842656df5daebd775ca740",
+      "bytes": 241
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bricks-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.6067000031471252,0.4318059980869293,0.13642600178718567]",
+  "convertedAt": "2026-09-05T13:48:28.617Z"
+}

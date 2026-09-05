@@ -1,0 +1,30 @@
+{
+  "id": "floor-tile-side",
+  "label": "FloorTile Side",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1fXrFXSg-tEQfW2vzc2V4ec54ERUPGMTj",
+  "file": "OBJ/FloorTile_Side.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4f91952a5d8d9ad4dacafa93ac2afb5017255bbeb324743248ee112d5b846eae",
+  "originalInputSha256": "4f91952a5d8d9ad4dacafa93ac2afb5017255bbeb324743248ee112d5b846eae",
+  "dependencies": [
+    {
+      "path": "OBJ/FloorTile_Side.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=104766xDj_t2f4qNswhgBoNpeLbSZRaTI",
+      "sha256": "2fa08de29e1838ff2f623004c4b1875c31c59bbd7ab272b91f9f723c61e4fdd2",
+      "bytes": 961
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "floor-tile-side.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[2,0.06845299899578094,2]",
+  "convertedAt": "2026-09-05T13:34:57.156Z"
+}

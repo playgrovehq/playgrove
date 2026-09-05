@@ -1,6 +1,6 @@
 {
   "name": "playgrove",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The command-line interface for the open-source PlayGrove game creation platform.",
   "type": "module",
   "bin": {

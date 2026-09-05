@@ -1,0 +1,30 @@
+{
+  "id": "trapdoor",
+  "label": "Trapdoor",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1l6Y3kZRcuCeZNZkvi0tKIAYq_0fHLhK7",
+  "file": "OBJ/Trapdoor.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1c1960724d3bfb79bec4d086b16fc0d677e554972a31e2e679efad64562fac38",
+  "originalInputSha256": "1c1960724d3bfb79bec4d086b16fc0d677e554972a31e2e679efad64562fac38",
+  "dependencies": [
+    {
+      "path": "OBJ/Trapdoor.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1di-8WaX7VN9kxEEuScLGPvlQUx3m-Dry",
+      "sha256": "eb0c4ba31bbbd3881d3a8d4ef157e76439d9ab7653fef232ddab8c1fef60032a",
+      "bytes": 771
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "trapdoor.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.7412710189819336,0.21514999540522695,1.573337972164154]",
+  "convertedAt": "2026-09-05T13:32:45.835Z"
+}

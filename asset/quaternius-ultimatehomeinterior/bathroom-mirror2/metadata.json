@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "bathroom-mirror2",
+  "label": "Bathroom Mirror2",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "bathroom",
+    "mirror2",
+    "quaternius",
+    "ultimatehomeinterior",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2f2f2f",
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "black",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bathroom-mirror2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 108,
+    "triangles": 92,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.268581,
+      -0.387197,
+      -0.029548
+    ],
+    "max": [
+      0.268581,
+      0.387197,
+      0.008199
+    ],
+    "size": [
+      0.537162,
+      0.774394,
+      0.037747
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Bathroom_Mirror2_Cylinder.025"
+  ],
+  "materialNames": [
+    "Black",
+    "Mirror"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+    "download": "https://drive.google.com/uc?export=download&id=1R8V5a7m7Z-uekTno0_bTAqHhP7YQYMZZ",
+    "file": "OBJ/Bathroom_Mirror2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "laser-2",
+  "label": "Laser 2",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "laser",
+    "quaternius",
+    "turretpack",
+    "base",
+    "cylinder",
+    "gun",
+    "mid",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#54312a",
+    "#784a44"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "laser-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3662,
+    "triangles": 2092,
+    "parts": 6,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.688379,
+      -0.043604,
+      -0.68838
+    ],
+    "max": [
+      0.688381,
+      2.360069,
+      2.138833
+    ],
+    "size": [
+      1.37676,
+      2.403673,
+      2.827213
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Laser_2_Base_Cylinder.002",
+    "Laser_2_Gun_Cylinder.247",
+    "Laser_2_Mid_Cylinder.246"
+  ],
+  "materialNames": [
+    "Dark",
+    "Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/turretpack.html",
+    "download": "https://drive.google.com/uc?export=download&id=12n11qz80lzsL7jInatJ8blCEVICF871v",
+    "file": "OBJ/Laser_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

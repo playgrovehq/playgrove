@@ -1,0 +1,30 @@
+{
+  "id": "pumpkin-2",
+  "label": "Pumpkin 2",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hcCrkK0VnPifT49BQVpOsNYd2Wc1ci0F",
+  "file": "OBJ/Pumpkin_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ec0ce1ea7e1dfa8f6eb976f9a17a7ccf895490d5777676df996852b4d7b4fb06",
+  "originalInputSha256": "ec0ce1ea7e1dfa8f6eb976f9a17a7ccf895490d5777676df996852b4d7b4fb06",
+  "dependencies": [
+    {
+      "path": "OBJ/Pumpkin_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1rlbw2MkJARGCoD2BQr6Bwhk7bnAuOPdM",
+      "sha256": "81663a5404ebaf8b3b4698d05612e1254a5851b8f46bc9a02e4f046f5e5439a8",
+      "bytes": 418
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pumpkin-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.46840600669384,0.25438599567860365,0.44018201529979706]",
+  "convertedAt": "2026-09-05T13:45:27.037Z"
+}

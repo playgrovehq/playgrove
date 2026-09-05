@@ -1,0 +1,107 @@
+{
+  "version": 2,
+  "id": "4-story-wide-2-doors-mat",
+  "label": "4Story Wide 2Doors Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "story",
+    "wide",
+    "doors",
+    "mat",
+    "4story",
+    "2doors",
+    "quaternius",
+    "ultimatetexturedbuildings",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#919191",
+    "#687d8c",
+    "#66887e",
+    "#56736a",
+    "#425554",
+    "#b6b6b6",
+    "#414141",
+    "#4f3b30"
+  ],
+  "colorNames": [
+    "gray",
+    "green",
+    "brown",
+    "beige",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "4-story-wide-2-doors-mat.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 21593,
+    "triangles": 13560,
+    "parts": 8,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -3.413913,
+      -0.02458,
+      -1.077302
+    ],
+    "max": [
+      3.413913,
+      5.126799,
+      1.619021
+    ],
+    "size": [
+      6.827826,
+      5.151379,
+      2.696323
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "4Story_Wide_2Doors_Mat_Cube.013"
+  ],
+  "materialNames": [
+    "Windows",
+    "Glass",
+    "Bricks",
+    "Main",
+    "Dark",
+    "White",
+    "Black",
+    "DarkBrown"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1WzgxFk1merHSnT60PC0DFypYYPMv7kU4",
+    "file": "Models with Materials/OBJ/4Story_Wide_2Doors_Mat.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

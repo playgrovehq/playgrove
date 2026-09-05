@@ -1,0 +1,30 @@
+{
+  "id": "wall-hole",
+  "label": "Wall Hole",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1HaCNILTKmo6EX224zzvokbfAbzqH05pR",
+  "file": "OBJ/Wall_Hole.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "974ea52ce8ab21ab80720a43e87ac01d6f262fddd43adc6bbaaab0fd3b852140",
+  "originalInputSha256": "974ea52ce8ab21ab80720a43e87ac01d6f262fddd43adc6bbaaab0fd3b852140",
+  "dependencies": [
+    {
+      "path": "OBJ/Wall_Hole.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1KGOFN7_hwWh7us41crt5jYZth5Xw4-1r",
+      "sha256": "431ebcbb7392a099af3a642a4fab7130917d2f590dee37c9362e702626fcbd95",
+      "bytes": 418
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "wall-hole.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.998423993587494,2.000839941203594,0.28559499606490135]",
+  "convertedAt": "2026-09-05T13:32:46.095Z"
+}

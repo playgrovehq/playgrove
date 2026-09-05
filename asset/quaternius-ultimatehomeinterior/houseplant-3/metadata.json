@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "houseplant-3",
+  "label": "Houseplant 3",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "houseplant",
+    "quaternius",
+    "ultimatehomeinterior",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2f2f2f",
+    "#554b3c",
+    "#4b623e",
+    "#b18c52"
+  ],
+  "colorNames": [
+    "black",
+    "brown",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "houseplant-3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 656,
+    "triangles": 412,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.169128,
+      0.001419,
+      -0.169128
+    ],
+    "max": [
+      0.173446,
+      0.846336,
+      0.169128
+    ],
+    "size": [
+      0.342574,
+      0.844917,
+      0.338256
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Houseplant_3_Cylinder.020"
+  ],
+  "materialNames": [
+    "Black",
+    "Brown",
+    "DarkGreen",
+    "LightOrange"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+    "download": "https://drive.google.com/uc?export=download&id=19qTtzhm2e3uKjDn-xGHRlNdMyTc9RnyM",
+    "file": "OBJ/Houseplant_3.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "statue-stag",
+  "label": "Statue Stag",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1zHdvabPnwEyt3oxWXLp4NQx33mPp0DDw",
+  "file": "OBJ/Statue_Stag.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a47c29adf9e46158cfed977a086bef3d8e4f2fc82e62093407e2250d98f0bf50",
+  "originalInputSha256": "a47c29adf9e46158cfed977a086bef3d8e4f2fc82e62093407e2250d98f0bf50",
+  "dependencies": [
+    {
+      "path": "OBJ/Statue_Stag.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1SXApOQGrv2u06y7W6H4mxozn1q67J2g_",
+      "sha256": "b2eb681d511e32f1bbef8059d2a29d666ffe365538b7b1d3ccaa90b010ee12fa",
+      "bytes": 238
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "statue-stag.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.3065990805625916,4.633613109588623,1.2718459963798523]",
+  "convertedAt": "2026-09-05T13:32:45.721Z"
+}

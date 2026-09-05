@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "id": "column-bridge-support",
+  "label": "Column BridgeSupport",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "column",
+    "bridge",
+    "support",
+    "quaternius",
+    "ultimatemodularruins",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#646559",
+    "#848676"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "column-bridge-support.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1527,
+    "triangles": 1238,
+    "parts": 2,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -0.339959,
+      0.006122,
+      -0.308747
+    ],
+    "max": [
+      0.439631,
+      4.026278,
+      0.308748
+    ],
+    "size": [
+      0.77959,
+      4.020156,
+      0.617495
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Column_BridgeSupport_Cylinder.033"
+  ],
+  "materialNames": [
+    "Main",
+    "Highlights"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1LBkIAVRl-e4oCmS3V6kd2oYjIbYKQ81l",
+    "file": "OBJ/Column_BridgeSupport.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

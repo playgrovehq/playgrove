@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "id": "watermelon-crop",
+  "label": "Watermelon Crop",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "watermelon",
+    "crop",
+    "quaternius",
+    "ultimatecrops",
+    "sphere",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#77a15a",
+    "#4b623e"
+  ],
+  "colorNames": [
+    "green",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "watermelon-crop.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 460,
+    "triangles": 220,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.222168,
+      -0.175488,
+      -0.184519
+    ],
+    "max": [
+      0.222168,
+      0.175488,
+      0.184519
+    ],
+    "size": [
+      0.444336,
+      0.350976,
+      0.369038
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Watermelon_Crop_Sphere.001"
+  ],
+  "materialNames": [
+    "Green",
+    "DarkGreen2"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1wkBFIcXmZ2WzTMSCkIv4na0E1lubbgN3",
+    "file": "OBJ/Watermelon_Crop.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

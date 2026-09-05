@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "upwards-2",
+  "label": "Upwards 2",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "upwards",
+    "quaternius",
+    "turretpack",
+    "base",
+    "cylinder",
+    "gun",
+    "mid",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#784a44",
+    "#54312a"
+  ],
+  "colorNames": [
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "upwards-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2228,
+    "triangles": 1324,
+    "parts": 6,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.688379,
+      -0.043604,
+      -0.68838
+    ],
+    "max": [
+      0.688382,
+      2.747838,
+      0.688381
+    ],
+    "size": [
+      1.376761,
+      2.791442,
+      1.376761
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Upwards_2_Base_Cylinder.162",
+    "Upwards_2_Gun_Cylinder.226",
+    "Upwards_2_Mid_Cylinder.225"
+  ],
+  "materialNames": [
+    "Light",
+    "Dark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/turretpack.html",
+    "download": "https://drive.google.com/uc?export=download&id=16vcuL_R_fVS8YC1Et50VFE3qkyfIp6PX",
+    "file": "OBJ/Upwards_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

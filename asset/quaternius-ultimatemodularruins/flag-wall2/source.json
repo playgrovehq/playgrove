@@ -1,0 +1,30 @@
+{
+  "id": "flag-wall2",
+  "label": "Flag Wall2",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1bVHxroHXIH7izv1BfOEG3HGRPhA-04Gi",
+  "file": "OBJ/Flag_Wall2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "03459b57f6bd4c5fef13ad5723e87360e118315fa2ee0090f753d201ffd3af2b",
+  "originalInputSha256": "03459b57f6bd4c5fef13ad5723e87360e118315fa2ee0090f753d201ffd3af2b",
+  "dependencies": [
+    {
+      "path": "OBJ/Flag_Wall2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=19Ik4-Ih-plxRDqE3xwvB89PeyUUaqXsw",
+      "sha256": "cff5c23d8fe0ce266e42ed9895285139debd6219cb5088b83a8775f13e55c0f8",
+      "bytes": 591
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "flag-wall2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.1266859769821167,2.354317933320999,0.3223640024662018]",
+  "convertedAt": "2026-09-05T13:32:45.327Z"
+}

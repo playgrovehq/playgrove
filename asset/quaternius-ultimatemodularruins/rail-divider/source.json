@@ -1,0 +1,30 @@
+{
+  "id": "rail-divider",
+  "label": "Rail Divider",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1xPOCHL2ojDuPY8f_cJsqQYa-0KCD8Fle",
+  "file": "OBJ/Rail_Divider.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d323fb21fa5c5f3c0551ba94c6b14e6675593b2a0eab99346619ecaf11043922",
+  "originalInputSha256": "d323fb21fa5c5f3c0551ba94c6b14e6675593b2a0eab99346619ecaf11043922",
+  "dependencies": [
+    {
+      "path": "OBJ/Rail_Divider.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16-6XBKwjXdbemmBuNToMLShybNNf-FQg",
+      "sha256": "893d997542882557627681b65987dd5d33b83fb76888d401715c588c3fde2631",
+      "bytes": 238
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "rail-divider.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.3625829964876175,0.4882780071347952,0.3625839948654175]",
+  "convertedAt": "2026-09-05T13:32:45.612Z"
+}

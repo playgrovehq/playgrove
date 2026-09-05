@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "door-round",
+  "label": "Door Round",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "door",
+    "round",
+    "quaternius",
+    "medievalvillage",
+    "cylinder",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#624226",
+    "#636b76",
+    "#7f5632",
+    "#757f84"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "door-round.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1856,
+    "triangles": 990,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.250689,
+      -0.002365,
+      -0.139942
+    ],
+    "max": [
+      0.250689,
+      0.720199,
+      0.156448
+    ],
+    "size": [
+      0.501378,
+      0.722564,
+      0.29639
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Door_Round_Cylinder.010"
+  ],
+  "materialNames": [
+    "Wood",
+    "Stone_Dark",
+    "Wood_Light",
+    "Stone_Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Rza-Bffr_rKbOxSMX6gqmshV96WIQHol",
+    "file": "Props/OBJ/Door_Round.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

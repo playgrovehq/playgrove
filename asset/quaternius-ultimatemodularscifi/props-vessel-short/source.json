@@ -1,0 +1,30 @@
+{
+  "id": "props-vessel-short",
+  "label": "Props Vessel Short",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1KqBAtErzZBoodett64rldm5BDdXxVBd0",
+  "file": "OBJ/Props_Vessel_Short.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d781e17a75860dcb684afd79f1c95af3231a4fb0dd7dd348c8009fa6a8d1fd4a",
+  "originalInputSha256": "d781e17a75860dcb684afd79f1c95af3231a4fb0dd7dd348c8009fa6a8d1fd4a",
+  "dependencies": [
+    {
+      "path": "OBJ/Props_Vessel_Short.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1DYd_JV5XRgLVSfZM1O6H1k-ZFs97EbDd",
+      "sha256": "0a2952b5600a5639e3a2925ec975a993c6fa47d7c604644c4ab6c023aa884de5",
+      "bytes": 604
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "props-vessel-short.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.28731000423431396,0.5380269722081721,0.28731000423431396]",
+  "convertedAt": "2026-09-05T13:34:57.517Z"
+}

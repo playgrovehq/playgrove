@@ -1,0 +1,30 @@
+{
+  "id": "character-animated",
+  "label": "Character Animated",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=17v0Pt0GPFqtUtl9T9VWmkvKdy-vV-AOR",
+  "file": "OBJ/Character_Animated.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b70bd139581afb3b6aec27bc69863b9845aabed420f197f7132539d747671080",
+  "originalInputSha256": "b70bd139581afb3b6aec27bc69863b9845aabed420f197f7132539d747671080",
+  "dependencies": [
+    {
+      "path": "OBJ/Character_Animated.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1P-IqRp2rtuykTZlQDVLQysqFh_upenBo",
+      "sha256": "afe9e76b255dfaa8dd8d1fefe47db50323ef191ecd99251accd37df740f13055",
+      "bytes": 2035
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "character-animated.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=11 materials=11 bounds=[0.8878340125083923,2.8233450977131724,0.9323499798774719]",
+  "convertedAt": "2026-09-05T13:32:44.916Z"
+}

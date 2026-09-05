@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "pot-small",
+  "label": "Pot Small",
+  "description": "Survival Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "pot",
+    "small",
+    "quaternius",
+    "survival",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2d2d2d",
+    "#5f5f5f"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pot-small.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 624,
+    "triangles": 326,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.596938,
+      -0.003548,
+      -0.703535
+    ],
+    "max": [
+      0.596938,
+      0.41432,
+      0.703535
+    ],
+    "size": [
+      1.193876,
+      0.417868,
+      1.40707
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pot_Small_Cylinder.028"
+  ],
+  "materialNames": [
+    "Black",
+    "Grey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/survival.html",
+    "download": "https://drive.google.com/uc?export=download&id=1hXf1xasyCesezYle9Hdnw_4ZHdoWOOmU",
+    "file": "OBJ/Pot_Small.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

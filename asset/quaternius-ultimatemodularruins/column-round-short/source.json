@@ -1,0 +1,30 @@
+{
+  "id": "column-round-short",
+  "label": "Column Round Short",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1PTaZ_ospObIpEN_hBId_uMM99sQlKP2p",
+  "file": "OBJ/Column_Round_Short.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d012a6329480e472cac834a0b7e30805fffe1bfa63f0a9db0ae7f27094d4d094",
+  "originalInputSha256": "d012a6329480e472cac834a0b7e30805fffe1bfa63f0a9db0ae7f27094d4d094",
+  "dependencies": [
+    {
+      "path": "OBJ/Column_Round_Short.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1vkT_n42s8zowG-rNEm_fpJ_JCFFa20C9",
+      "sha256": "cf2646c5ba4cec1db59b70c268b437f655916000e87f45d0fca5b67613326ecc",
+      "bytes": 244
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "column-round-short.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.48938998579978943,1.8296840190887451,0.48938998579978943]",
+  "convertedAt": "2026-09-05T13:32:45.020Z"
+}

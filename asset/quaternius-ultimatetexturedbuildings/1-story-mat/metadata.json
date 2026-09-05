@@ -1,0 +1,103 @@
+{
+  "version": 2,
+  "id": "1-story-mat",
+  "label": "1Story Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "story",
+    "mat",
+    "1story",
+    "quaternius",
+    "ultimatetexturedbuildings",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5c3f2a",
+    "#66887e",
+    "#56736a",
+    "#8e9573",
+    "#425554",
+    "#b6b6b6",
+    "#794a36",
+    "#687d8c"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "green",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "1-story-mat.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4802,
+    "triangles": 2820,
+    "parts": 8,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -1.07708,
+      -0.015193,
+      -1.07708
+    ],
+    "max": [
+      1.07708,
+      1.657053,
+      1.097556
+    ],
+    "size": [
+      2.15416,
+      1.672246,
+      2.174636
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "1Story_Mat_Cube.040"
+  ],
+  "materialNames": [
+    "DarkWood",
+    "Bricks",
+    "Main",
+    "Light",
+    "Dark",
+    "White",
+    "Wood",
+    "Glass"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1wepORez6LONQupDk3sioVwQ4FN4WwYmI",
+    "file": "Models with Materials/OBJ/1Story_Mat.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

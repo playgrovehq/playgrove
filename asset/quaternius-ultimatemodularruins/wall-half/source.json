@@ -1,0 +1,30 @@
+{
+  "id": "wall-half",
+  "label": "Wall Half",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1urMFNmBcA3dlyFWwstbvIeKWwcE9Ddj9",
+  "file": "OBJ/Wall_Half.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "77352e4817e230632938efcb0eb1beba94b3d599689cb323c43a7c33c560ea8c",
+  "originalInputSha256": "77352e4817e230632938efcb0eb1beba94b3d599689cb323c43a7c33c560ea8c",
+  "dependencies": [
+    {
+      "path": "OBJ/Wall_Half.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1sfqeaN99MBlGNGWSv8xuvPPrLO-KH91y",
+      "sha256": "78c0f880bddbfc64f81cbab9e8b41a3a33a3b366b5c985a2cfa17cbc6a53bdef",
+      "bytes": 418
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "wall-half.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.9961220026016235,2.000839005690068,0.28559599816799164]",
+  "convertedAt": "2026-09-05T13:32:46.078Z"
+}

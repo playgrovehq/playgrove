@@ -1,0 +1,30 @@
+{
+  "id": "pine-3",
+  "label": "Pine 3",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "pack": "quaternius-stylizedtree",
+  "listing": "https://quaternius.com/packs/stylizedtree.html",
+  "download": "https://drive.google.com/uc?export=download&id=1z6Wu1vSF-t-usp8KFeCvdcU-kj0u3Mfw",
+  "file": "OBJ/Pine_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4fcd6c2c356cdc32d133ac2b01f2fbbd87b020970c5c2d60ff3fd795b0c3de28",
+  "originalInputSha256": "4fcd6c2c356cdc32d133ac2b01f2fbbd87b020970c5c2d60ff3fd795b0c3de28",
+  "dependencies": [
+    {
+      "path": "OBJ/Pine_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1bPHsoAdNGaAavq1AgpEdcZ51_GWuUhc6",
+      "sha256": "02f7331bf10e59eba1be563f6fd03815ccd7f9ec8fe774eac2a6aada347060d6",
+      "bytes": 416
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pine-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[6.882893800735474,8.097084365785122,7.293715000152588]",
+  "convertedAt": "2026-09-05T13:41:59.202Z"
+}

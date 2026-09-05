@@ -1,0 +1,30 @@
+{
+  "id": "radio",
+  "label": "Radio",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1tHo75tNUG5doOWG1ZQEf16iID2bEP96Y",
+  "file": "OBJ/Radio.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3e63b5b4025d9018d94490f5eaf006ff6b029e616282f51afab5d7f1f5c85e08",
+  "originalInputSha256": "3e63b5b4025d9018d94490f5eaf006ff6b029e616282f51afab5d7f1f5c85e08",
+  "dependencies": [
+    {
+      "path": "OBJ/Radio.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1n_hVjeEaui2JWu0MgdkZqRTTfaue8Gi7",
+      "sha256": "109cd5d01cb9476246afa46813a9cdf42d2ec5147f2dba94ea24a3a821122c0b",
+      "bytes": 771
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "radio.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.6856379508972168,2.102246977388859,0.5701190158724785]",
+  "convertedAt": "2026-09-05T13:37:26.654Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "rail-straight",
+  "label": "Rail Straight",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1M1ANvr09lzDklSrNfsXkaDg1QAaLVvA9",
+  "file": "OBJ/Rail_Straight.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7850df9fa70b08a3463c600c86e198581da48530336ddf086474b1de55aa191a",
+  "originalInputSha256": "7850df9fa70b08a3463c600c86e198581da48530336ddf086474b1de55aa191a",
+  "dependencies": [
+    {
+      "path": "OBJ/Rail_Straight.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1qWPdluiFw-c6f-yp6MepYIzNesh3memo",
+      "sha256": "6fcb1fffb397f9a831c78bcf7e31c8c80fdd148cb3b315853ab0755306fa8e7a",
+      "bytes": 239
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "rail-straight.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.3625829964876175,0.4882780071347952,2]",
+  "convertedAt": "2026-09-05T13:32:45.627Z"
+}

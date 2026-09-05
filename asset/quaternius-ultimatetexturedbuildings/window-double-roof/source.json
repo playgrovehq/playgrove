@@ -1,0 +1,30 @@
+{
+  "id": "window-double-roof",
+  "label": "Window Double Roof",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=146pj-0S3l_j2LmmEd84TH5CWQ1aKdq6K",
+  "file": "Textured Models/Base Modular Parts/OBJ/Window_Double_Roof.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6da5ca8319b9a040bb748af0449b06d4e5b4e52c55d996a5f9b082b4a43b7f46",
+  "originalInputSha256": "6da5ca8319b9a040bb748af0449b06d4e5b4e52c55d996a5f9b082b4a43b7f46",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Window_Double_Roof.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1J7iqQditZXmCbPXPXai2UDfbAjdNTwb9",
+      "sha256": "bf68c03c6c85ce14f743366fcd84a620f345d1b55e5065e1ee3df512754f27b2",
+      "bytes": 247
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "window-double-roof.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.36024999618530273,0.5912619829177856,0.17552100121974945]",
+  "convertedAt": "2026-09-05T13:48:29.005Z"
+}

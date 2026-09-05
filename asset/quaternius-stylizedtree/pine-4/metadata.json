@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "pine-4",
+  "label": "Pine 4",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "pine",
+    "quaternius",
+    "stylizedtree",
+    "cylinder",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pine-4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 400,
+    "triangles": 460,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -2.138691,
+      -0.00068,
+      -2.104061
+    ],
+    "max": [
+      2.170636,
+      5.66992,
+      2.076905
+    ],
+    "size": [
+      4.309327,
+      5.6706,
+      4.180966
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pine_4_Cylinder.031"
+  ],
+  "materialNames": [
+    "Bark",
+    "Pine_Leaves"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/stylizedtree.html",
+    "download": "https://drive.google.com/uc?export=download&id=1dMbd2nGz67OL1ReRclphv2zAuVnfB183",
+    "file": "OBJ/Pine_4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

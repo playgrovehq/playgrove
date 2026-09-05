@@ -1,0 +1,30 @@
+{
+  "id": "can-broken",
+  "label": "Can Broken",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1LsB8-zp5vZa2CbTxAz8UT7QBxBT-GuQC",
+  "file": "OBJ/Can_Broken.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5aa101df6fe674a8340bd6c93218822a0397981c6e7f0d0aa3b8f33ed46c773b",
+  "originalInputSha256": "5aa101df6fe674a8340bd6c93218822a0397981c6e7f0d0aa3b8f33ed46c773b",
+  "dependencies": [
+    {
+      "path": "OBJ/Can_Broken.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1-NhYo360JDFNGqd4stlor-goyyWygu5m",
+      "sha256": "e187328c8527ab7d4a101f7fb8e1601db77db4a211c903aa573f59ccf4e20fd1",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "can-broken.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.4733459949493408,0.6374959945678711,0.4733459949493408]",
+  "convertedAt": "2026-09-05T13:37:26.272Z"
+}

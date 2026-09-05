@@ -1,0 +1,3253 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T13:36:05.210Z",
+  "assets": [
+    {
+      "id": "bag",
+      "label": "Bag",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "bag/thumbnail.png",
+      "model": "bag/bag.ts",
+      "package": "bag",
+      "descriptor": "bag/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1gOkHGgWaa0LhRosfqbk1Qbct71IH-xXH",
+        "file": "Props/OBJ/Bag.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bag",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#84765a"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 194,
+        "triangles": 304,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.07673,
+          -0.000523,
+          -0.055725
+        ],
+        "max": [
+          0.07673,
+          0.057848,
+          0.053902
+        ],
+        "size": [
+          0.15346,
+          0.058371,
+          0.109627
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bag-open",
+      "label": "Bag Open",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "bag-open/thumbnail.png",
+      "model": "bag-open/bag-open.ts",
+      "package": "bag-open",
+      "descriptor": "bag-open/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1NxpqJnyuXMKKTkv7lYzoOQVfeW1qmIuh",
+        "file": "Props/OBJ/Bag_Open.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bag",
+        "open",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#84765a",
+        "#7f5632"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 277,
+        "triangles": 280,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.069701,
+          -0.000893,
+          -0.101636
+        ],
+        "max": [
+          0.080469,
+          0.10349,
+          0.101837
+        ],
+        "size": [
+          0.15017,
+          0.104383,
+          0.203473
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bags",
+      "label": "Bags",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "bags/thumbnail.png",
+      "model": "bags/bags.ts",
+      "package": "bags",
+      "descriptor": "bags/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1RJeH4C0O9UlvfB76mRDaxeBBlY0oRmyp",
+        "file": "Props/OBJ/Bags.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bags",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#84765a"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 582,
+        "triangles": 912,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.139917,
+          -0.000523,
+          -0.121266
+        ],
+        "max": [
+          0.129819,
+          0.106564,
+          0.117956
+        ],
+        "size": [
+          0.269736,
+          0.107087,
+          0.239222
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel",
+      "label": "Barrel",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "barrel/thumbnail.png",
+      "model": "barrel/barrel.ts",
+      "package": "barrel",
+      "descriptor": "barrel/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1JhOER31nujFKpsM4x6o95iYi-vlRnEuO",
+        "file": "Props/OBJ/Barrel.obj"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "quaternius",
+        "medievalvillage",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226",
+        "#4f5157",
+        "#4b321d"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1696,
+        "triangles": 1312,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.079102,
+          0.000871,
+          -0.078686
+        ],
+        "max": [
+          0.079102,
+          0.205201,
+          0.078142
+        ],
+        "size": [
+          0.158204,
+          0.20433,
+          0.156828
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bell",
+      "label": "Bell",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "bell/thumbnail.png",
+      "model": "bell/bell.ts",
+      "package": "bell",
+      "descriptor": "bell/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CvnU1cpMoAFVshI37NvptqlxReM7G0IT",
+        "file": "Props/OBJ/Bell.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bell",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#af8136"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 575,
+        "triangles": 779,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.316573,
+          -0.000719,
+          -0.316573
+        ],
+        "max": [
+          0.316573,
+          0.731794,
+          0.316573
+        ],
+        "size": [
+          0.633146,
+          0.732513,
+          0.633146
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bell-tower",
+      "label": "Bell Tower",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "bell-tower/thumbnail.png",
+      "model": "bell-tower/bell-tower.ts",
+      "package": "bell-tower",
+      "descriptor": "bell-tower/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1wtxxxug9qaMk1TspWhEO0Akskv5Td30z",
+        "file": "Buildings/OBJ/Bell_Tower.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "bell",
+        "tower",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#757f84",
+        "#636b76",
+        "#624226",
+        "#9e9a77",
+        "#978359",
+        "#2f2f2f",
+        "#7f5632",
+        "#af8136",
+        "#215860",
+        "#4f5157"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 20139,
+        "triangles": 11799,
+        "parts": 10,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.968468,
+          -0.000104,
+          -1.125192
+        ],
+        "max": [
+          0.968468,
+          4.760505,
+          1.103327
+        ],
+        "size": [
+          1.936936,
+          4.760609,
+          2.228519
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bench-1",
+      "label": "Bench 1",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "bench-1/thumbnail.png",
+      "model": "bench-1/bench-1.ts",
+      "package": "bench-1",
+      "descriptor": "bench-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1L50vmvVhtQEMlqu2e95h1ZjjGUsj2zjo",
+        "file": "Props/OBJ/Bench_1.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "bench",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 622,
+        "triangles": 376,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.332486,
+          -0.001346,
+          -0.081282
+        ],
+        "max": [
+          0.332486,
+          0.314485,
+          0.161136
+        ],
+        "size": [
+          0.664972,
+          0.315831,
+          0.242418
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bench-2",
+      "label": "Bench 2",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "bench-2/thumbnail.png",
+      "model": "bench-2/bench-2.ts",
+      "package": "bench-2",
+      "descriptor": "bench-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1rxuRGwxVZ6SMmrbQV-3Qfb781MSY6l2Z",
+        "file": "Props/OBJ/Bench_2.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "bench",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 448,
+        "triangles": 276,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.332486,
+          -0.001346,
+          -0.081282
+        ],
+        "max": [
+          0.332486,
+          0.184301,
+          0.140641
+        ],
+        "size": [
+          0.664972,
+          0.185647,
+          0.221923
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "blacksmith",
+      "label": "Blacksmith",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "blacksmith/thumbnail.png",
+      "model": "blacksmith/blacksmith.ts",
+      "package": "blacksmith",
+      "descriptor": "blacksmith/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=10lGo0u5vqUBiAHuQC3DxXw1zsB031nV2",
+        "file": "Buildings/OBJ/Blacksmith.obj"
+      },
+      "category": "props",
+      "tags": [
+        "blacksmith",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#9e9a77",
+        "#7f5632",
+        "#978359",
+        "#757f84",
+        "#636b76",
+        "#624226",
+        "#2f2f2f",
+        "#60281d"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 12766,
+        "triangles": 7659,
+        "parts": 8,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.566214,
+          -0.003947,
+          -1.657881
+        ],
+        "max": [
+          1.323811,
+          2.999467,
+          1.625616
+        ],
+        "size": [
+          3.890025,
+          3.003414,
+          3.283497
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bonfire",
+      "label": "Bonfire",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "bonfire/thumbnail.png",
+      "model": "bonfire/bonfire.ts",
+      "package": "bonfire",
+      "descriptor": "bonfire/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1M0fmJ32kquAlZTHwy1Rkrg3o9gnF2SFM",
+        "file": "Props/OBJ/Bonfire.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bonfire",
+        "quaternius",
+        "medievalvillage",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226",
+        "#9a8a61",
+        "#757f84",
+        "#636b76"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 922,
+        "triangles": 602,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.202374,
+          -0.033366,
+          -0.179515
+        ],
+        "max": [
+          0.204196,
+          0.078806,
+          0.182868
+        ],
+        "size": [
+          0.40657,
+          0.112172,
+          0.362383
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bonfire-lit",
+      "label": "Bonfire Lit",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "bonfire-lit/thumbnail.png",
+      "model": "bonfire-lit/bonfire-lit.ts",
+      "package": "bonfire-lit",
+      "descriptor": "bonfire-lit/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1vCLU87xn-F-kcwEY2rcDIXSYl1af0EH9",
+        "file": "Props/OBJ/Bonfire_Lit.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bonfire",
+        "lit",
+        "quaternius",
+        "medievalvillage",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226",
+        "#9a8a61",
+        "#757f84",
+        "#636b76",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1554,
+        "triangles": 1162,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.202374,
+          -0.013809,
+          -0.179515
+        ],
+        "max": [
+          0.204196,
+          0.339041,
+          0.182868
+        ],
+        "size": [
+          0.40657,
+          0.35285,
+          0.362383
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cart",
+      "label": "Cart",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "cart/thumbnail.png",
+      "model": "cart/cart.ts",
+      "package": "cart",
+      "descriptor": "cart/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1q2cIVFsTJ38rszh52wUNyyAVnemE5VHB",
+        "file": "Props/OBJ/Cart.obj"
+      },
+      "category": "props",
+      "tags": [
+        "cart",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226",
+        "#60281d",
+        "#9e9a77",
+        "#4b321d",
+        "#636b76"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3542,
+        "triangles": 2660,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.230999,
+          -0.000523,
+          -0.322428
+        ],
+        "max": [
+          0.230999,
+          0.795533,
+          0.604961
+        ],
+        "size": [
+          0.461998,
+          0.796056,
+          0.927389
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cauldron",
+      "label": "Cauldron",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "cauldron/thumbnail.png",
+      "model": "cauldron/cauldron.ts",
+      "package": "cauldron",
+      "descriptor": "cauldron/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ptJF508TXM0-8vDsfoLhIIPPd0cj-ubJ",
+        "file": "Props/OBJ/Cauldron.obj"
+      },
+      "category": "props",
+      "tags": [
+        "cauldron",
+        "quaternius",
+        "medievalvillage",
+        "torus",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4f5157",
+        "#9e946b",
+        "#3f4146",
+        "#895e24"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1435,
+        "triangles": 1238,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.180331,
+          -0.002819,
+          -0.149418
+        ],
+        "max": [
+          0.180331,
+          0.248973,
+          0.149418
+        ],
+        "size": [
+          0.360662,
+          0.251792,
+          0.298836
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "crate",
+      "label": "Crate",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "crate/thumbnail.png",
+      "model": "crate/crate.ts",
+      "package": "crate",
+      "descriptor": "crate/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1VryYX5AEnIn-Q4QJnWWHHK-3GszUVRGE",
+        "file": "Props/OBJ/Crate.obj"
+      },
+      "category": "props",
+      "tags": [
+        "crate",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4b321d",
+        "#624226"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1180,
+        "triangles": 784,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.080115,
+          -0.001976,
+          -0.080134
+        ],
+        "max": [
+          0.080116,
+          0.158255,
+          0.08011
+        ],
+        "size": [
+          0.160231,
+          0.160231,
+          0.160244
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "door-round",
+      "label": "Door Round",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "door-round/thumbnail.png",
+      "model": "door-round/door-round.ts",
+      "package": "door-round",
+      "descriptor": "door-round/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Rza-Bffr_rKbOxSMX6gqmshV96WIQHol",
+        "file": "Props/OBJ/Door_Round.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "door",
+        "round",
+        "quaternius",
+        "medievalvillage",
+        "cylinder",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226",
+        "#636b76",
+        "#7f5632",
+        "#757f84"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1856,
+        "triangles": 990,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.250689,
+          -0.002365,
+          -0.139942
+        ],
+        "max": [
+          0.250689,
+          0.720199,
+          0.156448
+        ],
+        "size": [
+          0.501378,
+          0.722564,
+          0.29639
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "door-straight",
+      "label": "Door Straight",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "door-straight/thumbnail.png",
+      "model": "door-straight/door-straight.ts",
+      "package": "door-straight",
+      "descriptor": "door-straight/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1dQGdrAv5NFsSIaZ1JvX9jrS3I-PMSQzC",
+        "file": "Props/OBJ/Door_Straight.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "door",
+        "straight",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#757f84",
+        "#636b76",
+        "#7f5532",
+        "#624226",
+        "#38323b"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1800,
+        "triangles": 958,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.250689,
+          -0.043475,
+          -0.002705
+        ],
+        "max": [
+          0.250689,
+          0.664432,
+          0.293685
+        ],
+        "size": [
+          0.501378,
+          0.707907,
+          0.29639
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "fence",
+      "label": "Fence",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "fence/thumbnail.png",
+      "model": "fence/fence.ts",
+      "package": "fence",
+      "descriptor": "fence/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=12LzJ6uzQfjAaVOT9E6V7Z4SAfvwEkiKX",
+        "file": "Props/OBJ/Fence.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "fence",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 328,
+        "triangles": 208,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.400949,
+          -0.002826,
+          -0.012816
+        ],
+        "max": [
+          0.39006,
+          0.323195,
+          0.013071
+        ],
+        "size": [
+          0.791009,
+          0.326021,
+          0.025887
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gazebo",
+      "label": "Gazebo",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "gazebo/thumbnail.png",
+      "model": "gazebo/gazebo.ts",
+      "package": "gazebo",
+      "descriptor": "gazebo/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1bvw-CRWLYoir8t7VFIPcPqH57GSpb3jU",
+        "file": "Props/OBJ/Gazebo.obj"
+      },
+      "category": "props",
+      "tags": [
+        "gazebo",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226",
+        "#60281d"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1320,
+        "triangles": 698,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.523596,
+          0,
+          -0.621308
+        ],
+        "max": [
+          0.513386,
+          1.347136,
+          0.638092
+        ],
+        "size": [
+          1.036982,
+          1.347136,
+          1.2594
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "hay",
+      "label": "Hay",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "hay/thumbnail.png",
+      "model": "hay/hay.ts",
+      "package": "hay",
+      "descriptor": "hay/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1As4vIrMEPVYJ0LLqpDTou5Xdr8JTHry-",
+        "file": "Props/OBJ/Hay.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "hay",
+        "quaternius",
+        "medievalvillage",
+        "plane",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#af9857"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 952,
+        "triangles": 488,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.061758,
+          0.000357,
+          -0.063624
+        ],
+        "max": [
+          0.05923,
+          0.178859,
+          0.061244
+        ],
+        "size": [
+          0.120988,
+          0.178502,
+          0.124868
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "house-1",
+      "label": "House 1",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "house-1/thumbnail.png",
+      "model": "house-1/house-1.ts",
+      "package": "house-1",
+      "descriptor": "house-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1OB6G1HEHmNjprwJvho7HiHOE7_RDdZPH",
+        "file": "Buildings/OBJ/House_1.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "house",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#9e9a77",
+        "#624226",
+        "#978359",
+        "#2f2f2f",
+        "#7f5632",
+        "#636b76",
+        "#4f5157",
+        "#215860",
+        "#757f84"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 11072,
+        "triangles": 5758,
+        "parts": 9,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.071962,
+          -0.000104,
+          -1.342476
+        ],
+        "max": [
+          1.071962,
+          3.389899,
+          1.31635
+        ],
+        "size": [
+          2.143924,
+          3.390003,
+          2.658826
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "house-2",
+      "label": "House 2",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "house-2/thumbnail.png",
+      "model": "house-2/house-2.ts",
+      "package": "house-2",
+      "descriptor": "house-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1R3hfjUPwU-JUgbdLLnydf116T2jWCTfe",
+        "file": "Buildings/OBJ/House_2.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "house",
+        "quaternius",
+        "medievalvillage",
+        "cylinder",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#9e9a77",
+        "#624226",
+        "#636b76",
+        "#2f2f2f",
+        "#7f5632",
+        "#215860",
+        "#757f84",
+        "#978359",
+        "#4f5157"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 13720,
+        "triangles": 7162,
+        "parts": 9,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.118887,
+          -0.001701,
+          -2.071084
+        ],
+        "max": [
+          1.101274,
+          3.248652,
+          1.34894
+        ],
+        "size": [
+          2.220161,
+          3.250353,
+          3.420024
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "house-3",
+      "label": "House 3",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "house-3/thumbnail.png",
+      "model": "house-3/house-3.ts",
+      "package": "house-3",
+      "descriptor": "house-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1QsSvT_Tqb4WU-2ZghK3tsROXyI4eYtIt",
+        "file": "Buildings/OBJ/House_3.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "house",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#636b76",
+        "#4f5157",
+        "#624226",
+        "#978359",
+        "#7f5632",
+        "#757f84"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 9212,
+        "triangles": 4668,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.977145,
+          0.000248,
+          -1.057442
+        ],
+        "max": [
+          0.959791,
+          2.089236,
+          1.066125
+        ],
+        "size": [
+          1.936936,
+          2.088988,
+          2.123567
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "house-4",
+      "label": "House 4",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "house-4/thumbnail.png",
+      "model": "house-4/house-4.ts",
+      "package": "house-4",
+      "descriptor": "house-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1V8e2GKUzH6aO0uikjQUosf6kiFpUWvio",
+        "file": "Buildings/OBJ/House_4.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "house",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#757f84",
+        "#636b76",
+        "#624226",
+        "#978359",
+        "#4f5157"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 5624,
+        "triangles": 3024,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.968468,
+          -0.000104,
+          -1.057442
+        ],
+        "max": [
+          0.968468,
+          1.073198,
+          1.066125
+        ],
+        "size": [
+          1.936936,
+          1.073302,
+          2.123567
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "market-stand-1",
+      "label": "MarketStand 1",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "market-stand-1/thumbnail.png",
+      "model": "market-stand-1/market-stand-1.ts",
+      "package": "market-stand-1",
+      "descriptor": "market-stand-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1xpVDQ3CyAmwtn-htnOpoD3YyZCBRJql5",
+        "file": "Props/OBJ/MarketStand_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "market",
+        "stand",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226",
+        "#60281d",
+        "#9e9a77",
+        "#978359"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2520,
+        "triangles": 1548,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.475471,
+          -0.004749,
+          -0.596524
+        ],
+        "max": [
+          0.475471,
+          1.044424,
+          0.593308
+        ],
+        "size": [
+          0.950942,
+          1.049173,
+          1.189832
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "market-stand-2",
+      "label": "MarketStand 2",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "market-stand-2/thumbnail.png",
+      "model": "market-stand-2/market-stand-2.ts",
+      "package": "market-stand-2",
+      "descriptor": "market-stand-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=15rt2zv3quOCHXkFmU6NdJoduT6nmE6FI",
+        "file": "Props/OBJ/MarketStand_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "market",
+        "stand",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624226",
+        "#60281d",
+        "#9e9a77"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1880,
+        "triangles": 1132,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.301378,
+          -0.002877,
+          -0.577117
+        ],
+        "max": [
+          0.215794,
+          1.039272,
+          0.577117
+        ],
+        "size": [
+          0.517172,
+          1.042149,
+          1.154234
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "package-1",
+      "label": "Package 1",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "package-1/thumbnail.png",
+      "model": "package-1/package-1.ts",
+      "package": "package-1",
+      "descriptor": "package-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ZGIxbMZMg4GDRXx6BAJk8wwHnLcmkC-q",
+        "file": "Props/OBJ/Package_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "package",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#84765a",
+        "#4b3e21"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 378,
+        "triangles": 420,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.093283,
+          -0.005231,
+          -0.092265
+        ],
+        "max": [
+          0.185657,
+          0.123845,
+          0.092265
+        ],
+        "size": [
+          0.27894,
+          0.129076,
+          0.18453
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "package-2",
+      "label": "Package 2",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "package-2/thumbnail.png",
+      "model": "package-2/package-2.ts",
+      "package": "package-2",
+      "descriptor": "package-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1AxpPhIngYLnJBAVy3Jg0Jt97AzVwv5EA",
+        "file": "Props/OBJ/Package_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "package",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#84765a",
+        "#4b3e21"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 434,
+        "triangles": 464,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.094846,
+          -0.005319,
+          -0.093811
+        ],
+        "max": [
+          0.094846,
+          0.152686,
+          0.093811
+        ],
+        "size": [
+          0.189692,
+          0.158005,
+          0.187622
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "path-square",
+      "label": "Path Square",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "path-square/thumbnail.png",
+      "model": "path-square/path-square.ts",
+      "package": "path-square",
+      "descriptor": "path-square/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1izGIrB5a4G1DQcLv81qpStk-TAQgoN5t",
+        "file": "Props/OBJ/Path_Square.obj"
+      },
+      "category": "props",
+      "tags": [
+        "path",
+        "square",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#757f84",
+        "#636b76"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 480,
+        "triangles": 240,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.242776,
+          -0.00105,
+          -0.255947
+        ],
+        "max": [
+          0.242776,
+          0.048053,
+          0.221332
+        ],
+        "size": [
+          0.485552,
+          0.049103,
+          0.477279
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "path-straight",
+      "label": "Path Straight",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "path-straight/thumbnail.png",
+      "model": "path-straight/path-straight.ts",
+      "package": "path-straight",
+      "descriptor": "path-straight/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1SO0aYd4axYbU3R52F5d87DK1sUbUyEqq",
+        "file": "Props/OBJ/Path_Straight.obj"
+      },
+      "category": "props",
+      "tags": [
+        "path",
+        "straight",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#757f84",
+        "#636b76"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1006,
+        "triangles": 506,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.248047,
+          -0.001035,
+          -0.487453
+        ],
+        "max": [
+          0.248047,
+          0.043849,
+          0.49047
+        ],
+        "size": [
+          0.496094,
+          0.044884,
+          0.977923
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rock-1",
+      "label": "Rock 1",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "rock-1/thumbnail.png",
+      "model": "rock-1/rock-1.ts",
+      "package": "rock-1",
+      "descriptor": "rock-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1EqjAlAVvYQH-__j5k6w2eohEQN5NVr6R",
+        "file": "Props/OBJ/Rock_1.obj"
+      },
+      "category": "landscape",
+      "tags": [
+        "rock",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "landscape",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#636b76"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 56,
+        "triangles": 28,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.141514,
+          -0.003832,
+          -0.108495
+        ],
+        "max": [
+          0.113515,
+          0.168633,
+          0.101423
+        ],
+        "size": [
+          0.255029,
+          0.172465,
+          0.209918
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rock-2",
+      "label": "Rock 2",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "rock-2/thumbnail.png",
+      "model": "rock-2/rock-2.ts",
+      "package": "rock-2",
+      "descriptor": "rock-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1RPivTBrBTkR8ZgTj_x8v1fjNX66ExkV0",
+        "file": "Props/OBJ/Rock_2.obj"
+      },
+      "category": "landscape",
+      "tags": [
+        "rock",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "landscape",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#636b76"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 112,
+        "triangles": 56,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.125113,
+          -0.002645,
+          -0.04911
+        ],
+        "max": [
+          0.113579,
+          0.148073,
+          0.042799
+        ],
+        "size": [
+          0.238692,
+          0.150718,
+          0.091909
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rock-3",
+      "label": "Rock 3",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "rock-3/thumbnail.png",
+      "model": "rock-3/rock-3.ts",
+      "package": "rock-3",
+      "descriptor": "rock-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1C-vWZEUZrMzf56dHuGsEQyhbKnDEalH3",
+        "file": "Props/OBJ/Rock_3.obj"
+      },
+      "category": "landscape",
+      "tags": [
+        "rock",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "landscape",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#636b76"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 156,
+        "triangles": 84,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.171717,
+          0,
+          -0.117776
+        ],
+        "max": [
+          0.131942,
+          0.080106,
+          0.144087
+        ],
+        "size": [
+          0.303659,
+          0.080106,
+          0.261863
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sawmill",
+      "label": "Sawmill",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "sawmill/thumbnail.png",
+      "model": "sawmill/sawmill.ts",
+      "package": "sawmill",
+      "descriptor": "sawmill/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1-PQUcFcBMA0pD_pknkLFyrFS_pPYe_Yl",
+        "file": "Buildings/OBJ/Sawmill.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sawmill",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#60281d",
+        "#9e9a77",
+        "#978359",
+        "#4b321d",
+        "#4f5157",
+        "#2f2f2f",
+        "#624226",
+        "#7f5632",
+        "#636b76",
+        "#757f84"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 8193,
+        "triangles": 4335,
+        "parts": 10,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.323257,
+          -0.05183,
+          -1.649003
+        ],
+        "max": [
+          3.075833,
+          2.810642,
+          1.634494
+        ],
+        "size": [
+          4.39909,
+          2.862472,
+          3.283497
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sawmill-saw",
+      "label": "Sawmill saw",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "sawmill-saw/thumbnail.png",
+      "model": "sawmill-saw/sawmill-saw.ts",
+      "package": "sawmill-saw",
+      "descriptor": "sawmill-saw/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1xVzU4brFjfz_wbt1mizYwCni57LyDpFb",
+        "file": "Props/OBJ/Sawmill_saw.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sawmill",
+        "saw",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4b321d",
+        "#9a8a61",
+        "#624226",
+        "#978359",
+        "#4f5157"
+      ],
+      "colorNames": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 540,
+        "triangles": 300,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.171956,
+          -0.016314,
+          -0.836364
+        ],
+        "max": [
+          0.533342,
+          0.52514,
+          0.868207
+        ],
+        "size": [
+          0.705298,
+          0.541454,
+          1.704571
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "smoke",
+      "label": "Smoke",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "smoke/thumbnail.png",
+      "model": "smoke/smoke.ts",
+      "package": "smoke",
+      "descriptor": "smoke/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pzUNc6LpJrtkwlRXenhAytR0_GDprhBb",
+        "file": "Props/OBJ/Smoke.obj"
+      },
+      "category": "props",
+      "tags": [
+        "smoke",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 614,
+        "triangles": 1216,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.262404,
+          -0.010435,
+          -0.131203
+        ],
+        "max": [
+          0.179846,
+          1.057102,
+          0.141126
+        ],
+        "size": [
+          0.44225,
+          1.067537,
+          0.272329
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stable",
+      "label": "Stable",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "stable/thumbnail.png",
+      "model": "stable/stable.ts",
+      "package": "stable",
+      "descriptor": "stable/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1aZy60pJgAMSN8gcK0Wh7WB_Rq5hYzUx5",
+        "file": "Buildings/OBJ/Stable.obj"
+      },
+      "category": "props",
+      "tags": [
+        "stable",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#9e9a77",
+        "#624226",
+        "#978359",
+        "#636b76",
+        "#215860",
+        "#2f2f2f",
+        "#7f5632",
+        "#757f84"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 11940,
+        "triangles": 6246,
+        "parts": 8,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.657392,
+          -0.022922,
+          -1.279747
+        ],
+        "max": [
+          1.043267,
+          2.466969,
+          2.047663
+        ],
+        "size": [
+          4.700659,
+          2.489891,
+          3.32741
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stairs",
+      "label": "Stairs",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "stairs/thumbnail.png",
+      "model": "stairs/stairs.ts",
+      "package": "stairs",
+      "descriptor": "stairs/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1M_uQDjEBtBVjWfR2aaQw-LILW1bcC1Bm",
+        "file": "Props/OBJ/Stairs.obj"
+      },
+      "category": "props",
+      "tags": [
+        "stairs",
+        "quaternius",
+        "medievalvillage",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#636b76",
+        "#757f84"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 404,
+        "triangles": 212,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.250689,
+          -0.002365,
+          -0.138476
+        ],
+        "max": [
+          0.250689,
+          0.120591,
+          0.156448
+        ],
+        "size": [
+          0.501378,
+          0.122956,
+          0.294924
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "window-1",
+      "label": "Window 1",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "window-1/thumbnail.png",
+      "model": "window-1/window-1.ts",
+      "package": "window-1",
+      "descriptor": "window-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1dcKSBtqzqbFbrjdX3wRTLZqmtjKd2nhs",
+        "file": "Props/OBJ/Window_1.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "window",
+        "quaternius",
+        "medievalvillage",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4b321d",
+        "#2f2f2f",
+        "#624226"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 120,
+        "triangles": 104,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.189859,
+          -0.189859,
+          0
+        ],
+        "max": [
+          0.189859,
+          0.189859,
+          0.119305
+        ],
+        "size": [
+          0.379718,
+          0.379718,
+          0.119305
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "window-2",
+      "label": "Window 2",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "window-2/thumbnail.png",
+      "model": "window-2/window-2.ts",
+      "package": "window-2",
+      "descriptor": "window-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1o1lZY0Rfk2L_CBVtehy4V2u-_ZiiZeEl",
+        "file": "Props/OBJ/Window_2.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "window",
+        "quaternius",
+        "medievalvillage",
+        "cylinder",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2f2f2f",
+        "#7f5632",
+        "#624226",
+        "#4f5157"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 148,
+        "triangles": 82,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.223506,
+          -0.11674,
+          -0.006421
+        ],
+        "max": [
+          0.223506,
+          0.257492,
+          0.146745
+        ],
+        "size": [
+          0.447012,
+          0.374232,
+          0.153166
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "window-3",
+      "label": "Window 3",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "window-3/thumbnail.png",
+      "model": "window-3/window-3.ts",
+      "package": "window-3",
+      "descriptor": "window-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1gvDlmoW3ELB60jYuBJ8ab63SpE3Xy2ox",
+        "file": "Props/OBJ/Window_3.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "window",
+        "quaternius",
+        "medievalvillage",
+        "cylinder",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2f2f2f",
+        "#7f5632",
+        "#624226",
+        "#4f5157"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 148,
+        "triangles": 82,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.223506,
+          -0.11674,
+          -0.006421
+        ],
+        "max": [
+          0.223506,
+          0.441785,
+          0.146745
+        ],
+        "size": [
+          0.447012,
+          0.558525,
+          0.153166
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "window-4",
+      "label": "Window 4",
+      "description": "Medieval Village Pack by Quaternius.",
+      "thumbnail": "window-4/thumbnail.png",
+      "model": "window-4/window-4.ts",
+      "package": "window-4",
+      "descriptor": "window-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalvillage.html",
+        "download": "https://drive.google.com/uc?export=download&id=1iD8Bl2oeFUWpuRAbve7JAP4DpSiYJmJc",
+        "file": "Props/OBJ/Window_4.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "window",
+        "quaternius",
+        "medievalvillage",
+        "cylinder",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2f2f2f",
+        "#7f5632",
+        "#624226",
+        "#4f5157"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 188,
+        "triangles": 102,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.223506,
+          -0.11674,
+          -0.006421
+        ],
+        "max": [
+          0.223506,
+          0.441785,
+          0.146745
+        ],
+        "size": [
+          0.447012,
+          0.558525,
+          0.153166
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

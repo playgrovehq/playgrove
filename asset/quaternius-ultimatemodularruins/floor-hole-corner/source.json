@@ -1,0 +1,30 @@
+{
+  "id": "floor-hole-corner",
+  "label": "Floor Hole Corner",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1DcKmMCDSNeRaB40men8Z1lA7jHV7EWsc",
+  "file": "OBJ/Floor_Hole_Corner.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "840c6c55ca36417433fba63e07979e9dacab6a5e1af1925ae6c2360b8e063436",
+  "originalInputSha256": "840c6c55ca36417433fba63e07979e9dacab6a5e1af1925ae6c2360b8e063436",
+  "dependencies": [
+    {
+      "path": "OBJ/Floor_Hole_Corner.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1eJx2pl8-OOgEIbWEht67R6bpb9C1xp6X",
+      "sha256": "964bae5997443213de3f107adf45facf3454b277b8362936aaded90638da33bc",
+      "bytes": 426
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "floor-hole-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.9946280121803284,0.14270999655127525,1.9966909885406494]",
+  "convertedAt": "2026-09-05T13:32:45.360Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "light-ceiling-single",
+  "label": "Light CeilingSingle",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1BgvqIhTgDRHqCpgkxm6cnC6VavM9qvYo",
+  "file": "OBJ/Light_CeilingSingle.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ced50edbdd30fea802ea3232e2b375752b1fd702443be18aac789c99044778a4",
+  "originalInputSha256": "ced50edbdd30fea802ea3232e2b375752b1fd702443be18aac789c99044778a4",
+  "dependencies": [
+    {
+      "path": "OBJ/Light_CeilingSingle.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=15NkJ9xeRN4kJv4YkySCeiOpw8fqx4rmJ",
+      "sha256": "9c8ccfab52de83e7a5531dac48f0819022572c2cf264cfb885fd020f0baa2ebb",
+      "bytes": 606
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "light-ceiling-single.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.26423200964927673,0.4783839932642877,0.27783000469207764]",
+  "convertedAt": "2026-09-05T13:40:39.776Z"
+}

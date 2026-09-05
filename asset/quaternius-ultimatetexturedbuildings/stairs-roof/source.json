@@ -1,0 +1,30 @@
+{
+  "id": "stairs-roof",
+  "label": "Stairs Roof",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1vANXVMkMKJrCJxWXpzhJgQqYWYHx83PQ",
+  "file": "Textured Models/Base Modular Parts/OBJ/Stairs_Roof.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "fb352672dbe71efe978039e4c33c543b0211704d4e93eef937eb00a00623fb4c",
+  "originalInputSha256": "fb352672dbe71efe978039e4c33c543b0211704d4e93eef937eb00a00623fb4c",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Stairs_Roof.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1QP10RiUyB59x2ojg_jeBVWr--Qff0y9_",
+      "sha256": "584fb531dd96e17b5c8b66356d96dee29f8741cb7ef9cd38181a33887751f7bc",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "stairs-roof.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.8455039858818054,1.1659360378980637,0.9462510049343109]",
+  "convertedAt": "2026-09-05T13:48:28.953Z"
+}

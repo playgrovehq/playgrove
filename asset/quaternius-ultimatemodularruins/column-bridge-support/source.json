@@ -1,0 +1,30 @@
+{
+  "id": "column-bridge-support",
+  "label": "Column BridgeSupport",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1LBkIAVRl-e4oCmS3V6kd2oYjIbYKQ81l",
+  "file": "OBJ/Column_BridgeSupport.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3acac3cf7d2667bff8d9fc83873ae79ce7d4381178698d99340a0e373047fb96",
+  "originalInputSha256": "3acac3cf7d2667bff8d9fc83873ae79ce7d4381178698d99340a0e373047fb96",
+  "dependencies": [
+    {
+      "path": "OBJ/Column_BridgeSupport.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=18iEnVd31iQqtkm7bs8VfauginMkP_ZUq",
+      "sha256": "8874f69f54be3463bc18428a2bfae3cf938c0474bb5f7e87b06d6d3d67f2dd9c",
+      "bytes": 429
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "column-bridge-support.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.779589980840683,4.020156018901616,0.6174950003623962]",
+  "convertedAt": "2026-09-05T13:32:44.984Z"
+}

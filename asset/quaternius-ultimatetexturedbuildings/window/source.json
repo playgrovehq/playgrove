@@ -1,0 +1,30 @@
+{
+  "id": "window",
+  "label": "Window",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1POFsr7tyYa0-8ctCJbk3eIGArcgIKa57",
+  "file": "Textured Models/Base Modular Parts/OBJ/Window.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f6628ef4fcf9c11005f98219b382b0038826e89e5f699853c3fbd8c32036adf0",
+  "originalInputSha256": "f6628ef4fcf9c11005f98219b382b0038826e89e5f699853c3fbd8c32036adf0",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Window.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=15dbSpU2U2X2Y9EVK9kdVbI4X7tQjaJu-",
+      "sha256": "b38a8c668fdd022f42a9d70b20ef6647eab4d2fcda47609a07d055cbd6a3cd12",
+      "bytes": 235
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "window.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.30273398756980896,0.34711000323295593,0.05643400177359581]",
+  "convertedAt": "2026-09-05T13:48:28.971Z"
+}

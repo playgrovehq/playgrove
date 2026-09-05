@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "casino-sign",
+  "label": "CasinoSign",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "casino",
+    "sign",
+    "quaternius",
+    "ultimatetexturedbuildings",
+    "cutext",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "casino-sign.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 936,
+    "triangles": 644,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.828642,
+      -0.036162,
+      -0.063308
+    ],
+    "max": [
+      1.833956,
+      0.647623,
+      0.072808
+    ],
+    "size": [
+      3.662598,
+      0.683785,
+      0.136116
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "CasinoSign_CUText"
+  ],
+  "materialNames": [
+    "Texture"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ao6qq9_iw37lQEoignjL_J8dCIsBxJ0C",
+    "file": "Textured Models/Base Modular Parts/OBJ/CasinoSign.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

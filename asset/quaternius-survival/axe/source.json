@@ -1,0 +1,30 @@
+{
+  "id": "axe",
+  "label": "Axe",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1U19W7wv108Sgy9wrXKrvynaBCgv5X2yN",
+  "file": "OBJ/Axe.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c3b0fc6edc8a45b0156d5b6a211959854242a38979b4bbdbc5460ee9bdc866b6",
+  "originalInputSha256": "c3b0fc6edc8a45b0156d5b6a211959854242a38979b4bbdbc5460ee9bdc866b6",
+  "dependencies": [
+    {
+      "path": "OBJ/Axe.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1CER6nzaCh6Ih_wphhlbz-HkvX2nBNhPo",
+      "sha256": "8b004962a9e8eca2bfea168d1bbbaeba0b5cd5b638c73c1159fa5b7a186c3dcb",
+      "bytes": 591
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "axe.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.2621769607067108,3.256048023700714,0.19022099673748016]",
+  "convertedAt": "2026-09-05T13:37:26.098Z"
+}

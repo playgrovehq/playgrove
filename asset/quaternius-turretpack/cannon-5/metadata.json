@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "cannon-5",
+  "label": "Cannon 5",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "cannon",
+    "quaternius",
+    "turretpack",
+    "base",
+    "cylinder",
+    "gun",
+    "mid",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#54312a",
+    "#784a44"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "cannon-5.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3382,
+    "triangles": 2008,
+    "parts": 6,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.437989,
+      -0.043604,
+      -0.688382
+    ],
+    "max": [
+      1.437988,
+      1.979182,
+      0.816568
+    ],
+    "size": [
+      2.875977,
+      2.022786,
+      1.50495
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Cannon_5_Base_Cylinder.198",
+    "Cannon_5_Gun_Cylinder.121",
+    "Cannon_5_Mid_Cylinder.197"
+  ],
+  "materialNames": [
+    "Dark",
+    "Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/turretpack.html",
+    "download": "https://drive.google.com/uc?export=download&id=12M76yHwtw_-PB87ZBs42-JjbgCpAW1gH",
+    "file": "OBJ/Cannon_5.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

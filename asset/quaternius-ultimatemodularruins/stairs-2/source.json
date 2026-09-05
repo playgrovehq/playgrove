@@ -1,0 +1,30 @@
+{
+  "id": "stairs-2",
+  "label": "Stairs 2",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1IdMkvBJMuQJ3O6qOWNoZXjWZsQOZvHG2",
+  "file": "OBJ/Stairs_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8c8a383378bdde5ffa7ab5c85a3e3259f10225d3e615e58999b56390478b6034",
+  "originalInputSha256": "8c8a383378bdde5ffa7ab5c85a3e3259f10225d3e615e58999b56390478b6034",
+  "dependencies": [
+    {
+      "path": "OBJ/Stairs_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1TOkUNccJT57rtGv8KwE7Ejh0ZeV9nZdH",
+      "sha256": "1396437453ec99b905bdd679b6ae04ee4f6cbbae9e0e61b1a615e42ceea29ff1",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "stairs-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2.1519049406051636,1.781685959547758,2.0153809785842896]",
+  "convertedAt": "2026-09-05T13:32:45.681Z"
+}

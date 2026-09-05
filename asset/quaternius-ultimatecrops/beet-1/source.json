@@ -1,0 +1,30 @@
+{
+  "id": "beet-1",
+  "label": "Beet 1",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1R-MhK_MlzolVdQfU5sD04xoRimmUoUsp",
+  "file": "OBJ/Beet_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "edf80d577a3c14d4253c6e0362e1f8de6477f75df11ea340c24778260d08a9ed",
+  "originalInputSha256": "edf80d577a3c14d4253c6e0362e1f8de6477f75df11ea340c24778260d08a9ed",
+  "dependencies": [
+    {
+      "path": "OBJ/Beet_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1eZS1hqXdMGmQygobICcuwupd-ZD-qeqJ",
+      "sha256": "7f75ae6ee4db05061cbab6d850d0793e186d79c81ff8d2740655150b1dffe746",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "beet-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.33394598960876465,0.6526839956641197,0.09757699817419052]",
+  "convertedAt": "2026-09-05T13:45:25.876Z"
+}

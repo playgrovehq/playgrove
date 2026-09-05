@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "id": "door-single",
+  "label": "Door Single",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "door",
+    "single",
+    "quaternius",
+    "ultimatemodularscifi",
+    "plane",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a",
+    "#b28641",
+    "#76582b",
+    "#797979",
+    "#333333"
+  ],
+  "colorNames": [
+    "gray",
+    "orange",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "door-single.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1934,
+    "triangles": 1396,
+    "parts": 5,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -0.836607,
+      -0.000725,
+      -0.642998
+    ],
+    "max": [
+      0.836607,
+      2.790449,
+      -0.191636
+    ],
+    "size": [
+      1.673214,
+      2.791174,
+      0.451362
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Door_Single_Plane.024"
+  ],
+  "materialNames": [
+    "Main",
+    "Accent",
+    "DarkAccent",
+    "DarkGrey",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1l-WoNrddVT0ipS93FTZneRMO9iIWHLfV",
+    "file": "OBJ/Door_Single.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

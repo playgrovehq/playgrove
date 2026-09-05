@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "path-square",
+  "label": "Path Square",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "path",
+    "square",
+    "quaternius",
+    "medievalvillage",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#757f84",
+    "#636b76"
+  ],
+  "colorNames": [
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "path-square.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 480,
+    "triangles": 240,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.242776,
+      -0.00105,
+      -0.255947
+    ],
+    "max": [
+      0.242776,
+      0.048053,
+      0.221332
+    ],
+    "size": [
+      0.485552,
+      0.049103,
+      0.477279
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Path_Square_Cube.045"
+  ],
+  "materialNames": [
+    "Stone_Light",
+    "Stone_Dark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1izGIrB5a4G1DQcLv81qpStk-TAQgoN5t",
+    "file": "Props/OBJ/Path_Square.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

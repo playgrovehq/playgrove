@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "id": "barrel",
+  "label": "Barrel",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "barrel",
+    "quaternius",
+    "medievalvillage",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#624226",
+    "#4f5157",
+    "#4b321d"
+  ],
+  "colorNames": [
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "barrel.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1696,
+    "triangles": 1312,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.079102,
+      0.000871,
+      -0.078686
+    ],
+    "max": [
+      0.079102,
+      0.205201,
+      0.078142
+    ],
+    "size": [
+      0.158204,
+      0.20433,
+      0.156828
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Barrel_Cylinder.037"
+  ],
+  "materialNames": [
+    "Wood",
+    "Stone",
+    "DarkWood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1JhOER31nujFKpsM4x6o95iYi-vlRnEuO",
+    "file": "Props/OBJ/Barrel.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

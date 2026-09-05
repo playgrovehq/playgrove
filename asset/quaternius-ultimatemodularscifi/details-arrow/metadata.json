@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "details-arrow",
+  "label": "Details Arrow",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "details",
+    "arrow",
+    "quaternius",
+    "ultimatemodularscifi",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a"
+  ],
+  "colorNames": [
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "details-arrow.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 76,
+    "triangles": 56,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.180065,
+      -0.18536,
+      -0.024672
+    ],
+    "max": [
+      0.180065,
+      0.150651,
+      0.024672
+    ],
+    "size": [
+      0.36013,
+      0.336011,
+      0.049344
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Details_Arrow_Cube.062"
+  ],
+  "materialNames": [
+    "Main"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1pZ6NsRXn_VPDREv6B_VUHRfuOnS6zXHB",
+    "file": "OBJ/Details_Arrow.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

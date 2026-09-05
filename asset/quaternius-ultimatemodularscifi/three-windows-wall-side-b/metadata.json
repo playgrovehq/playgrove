@@ -1,0 +1,100 @@
+{
+  "version": 2,
+  "id": "three-windows-wall-side-b",
+  "label": "ThreeWindows Wall SideB",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "three",
+    "windows",
+    "wall",
+    "side",
+    "b",
+    "quaternius",
+    "ultimatemodularscifi",
+    "plane",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a",
+    "#b28641",
+    "#a8a8a8",
+    "#797979",
+    "#2a2a2a"
+  ],
+  "colorNames": [
+    "gray",
+    "orange",
+    "beige",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "three-windows-wall-side-b.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1115,
+    "triangles": 741,
+    "parts": 5,
+    "discardedDegenerate": 1
+  },
+  "bounds": {
+    "min": [
+      -2.000002,
+      0,
+      -0.270443
+    ],
+    "max": [
+      2.000002,
+      4.430894,
+      0.255655
+    ],
+    "size": [
+      4.000004,
+      4.430894,
+      0.526098
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "ThreeWindows_Wall_SideB_Plane.036"
+  ],
+  "materialNames": [
+    "Main",
+    "Accent",
+    "Light",
+    "DarkGrey",
+    "Glass"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1QAMfdKVPiQ9tzqVj_kwnox--R4hT6gpE",
+    "file": "OBJ/ThreeWindows_Wall_SideB.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

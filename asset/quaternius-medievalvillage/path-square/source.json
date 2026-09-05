@@ -1,0 +1,30 @@
+{
+  "id": "path-square",
+  "label": "Path Square",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1izGIrB5a4G1DQcLv81qpStk-TAQgoN5t",
+  "file": "Props/OBJ/Path_Square.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4808a3fcf0e893f69d074e7adff919bd19a48e328ea11a65befe98326dd93f19",
+  "originalInputSha256": "4808a3fcf0e893f69d074e7adff919bd19a48e328ea11a65befe98326dd93f19",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Path_Square.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1G9DY_PZp8r29N1-vjgbfj5wjoLEy2vmH",
+      "sha256": "0440b0822ac4ebc169a9d314e6ebe483c4310ba21c7d2e5783aa42a7c34d8f3a",
+      "bytes": 427
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "path-square.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.48555201292037964,0.049103000084869564,0.4772789925336838]",
+  "convertedAt": "2026-09-05T13:36:04.935Z"
+}

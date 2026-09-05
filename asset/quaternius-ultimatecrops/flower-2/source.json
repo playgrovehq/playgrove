@@ -1,0 +1,30 @@
+{
+  "id": "flower-2",
+  "label": "Flower 2",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1lFajhN-NRRRVmb8XY46vu0TwMtoM3M6P",
+  "file": "OBJ/Flower_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7dedfc69a42f6057653dabeef75e4269b61806a12efa4919d58f133d93e5b8b8",
+  "originalInputSha256": "7dedfc69a42f6057653dabeef75e4269b61806a12efa4919d58f133d93e5b8b8",
+  "dependencies": [
+    {
+      "path": "OBJ/Flower_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=11dbUuoHOanJPpfFAqkcfql5VSg5kRSAP",
+      "sha256": "a89664d8dbd12c411464d2372c13c13456758dab840882368f3a7aabfeb173f3",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "flower-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.08389399945735931,0.41173299445654266,0.04989900067448616]",
+  "convertedAt": "2026-09-05T13:45:26.409Z"
+}

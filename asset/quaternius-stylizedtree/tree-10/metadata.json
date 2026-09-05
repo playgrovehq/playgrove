@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "tree-10",
+  "label": "Tree 10",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "tree",
+    "quaternius",
+    "stylizedtree",
+    "cylinder",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tree-10.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 801,
+    "triangles": 1212,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -3.285634,
+      -0.00138,
+      -2.352075
+    ],
+    "max": [
+      0.99506,
+      4.346673,
+      1.628426
+    ],
+    "size": [
+      4.280694,
+      4.348053,
+      3.980501
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Tree_10_Cylinder.002"
+  ],
+  "materialNames": [
+    "Bark",
+    "Tree_Leaves"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/stylizedtree.html",
+    "download": "https://drive.google.com/uc?export=download&id=1n_ePw4E9aNE9qQGSX_aN6dZQECd9nwZJ",
+    "file": "OBJ/Tree_10.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

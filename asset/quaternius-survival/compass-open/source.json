@@ -1,0 +1,30 @@
+{
+  "id": "compass-open",
+  "label": "Compass Open",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1AiREJdemStE31trUu_c2CL05xZx5GWdl",
+  "file": "OBJ/Compass_Open.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "31afcc6bdf0933aeb25251135f53b5b12b50f64b5918bf06b17bf3113f6ee0c1",
+  "originalInputSha256": "31afcc6bdf0933aeb25251135f53b5b12b50f64b5918bf06b17bf3113f6ee0c1",
+  "dependencies": [
+    {
+      "path": "OBJ/Compass_Open.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1zKxTJmbUbAWTyXT-z3ro46myYKGrToYT",
+      "sha256": "b134dfa566aa2d4943522f7e3228111e1688bc13f0ab1eee9cab3741c9135870",
+      "bytes": 955
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "compass-open.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.907925009727478,0.8053609728813171,0.7027069735340774]",
+  "convertedAt": "2026-09-05T13:37:26.355Z"
+}

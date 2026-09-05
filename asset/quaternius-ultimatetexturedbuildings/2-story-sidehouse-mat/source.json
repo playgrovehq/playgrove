@@ -1,0 +1,30 @@
+{
+  "id": "2-story-sidehouse-mat",
+  "label": "2Story Sidehouse Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1BkWPpc9K1Hl7wUa016CH7jGjFIE_eARO",
+  "file": "Models with Materials/OBJ/2Story_Sidehouse_Mat.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "23bd04545b06d31e1ebfb71da7bf00d42a282d0e6c28e4a682777e3f1e215b4c",
+  "originalInputSha256": "23bd04545b06d31e1ebfb71da7bf00d42a282d0e6c28e4a682777e3f1e215b4c",
+  "dependencies": [
+    {
+      "path": "Models with Materials/OBJ/2Story_Sidehouse_Mat.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=14KIWKWxNRZdrWmZU5EDh9hGFj-bTX0Ys",
+      "sha256": "f2dd0783a2fe47d0b9d9fa18eea8002f70b9a8830d10e29acd5f341aa4a13643",
+      "bytes": 1673
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "2-story-sidehouse-mat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=9 materials=9 bounds=[3.4682199954986572,2.757281010504812,2.532175064086914]",
+  "convertedAt": "2026-09-05T13:48:27.623Z"
+}

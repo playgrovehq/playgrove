@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "bush-berries-4",
+  "label": "BushBerries 4",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "bush",
+    "berries",
+    "quaternius",
+    "ultimatecrops",
+    "cube",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#4b623e",
+    "#a52831"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bush-berries-4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1784,
+    "triangles": 892,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.861082,
+      -0.032125,
+      -0.723433
+    ],
+    "max": [
+      0.857807,
+      1.243872,
+      0.668952
+    ],
+    "size": [
+      1.718889,
+      1.275997,
+      1.392385
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "BushBerries_4_Cube.044"
+  ],
+  "materialNames": [
+    "Green_Bush",
+    "Berry"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=10GBJbMX4p9ilNmOZ63IWXleqqY5XZpFZ",
+    "file": "OBJ/BushBerries_4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

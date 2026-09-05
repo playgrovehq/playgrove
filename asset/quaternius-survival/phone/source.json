@@ -1,0 +1,30 @@
+{
+  "id": "phone",
+  "label": "Phone",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1AT-Q7YGHizmBQNsfnWqFUFY61WUEvtwU",
+  "file": "OBJ/Phone.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "35c7d340eeee6d3e2c85283e34cd60d51285255b5c1cca205121a9bbb0d07115",
+  "originalInputSha256": "35c7d340eeee6d3e2c85283e34cd60d51285255b5c1cca205121a9bbb0d07115",
+  "dependencies": [
+    {
+      "path": "OBJ/Phone.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1GgTnOdrC9pmLLz4CX7XuMhssxaL5y0Ex",
+      "sha256": "416ecb9aa125034771331c3589466a58ff191585ba35faffc1fd303f0a9ce943",
+      "bytes": 587
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "phone.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.42410600185394287,0.9084570109844208,0.060627998784184456]",
+  "convertedAt": "2026-09-05T13:37:26.555Z"
+}

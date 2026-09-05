@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "dead-birch-2",
+  "label": "DeadBirch 2",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "dead",
+    "birch",
+    "quaternius",
+    "stylizedtree",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "dead-birch-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 356,
+    "triangles": 528,
+    "parts": 1,
+    "discardedDegenerate": 12
+  },
+  "bounds": {
+    "min": [
+      -0.747177,
+      -0.001689,
+      -1.463963
+    ],
+    "max": [
+      3.11027,
+      8.74194,
+      0.433383
+    ],
+    "size": [
+      3.857447,
+      8.743629,
+      1.897346
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "DeadBirch_2_Cylinder.051"
+  ],
+  "materialNames": [
+    "Birch_Bark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/stylizedtree.html",
+    "download": "https://drive.google.com/uc?export=download&id=19U6J2x9Yx4e71KOgU15UeHWPRkenF_vD",
+    "file": "OBJ/DeadBirch_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

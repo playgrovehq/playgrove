@@ -1,0 +1,30 @@
+{
+  "id": "roof-tile-sides-pipes",
+  "label": "RoofTile Sides Pipes",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1w2bSCFitJAIXkTh6BZ61iBhLyoL6o2TF",
+  "file": "OBJ/RoofTile_Sides_Pipes.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0a6f4a20b1f855f85d1bec0091a7cea1adca8db0b61e2bb19f5d8842635da204",
+  "originalInputSha256": "0a6f4a20b1f855f85d1bec0091a7cea1adca8db0b61e2bb19f5d8842635da204",
+  "dependencies": [
+    {
+      "path": "OBJ/RoofTile_Sides_Pipes.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17cPDP13dMCWWoIk6bRRLPwrYoyMn4W7R",
+      "sha256": "eae458fb0bb539de2717fd051bfe01d3ca6647feb3f0966fc8b2edce35b9066c",
+      "bytes": 784
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "roof-tile-sides-pipes.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2,0.11331599950790405,2]",
+  "convertedAt": "2026-09-05T13:34:57.707Z"
+}

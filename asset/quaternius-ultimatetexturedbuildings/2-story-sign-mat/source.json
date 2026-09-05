@@ -1,0 +1,30 @@
+{
+  "id": "2-story-sign-mat",
+  "label": "2Story Sign Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1wRfqcJe9TPIyF1ADkMNyloLlUII7Hwb5",
+  "file": "Models with Materials/OBJ/2Story_Sign_Mat.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5a4322c7f818c89ff528ee5cda521d2d767def70ac730b12d0a527061a6ba116",
+  "originalInputSha256": "5a4322c7f818c89ff528ee5cda521d2d767def70ac730b12d0a527061a6ba116",
+  "dependencies": [
+    {
+      "path": "Models with Materials/OBJ/2Story_Sign_Mat.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16vzAR4p_dHgIa4b6l5zAkBhd1DBrAP-I",
+      "sha256": "d1bcfe1c5a5106c9f56b97f52bb0aad1a5a4e37efbda2a7c56f8cc4f4ede4282",
+      "bytes": 1312
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "2-story-sign-mat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[2.1541600227355957,2.75728203356266,2.1541600227355957]",
+  "convertedAt": "2026-09-05T13:48:27.646Z"
+}

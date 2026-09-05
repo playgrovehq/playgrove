@@ -1,0 +1,30 @@
+{
+  "id": "couch-medium2",
+  "label": "Couch Medium2",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1mGcIgiC8ds_R8-tNWJRwRnGjCQLr_hNg",
+  "file": "OBJ/Couch_Medium2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5cbd8f9877fea913e7aff7c365f537f3bc7d4a8bba3ec1520c860e30571aa273",
+  "originalInputSha256": "5cbd8f9877fea913e7aff7c365f537f3bc7d4a8bba3ec1520c860e30571aa273",
+  "dependencies": [
+    {
+      "path": "OBJ/Couch_Medium2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1QeQUUH-dEHzJ7o-vLE43r3R3qUF2HzpC",
+      "sha256": "292b97fd363e69cf61e69b13ca2f9e0f927c777fc3a597ab810f53c8d8d06f2e",
+      "bytes": 425
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "couch-medium2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[4.518661975860596,1.9593429565429688,1.999478042125702]",
+  "convertedAt": "2026-09-05T13:40:38.962Z"
+}

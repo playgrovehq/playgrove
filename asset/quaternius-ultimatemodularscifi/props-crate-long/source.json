@@ -1,0 +1,30 @@
+{
+  "id": "props-crate-long",
+  "label": "Props CrateLong",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1BUncq2YYdXqbM8DSBRA8_zuu-6IAgBQR",
+  "file": "OBJ/Props_CrateLong.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f3f19cfe01272d5ab82604a34a0d7654a4f2a075b77f8d13ecc41a7adadef0af",
+  "originalInputSha256": "f3f19cfe01272d5ab82604a34a0d7654a4f2a075b77f8d13ecc41a7adadef0af",
+  "dependencies": [
+    {
+      "path": "OBJ/Props_CrateLong.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1y6LHaOznPr1Gj0cE93bgACuLNjpDr9Zu",
+      "sha256": "607a312e9565c3f6d3fa8d1ca49b28257fe27c75ccb296ccb86545519ecb2acf",
+      "bytes": 962
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "props-crate-long.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.2329509854316711,0.7697859787149355,0.7697849869728088]",
+  "convertedAt": "2026-09-05T13:34:57.357Z"
+}

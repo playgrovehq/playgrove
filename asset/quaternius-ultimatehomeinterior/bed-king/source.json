@@ -1,0 +1,30 @@
+{
+  "id": "bed-king",
+  "label": "Bed King",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ynTfC5JMLMnVpw1N5zKW-lSTgvilSlgd",
+  "file": "OBJ/Bed_King.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "be4e209534c6eb5e1c4baec42b06213bcd4d5b342dec1851c8d392fc46eaa0ff",
+  "originalInputSha256": "be4e209534c6eb5e1c4baec42b06213bcd4d5b342dec1851c8d392fc46eaa0ff",
+  "dependencies": [
+    {
+      "path": "OBJ/Bed_King.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1pcdKxkCnPgw8BbH0gHmtFYVrMsTP4KBR",
+      "sha256": "c1b321c242a098b490dd95ac790c9990a33b82c436c1bbb099160921fdc99381",
+      "bytes": 945
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bed-king.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[3.0641279220581055,1.2145819664001465,3.9528439044952393]",
+  "convertedAt": "2026-09-05T13:40:38.604Z"
+}

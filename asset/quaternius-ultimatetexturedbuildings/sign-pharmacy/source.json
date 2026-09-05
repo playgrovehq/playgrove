@@ -1,0 +1,30 @@
+{
+  "id": "sign-pharmacy",
+  "label": "Sign Pharmacy",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1YeYNtCCoj3sV7HDKX3rrOhpDf8uXX0BA",
+  "file": "Textured Models/Base Modular Parts/OBJ/Sign_Pharmacy.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9d152729a43507a37191005a9457fb775baa14d8cfbde8add0aa533bfb8bdfdb",
+  "originalInputSha256": "9d152729a43507a37191005a9457fb775baa14d8cfbde8add0aa533bfb8bdfdb",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Sign_Pharmacy.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=18ua2lCRTzvVCDwbH8xlituuRryOdURKn",
+      "sha256": "cc42404df1941fa5c148478618a5d1aab6ef5dab5abbadb51b784e32f98b39a1",
+      "bytes": 242
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sign-pharmacy.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1259520053863525,0.42836201190948486,0.073853999376297]",
+  "convertedAt": "2026-09-05T13:48:28.920Z"
+}

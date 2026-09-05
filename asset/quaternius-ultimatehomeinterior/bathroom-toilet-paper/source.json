@@ -1,0 +1,30 @@
+{
+  "id": "bathroom-toilet-paper",
+  "label": "Bathroom ToiletPaper",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1lMx7IT1qb-qTZi6gBveJ-w9Ry2KOHAen",
+  "file": "OBJ/Bathroom_ToiletPaper.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "20c9cbf468dd0ec8faa9d4109c893c07aa3108410b63c5d86d329bb1433e149d",
+  "originalInputSha256": "20c9cbf468dd0ec8faa9d4109c893c07aa3108410b63c5d86d329bb1433e149d",
+  "dependencies": [
+    {
+      "path": "OBJ/Bathroom_ToiletPaper.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1LvzCZ4QEa6-nMdDsuiPtU-_sVApJaHED",
+      "sha256": "d2f52e9b62164776c51d18a164f6c9e3221dab97c4716f54f30b40f59ba07c55",
+      "bytes": 608
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bathroom-toilet-paper.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.2999410033226013,0.34440700709819794,0.17487600445747375]",
+  "convertedAt": "2026-09-05T13:40:38.512Z"
+}

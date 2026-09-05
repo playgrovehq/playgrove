@@ -1,0 +1,30 @@
+{
+  "id": "flag-round-arch",
+  "label": "Flag RoundArch",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=15qWVKA4_M9i5FOHUPb_txkZ2cPJVzOeu",
+  "file": "OBJ/Flag_RoundArch.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c4e5a2d1b31e092975022bf0e68a1a83cfb3003a8e6b11fe47d73d7aa6da0b10",
+  "originalInputSha256": "c4e5a2d1b31e092975022bf0e68a1a83cfb3003a8e6b11fe47d73d7aa6da0b10",
+  "dependencies": [
+    {
+      "path": "OBJ/Flag_RoundArch.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=18iblAo9b7IN4kknWxw4J3_FV1s5zlu5O",
+      "sha256": "f21a5358451c54590d9fec2dc1121f8fb20da517b36fdf1afa5779ee15bcb508",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "flag-round-arch.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1685529947280884,1.1274230480194092,0.3160420060157776]",
+  "convertedAt": "2026-09-05T13:32:45.296Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "details-pipes-small",
+  "label": "Details Pipes Small",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1cxwXOEVf_W_it33KI124OwQosVWWwnBD",
+  "file": "OBJ/Details_Pipes_Small.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "517242d9ac7a1ccbb4cb6cf428923a39a0b4bc39faaa63596ea3ed4783b15389",
+  "originalInputSha256": "517242d9ac7a1ccbb4cb6cf428923a39a0b4bc39faaa63596ea3ed4783b15389",
+  "dependencies": [
+    {
+      "path": "OBJ/Details_Pipes_Small.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1VxksImblpaMv7kfWbCHIezl1sHNEJcr4",
+      "sha256": "13e9dfbde2dae19d1288d0045f3a11fc5d78740f84730484f6a3538cca0a821b",
+      "bytes": 789
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "details-pipes-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.35038700699806213,0.2461629956960678,0.11019400134682655]",
+  "convertedAt": "2026-09-05T13:34:56.707Z"
+}

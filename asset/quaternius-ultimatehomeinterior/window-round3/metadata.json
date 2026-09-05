@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "id": "window-round3",
+  "label": "Window Round3",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "window",
+    "round3",
+    "quaternius",
+    "ultimatehomeinterior",
+    "cylinder",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a1a19e",
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "gray",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "window-round3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 202,
+    "triangles": 158,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.453195,
+      0,
+      -0.056279
+    ],
+    "max": [
+      0.453197,
+      1.549801,
+      0.056279
+    ],
+    "size": [
+      0.906392,
+      1.549801,
+      0.112558
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Window_Round3_Cylinder.044"
+  ],
+  "materialNames": [
+    "White",
+    "Glass"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+    "download": "https://drive.google.com/uc?export=download&id=1K7mzzSwiORYlmCDbjBOY_MMumtjKnp9K",
+    "file": "OBJ/Window_Round3.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

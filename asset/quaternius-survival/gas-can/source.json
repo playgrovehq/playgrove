@@ -1,0 +1,30 @@
+{
+  "id": "gas-can",
+  "label": "GasCan",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1zTUlgRcYurnmPmtzaSGevKA-w1JbFLur",
+  "file": "OBJ/GasCan.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a410ef9880e6752470b87c031af71720446ec40a28f0730879286fb3a381a477",
+  "originalInputSha256": "a410ef9880e6752470b87c031af71720446ec40a28f0730879286fb3a381a477",
+  "dependencies": [
+    {
+      "path": "OBJ/GasCan.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1qVLvu5a_yuoHViPvgT5z9Zbh3EGGoMAM",
+      "sha256": "4e36771cec8623447ff3d9cd36b68f6050b92b8961fa2e8edb8edcf7aa705961",
+      "bytes": 589
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "gas-can.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.8774679899215698,2.472942885244265,0.615339994430542]",
+  "convertedAt": "2026-09-05T13:37:26.421Z"
+}

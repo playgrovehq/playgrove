@@ -1,0 +1,30 @@
+{
+  "id": "bear-trap-open",
+  "label": "BearTrap Open",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1pK0JtOhxrdkrLEH0tGVzTiFg34svVRKa",
+  "file": "OBJ/BearTrap_Open.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "509fc9060079d17b2897bd4c6230a7f2e44aecda4e05a7d044303c59dd3e3007",
+  "originalInputSha256": "509fc9060079d17b2897bd4c6230a7f2e44aecda4e05a7d044303c59dd3e3007",
+  "dependencies": [
+    {
+      "path": "OBJ/BearTrap_Open.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=10gT4qqh2mzrSz8M3YR4mEFVjKhdWtJsF",
+      "sha256": "cf1301b8a9f6af6fd21efd757990247347b062224c36b5c79d2e05cc39431a7b",
+      "bytes": 239
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bear-trap-open.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.99153995513916,0.6750859916210175,3.543897032737732]",
+  "convertedAt": "2026-09-05T13:37:26.221Z"
+}

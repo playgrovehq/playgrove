@@ -1,0 +1,30 @@
+{
+  "id": "window-bars-overgrown",
+  "label": "Window Bars Overgrown",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1LsGz0k5jQunx-0C-VhEjwAQlgk1quQkz",
+  "file": "OBJ/Window_Bars_Overgrown.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "21027e6381b3344874e4ca041a5f0bcc71bb296c186dbea1a2ba349e61ebdc89",
+  "originalInputSha256": "21027e6381b3344874e4ca041a5f0bcc71bb296c186dbea1a2ba349e61ebdc89",
+  "dependencies": [
+    {
+      "path": "OBJ/Window_Bars_Overgrown.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1jdF1QOyhmCB9u-pUAGDP66Ffa8Ej8P8Y",
+      "sha256": "f364da9f2c8594f0c7a9fb3270650e7dba54ad68fcf37accd1736a0e4945ffe0",
+      "bytes": 971
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "window-bars-overgrown.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.9904060363769531,1.9872459602775052,0.30524199455976486]",
+  "convertedAt": "2026-09-05T13:32:46.167Z"
+}

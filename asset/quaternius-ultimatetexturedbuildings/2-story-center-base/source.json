@@ -1,0 +1,30 @@
+{
+  "id": "2-story-center-base",
+  "label": "2Story Center Base",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1o4AIjq9wYy4nqyB4641102QbScob7d6M",
+  "file": "Textured Models/Base Modular Buildings/OBJ/2Story_Center_Base.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0b26b2c72d12afe6f89ccd6cf78b4626a3fb77ceef61937c9e0e6c6a6860ff40",
+  "originalInputSha256": "0b26b2c72d12afe6f89ccd6cf78b4626a3fb77ceef61937c9e0e6c6a6860ff40",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Buildings/OBJ/2Story_Center_Base.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1mCiyj0XOZObiqiGY7VbjGhFR0bvKuFpq",
+      "sha256": "65ed9adae729509ec8d33c1eefde26ecdae6e0aa6b68792193e368df641d8b56",
+      "bytes": 247
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "2-story-center-base.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.421149969100952,2.604085883591324,2.4985049962997437]",
+  "convertedAt": "2026-09-05T13:48:28.227Z"
+}

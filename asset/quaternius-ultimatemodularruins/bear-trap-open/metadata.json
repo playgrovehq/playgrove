@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "bear-trap-open",
+  "label": "BearTrap Open",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "bear",
+    "trap",
+    "open",
+    "quaternius",
+    "ultimatemodularruins",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#4f5157"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bear-trap-open.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 818,
+    "triangles": 608,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.598308,
+      -0.019191,
+      -0.589587
+    ],
+    "max": [
+      0.598308,
+      0.250844,
+      0.827972
+    ],
+    "size": [
+      1.196616,
+      0.270035,
+      1.417559
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "BearTrap_Open_Cube.033"
+  ],
+  "materialNames": [
+    "Metal"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ijWax7JEF6JQBXM298-TSC2VDR_6a6oa",
+    "file": "OBJ/BearTrap_Open.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

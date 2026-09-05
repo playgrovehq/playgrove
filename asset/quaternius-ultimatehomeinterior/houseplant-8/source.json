@@ -1,0 +1,30 @@
+{
+  "id": "houseplant-8",
+  "label": "Houseplant 8",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=16VIMvLLu2rsYlpHifWAMJdvklkMFyVov",
+  "file": "OBJ/Houseplant_8.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bc6c7ab96004494c6e67a480fe434f21e55da3bd0c286689582010c63997c178",
+  "originalInputSha256": "bc6c7ab96004494c6e67a480fe434f21e55da3bd0c286689582010c63997c178",
+  "dependencies": [
+    {
+      "path": "OBJ/Houseplant_8.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1_u_fblu-ZJFoS7x1HsgKVuIwE8aL9NJ0",
+      "sha256": "85a6c3b95846c64fdc1974049c913c8531ecc946e8e00497faa16cfe46d37778",
+      "bytes": 594
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "houseplant-8.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.5171479880809784,1.5565980154788122,0.5171340107917786]",
+  "convertedAt": "2026-09-05T13:40:39.476Z"
+}

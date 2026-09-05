@@ -1,0 +1,30 @@
+{
+  "id": "gazebo",
+  "label": "Gazebo",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1bvw-CRWLYoir8t7VFIPcPqH57GSpb3jU",
+  "file": "Props/OBJ/Gazebo.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c2c1f87f4918bb9d55d8dd8cd85732f6c4d481d655be024f2cf17b336df59eb8",
+  "originalInputSha256": "c2c1f87f4918bb9d55d8dd8cd85732f6c4d481d655be024f2cf17b336df59eb8",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Gazebo.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16hefOO6I9vZ9Zomk2orTqDu-PNpbnd_J",
+      "sha256": "046900ee5a1178d3ee42f2cb65c9c0a6d36dedfbdf96948dff15cf3c710d4ddc",
+      "bytes": 418
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "gazebo.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.036981999874115,1.3471360206604004,1.2594000101089478]",
+  "convertedAt": "2026-09-05T13:36:04.823Z"
+}

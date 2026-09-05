@@ -1,0 +1,106 @@
+{
+  "version": 2,
+  "id": "bell-tower",
+  "label": "Bell Tower",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "bell",
+    "tower",
+    "quaternius",
+    "medievalvillage",
+    "cube",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#757f84",
+    "#636b76",
+    "#624226",
+    "#9e9a77",
+    "#978359",
+    "#2f2f2f",
+    "#7f5632",
+    "#af8136",
+    "#215860",
+    "#4f5157"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bell-tower.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 20139,
+    "triangles": 11799,
+    "parts": 10,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.968468,
+      -0.000104,
+      -1.125192
+    ],
+    "max": [
+      0.968468,
+      4.760505,
+      1.103327
+    ],
+    "size": [
+      1.936936,
+      4.760609,
+      2.228519
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Bell_Tower_Cube.296"
+  ],
+  "materialNames": [
+    "Stone_Light",
+    "Stone_Dark",
+    "Wood",
+    "Beige",
+    "Wood_Side",
+    "Windows",
+    "Wood_Light",
+    "Bell",
+    "RoofTiles",
+    "Stone"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1wtxxxug9qaMk1TspWhEO0Akskv5Td30z",
+    "file": "Buildings/OBJ/Bell_Tower.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

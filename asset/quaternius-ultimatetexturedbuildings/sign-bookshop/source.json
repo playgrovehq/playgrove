@@ -1,0 +1,30 @@
+{
+  "id": "sign-bookshop",
+  "label": "Sign Bookshop",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=18pIr0y81n7uUgDw2ilHqv0JN9jUC81HJ",
+  "file": "Textured Models/Base Modular Parts/OBJ/Sign_Bookshop.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8a46867b72cba6ceeaa0e82ac3321ad643f361cb5262b80bc082607e267b8e20",
+  "originalInputSha256": "8a46867b72cba6ceeaa0e82ac3321ad643f361cb5262b80bc082607e267b8e20",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Sign_Bookshop.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1ZWM7vI4kfe14tg9JV-_tDy8bPlwtRkxT",
+      "sha256": "9ab3ed835588d1bf0201898cab98319577b90004d1da66b422ab9d5d01560e1a",
+      "bytes": 242
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sign-bookshop.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.8299680352210999,0.7434819936752319,0.34309999644756317]",
+  "convertedAt": "2026-09-05T13:48:28.885Z"
+}

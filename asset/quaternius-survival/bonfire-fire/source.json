@@ -1,0 +1,30 @@
+{
+  "id": "bonfire-fire",
+  "label": "Bonfire Fire",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1AmAullA_K8tNL_snKsJJblOjqh7GmcV0",
+  "file": "OBJ/Bonfire_Fire.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "418a8d83773c13067844408b48e2d7b011d2a1fc0f6371e7f7aef487421088a6",
+  "originalInputSha256": "418a8d83773c13067844408b48e2d7b011d2a1fc0f6371e7f7aef487421088a6",
+  "dependencies": [
+    {
+      "path": "OBJ/Bonfire_Fire.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17MVQeeR-wdOoPkSMSdG9PWcBeyIl_Ef1",
+      "sha256": "2a8c63bf3457cb32784bb04bbdd64657ba102d9567e7d1f607de944d1ec98151",
+      "bytes": 597
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bonfire-fire.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.1755889654159546,2.311273094266653,1.9841089248657227]",
+  "convertedAt": "2026-09-05T13:37:26.255Z"
+}

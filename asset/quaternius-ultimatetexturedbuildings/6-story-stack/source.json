@@ -1,0 +1,30 @@
+{
+  "id": "6-story-stack",
+  "label": "6Story Stack",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1eaRAedVwBdZEBezkkiflpteGkxc88jp_",
+  "file": "Textured Models/Finished Textured Buildings/OBJ/6Story_Stack.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6ec173d6e4f67d8d0aa322ed6b2f0f95745150a2a7df8b05ba1a192e11820d47",
+  "originalInputSha256": "6ec173d6e4f67d8d0aa322ed6b2f0f95745150a2a7df8b05ba1a192e11820d47",
+  "dependencies": [
+    {
+      "path": "Textured Models/Finished Textured Buildings/OBJ/6Story_Stack.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1hNL6H9SesJhM1jUVdtAJKvyg8KRYR_rC",
+      "sha256": "7af79eed678909e5fe8d43e13f402ee84c166121268fc3cf36e3dc82b06bf3a2",
+      "bytes": 241
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "6-story-stack.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1586461067199707,7.803364876890555,2.4985049962997437]",
+  "convertedAt": "2026-09-05T13:48:29.596Z"
+}

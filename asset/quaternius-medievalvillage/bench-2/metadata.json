@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "bench-2",
+  "label": "Bench 2",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "furniture",
+  "tags": [
+    "bench",
+    "quaternius",
+    "medievalvillage",
+    "cube",
+    "furniture",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#624226"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bench-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 448,
+    "triangles": 276,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.332486,
+      -0.001346,
+      -0.081282
+    ],
+    "max": [
+      0.332486,
+      0.184301,
+      0.140641
+    ],
+    "size": [
+      0.664972,
+      0.185647,
+      0.221923
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Bench_2_Cube.258"
+  ],
+  "materialNames": [
+    "Wood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1rxuRGwxVZ6SMmrbQV-3Qfb781MSY6l2Z",
+    "file": "Props/OBJ/Bench_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "rock-3",
+  "label": "Rock 3",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1C-vWZEUZrMzf56dHuGsEQyhbKnDEalH3",
+  "file": "Props/OBJ/Rock_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a44b051ddc552df8a2671e25f36d66eaa15097afc85693633d261ea55c0c1c29",
+  "originalInputSha256": "a44b051ddc552df8a2671e25f36d66eaa15097afc85693633d261ea55c0c1c29",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Rock_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1tTcC4bjixsZp8g-RfLYg3DqXxLKe1dYJ",
+      "sha256": "8a36e8a3451b8c48bb6f99f353f080a123e52e9d9d3a69cdcf2e39cc4030be55",
+      "bytes": 238
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "rock-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.30365900695323944,0.08010599762201309,0.26186300069093704]",
+  "convertedAt": "2026-09-05T13:36:05.005Z"
+}

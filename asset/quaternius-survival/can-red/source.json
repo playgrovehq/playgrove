@@ -1,0 +1,30 @@
+{
+  "id": "can-red",
+  "label": "Can Red",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1aifWKvFfiJ4IKbNhTg9qMMkpEia4xmW8",
+  "file": "OBJ/Can_Red.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b95f7d1b84ea8e823d659f93efa4aa19279c25caf4b6524a44ffc958f628d672",
+  "originalInputSha256": "b95f7d1b84ea8e823d659f93efa4aa19279c25caf4b6524a44ffc958f628d672",
+  "dependencies": [
+    {
+      "path": "OBJ/Can_Red.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1SDEl5zbNgha_g0iV4DiRbczJD_pSgr2j",
+      "sha256": "8bcb1f5a81c5d53b203d83c51008d6a2a5505884985aa82c2288f85d0293b950",
+      "bytes": 591
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "can-red.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.4733459949493408,0.6374959945678711,0.4733459949493408]",
+  "convertedAt": "2026-09-05T13:37:26.321Z"
+}

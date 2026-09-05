@@ -1,0 +1,30 @@
+{
+  "id": "birch-3",
+  "label": "Birch 3",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "pack": "quaternius-stylizedtree",
+  "listing": "https://quaternius.com/packs/stylizedtree.html",
+  "download": "https://drive.google.com/uc?export=download&id=1PcOunk7lpmvOM_C5_IK0X_m1SRG7NF1t",
+  "file": "OBJ/Birch_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "32d7da16c737320701637549e1c71a6eac4c86af14eb07eba0358c48ab95bfe1",
+  "originalInputSha256": "32d7da16c737320701637549e1c71a6eac4c86af14eb07eba0358c48ab95bfe1",
+  "dependencies": [
+    {
+      "path": "OBJ/Birch_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=14fma0r0_BSc8yp35SW2610nbYjaG_NwQ",
+      "sha256": "1bf92c5c48e9a7381cfbda3f8453b340adcde4e24d22ac92aa76e3bb89c0f86c",
+      "bytes": 424
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "birch-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[8.757754802703857,10.295478349202313,4.345729947090149]",
+  "convertedAt": "2026-09-05T13:41:58.717Z"
+}

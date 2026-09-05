@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "id": "pumpkin-4",
+  "label": "Pumpkin 4",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "pumpkin",
+    "quaternius",
+    "ultimatecrops",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#b9753a",
+    "#77a15a",
+    "#60674d"
+  ],
+  "colorNames": [
+    "orange",
+    "green",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pumpkin-4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 5776,
+    "triangles": 2896,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.509371,
+      -0.041789,
+      -0.664529
+    ],
+    "max": [
+      0.780351,
+      0.54819,
+      0.410789
+    ],
+    "size": [
+      1.289722,
+      0.589979,
+      1.075318
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pumpkin_4_Cylinder"
+  ],
+  "materialNames": [
+    "Orange",
+    "Green",
+    "DarkGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1f_Jobt40aIQG1xnyklMCthNvY4-MSqT_",
+    "file": "OBJ/Pumpkin_4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

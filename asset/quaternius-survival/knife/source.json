@@ -1,0 +1,30 @@
+{
+  "id": "knife",
+  "label": "Knife",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1n3i-gcVL6xEqDIEmvksmk8ECfp4ux6j5",
+  "file": "OBJ/Knife.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f598f8fc3cf272d23f9fa877c9dbb8127ad8c3ba5fd6fb181f0b873bb8ce45c1",
+  "originalInputSha256": "f598f8fc3cf272d23f9fa877c9dbb8127ad8c3ba5fd6fb181f0b873bb8ce45c1",
+  "dependencies": [
+    {
+      "path": "OBJ/Knife.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1TGtHfmIXJQVLgawrTdUci6Y2P3LHqDnd",
+      "sha256": "a1eafb9b2aded842f014dbaa9dc672f004dfad3df0d4a57813af0f2f6907a515",
+      "bytes": 773
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "knife.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.2654470056295395,1.562863975763321,0.07781200110912323]",
+  "convertedAt": "2026-09-05T13:37:26.438Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bricks-half",
+  "label": "Bricks Half",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1lnAnRODlG52Usjzg9XhiLV7OOcrC9US_",
+  "file": "Textured Models/Base Modular Parts/OBJ/Bricks_Half.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "fd51089b4352cc39743290823601ab6d8bfe09d72086b519ade83fd9c898333d",
+  "originalInputSha256": "fd51089b4352cc39743290823601ab6d8bfe09d72086b519ade83fd9c898333d",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Bricks_Half.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1eUjWTHwgnkNE80KMvHfES74euDG6NCgg",
+      "sha256": "af1df0ddee39bec7404b41ecbaff70ae73d04cc4e6adbf3228f25b42da4e09ec",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bricks-half.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.11760900169610977,0.1451679989695549,0.13642600178718567]",
+  "convertedAt": "2026-09-05T13:48:28.532Z"
+}

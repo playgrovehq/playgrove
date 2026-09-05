@@ -1,0 +1,30 @@
+{
+  "id": "shotgun-sawed-off",
+  "label": "Shotgun SawedOff",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1t77HkDxCJEMPQZw-7L2IWIdyvtg10beV",
+  "file": "OBJ/Shotgun_SawedOff.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7143c4de0e500e480f9842bdd82fbcf20344f7b7657d95f86b9bcdfd781d5d89",
+  "originalInputSha256": "7143c4de0e500e480f9842bdd82fbcf20344f7b7657d95f86b9bcdfd781d5d89",
+  "dependencies": [
+    {
+      "path": "OBJ/Shotgun_SawedOff.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1xQmZK18kqJfIHKnyHxakmGcT4LO1ZGpp",
+      "sha256": "956f705a2783ecfff4b22d4e63af1a963f237a81a0d09b04779d0bdf3456c219",
+      "bytes": 961
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "shotgun-sawed-off.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[3.688200980424881,1.0201300084590912,0.42245200276374817]",
+  "convertedAt": "2026-09-05T13:37:26.793Z"
+}

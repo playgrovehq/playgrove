@@ -1,0 +1,30 @@
+{
+  "id": "doors-round-arch",
+  "label": "Doors RoundArch",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1KbXrmvSDUp5gVzOoDNbztx6VnZq1dlgt",
+  "file": "OBJ/Doors_RoundArch.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "59acce40e74981e6e52dd1869c4b3b182ee263a5fc3e2ea353f90664ec1159d4",
+  "originalInputSha256": "59acce40e74981e6e52dd1869c4b3b182ee263a5fc3e2ea353f90664ec1159d4",
+  "dependencies": [
+    {
+      "path": "OBJ/Doors_RoundArch.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Qm7jdBiYZISw7BkUDg-GHKwxwdceN1P3",
+      "sha256": "a21dec54b390b6deb225bd195c35754e9dad48e4995e060595cab6abf45e2f45",
+      "bytes": 784
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "doors-round-arch.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=8 materials=8 bounds=[2.31290602684021,2.969376991968602,0.27427801489830017]",
+  "convertedAt": "2026-09-05T13:32:45.245Z"
+}

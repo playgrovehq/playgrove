@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "column-round2",
+  "label": "Column Round2",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "column",
+    "round2",
+    "quaternius",
+    "ultimatehomeinterior",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a19b89"
+  ],
+  "colorNames": [
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "column-round2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 440,
+    "triangles": 556,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.700016,
+      0,
+      -0.736042
+    ],
+    "max": [
+      0.700019,
+      4.000646,
+      0.736042
+    ],
+    "size": [
+      1.400035,
+      4.000646,
+      1.472084
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Column_Round2_Cylinder.058"
+  ],
+  "materialNames": [
+    "Marble"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+    "download": "https://drive.google.com/uc?export=download&id=1tmn22NrHoCx3_PMmS8-tvZinf6eMAPwV",
+    "file": "OBJ/Column_Round2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

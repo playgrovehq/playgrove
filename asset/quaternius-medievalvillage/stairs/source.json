@@ -1,0 +1,30 @@
+{
+  "id": "stairs",
+  "label": "Stairs",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1M_uQDjEBtBVjWfR2aaQw-LILW1bcC1Bm",
+  "file": "Props/OBJ/Stairs.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bda26905f2e2c14041659a8eff94f3147f4f919b1eb1e2bcbbfd41a11268f1b1",
+  "originalInputSha256": "bda26905f2e2c14041659a8eff94f3147f4f919b1eb1e2bcbbfd41a11268f1b1",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Stairs.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=194x93ZiNBDjfN7zMQP9IaD0zWjT64cKx",
+      "sha256": "4d063d47439128b48889c78752817cda643e95fc20d0020a7b4be96f63de6d76",
+      "bytes": 422
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "stairs.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.5013779997825623,0.12295599980279803,0.2949240058660507]",
+  "convertedAt": "2026-09-05T13:36:05.056Z"
+}

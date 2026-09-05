@@ -1,0 +1,30 @@
+{
+  "id": "details-basic-2",
+  "label": "Details Basic 2",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=15rrfKBbuC5ePMlfeER_E1OrcdPMMkB3W",
+  "file": "OBJ/Details_Basic_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1f5498b97c599984df5f9c610e533bc6cce246ff7995ed324688a17baf750873",
+  "originalInputSha256": "1f5498b97c599984df5f9c610e533bc6cce246ff7995ed324688a17baf750873",
+  "dependencies": [
+    {
+      "path": "OBJ/Details_Basic_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16N5Fq0J_tuEN8M6k4dPGD_7fp3QObn4K",
+      "sha256": "1017dadc3f7ef2b4986ac8c292206df37050cd12d4ac74f447f7d1c8baf1f83d",
+      "bytes": 422
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "details-basic-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.2699219882488251,0.5292360186576843,0.05169699899852276]",
+  "convertedAt": "2026-09-05T13:34:56.525Z"
+}

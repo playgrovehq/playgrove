@@ -1,0 +1,30 @@
+{
+  "id": "pan",
+  "label": "Pan",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1lOxHZalmiz-PjqdxQjF9fwEk4k-ywWVo",
+  "file": "OBJ/Pan.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "128aaa7539b74b7270d00864f0119392fcd6b47a5a25e4928d5ee8c66d7572e1",
+  "originalInputSha256": "128aaa7539b74b7270d00864f0119392fcd6b47a5a25e4928d5ee8c66d7572e1",
+  "dependencies": [
+    {
+      "path": "OBJ/Pan.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1m1xFpyEBsSgDezPtWVUdA-yTfYfqECIa",
+      "sha256": "3d766c9ad34bae7119eb844774cf59eca8c3fc657c9d5d2b36dabe3d2177a96d",
+      "bytes": 588
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pan.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.72298002243042,0.342024989426136,2.82463002204895]",
+  "convertedAt": "2026-09-05T13:37:26.522Z"
+}

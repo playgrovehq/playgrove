@@ -1,0 +1,30 @@
+{
+  "id": "bathroom-mirror1",
+  "label": "Bathroom Mirror1",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=16FXMtnhDn6x0htt-he7Px7QC6fMOaMtl",
+  "file": "OBJ/Bathroom_Mirror1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6dd5558fa580ac0504291c43f133f8ca0a8948f8ce54fbba12b2938aa96d758f",
+  "originalInputSha256": "6dd5558fa580ac0504291c43f133f8ca0a8948f8ce54fbba12b2938aa96d758f",
+  "dependencies": [
+    {
+      "path": "OBJ/Bathroom_Mirror1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1WeFcbzUmyyfVkW2bpdLsA9Vxj2IMG5z-",
+      "sha256": "90b62c778ce79e761e536a02b0c46277655981ecd53717d1ecbed77a250daec9",
+      "bytes": 422
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bathroom-mirror1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6480799913406372,0.9296669960021973,0.10197100043296814]",
+  "convertedAt": "2026-09-05T13:40:37.823Z"
+}

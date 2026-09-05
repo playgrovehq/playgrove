@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "tomato-4",
+  "label": "Tomato 4",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "tomato",
+    "quaternius",
+    "ultimatecrops",
+    "icosphere",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#673420",
+    "#77a15a"
+  ],
+  "colorNames": [
+    "brown",
+    "green"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tomato-4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3350,
+    "triangles": 1518,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.369766,
+      -0.000141,
+      -0.336473
+    ],
+    "max": [
+      0.423415,
+      1.719962,
+      0.473529
+    ],
+    "size": [
+      0.793181,
+      1.720103,
+      0.810002
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Tomato_4_Icosphere.013"
+  ],
+  "materialNames": [
+    "Red",
+    "Green"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ub7Nfg2N14RLA06fcteD5UY_sxbI_viz",
+    "file": "OBJ/Tomato_4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

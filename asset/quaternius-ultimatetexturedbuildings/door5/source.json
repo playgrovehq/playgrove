@@ -1,0 +1,30 @@
+{
+  "id": "door5",
+  "label": "Door5",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1abQJE8EyPKmHo--X2dXO4FTPRrKUHYe_",
+  "file": "Textured Models/Base Modular Parts/OBJ/Door5.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2971f7aee46360cfd661b31404c36b16d6b27a6c3989e0223c8138af4686ad64",
+  "originalInputSha256": "2971f7aee46360cfd661b31404c36b16d6b27a6c3989e0223c8138af4686ad64",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Door5.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1JOqCmVcifTRb10KGSeCvpzCWf9Q3hZ5i",
+      "sha256": "935e7a5cb8ecc79971b0d6b99a3d4ac11cad61f75569f08b18c08f3b7dce24e1",
+      "bytes": 234
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "door5.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4409160017967224,0.9145590271800756,0.042937000282108784]",
+  "convertedAt": "2026-09-05T13:48:28.722Z"
+}

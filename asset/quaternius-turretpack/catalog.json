@@ -1,0 +1,2981 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T13:42:54.982Z",
+  "assets": [
+    {
+      "id": "base",
+      "label": "Base",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "base/thumbnail.png",
+      "model": "base/base.ts",
+      "package": "base",
+      "descriptor": "base/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1V-ntDi3g_GEzZn2uKZYCMfXaHPhm9FG3",
+        "file": "OBJ/Base.obj"
+      },
+      "category": "props",
+      "tags": [
+        "base",
+        "quaternius",
+        "turretpack",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 640,
+        "triangles": 376,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.688379,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.688381,
+          0.525178,
+          0.68838
+        ],
+        "size": [
+          1.37676,
+          0.568782,
+          1.37676
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bomber-1",
+      "label": "Bomber 1",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "bomber-1/thumbnail.png",
+      "model": "bomber-1/bomber-1.ts",
+      "package": "bomber-1",
+      "descriptor": "bomber-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1e6B82mbzXpWajFy3ah7tbGNCHgfoZ_ab",
+        "file": "OBJ/Bomber_1.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "bomber",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4410,
+        "triangles": 2714,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.920155,
+          -0.043604,
+          -0.688378
+        ],
+        "max": [
+          0.920155,
+          2.327865,
+          1.250256
+        ],
+        "size": [
+          1.84031,
+          2.371469,
+          1.938634
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bomber-2",
+      "label": "Bomber 2",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "bomber-2/thumbnail.png",
+      "model": "bomber-2/bomber-2.ts",
+      "package": "bomber-2",
+      "descriptor": "bomber-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=13a7_ZhrlRHhKjVweKEPJRUSvNU6qFkEL",
+        "file": "OBJ/Bomber_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "bomber",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 5905,
+        "triangles": 3613,
+        "parts": 6,
+        "discardedDegenerate": 5
+      },
+      "bounds": {
+        "min": [
+          -1.074726,
+          -0.043604,
+          -0.688381
+        ],
+        "max": [
+          1.072635,
+          2.582303,
+          1.177179
+        ],
+        "size": [
+          2.147361,
+          2.625907,
+          1.86556
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cannon-1",
+      "label": "Cannon 1",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "cannon-1/thumbnail.png",
+      "model": "cannon-1/cannon-1.ts",
+      "package": "cannon-1",
+      "descriptor": "cannon-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1oYQJAf0a_0OJ0kYuA04geD7P82envJdB",
+        "file": "OBJ/Cannon_1.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "cannon",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2178,
+        "triangles": 1260,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.688381,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.68838,
+          1.840801,
+          0.708032
+        ],
+        "size": [
+          1.376761,
+          1.884405,
+          1.396412
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cannon-2",
+      "label": "Cannon 2",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "cannon-2/thumbnail.png",
+      "model": "cannon-2/cannon-2.ts",
+      "package": "cannon-2",
+      "descriptor": "cannon-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1nHFksyg560HsXXz4vXRBaEFb-0AUzAGu",
+        "file": "OBJ/Cannon_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "cannon",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2430,
+        "triangles": 1392,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.781137,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.781137,
+          2.247657,
+          1.152421
+        ],
+        "size": [
+          1.562274,
+          2.291261,
+          1.840801
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cannon-3",
+      "label": "Cannon 3",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "cannon-3/thumbnail.png",
+      "model": "cannon-3/cannon-3.ts",
+      "package": "cannon-3",
+      "descriptor": "cannon-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1sy3l9vK_qFmvkAs0p9TfT9sRIHLzkg-B",
+        "file": "OBJ/Cannon_3.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "cannon",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4198,
+        "triangles": 2536,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.01139,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          1.01139,
+          2.577684,
+          1.176927
+        ],
+        "size": [
+          2.02278,
+          2.621288,
+          1.865307
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cannon-4",
+      "label": "Cannon 4",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "cannon-4/thumbnail.png",
+      "model": "cannon-4/cannon-4.ts",
+      "package": "cannon-4",
+      "descriptor": "cannon-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Iolky3_DV2fEazPGad4UtE8Pwvfk92GJ",
+        "file": "OBJ/Cannon_4.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "cannon",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4648,
+        "triangles": 2900,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.01139,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          1.011389,
+          2.215016,
+          1.922172
+        ],
+        "size": [
+          2.022779,
+          2.25862,
+          2.610552
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cannon-5",
+      "label": "Cannon 5",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "cannon-5/thumbnail.png",
+      "model": "cannon-5/cannon-5.ts",
+      "package": "cannon-5",
+      "descriptor": "cannon-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=12M76yHwtw_-PB87ZBs42-JjbgCpAW1gH",
+        "file": "OBJ/Cannon_5.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "cannon",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3382,
+        "triangles": 2008,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.437989,
+          -0.043604,
+          -0.688382
+        ],
+        "max": [
+          1.437988,
+          1.979182,
+          0.816568
+        ],
+        "size": [
+          2.875977,
+          2.022786,
+          1.50495
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cannon-6",
+      "label": "Cannon 6",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "cannon-6/thumbnail.png",
+      "model": "cannon-6/cannon-6.ts",
+      "package": "cannon-6",
+      "descriptor": "cannon-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1A4GeRg5WQHOTmZLuirju7Ix70Dxfuo9X",
+        "file": "OBJ/Cannon_6.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "cannon",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4226,
+        "triangles": 2616,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.994971,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          1.027809,
+          2.302907,
+          1.470865
+        ],
+        "size": [
+          2.02278,
+          2.346511,
+          2.159245
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cannon-7",
+      "label": "Cannon 7",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "cannon-7/thumbnail.png",
+      "model": "cannon-7/cannon-7.ts",
+      "package": "cannon-7",
+      "descriptor": "cannon-7/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1fMH0NKfJRof13BZN4XultEa8JjfK110v",
+        "file": "OBJ/Cannon_7.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "cannon",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 6942,
+        "triangles": 4304,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.74664,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          1.746638,
+          2.353448,
+          1.662587
+        ],
+        "size": [
+          3.493278,
+          2.397052,
+          2.350967
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gear-cannon-1",
+      "label": "GearCannon 1",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gear-cannon-1/thumbnail.png",
+      "model": "gear-cannon-1/gear-cannon-1.ts",
+      "package": "gear-cannon-1",
+      "descriptor": "gear-cannon-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1IJJRZvzRxc5PR52uqJWRXp3vaYl0X17_",
+        "file": "OBJ/GearCannon_1.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gear",
+        "cannon",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2786,
+        "triangles": 1696,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.94159,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.94159,
+          1.470492,
+          0.816571
+        ],
+        "size": [
+          1.88318,
+          1.514096,
+          1.504951
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gear-cannon-2",
+      "label": "GearCannon 2",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gear-cannon-2/thumbnail.png",
+      "model": "gear-cannon-2/gear-cannon-2.ts",
+      "package": "gear-cannon-2",
+      "descriptor": "gear-cannon-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1V95USK7R3s3KvO61qQdxQZNar6b55GcV",
+        "file": "OBJ/GearCannon_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gear",
+        "cannon",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3447,
+        "triangles": 2118,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.94159,
+          -0.043604,
+          -0.688381
+        ],
+        "max": [
+          0.94159,
+          1.821886,
+          0.81657
+        ],
+        "size": [
+          1.88318,
+          1.86549,
+          1.504951
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gun",
+      "label": "Gun",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gun/thumbnail.png",
+      "model": "gun/gun.ts",
+      "package": "gun",
+      "descriptor": "gun/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1wYilSB_2Ig1xZ4rNoUttVbPfVHB8OGjr",
+        "file": "OBJ/Gun.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gun",
+        "quaternius",
+        "turretpack",
+        "simple",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1394,
+        "triangles": 944,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.474153,
+          -0.038696,
+          -0.385721
+        ],
+        "max": [
+          0.46201,
+          1.643155,
+          0.834915
+        ],
+        "size": [
+          0.936163,
+          1.681851,
+          1.220636
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gun-10",
+      "label": "Gun 10",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gun-10/thumbnail.png",
+      "model": "gun-10/gun-10.ts",
+      "package": "gun-10",
+      "descriptor": "gun-10/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Sp17zRi-AjQczIO12XIGDeuOYgdQlwB3",
+        "file": "OBJ/Gun_10.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gun",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 7426,
+        "triangles": 4876,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.01139,
+          -0.043604,
+          -2.224674
+        ],
+        "max": [
+          1.01139,
+          3.208555,
+          2.072776
+        ],
+        "size": [
+          2.02278,
+          3.252159,
+          4.29745
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gun-2",
+      "label": "Gun 2",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gun-2/thumbnail.png",
+      "model": "gun-2/gun-2.ts",
+      "package": "gun-2",
+      "descriptor": "gun-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1O_Ro3s2YvnNj8Fwaehwk_DjeXeUs7YGe",
+        "file": "OBJ/Gun_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gun",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1910,
+        "triangles": 1248,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.68838,
+          -0.043604,
+          -0.712682
+        ],
+        "max": [
+          0.68838,
+          1.869895,
+          1.633111
+        ],
+        "size": [
+          1.37676,
+          1.913499,
+          2.345793
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gun-3",
+      "label": "Gun 3",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gun-3/thumbnail.png",
+      "model": "gun-3/gun-3.ts",
+      "package": "gun-3",
+      "descriptor": "gun-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1E3KJx_M-05J5fmv0wTAhuoBPttyXpZuv",
+        "file": "OBJ/Gun_3.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gun",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3008,
+        "triangles": 1904,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.01139,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          1.01139,
+          1.941593,
+          2.25605
+        ],
+        "size": [
+          2.02278,
+          1.985197,
+          2.94443
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gun-4",
+      "label": "Gun 4",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gun-4/thumbnail.png",
+      "model": "gun-4/gun-4.ts",
+      "package": "gun-4",
+      "descriptor": "gun-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=16sSIPQiPrxld1aRzjZfCneslbhJrxzFE",
+        "file": "OBJ/Gun_4.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gun",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3550,
+        "triangles": 2200,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.01139,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          1.01139,
+          2.07278,
+          2.090307
+        ],
+        "size": [
+          2.02278,
+          2.116384,
+          2.778687
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gun-5",
+      "label": "Gun 5",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gun-5/thumbnail.png",
+      "model": "gun-5/gun-5.ts",
+      "package": "gun-5",
+      "descriptor": "gun-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1kSh4MyHh9nu2gebn3w7Rj8IC1Lk9prVf",
+        "file": "OBJ/Gun_5.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gun",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3302,
+        "triangles": 2020,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.68838,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.68838,
+          2.274721,
+          2.138833
+        ],
+        "size": [
+          1.37676,
+          2.318325,
+          2.827213
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gun-6",
+      "label": "Gun 6",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gun-6/thumbnail.png",
+      "model": "gun-6/gun-6.ts",
+      "package": "gun-6",
+      "descriptor": "gun-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1URRMz2I6_22uS6qFrb8uNGZ2_7sZo5wO",
+        "file": "OBJ/Gun_6.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gun",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3098,
+        "triangles": 1960,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.01139,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          1.01139,
+          2.18224,
+          2.090307
+        ],
+        "size": [
+          2.02278,
+          2.225844,
+          2.778687
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gun-7",
+      "label": "Gun 7",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gun-7/thumbnail.png",
+      "model": "gun-7/gun-7.ts",
+      "package": "gun-7",
+      "descriptor": "gun-7/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1raKpc3OTgdJCfuxvQDjWb1eR69X3D_zh",
+        "file": "OBJ/Gun_7.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gun",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3510,
+        "triangles": 2224,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.01139,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          1.01139,
+          2.363998,
+          2.01952
+        ],
+        "size": [
+          2.02278,
+          2.407602,
+          2.7079
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gun-8",
+      "label": "Gun 8",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gun-8/thumbnail.png",
+      "model": "gun-8/gun-8.ts",
+      "package": "gun-8",
+      "descriptor": "gun-8/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=15Ri-oDTe-ks9a7PU3VHkBXsA3ivJI-1x",
+        "file": "OBJ/Gun_8.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gun",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3174,
+        "triangles": 2024,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.01139,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          1.01139,
+          2.462199,
+          2.090307
+        ],
+        "size": [
+          2.02278,
+          2.505803,
+          2.778687
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gun-9",
+      "label": "Gun 9",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "gun-9/thumbnail.png",
+      "model": "gun-9/gun-9.ts",
+      "package": "gun-9",
+      "descriptor": "gun-9/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1SAEoWmtQUFSETE_Y0a2fG88u3Ud6lVqq",
+        "file": "OBJ/Gun_9.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "gun",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4310,
+        "triangles": 2804,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.01139,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          1.01139,
+          2.485816,
+          2.090307
+        ],
+        "size": [
+          2.02278,
+          2.52942,
+          2.778687
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "laser-1",
+      "label": "Laser 1",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "laser-1/thumbnail.png",
+      "model": "laser-1/laser-1.ts",
+      "package": "laser-1",
+      "descriptor": "laser-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1NhqQZ-lmlpNF67Mp8v-ZSDkIvjJURnKz",
+        "file": "OBJ/Laser_1.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "laser",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2834,
+        "triangles": 1744,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.49241,
+          -0.038696,
+          -0.385721
+        ],
+        "max": [
+          0.505131,
+          2.014393,
+          1.529222
+        ],
+        "size": [
+          0.997541,
+          2.053089,
+          1.914943
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "laser-2",
+      "label": "Laser 2",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "laser-2/thumbnail.png",
+      "model": "laser-2/laser-2.ts",
+      "package": "laser-2",
+      "descriptor": "laser-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=12n11qz80lzsL7jInatJ8blCEVICF871v",
+        "file": "OBJ/Laser_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "laser",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3662,
+        "triangles": 2092,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.688379,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.688381,
+          2.360069,
+          2.138833
+        ],
+        "size": [
+          1.37676,
+          2.403673,
+          2.827213
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "laser-doble",
+      "label": "Laser Doble",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "laser-doble/thumbnail.png",
+      "model": "laser-doble/laser-doble.ts",
+      "package": "laser-doble",
+      "descriptor": "laser-doble/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=15kW8U07HtmQUxhY-HTozdg-lUcHIIrdf",
+        "file": "OBJ/Laser_Doble.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "laser",
+        "doble",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 6054,
+        "triangles": 3392,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.705977,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.705127,
+          2.248135,
+          2.090307
+        ],
+        "size": [
+          1.411104,
+          2.291739,
+          2.778687
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "laser-machine-gun",
+      "label": "Laser MachineGun",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "laser-machine-gun/thumbnail.png",
+      "model": "laser-machine-gun/laser-machine-gun.ts",
+      "package": "laser-machine-gun",
+      "descriptor": "laser-machine-gun/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1BZkYuAbar4AZAYPf2_9gxWsJ2MItTc4s",
+        "file": "OBJ/Laser_MachineGun.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "laser",
+        "machine",
+        "gun",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 9234,
+        "triangles": 5044,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.688379,
+          -0.043604,
+          -0.744552
+        ],
+        "max": [
+          0.688381,
+          2.242089,
+          1.825706
+        ],
+        "size": [
+          1.37676,
+          2.285693,
+          2.570258
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "laser-quad",
+      "label": "Laser Quad",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "laser-quad/thumbnail.png",
+      "model": "laser-quad/laser-quad.ts",
+      "package": "laser-quad",
+      "descriptor": "laser-quad/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Pl1xBBSf_1oOvxrSIrU1DEe2G5fgv-bz",
+        "file": "OBJ/Laser_Quad.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "laser",
+        "quad",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 8206,
+        "triangles": 4604,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.694775,
+          -0.043604,
+          -2.4994
+        ],
+        "max": [
+          0.693923,
+          2.118619,
+          2.4994
+        ],
+        "size": [
+          1.388698,
+          2.162223,
+          4.9988
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "long-1",
+      "label": "Long 1",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "long-1/thumbnail.png",
+      "model": "long-1/long-1.ts",
+      "package": "long-1",
+      "descriptor": "long-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1XYMqW-TTpDkw0mPZTDJ1t48onS8eLkk7",
+        "file": "OBJ/Long_1.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "long",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3694,
+        "triangles": 2306,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.073681,
+          -0.043604,
+          -1.526971
+        ],
+        "max": [
+          1.073681,
+          2.17362,
+          1.647026
+        ],
+        "size": [
+          2.147362,
+          2.217224,
+          3.173997
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "long-2",
+      "label": "Long 2",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "long-2/thumbnail.png",
+      "model": "long-2/long-2.ts",
+      "package": "long-2",
+      "descriptor": "long-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1cNyOkHC9WmkTb0PlmReXjuAIKGiEHCth",
+        "file": "OBJ/Long_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "long",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4974,
+        "triangles": 2946,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.073681,
+          -0.043604,
+          -1.694807
+        ],
+        "max": [
+          1.073681,
+          2.313344,
+          1.213031
+        ],
+        "size": [
+          2.147362,
+          2.356948,
+          2.907838
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "teleporter1",
+      "label": "Teleporter1",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "teleporter1/thumbnail.png",
+      "model": "teleporter1/teleporter1.ts",
+      "package": "teleporter1",
+      "descriptor": "teleporter1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1gMVjbAF1IJGh3CrhbrZg2BO3wkn0rw-s",
+        "file": "OBJ/Teleporter1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "teleporter1",
+        "quaternius",
+        "turretpack",
+        "cylinder",
+        "top",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1020,
+        "triangles": 576,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.688382,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.688378,
+          0.790309,
+          0.68838
+        ],
+        "size": [
+          1.37676,
+          0.833913,
+          1.37676
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "teleporter2",
+      "label": "Teleporter2",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "teleporter2/thumbnail.png",
+      "model": "teleporter2/teleporter2.ts",
+      "package": "teleporter2",
+      "descriptor": "teleporter2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1LGB0B4NHoqca_LaXZB7WUsEy_x6r-Sis",
+        "file": "OBJ/Teleporter2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "teleporter2",
+        "quaternius",
+        "turretpack",
+        "cylinder",
+        "top",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1340,
+        "triangles": 736,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.688379,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.688382,
+          1.025213,
+          0.68838
+        ],
+        "size": [
+          1.376761,
+          1.068817,
+          1.37676
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "teleporter3",
+      "label": "Teleporter3",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "teleporter3/thumbnail.png",
+      "model": "teleporter3/teleporter3.ts",
+      "package": "teleporter3",
+      "descriptor": "teleporter3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1-hNoT2ypjcnroKtyP42trqdNw0J4-Hxq",
+        "file": "OBJ/Teleporter3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "teleporter3",
+        "quaternius",
+        "turretpack",
+        "cylinder",
+        "top",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1788,
+        "triangles": 960,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.688379,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.688381,
+          1.436995,
+          0.68838
+        ],
+        "size": [
+          1.37676,
+          1.480599,
+          1.37676
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "teleporter4",
+      "label": "Teleporter4",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "teleporter4/thumbnail.png",
+      "model": "teleporter4/teleporter4.ts",
+      "package": "teleporter4",
+      "descriptor": "teleporter4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=11DZkHJLTCwnnZS5qAVAJPTAhhcB-6Lvp",
+        "file": "OBJ/Teleporter4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "teleporter4",
+        "quaternius",
+        "turretpack",
+        "cylinder",
+        "top",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2276,
+        "triangles": 1212,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.880881,
+          -0.043604,
+          -0.881693
+        ],
+        "max": [
+          0.881179,
+          2.368704,
+          0.880368
+        ],
+        "size": [
+          1.76206,
+          2.412308,
+          1.762061
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "teleporter5",
+      "label": "Teleporter5",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "teleporter5/thumbnail.png",
+      "model": "teleporter5/teleporter5.ts",
+      "package": "teleporter5",
+      "descriptor": "teleporter5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=1kSH7_96-2OGJMGJwTevJZgM0lXcKK8s-",
+        "file": "OBJ/Teleporter5.obj"
+      },
+      "category": "props",
+      "tags": [
+        "teleporter5",
+        "quaternius",
+        "turretpack",
+        "cylinder",
+        "bottom",
+        "top",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3504,
+        "triangles": 1872,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.881997,
+          -0.043604,
+          -0.881693
+        ],
+        "max": [
+          0.881185,
+          4.776484,
+          0.880368
+        ],
+        "size": [
+          1.763182,
+          4.820088,
+          1.762061
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "upwards-1",
+      "label": "Upwards 1",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "upwards-1/thumbnail.png",
+      "model": "upwards-1/upwards-1.ts",
+      "package": "upwards-1",
+      "descriptor": "upwards-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=19NP11HfUQan9LLCXgEQcP0PQtYP8Y09U",
+        "file": "OBJ/Upwards_1.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "upwards",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#54312a",
+        "#784a44"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2294,
+        "triangles": 1300,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.688379,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.688382,
+          2.185295,
+          0.68838
+        ],
+        "size": [
+          1.376761,
+          2.228899,
+          1.37676
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "upwards-2",
+      "label": "Upwards 2",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "upwards-2/thumbnail.png",
+      "model": "upwards-2/upwards-2.ts",
+      "package": "upwards-2",
+      "descriptor": "upwards-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=16vcuL_R_fVS8YC1Et50VFE3qkyfIp6PX",
+        "file": "OBJ/Upwards_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "upwards",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2228,
+        "triangles": 1324,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.688379,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.688382,
+          2.747838,
+          0.688381
+        ],
+        "size": [
+          1.376761,
+          2.791442,
+          1.376761
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "upwards-3",
+      "label": "Upwards 3 ",
+      "description": "Steampunk Turret Pack by Quaternius.",
+      "thumbnail": "upwards-3/thumbnail.png",
+      "model": "upwards-3/upwards-3.ts",
+      "package": "upwards-3",
+      "descriptor": "upwards-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/turretpack.html",
+        "download": "https://drive.google.com/uc?export=download&id=171p6f65P9PCrIFzSXaOmVmlVWkmQOAKm",
+        "file": "OBJ/Upwards_3_.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "upwards",
+        "quaternius",
+        "turretpack",
+        "base",
+        "cylinder",
+        "gun",
+        "mid",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#784a44",
+        "#54312a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2720,
+        "triangles": 1608,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.746815,
+          -0.043604,
+          -0.68838
+        ],
+        "max": [
+          0.731992,
+          2.53328,
+          0.68838
+        ],
+        "size": [
+          1.478807,
+          2.576884,
+          1.37676
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

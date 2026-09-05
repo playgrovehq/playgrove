@@ -1,0 +1,30 @@
+{
+  "id": "bush-berries-4",
+  "label": "BushBerries 4",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=10GBJbMX4p9ilNmOZ63IWXleqqY5XZpFZ",
+  "file": "OBJ/BushBerries_4.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8223eccb61f774ba0360c94f995e2ead2c786283272352895b73574a71c00ae0",
+  "originalInputSha256": "8223eccb61f774ba0360c94f995e2ead2c786283272352895b73574a71c00ae0",
+  "dependencies": [
+    {
+      "path": "OBJ/BushBerries_4.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=14GWR_Bxsi4WWtS3dw8ZDiOf_3JFgDH0r",
+      "sha256": "3d2306e15f61aed8b4c9a86db5e7f8d7bdbce6c1a6098469b2c098a2da3a3b33",
+      "bytes": 423
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bush-berries-4.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.7188889980316162,1.2759970463812351,1.3923850059509277]",
+  "convertedAt": "2026-09-05T13:45:26.012Z"
+}

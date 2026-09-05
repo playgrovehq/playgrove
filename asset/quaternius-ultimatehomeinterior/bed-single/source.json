@@ -1,0 +1,30 @@
+{
+  "id": "bed-single",
+  "label": "Bed Single",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=17jXxTC-2zGHUNZe6bQTOkofZa1mktlUf",
+  "file": "OBJ/Bed_Single.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c37657fb94f7d588ca5f9a3b7dba921112e2b7d59df62d423cf32429eee11f14",
+  "originalInputSha256": "c37657fb94f7d588ca5f9a3b7dba921112e2b7d59df62d423cf32429eee11f14",
+  "dependencies": [
+    {
+      "path": "OBJ/Bed_Single.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1lQWeEKAD_6Qzq9gt95oYPwuBCUKgAgTX",
+      "sha256": "7b88cde1db81afeb8e3eea193eacf4fb7225e0e7e9a98e885c132d3362dafa9a",
+      "bytes": 947
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bed-single.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.9791449904441833,1.3545750379562378,3.940000057220459]",
+  "convertedAt": "2026-09-05T13:40:38.624Z"
+}

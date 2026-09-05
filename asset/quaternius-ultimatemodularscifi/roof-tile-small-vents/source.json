@@ -1,0 +1,30 @@
+{
+  "id": "roof-tile-small-vents",
+  "label": "RoofTile SmallVents",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1pyDRZLM98UoMgaMoo8Bx9vX-yKvgtLQ3",
+  "file": "OBJ/RoofTile_SmallVents.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "61d283d1095e0f21a23d8f6be99b75f1dd2818b1156d67c6a0f0c29091488d29",
+  "originalInputSha256": "61d283d1095e0f21a23d8f6be99b75f1dd2818b1156d67c6a0f0c29091488d29",
+  "dependencies": [
+    {
+      "path": "OBJ/RoofTile_SmallVents.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1AznVPJXAXZRYxSM8fNXDPGxCBydb9RiD",
+      "sha256": "70b6bbe677269eea549f814f071d698281b09d625e9c6b53e24b3df70c2ea919",
+      "bytes": 966
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "roof-tile-small-vents.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[2,0.09065900323912501,2]",
+  "convertedAt": "2026-09-05T13:34:57.723Z"
+}

@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "gear-cannon-2",
+  "label": "GearCannon 2",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "gear",
+    "cannon",
+    "quaternius",
+    "turretpack",
+    "base",
+    "cylinder",
+    "gun",
+    "mid",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#54312a",
+    "#784a44"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "gear-cannon-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3447,
+    "triangles": 2118,
+    "parts": 6,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.94159,
+      -0.043604,
+      -0.688381
+    ],
+    "max": [
+      0.94159,
+      1.821886,
+      0.81657
+    ],
+    "size": [
+      1.88318,
+      1.86549,
+      1.504951
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "GearCannon_2_Base_Cylinder.053",
+    "GearCannon_2_Gun_Cylinder.222",
+    "GearCannon_2_Mid_Cylinder.219"
+  ],
+  "materialNames": [
+    "Dark",
+    "Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/turretpack.html",
+    "download": "https://drive.google.com/uc?export=download&id=1V95USK7R3s3KvO61qQdxQZNar6b55GcV",
+    "file": "OBJ/GearCannon_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

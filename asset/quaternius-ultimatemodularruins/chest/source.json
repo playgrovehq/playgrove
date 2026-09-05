@@ -1,0 +1,30 @@
+{
+  "id": "chest",
+  "label": "Chest",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1iajtkMWv6qfUl-iPi5ZusSfSLu9KajCh",
+  "file": "OBJ/Chest.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4b9cdee2053800209759db89d9103915b17cc25fe3c5f8df7c9eb8a840a51180",
+  "originalInputSha256": "4b9cdee2053800209759db89d9103915b17cc25fe3c5f8df7c9eb8a840a51180",
+  "dependencies": [
+    {
+      "path": "OBJ/Chest.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17Nfqe08AH9dPdgx3s5msiPNMcmAIxmm5",
+      "sha256": "c7ad62771bd94d40c58f688a5eeaa71d6e229897daba34f2498af9311947ddb0",
+      "bytes": 590
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chest.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.1793179512023926,0.9093420259887353,0.8264209926128387]",
+  "convertedAt": "2026-09-05T13:32:44.936Z"
+}

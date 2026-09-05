@@ -1,0 +1,30 @@
+{
+  "id": "arch-round",
+  "label": "Arch Round",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Hm3gxsZFiDfM68RNFvOrOXR88Qbvkh0z",
+  "file": "OBJ/Arch_Round.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c2e7c5f5d9989ded9ae1a723d5a5ce4ad655765ba7675075152b8a9f06730069",
+  "originalInputSha256": "c2e7c5f5d9989ded9ae1a723d5a5ce4ad655765ba7675075152b8a9f06730069",
+  "dependencies": [
+    {
+      "path": "OBJ/Arch_Round.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1T6hs_tOhDAbk9RjencFPMKba3VLicupU",
+      "sha256": "f508210614cff978bbf16e1e00af78c5f6ad9bf73d9dc3cbe95972f76ad5f337",
+      "bytes": 597
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "arch-round.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.0919458866119385,3.532717981521273,0.4909899979829788]",
+  "convertedAt": "2026-09-05T13:32:44.579Z"
+}

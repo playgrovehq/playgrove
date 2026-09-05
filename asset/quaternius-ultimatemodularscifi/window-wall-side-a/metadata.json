@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "id": "window-wall-side-a",
+  "label": "Window Wall SideA",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "window",
+    "wall",
+    "side",
+    "a",
+    "quaternius",
+    "ultimatemodularscifi",
+    "plane",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a",
+    "#b28641",
+    "#2a2a2a",
+    "#797979",
+    "#a8a8a8"
+  ],
+  "colorNames": [
+    "gray",
+    "orange",
+    "black",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "window-wall-side-a.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 554,
+    "triangles": 332,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -2,
+      0,
+      -0.808431
+    ],
+    "max": [
+      2.000002,
+      4.430894,
+      0.255656
+    ],
+    "size": [
+      4.000002,
+      4.430894,
+      1.064087
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Window_Wall_SideA_Plane.003"
+  ],
+  "materialNames": [
+    "Main",
+    "Accent",
+    "Glass",
+    "DarkGrey",
+    "Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1a7yc_d-H_N8QIeLjz0auV2OusTwXvN29",
+    "file": "OBJ/Window_Wall_SideA.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

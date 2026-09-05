@@ -1,0 +1,30 @@
+{
+  "id": "fireplace",
+  "label": "Fireplace",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1DQc6HFt3M97vbfvz-cGisHAAHIdvhQQa",
+  "file": "OBJ/Fireplace.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a76c70095696b5adfcb8d622c3b9f9d10eb430002193cac23f1a20f565c7e953",
+  "originalInputSha256": "a76c70095696b5adfcb8d622c3b9f9d10eb430002193cac23f1a20f565c7e953",
+  "dependencies": [
+    {
+      "path": "OBJ/Fireplace.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=10T50HEXY1daHpRy5t8gvKUpaja6V_bxu",
+      "sha256": "b9511e90e6c870769096240fef5c23fb930afd079dbf290205f7a825c7006fb8",
+      "bytes": 237
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "fireplace.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3.2498070001602173,2.56119704246521,1.1578459739685059]",
+  "convertedAt": "2026-09-05T13:40:39.326Z"
+}

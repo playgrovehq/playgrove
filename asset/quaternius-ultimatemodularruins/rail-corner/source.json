@@ -1,0 +1,30 @@
+{
+  "id": "rail-corner",
+  "label": "Rail Corner",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1P4p2HRLhgND7DI_iYk74vRRzuNjPXHxP",
+  "file": "OBJ/Rail_Corner.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "339dbc3ef61ad5b4b9480c1bbb34d8a4fb04c318e4ef33986ac6daa7457dedfd",
+  "originalInputSha256": "339dbc3ef61ad5b4b9480c1bbb34d8a4fb04c318e4ef33986ac6daa7457dedfd",
+  "dependencies": [
+    {
+      "path": "OBJ/Rail_Corner.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1sXSWjLmTditTcq0EAdL32t4lEU-7U8x6",
+      "sha256": "451c83849dbfd5f9d0eefbabfbb5c926d97a156650f5ada6dff4aa686d3210bc",
+      "bytes": 237
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "rail-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.167822003364563,0.4882790071424097,1.167822003364563]",
+  "convertedAt": "2026-09-05T13:32:45.596Z"
+}

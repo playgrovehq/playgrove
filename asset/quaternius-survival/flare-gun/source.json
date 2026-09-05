@@ -1,0 +1,30 @@
+{
+  "id": "flare-gun",
+  "label": "FlareGun",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1jTHFbPxfPEgNUUzWLxAlX4CkfgCa7fwx",
+  "file": "OBJ/FlareGun.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d03de947ca8ad56cf52ff1bb8e4817b43993d85d8a0b21da6f3e836dbdb86554",
+  "originalInputSha256": "d03de947ca8ad56cf52ff1bb8e4817b43993d85d8a0b21da6f3e836dbdb86554",
+  "dependencies": [
+    {
+      "path": "OBJ/FlareGun.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Zt12x0IJ8HgFQxS7PD2hsrwMdfdmzCLL",
+      "sha256": "11527c08ad1c16f3392a517768d6524b7a81d8718aaa28090dcf4149a5fa2af2",
+      "bytes": 411
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "flare-gun.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2.5052649974823,1.6562310457229614,0.6032829880714417]",
+  "convertedAt": "2026-09-05T13:37:26.405Z"
+}

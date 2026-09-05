@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "doors-gothic-arch-covered",
+  "label": "Doors GothicArch Covered",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "doors",
+    "gothic",
+    "arch",
+    "covered",
+    "quaternius",
+    "ultimatemodularruins",
+    "cylinder",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#625239",
+    "#4b3d29",
+    "#4f5157",
+    "#6a6c75"
+  ],
+  "colorNames": [
+    "brown",
+    "black",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "doors-gothic-arch-covered.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2908,
+    "triangles": 2096,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.267529,
+      -0.006005,
+      -0.139428
+    ],
+    "max": [
+      1.255103,
+      3.203607,
+      0.139428
+    ],
+    "size": [
+      2.522632,
+      3.209612,
+      0.278856
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Doors_GothicArch_Covered_Cylinder.032"
+  ],
+  "materialNames": [
+    "Wood",
+    "DarkWood",
+    "Metal",
+    "Metal_Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=19qORsjerGKrEVAsQ8NJsQnr06T9__5g6",
+    "file": "OBJ/Doors_GothicArch_Covered.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

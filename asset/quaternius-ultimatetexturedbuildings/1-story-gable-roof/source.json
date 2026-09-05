@@ -1,0 +1,30 @@
+{
+  "id": "1-story-gable-roof",
+  "label": "1Story GableRoof",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1YcKpvbX17_OT6PhoxPJ90liEeV164U93",
+  "file": "Textured Models/Finished Textured Buildings/OBJ/1Story_GableRoof.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a667359bd0160feb4808658115b4955fe0c72cea5451767593bbe625ccc7f1e3",
+  "originalInputSha256": "a667359bd0160feb4808658115b4955fe0c72cea5451767593bbe625ccc7f1e3",
+  "dependencies": [
+    {
+      "path": "Textured Models/Finished Textured Buildings/OBJ/1Story_GableRoof.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=19XQ1pz3kMy1ZMg8FJNDmtZnfTYhSnrNQ",
+      "sha256": "df444d1a27b4835b84aba082df313d20161b1a3c1cd454082c365abfc49bbde2",
+      "bytes": 245
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "1-story-gable-roof.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1052498817443848,2.0245599448680878,2.3801300525665283]",
+  "convertedAt": "2026-09-05T13:48:29.065Z"
+}

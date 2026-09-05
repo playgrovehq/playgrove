@@ -1,0 +1,30 @@
+{
+  "id": "water-bottle-2",
+  "label": "WaterBottle 2",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=14xvo8Z06MikPBHwL2NGryjItZH-xAQ2t",
+  "file": "OBJ/WaterBottle_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0afd3f9ea9c9bfdfd122ebefc01f507d355a581b923465b1567ebf6b5c043dab",
+  "originalInputSha256": "0afd3f9ea9c9bfdfd122ebefc01f507d355a581b923465b1567ebf6b5c043dab",
+  "dependencies": [
+    {
+      "path": "OBJ/WaterBottle_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1-UYkTxYh10pgXNJfeoT0px5Y2Bk2K6qn",
+      "sha256": "18114700cba9ffdc0d2e356e161723f441279402d90fcb24560a5900280bd6cd",
+      "bytes": 419
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "water-bottle-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.5511279702186584,1.8504520058631897,0.5511279702186584]",
+  "convertedAt": "2026-09-05T13:37:26.923Z"
+}

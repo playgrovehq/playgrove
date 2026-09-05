@@ -1,0 +1,30 @@
+{
+  "id": "trashcan",
+  "label": "Trashcan",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1aBansDMD3AUJsTInqAzWdseUEuzYhyWB",
+  "file": "OBJ/Trashcan.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "73a5f73eca06df294918efffb12b4a1581f58d061688b96fbef2877162df3b51",
+  "originalInputSha256": "73a5f73eca06df294918efffb12b4a1581f58d061688b96fbef2877162df3b51",
+  "dependencies": [
+    {
+      "path": "OBJ/Trashcan.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1NFP1l--lp47EmwOtvs1AtZwPMGK6w7ZJ",
+      "sha256": "3f70d6093cc466274deb1186085f24ba5e42dec46beed600f5b8cb3bab121eaf",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "trashcan.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[3.7165770530700684,6.751219011413923,4.8586719036102295]",
+  "convertedAt": "2026-09-05T13:37:26.889Z"
+}

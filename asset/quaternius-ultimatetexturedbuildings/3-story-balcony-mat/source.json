@@ -1,0 +1,30 @@
+{
+  "id": "3-story-balcony-mat",
+  "label": "3Story Balcony Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=14xGTwCgKhAH5ZkkOzl0-8aMbKCOv_A6h",
+  "file": "Models with Materials/OBJ/3Story_Balcony_Mat.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a44feafee3fc6a6f5f891cbcdb66ad68e7114d4d379cfcae3ad5ea1fad14a345",
+  "originalInputSha256": "a44feafee3fc6a6f5f891cbcdb66ad68e7114d4d379cfcae3ad5ea1fad14a345",
+  "dependencies": [
+    {
+      "path": "Models with Materials/OBJ/3Story_Balcony_Mat.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16dlQjKuzxSdUH2PqwmPxp5YIIdAudq5j",
+      "sha256": "5454773af5b796b58e33b1774ce60429098ff50c0139c6a540b23a48f6fd69eb",
+      "bytes": 1670
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "3-story-balcony-mat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=9 materials=9 bounds=[2.1586461067199707,4.212525014067069,2.507728934288025]",
+  "convertedAt": "2026-09-05T13:48:27.755Z"
+}

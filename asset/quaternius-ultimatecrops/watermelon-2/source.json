@@ -1,0 +1,30 @@
+{
+  "id": "watermelon-2",
+  "label": "Watermelon 2",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1SETuHUMZYGnMRmxEZrJ7beASo6Hc326C",
+  "file": "OBJ/Watermelon_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ab3b03c75ed596380c0bfd2d7fb84d6804ad635961d60013fe0e4fe701938326",
+  "originalInputSha256": "ab3b03c75ed596380c0bfd2d7fb84d6804ad635961d60013fe0e4fe701938326",
+  "dependencies": [
+    {
+      "path": "OBJ/Watermelon_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16gNQH2Y9pSUYxciR2Jiotqi2XSHkJ-Fk",
+      "sha256": "995df468842c040e3a345dd669e67714a76d85eeb19c4f675e747bc73e9b6270",
+      "bytes": 421
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "watermelon-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.46840600669384,0.25438599567860365,0.44018201529979706]",
+  "convertedAt": "2026-09-05T13:45:27.369Z"
+}

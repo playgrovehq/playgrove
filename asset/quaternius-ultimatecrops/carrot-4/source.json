@@ -1,0 +1,30 @@
+{
+  "id": "carrot-4",
+  "label": "Carrot 4",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1up6wBSHSGuuQqqMTJecsuAhou38C2Kuf",
+  "file": "OBJ/Carrot_4.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5c94878539c74d55b55ed2b976f68bbda7c502403d894e8792060808c8e6c10f",
+  "originalInputSha256": "5c94878539c74d55b55ed2b976f68bbda7c502403d894e8792060808c8e6c10f",
+  "dependencies": [
+    {
+      "path": "OBJ/Carrot_4.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16lyfHTiLRSZKSEiksRKAggFvmHxvhpoW",
+      "sha256": "6854dc3ec406a6ec09752d8d2e458cf286a4286c21262249ccf92b01605089e8",
+      "bytes": 602
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "carrot-4.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.6765280067920685,1.2791720032691956,0.5015679895877838]",
+  "convertedAt": "2026-09-05T13:45:26.229Z"
+}

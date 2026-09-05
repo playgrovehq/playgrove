@@ -1,0 +1,30 @@
+{
+  "id": "staircase",
+  "label": "Staircase",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ni1Bxf3VbffPSJUPazbKvr3Af2yIXdLX",
+  "file": "Textured Models/Base Modular Parts/OBJ/Staircase.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "07c755b85c5f0fbdea74e9ea4a867159f9d97c6c1012f16afda0fff3f3b69174",
+  "originalInputSha256": "07c755b85c5f0fbdea74e9ea4a867159f9d97c6c1012f16afda0fff3f3b69174",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Staircase.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1a1T-hlJMmuczXPIast1Qg7JjRnjsfScc",
+      "sha256": "f8d3fcaa258da1bd80e9b021ec4ff8ecd6a243cd478c83f761040702a40d4e8a",
+      "bytes": 238
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "staircase.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.8455039858818054,0.18039800226688385,0.48070400953292847]",
+  "convertedAt": "2026-09-05T13:48:28.936Z"
+}

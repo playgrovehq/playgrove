@@ -1,0 +1,30 @@
+{
+  "id": "tent",
+  "label": "Tent",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Adyssh3_yq9GE8XA5cGKnWyB7EaooD6i",
+  "file": "OBJ/Tent.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ee677a84cd5b2c36714bfbd47b9752691f951688291d2acaaf5e068b668fe3d2",
+  "originalInputSha256": "ee677a84cd5b2c36714bfbd47b9752691f951688291d2acaaf5e068b668fe3d2",
+  "dependencies": [
+    {
+      "path": "OBJ/Tent.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17YtpyRtw6gvEUsScbAl5MA4ML9fAD8mY",
+      "sha256": "e5fb6f41f836219f9df407d5c03f1e584d18170c248c156c55b39145e4d3ffa5",
+      "bytes": 773
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tent.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[14.58049201965332,10.32444278895855,24.86819362640381]",
+  "convertedAt": "2026-09-05T13:37:26.851Z"
+}

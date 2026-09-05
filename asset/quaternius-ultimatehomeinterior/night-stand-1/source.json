@@ -1,0 +1,30 @@
+{
+  "id": "night-stand-1",
+  "label": "NightStand 1",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1r9tktIqTKiAOp-eIvJ-OchMDam4abCgG",
+  "file": "OBJ/NightStand_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0f7d0b9826c96ad1107940d7609696ca44b3454f9c2b692f0679296cb8d6dc21",
+  "originalInputSha256": "0f7d0b9826c96ad1107940d7609696ca44b3454f9c2b692f0679296cb8d6dc21",
+  "dependencies": [
+    {
+      "path": "OBJ/NightStand_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1f9oPdQA2w3rsa0iIQ0omGH-skpZ7DUyB",
+      "sha256": "502427c4ec403e5b4ce913f3051e3270b36f183a8b71df1c07d189b57bb28f2b",
+      "bytes": 416
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "night-stand-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.9522299766540527,0.8249189998023212,0.9522299766540527]",
+  "convertedAt": "2026-09-05T13:40:40.026Z"
+}

@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "laser-machine-gun",
+  "label": "Laser MachineGun",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "laser",
+    "machine",
+    "gun",
+    "quaternius",
+    "turretpack",
+    "base",
+    "cylinder",
+    "mid",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#54312a",
+    "#784a44"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "laser-machine-gun.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 9234,
+    "triangles": 5044,
+    "parts": 6,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.688379,
+      -0.043604,
+      -0.744552
+    ],
+    "max": [
+      0.688381,
+      2.242089,
+      1.825706
+    ],
+    "size": [
+      1.37676,
+      2.285693,
+      2.570258
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Laser_MachineGun_Base_Cylinder.148",
+    "Laser_MachineGun_Gun_Cylinder.227",
+    "Laser_MachineGun_Mid_Cylinder.229"
+  ],
+  "materialNames": [
+    "Dark",
+    "Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/turretpack.html",
+    "download": "https://drive.google.com/uc?export=download&id=1BZkYuAbar4AZAYPf2_9gxWsJ2MItTc4s",
+    "file": "OBJ/Laser_MachineGun.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

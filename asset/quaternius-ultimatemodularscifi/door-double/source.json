@@ -1,0 +1,30 @@
+{
+  "id": "door-double",
+  "label": "Door Double",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1KCXvSaVejh6-w3h75T1zoU_npGShDmjg",
+  "file": "OBJ/Door_Double.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9fbf2e4323c6fe460f5cc88e092f5aa0fbed5ee86cff0c99918ec122ad2dc945",
+  "originalInputSha256": "9fbf2e4323c6fe460f5cc88e092f5aa0fbed5ee86cff0c99918ec122ad2dc945",
+  "dependencies": [
+    {
+      "path": "OBJ/Door_Double.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1KlFBXWWXretSnuLIZvhoxYXNzRCq8-D8",
+      "sha256": "a1de6f61e62173efbb9aa371e845c213493797ed8b523a51bfb2171c4179f67f",
+      "bytes": 958
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "door-double.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=10 materials=10 bounds=[2.6527841091156006,2.79117392966873,0.45423200726509094]",
+  "convertedAt": "2026-09-05T13:34:56.912Z"
+}

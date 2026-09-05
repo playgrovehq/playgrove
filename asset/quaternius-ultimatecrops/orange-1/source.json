@@ -1,0 +1,30 @@
+{
+  "id": "orange-1",
+  "label": "Orange 1",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Q6GQ7srRqvRBS5BFhmlH0Jce1DDjycHC",
+  "file": "OBJ/Orange_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "316b7c2a2e77b134bad8fb00ddbdec66713c51db5607f96ad2cf3bf947e7cdcf",
+  "originalInputSha256": "316b7c2a2e77b134bad8fb00ddbdec66713c51db5607f96ad2cf3bf947e7cdcf",
+  "dependencies": [
+    {
+      "path": "OBJ/Orange_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1NfZJRZDrY2v6OYwHgayFlfzjaR_IOvA2",
+      "sha256": "17298172c07ad3d4db9db16db94e9de42a39268799047bee8c6dff0fe6d3de8d",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "orange-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.23776300251483917,0.2473830067901872,0.10662299767136574]",
+  "convertedAt": "2026-09-05T13:45:26.785Z"
+}

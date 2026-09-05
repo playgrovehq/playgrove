@@ -1,0 +1,30 @@
+{
+  "id": "bear-trap-closed",
+  "label": "BearTrap Closed",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=109DAw96FxcPim9goXZC8aEkSd1pW5THN",
+  "file": "OBJ/BearTrap_Closed.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9e5a3870d37f6e9a69b99060602829b2c3e3d50b86957b731d3d74fa6c0d90be",
+  "originalInputSha256": "9e5a3870d37f6e9a69b99060602829b2c3e3d50b86957b731d3d74fa6c0d90be",
+  "dependencies": [
+    {
+      "path": "OBJ/BearTrap_Closed.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1F-CC9APc8CrrvAC9fHXYmt1BC48RC2DE",
+      "sha256": "8a8406e94a99976870b218dfdd0d60c65bee3164ea2e4d79d25701dd4766f80f",
+      "bytes": 242
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bear-trap-closed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.126281976699829,0.678086007013917,1.4175589680671692]",
+  "convertedAt": "2026-09-05T13:32:44.636Z"
+}

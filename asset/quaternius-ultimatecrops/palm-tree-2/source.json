@@ -1,0 +1,30 @@
+{
+  "id": "palm-tree-2",
+  "label": "PalmTree 2",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1u6WsHDKixNS3jidvDIUhW0p90iT_xJkP",
+  "file": "OBJ/PalmTree_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ac75dde3a1ed0f9d6ba73e874923b39d60232e9807fe3dbfc115eee1368772bd",
+  "originalInputSha256": "ac75dde3a1ed0f9d6ba73e874923b39d60232e9807fe3dbfc115eee1368772bd",
+  "dependencies": [
+    {
+      "path": "OBJ/PalmTree_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1EB56w-eHoLmW5jDLSScHSgS8KPI01CTi",
+      "sha256": "8b873b6456571eba3a82f0a74d0af28da53615bb040db0ec48223a0ac4e3529f",
+      "bytes": 606
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "palm-tree-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.0943590104579926,1.5247290395200253,1.4372660517692566]",
+  "convertedAt": "2026-09-05T13:45:26.912Z"
+}

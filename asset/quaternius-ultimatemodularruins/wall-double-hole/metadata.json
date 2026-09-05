@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "id": "wall-double-hole",
+  "label": "Wall Double Hole",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "wall",
+    "double",
+    "hole",
+    "quaternius",
+    "ultimatemodularruins",
+    "cube",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#646559",
+    "#848676"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "wall-double-hole.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3544,
+    "triangles": 1880,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.996526,
+      0.003029,
+      -0.279849
+    ],
+    "max": [
+      0.997056,
+      1.978804,
+      0.285587
+    ],
+    "size": [
+      1.993582,
+      1.975775,
+      0.565436
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Wall_Double_Hole_Cube.013"
+  ],
+  "materialNames": [
+    "Main",
+    "Highlights"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1hdUOIr1DybVmC_3LAlQjeuX3ybz5X4sE",
+    "file": "OBJ/Wall_Double_Hole.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

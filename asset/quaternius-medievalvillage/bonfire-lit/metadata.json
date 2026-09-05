@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "bonfire-lit",
+  "label": "Bonfire Lit",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "bonfire",
+    "lit",
+    "quaternius",
+    "medievalvillage",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#624226",
+    "#9a8a61",
+    "#757f84",
+    "#636b76",
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bonfire-lit.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1554,
+    "triangles": 1162,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.202374,
+      -0.013809,
+      -0.179515
+    ],
+    "max": [
+      0.204196,
+      0.339041,
+      0.182868
+    ],
+    "size": [
+      0.40657,
+      0.35285,
+      0.362383
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Bonfire_Lit_Cylinder.009"
+  ],
+  "materialNames": [
+    "Wood",
+    "WoodSide",
+    "Stone_Light",
+    "Stone_Dark",
+    "Fire"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1vCLU87xn-F-kcwEY2rcDIXSYl1af0EH9",
+    "file": "Props/OBJ/Bonfire_Lit.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

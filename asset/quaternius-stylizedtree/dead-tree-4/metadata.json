@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "dead-tree-4",
+  "label": "DeadTree 4",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "dead",
+    "tree",
+    "quaternius",
+    "stylizedtree",
+    "cylinder",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "dead-tree-4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 644,
+    "triangles": 1000,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -2.130995,
+      -0.017857,
+      -2.241433
+    ],
+    "max": [
+      2.759024,
+      4.959537,
+      2.237943
+    ],
+    "size": [
+      4.890019,
+      4.977394,
+      4.479376
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "DeadTree_4_Cylinder.042"
+  ],
+  "materialNames": [
+    "Bark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/stylizedtree.html",
+    "download": "https://drive.google.com/uc?export=download&id=1OWqkwnAmAyioLYDlwqH-esPkgvE2k0xF",
+    "file": "OBJ/DeadTree_4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

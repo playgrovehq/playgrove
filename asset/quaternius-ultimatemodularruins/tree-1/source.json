@@ -1,0 +1,30 @@
+{
+  "id": "tree-1",
+  "label": "Tree 1",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1VUqiwIbOjkQTbL9-5dlLocz2uQQA_Vcc",
+  "file": "OBJ/Tree_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "508ba8dcabb107f09a2009cd55b9e2bf2c45c88c692b31d0a1107b7573c2a30d",
+  "originalInputSha256": "508ba8dcabb107f09a2009cd55b9e2bf2c45c88c692b31d0a1107b7573c2a30d",
+  "dependencies": [
+    {
+      "path": "OBJ/Tree_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=18tAY2Bn9TT7ywGApBiExQaGBBtU3tKBf",
+      "sha256": "d1779510723428a909b21a59305ab3b73c5eb983ea8f3fd7b046bea361ad1910",
+      "bytes": 419
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tree-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.0689899921417236,2.7721320670098066,2.065174102783203]",
+  "convertedAt": "2026-09-05T13:32:45.854Z"
+}

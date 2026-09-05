@@ -1,0 +1,30 @@
+{
+  "id": "barrel",
+  "label": "Barrel",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=14jHdybiFLqYbp8tgkTF-EPH_8R7XKy5L",
+  "file": "OBJ/Barrel.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4817682951f68049fee5b7edd313311f7ea463b3e424c2e28a58b7b397aa6312",
+  "originalInputSha256": "4817682951f68049fee5b7edd313311f7ea463b3e424c2e28a58b7b397aa6312",
+  "dependencies": [
+    {
+      "path": "OBJ/Barrel.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1RLxYjTLKSMf4p4lgi-NK-kt5YAmcCH6i",
+      "sha256": "212189633d3a24234a493aba73272305f839c672c6e5ba57a141c86ce9888207",
+      "bytes": 591
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "barrel.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.8313739895820618,1.0737679675221443,0.8241460025310516]",
+  "convertedAt": "2026-09-05T13:32:44.618Z"
+}

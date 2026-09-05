@@ -1,0 +1,30 @@
+{
+  "id": "bonfire-lit",
+  "label": "Bonfire Lit",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1vCLU87xn-F-kcwEY2rcDIXSYl1af0EH9",
+  "file": "Props/OBJ/Bonfire_Lit.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0243d26ae3cd63d277e475d434a6a4124ebc481aac49e1d16decce867cc867b0",
+  "originalInputSha256": "0243d26ae3cd63d277e475d434a6a4124ebc481aac49e1d16decce867cc867b0",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Bonfire_Lit.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1II0UZ5Xw_PqG3drbvI6zS7abByL0TKyF",
+      "sha256": "373e9094c3906e420a583b39ccc3f2d3636862040dd2d0d398cf53735b8275b5",
+      "bytes": 962
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bonfire-lit.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.4065700024366379,0.3528499947860837,0.36238300800323486]",
+  "convertedAt": "2026-09-05T13:36:04.692Z"
+}

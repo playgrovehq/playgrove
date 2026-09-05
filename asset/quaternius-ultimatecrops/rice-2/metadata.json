@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "rice-2",
+  "label": "Rice 2",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "rice",
+    "quaternius",
+    "ultimatecrops",
+    "plane",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#77a15a"
+  ],
+  "colorNames": [
+    "green"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "rice-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 600,
+    "triangles": 294,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.164613,
+      -0.015084,
+      -0.060733
+    ],
+    "max": [
+      0.09005,
+      0.54967,
+      0.066477
+    ],
+    "size": [
+      0.254663,
+      0.564754,
+      0.12721
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Rice_2_Plane.005"
+  ],
+  "materialNames": [
+    "Green"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1nes33Tc9hz83YdzjBhXgptVtawaeAzH5",
+    "file": "OBJ/Rice_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

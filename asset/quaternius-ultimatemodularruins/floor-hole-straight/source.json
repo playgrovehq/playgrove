@@ -1,0 +1,30 @@
+{
+  "id": "floor-hole-straight",
+  "label": "Floor Hole Straight",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1u3KYXowQTyoWnz-pb2_FDoyOkcMVjV2J",
+  "file": "OBJ/Floor_Hole_Straight.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2fc5ae3b0b23d104a9d33d0f10d1d61d7a50d6298e1ba62b6e447949da7e4dc9",
+  "originalInputSha256": "2fc5ae3b0b23d104a9d33d0f10d1d61d7a50d6298e1ba62b6e447949da7e4dc9",
+  "dependencies": [
+    {
+      "path": "OBJ/Floor_Hole_Straight.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17aQoM6X_hoKohw-9qS7IjIQpxaiNCKm2",
+      "sha256": "8af1341a90a82f951847e8ea6ec88e59694f4b4e4d494d5246a81dbb84e0715d",
+      "bytes": 428
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "floor-hole-straight.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2,0.14270999655127525,1.1038079857826233]",
+  "convertedAt": "2026-09-05T13:32:45.377Z"
+}

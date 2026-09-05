@@ -1,0 +1,30 @@
+{
+  "id": "column-square-big",
+  "label": "Column SquareBig",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=14IctJIf2LHTOgPu2yU_GrzkswwhxD50S",
+  "file": "OBJ/Column_SquareBig.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "25fd739b6b97ac223e35e7c2484c55c105f4e5575121bd101c6d1316fdf1cdef",
+  "originalInputSha256": "25fd739b6b97ac223e35e7c2484c55c105f4e5575121bd101c6d1316fdf1cdef",
+  "dependencies": [
+    {
+      "path": "OBJ/Column_SquareBig.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1BsvzXGwGDp_Vm_08qTpS_SWMJStP1X6w",
+      "sha256": "5cf135cf2c0f13c5a9dc013329877656698d07473a5fdae3c174b1c916310031",
+      "bytes": 244
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "column-square-big.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.9072690010070801,4.158595085144043,0.9072679877281189]",
+  "convertedAt": "2026-09-05T13:40:38.830Z"
+}

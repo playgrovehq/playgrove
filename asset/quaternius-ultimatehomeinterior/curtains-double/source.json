@@ -1,0 +1,30 @@
+{
+  "id": "curtains-double",
+  "label": "Curtains Double",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1q7txVPd2FGufJqt_OuoPirlJ_WqYNj_x",
+  "file": "OBJ/Curtains_Double.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "659f588c2cf3bca359d1b29645e9bf033c2b2d58cbfe2cab9aae449911b15944",
+  "originalInputSha256": "659f588c2cf3bca359d1b29645e9bf033c2b2d58cbfe2cab9aae449911b15944",
+  "dependencies": [
+    {
+      "path": "OBJ/Curtains_Double.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1yXdb2dQgzO7uIcU61nL6ajCcqvKymkPG",
+      "sha256": "bb539ce8768f4a5b41dcf2a345e2077666602b06f9ea7cc016eee048d80d4bed",
+      "bytes": 430
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "curtains-double.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[3.4687979221343994,4.344480047002435,0.4764780029654503]",
+  "convertedAt": "2026-09-05T13:40:39.020Z"
+}

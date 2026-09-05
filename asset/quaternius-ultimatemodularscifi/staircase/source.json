@@ -1,0 +1,30 @@
+{
+  "id": "staircase",
+  "label": "Staircase",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FapVZWQXQ2ZSnKwzYRs6sbV7v64W3YIN",
+  "file": "OBJ/Staircase.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4617b61e55a7f050bb141d63e89620fcb96f8ae772800a4297ac690eeea398ff",
+  "originalInputSha256": "4617b61e55a7f050bb141d63e89620fcb96f8ae772800a4297ac690eeea398ff",
+  "dependencies": [
+    {
+      "path": "OBJ/Staircase.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=10bl6encECqQeWdT7jK6gVo87eytlxo9q",
+      "sha256": "426905dea865ad272a44b5097110f79b7fb129e387ae3b909e1645b01669e8b7",
+      "bytes": 595
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "staircase.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.782202959060669,1.4539299756288528,3.1119559274444555]",
+  "convertedAt": "2026-09-05T13:34:57.790Z"
+}

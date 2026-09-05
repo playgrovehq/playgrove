@@ -1,0 +1,30 @@
+{
+  "id": "pipe-l",
+  "label": "Pipe L",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1xYca7fUiwYXil5v7Th9DEH4Y7xw8uu-w",
+  "file": "Textured Models/Base Modular Parts/OBJ/Pipe_L.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b2520a86f8786f83cac771c415fad54f250269b4d1f444c01da29c9759d3313b",
+  "originalInputSha256": "b2520a86f8786f83cac771c415fad54f250269b4d1f444c01da29c9759d3313b",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Pipe_L.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1esAeWcj2IrpuScS3h7BQ5pPBKrqPs4gY",
+      "sha256": "0ce5c924b12027faa1245e7a282657ec81233b21562da70454bb9d08a79c39a1",
+      "bytes": 235
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pipe-l.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.8518379926681519,0.0959630012512207,0.3079739958047867]",
+  "convertedAt": "2026-09-05T13:48:28.797Z"
+}

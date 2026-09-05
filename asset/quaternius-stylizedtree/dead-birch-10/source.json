@@ -1,0 +1,30 @@
+{
+  "id": "dead-birch-10",
+  "label": "DeadBirch 10",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "pack": "quaternius-stylizedtree",
+  "listing": "https://quaternius.com/packs/stylizedtree.html",
+  "download": "https://drive.google.com/uc?export=download&id=1KH20z9jqyNG-jtgPf2b6vLc_n20XUX-z",
+  "file": "OBJ/DeadBirch_10.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "42e7a753aa27caa950bb049d106171de1b41b0cdedea4c3bb6e4332a812a09fd",
+  "originalInputSha256": "42e7a753aa27caa950bb049d106171de1b41b0cdedea4c3bb6e4332a812a09fd",
+  "dependencies": [
+    {
+      "path": "OBJ/DeadBirch_10.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1whtYfrhqHWQ8yJJKqjjKuivGljPUHRDZ",
+      "sha256": "67ddbb1bca179a84bce3e4c4ac0981c4265c5f6da594bf7363217d2510a58156",
+      "bytes": 244
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "dead-birch-10.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[4.245141983032227,10.07553132949397,3.0781679153442383]",
+  "convertedAt": "2026-09-05T13:41:58.851Z"
+}

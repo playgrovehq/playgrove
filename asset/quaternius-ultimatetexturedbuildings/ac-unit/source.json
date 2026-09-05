@@ -1,0 +1,30 @@
+{
+  "id": "ac-unit",
+  "label": "AC Unit",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=173mrE92JYbHgOPbkS3cgGXfYB0_Lg-LN",
+  "file": "Textured Models/Base Modular Parts/OBJ/AC_Unit.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f4c82fcd5fba9f8d1c4cb9710aecc3c5f7fe53b2a2d1b7832e86c8db9ea4f989",
+  "originalInputSha256": "f4c82fcd5fba9f8d1c4cb9710aecc3c5f7fe53b2a2d1b7832e86c8db9ea4f989",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/AC_Unit.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1ucrPPEO7uf3N2P9yktNgqptf4zjggiIP",
+      "sha256": "b71cf2da5b99d9ba8ad1e8eef10ed7a6f81a77fdb1fbebb6b0098d337d200428",
+      "bytes": 236
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "ac-unit.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.2852340042591095,0.17672699689865112,0.1771549955010414]",
+  "convertedAt": "2026-09-05T13:48:28.482Z"
+}

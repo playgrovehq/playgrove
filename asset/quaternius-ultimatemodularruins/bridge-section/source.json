@@ -1,0 +1,30 @@
+{
+  "id": "bridge-section",
+  "label": "BridgeSection",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1aDaCygYW6Kq2bI5etD9FToIckcRS1mga",
+  "file": "OBJ/BridgeSection.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1c82505f9218dafd2a2118a709b10d07ca9a569229f26ed679f3d3dc99c98041",
+  "originalInputSha256": "1c82505f9218dafd2a2118a709b10d07ca9a569229f26ed679f3d3dc99c98041",
+  "dependencies": [
+    {
+      "path": "OBJ/BridgeSection.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1vOLAzgSRPVaUFbgzdQjfeFBVeATjvJZp",
+      "sha256": "cf8919a1151e60736458ba7c6af2851fd7e7a83d641245fcf5586315e7dd5b1b",
+      "bytes": 422
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bridge-section.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2.5792709589004517,0.44307801127433777,2.2266329526901245]",
+  "convertedAt": "2026-09-05T13:32:44.748Z"
+}

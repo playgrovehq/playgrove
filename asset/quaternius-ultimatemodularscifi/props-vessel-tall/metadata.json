@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "props-vessel-tall",
+  "label": "Props Vessel Tall",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "props",
+    "vessel",
+    "tall",
+    "quaternius",
+    "ultimatemodularscifi",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a",
+    "#b28641",
+    "#797979"
+  ],
+  "colorNames": [
+    "gray",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "props-vessel-tall.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 624,
+    "triangles": 316,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.143655,
+      -0.001127,
+      -0.143655
+    ],
+    "max": [
+      0.143655,
+      1.021599,
+      0.143655
+    ],
+    "size": [
+      0.28731,
+      1.022726,
+      0.28731
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Props_Vessel_Tall_Cube.033"
+  ],
+  "materialNames": [
+    "Main",
+    "Accent",
+    "DarkGrey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ID3qdOXU33HJpncbVVjHqE34_NU3_G7G",
+    "file": "OBJ/Props_Vessel_Tall.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

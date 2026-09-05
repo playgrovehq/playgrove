@@ -1,0 +1,30 @@
+{
+  "id": "battery-small",
+  "label": "Battery Small",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1DdMg9vF_nURDBjnG4iUve0fcK21SwS7-",
+  "file": "OBJ/Battery_Small.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a35fe846622daccac717e4f0702083ac062d8e6709c3055f1171201dbcb5fb40",
+  "originalInputSha256": "a35fe846622daccac717e4f0702083ac062d8e6709c3055f1171201dbcb5fb40",
+  "dependencies": [
+    {
+      "path": "OBJ/Battery_Small.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1nbGEBdg5-maBQyBrlBU5g-KweggrewDk",
+      "sha256": "a64d50b972ab2b404a248f8ec872d7ea2f665717439dc03b607a4d675133c786",
+      "bytes": 596
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "battery-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.18384599685668945,0.4568000095896423,0.18384599685668945]",
+  "convertedAt": "2026-09-05T13:37:26.187Z"
+}

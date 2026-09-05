@@ -1,0 +1,30 @@
+{
+  "id": "wall-arch-round-overgrown-broken",
+  "label": "Wall ArchRound Overgrown Broken",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1AebR8edbMh08_L810V7lt3bEI1zeH5MC",
+  "file": "OBJ/Wall_ArchRound_Overgrown_Broken.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cb4651ece9f3e75e61d166423e1d35ea903ea43ef0b460ba02a8317a5a73ba0a",
+  "originalInputSha256": "cb4651ece9f3e75e61d166423e1d35ea903ea43ef0b460ba02a8317a5a73ba0a",
+  "dependencies": [
+    {
+      "path": "OBJ/Wall_ArchRound_Overgrown_Broken.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1hPlmADFKl7HCwA9Z0XypQiVW4z9XTLTL",
+      "sha256": "2f5d8f65f3540372f297f7d3828b053b78be9d57511995dad44a3357172a85b3",
+      "bytes": 803
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "wall-arch-round-overgrown-broken.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.9931700229644775,3.9847680097445846,0.3160950019955635]",
+  "convertedAt": "2026-09-05T13:32:46.005Z"
+}

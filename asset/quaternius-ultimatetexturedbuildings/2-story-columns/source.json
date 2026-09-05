@@ -1,0 +1,30 @@
+{
+  "id": "2-story-columns",
+  "label": "2Story Columns",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1v_DrGcUenbxSyEYMfNG4LEJdpaniD1tP",
+  "file": "Textured Models/Finished Textured Buildings/OBJ/2Story_Columns.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3748eb4e4e20c6ab7b5ade3c129125fa6f001440e27656442c5e4adb49225427",
+  "originalInputSha256": "3748eb4e4e20c6ab7b5ade3c129125fa6f001440e27656442c5e4adb49225427",
+  "dependencies": [
+    {
+      "path": "Textured Models/Finished Textured Buildings/OBJ/2Story_Columns.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=14Rfx2A_9PWc7XyeqIyJ8rbTv6Up4Zed3",
+      "sha256": "9ff15e8777419e30e7eb6dd32dc0e2e009b6631eea53f5a893dc2006d1b77380",
+      "bytes": 243
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "2-story-columns.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1586461067199707,2.768716065213084,2.48880398273468]",
+  "convertedAt": "2026-09-05T13:48:29.214Z"
+}

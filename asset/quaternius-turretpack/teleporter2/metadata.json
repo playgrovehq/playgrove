@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "id": "teleporter2",
+  "label": "Teleporter2",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "teleporter2",
+    "quaternius",
+    "turretpack",
+    "cylinder",
+    "top",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#784a44",
+    "#54312a"
+  ],
+  "colorNames": [
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "teleporter2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1340,
+    "triangles": 736,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.688379,
+      -0.043604,
+      -0.68838
+    ],
+    "max": [
+      0.688382,
+      1.025213,
+      0.68838
+    ],
+    "size": [
+      1.376761,
+      1.068817,
+      1.37676
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Teleporter2_Cylinder.178",
+    "Teleporter2_Top_Cylinder.256"
+  ],
+  "materialNames": [
+    "Light",
+    "Dark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/turretpack.html",
+    "download": "https://drive.google.com/uc?export=download&id=1LGB0B4NHoqca_LaXZB7WUsEy_x6r-Sis",
+    "file": "OBJ/Teleporter2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "chair-4",
+  "label": "Chair 4",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1N9SlzDPvhIeV9CIbCkn5pPZvWajsqJRA",
+  "file": "OBJ/Chair_4.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e9b23dca15e950929c2a2a5909024ea60e7331e2581e6599965da2ec3e4dd13d",
+  "originalInputSha256": "e9b23dca15e950929c2a2a5909024ea60e7331e2581e6599965da2ec3e4dd13d",
+  "dependencies": [
+    {
+      "path": "OBJ/Chair_4.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=130hoZFm5alMTX0sMewxg5XvdfJtz2D9A",
+      "sha256": "973957b6a400515078738651735c2ca4dc2e49c584aa1cbad5286b172166ca87",
+      "bytes": 233
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chair-4.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.7617220282554626,1.76777303381823,0.825433999300003]",
+  "convertedAt": "2026-09-05T13:40:38.759Z"
+}

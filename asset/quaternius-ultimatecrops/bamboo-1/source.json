@@ -1,0 +1,30 @@
+{
+  "id": "bamboo-1",
+  "label": "Bamboo 1",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1v2ZB8RwVJZFqynQMOSbiJR92tltrbq3t",
+  "file": "OBJ/Bamboo_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8eee8da9ec8112a79b92e4ed9d70785ca2936793614368427a1f9f23eb393898",
+  "originalInputSha256": "8eee8da9ec8112a79b92e4ed9d70785ca2936793614368427a1f9f23eb393898",
+  "dependencies": [
+    {
+      "path": "OBJ/Bamboo_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1YX57eLxaGF5KlTjy22piD9c-h5oze09J",
+      "sha256": "6212813b1c5ae1dc9192d0a4b11cd5b3a87bb2aa4956f348024c131de4bfb7f5",
+      "bytes": 418
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bamboo-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.38293199241161346,0.5129030292155221,0.07228199858218431]",
+  "convertedAt": "2026-09-05T13:45:25.786Z"
+}

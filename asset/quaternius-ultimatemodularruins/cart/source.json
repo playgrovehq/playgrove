@@ -1,0 +1,30 @@
+{
+  "id": "cart",
+  "label": "Cart",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1OFNAc6tRazNgVPsHphU0ZwcSWhg_NGxD",
+  "file": "OBJ/Cart.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "83efc80558f967261d90c4c3d65e80caf1df31755a0de7c8ffb6e0e3a4d09f4a",
+  "originalInputSha256": "83efc80558f967261d90c4c3d65e80caf1df31755a0de7c8ffb6e0e3a4d09f4a",
+  "dependencies": [
+    {
+      "path": "OBJ/Cart.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1VppDIomccvLYysmys6mNbQi7VTUhpDf9",
+      "sha256": "d56a302a44548abfd1f3ea931eb05706b3e62e1a8d926c91c7dea7dc58ca7044",
+      "bytes": 589
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cart.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.3089569807052612,1.3751009926199913,2.827844023704529]",
+  "convertedAt": "2026-09-05T13:32:44.893Z"
+}

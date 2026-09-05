@@ -1,0 +1,30 @@
+{
+  "id": "floor-tile-double-hallway",
+  "label": "FloorTile Double Hallway",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1-ZMAqzRUmEh1FfA1aPSJaclSYogq3a3h",
+  "file": "OBJ/FloorTile_Double_Hallway.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cfbd51ca463ba7763da208d7ad9ba21b36c9afe3e5e1bae7a51a5634e530c54d",
+  "originalInputSha256": "cfbd51ca463ba7763da208d7ad9ba21b36c9afe3e5e1bae7a51a5634e530c54d",
+  "dependencies": [
+    {
+      "path": "OBJ/FloorTile_Double_Hallway.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1yb5aveLCdU6C9CZ93uBjuKyZv6zMtCdZ",
+      "sha256": "f9981a46d0c44fffba83bda7c152c6cc22b1b41c68b106b9db93b2ca7afc9231",
+      "bytes": 971
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "floor-tile-double-hallway.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[4,0.06845299899578094,2]",
+  "convertedAt": "2026-09-05T13:34:57.105Z"
+}

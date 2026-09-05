@@ -1,0 +1,30 @@
+{
+  "id": "bookshelf",
+  "label": "Bookshelf",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1D01n-91KspUftV3y8jvc5doeA8NvglRA",
+  "file": "OBJ/Bookshelf.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "42b05d9b02ca09a058af35e5cf4e63224d0b5c1f0bf2f5f8e97035e678895d7a",
+  "originalInputSha256": "42b05d9b02ca09a058af35e5cf4e63224d0b5c1f0bf2f5f8e97035e678895d7a",
+  "dependencies": [
+    {
+      "path": "OBJ/Bookshelf.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1PDJOW9OSyWZkkQ_uI7WeH6LNoPvFHmK4",
+      "sha256": "f3eadb57486362f492a5684f7dcadaeae9c427910b5cd5375a586a6b70cb8354",
+      "bytes": 236
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bookshelf.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.318324089050293,4.438080178573728,0.7559980154037476]",
+  "convertedAt": "2026-09-05T13:40:38.642Z"
+}

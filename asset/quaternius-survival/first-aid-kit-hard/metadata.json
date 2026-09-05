@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "first-aid-kit-hard",
+  "label": "FirstAidKit Hard",
+  "description": "Survival Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "first",
+    "aid",
+    "kit",
+    "hard",
+    "quaternius",
+    "survival",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#c5c5c5",
+    "#733230",
+    "#959595",
+    "#5f5f5f"
+  ],
+  "colorNames": [
+    "beige",
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "first-aid-kit-hard.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 466,
+    "triangles": 268,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.941077,
+      -0.617714,
+      -0.299342
+    ],
+    "max": [
+      0.942643,
+      0.659362,
+      0.377657
+    ],
+    "size": [
+      1.88372,
+      1.277076,
+      0.676999
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "FirstAidKit_Hard_Cube.003"
+  ],
+  "materialNames": [
+    "White",
+    "Red",
+    "LightGrey",
+    "Grey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/survival.html",
+    "download": "https://drive.google.com/uc?export=download&id=1jA8tuPzp5Kt1HCTn0CZqMja4AvQF1uv0",
+    "file": "OBJ/FirstAidKit_Hard.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mushroom-2",
+  "label": "Mushroom 2",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1PjDA41dnwq6KPBesjLM9czdw8Kagz9Xs",
+  "file": "OBJ/Mushroom_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6c01098488778b264471615a0cb1140408dcb66accd482c41f8a398c360a2b86",
+  "originalInputSha256": "6c01098488778b264471615a0cb1140408dcb66accd482c41f8a398c360a2b86",
+  "dependencies": [
+    {
+      "path": "OBJ/Mushroom_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1wuuOcmVPzNO4JI4JmUD2emnP5zWZB2vW",
+      "sha256": "43e5ed751eb4eeb60f2bbda95ae688bf5dc846bdc6c5194817bed3e00961adc0",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "mushroom-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.14152199774980545,0.22370600589783862,0.14152199774980545]",
+  "convertedAt": "2026-09-05T13:45:26.692Z"
+}

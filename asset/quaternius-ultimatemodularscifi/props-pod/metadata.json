@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "props-pod",
+  "label": "Props Pod",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "props",
+    "pod",
+    "quaternius",
+    "ultimatemodularscifi",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a",
+    "#797979",
+    "#2a2a2a",
+    "#76582b",
+    "#b28641"
+  ],
+  "colorNames": [
+    "gray",
+    "black",
+    "brown",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "props-pod.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4196,
+    "triangles": 2246,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.904994,
+      0.001946,
+      -0.905078
+    ],
+    "max": [
+      0.904995,
+      3.614392,
+      0.904995
+    ],
+    "size": [
+      1.809989,
+      3.612446,
+      1.810073
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Props_Pod_Cube.003"
+  ],
+  "materialNames": [
+    "Main",
+    "DarkGrey",
+    "Glass",
+    "DarkAccent",
+    "Accent"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1zuppOCufBWPtqtIwbON5eTb8TpsAyifu",
+    "file": "OBJ/Props_Pod.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

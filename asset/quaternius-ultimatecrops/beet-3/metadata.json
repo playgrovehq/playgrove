@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "beet-3",
+  "label": "Beet 3",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "beet",
+    "quaternius",
+    "ultimatecrops",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5a232f",
+    "#60674d"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "beet-3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 603,
+    "triangles": 323,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.193462,
+      -0.265779,
+      -0.115018
+    ],
+    "max": [
+      0.315826,
+      0.603059,
+      0.115018
+    ],
+    "size": [
+      0.509288,
+      0.868838,
+      0.230036
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Beet_3_Cube"
+  ],
+  "materialNames": [
+    "DarkRed",
+    "DarkGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1wgtxxkALQS36vkot4cvRKBSz3GvKZxFX",
+    "file": "OBJ/Beet_3.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

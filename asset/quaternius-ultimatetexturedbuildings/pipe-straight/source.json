@@ -1,0 +1,30 @@
+{
+  "id": "pipe-straight",
+  "label": "Pipe Straight",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Ay1g1l0zTJZj89woAs_w44_O5yfz-04Z",
+  "file": "Textured Models/Base Modular Parts/OBJ/Pipe_Straight.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ecf9e18763472b6ec31b5a6953f1609052159fa6ca70e86524906eeb62a9d746",
+  "originalInputSha256": "ecf9e18763472b6ec31b5a6953f1609052159fa6ca70e86524906eeb62a9d746",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Pipe_Straight.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1_OKaoRIALVDbtcLtL4MXrgMxzEsfTlic",
+      "sha256": "bee76eb61ca4211c2211651d27a9f4b59a1a4e403cb6eec277aa72b4bbf6f5b1",
+      "bytes": 242
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pipe-straight.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.5068320035934448,0.09596400335431099,0.05711600184440613]",
+  "convertedAt": "2026-09-05T13:48:28.815Z"
+}

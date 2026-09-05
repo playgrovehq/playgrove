@@ -1,0 +1,30 @@
+{
+  "id": "details-hexagon",
+  "label": "Details Hexagon",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=19Yg0_qX2mdgxpqVz6CxGASC54cEzTnJ3",
+  "file": "OBJ/Details_Hexagon.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "20ae5ccf299c081c20cd2e605b6e2edadf9fc884c63f9d30b0e16a2f8dc72a02",
+  "originalInputSha256": "20ae5ccf299c081c20cd2e605b6e2edadf9fc884c63f9d30b0e16a2f8dc72a02",
+  "dependencies": [
+    {
+      "path": "OBJ/Details_Hexagon.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1TvqoHnoIuSX8x-8dW1jt71a9Ol_7WnYv",
+      "sha256": "9d5be2df94f5819530d7e2681696f792fbb4eee59a328942d4ac3b6b0a65841c",
+      "bytes": 241
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "details-hexagon.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.3415440022945404,0.39438100159168243,0.0789989996701479]",
+  "convertedAt": "2026-09-05T13:34:56.622Z"
+}

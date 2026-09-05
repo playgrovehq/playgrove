@@ -1,0 +1,30 @@
+{
+  "id": "corn-2",
+  "label": "Corn 2",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1LKIOBk0fOx8xrGoo7n3aEuY62ivme1Pg",
+  "file": "OBJ/Corn_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "fcf93d36ffef43b23a78b05fd15f29bbbdcc32c4f6a58d7861d62218630eaa47",
+  "originalInputSha256": "fcf93d36ffef43b23a78b05fd15f29bbbdcc32c4f6a58d7861d62218630eaa47",
+  "dependencies": [
+    {
+      "path": "OBJ/Corn_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1vgp-6nBgSRRI5Z-55zYoOCaoAspk5qBq",
+      "sha256": "42b2423f34e35716a6b6aa3d9bc17de26abe29c96c0c25e8a96ef4dcd3af4ba9",
+      "bytes": 233
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "corn-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.28373900055885315,0.6586850134663109,0.3051459938287735]",
+  "convertedAt": "2026-09-05T13:45:26.298Z"
+}

@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "statue-fox",
+  "label": "Statue Fox",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "statue",
+    "fox",
+    "quaternius",
+    "ultimatemodularruins",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#616161"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "statue-fox.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2132,
+    "triangles": 2152,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.596571,
+      0,
+      -0.902194
+    ],
+    "max": [
+      0.754077,
+      3.752454,
+      0.77641
+    ],
+    "size": [
+      1.350648,
+      3.752454,
+      1.678604
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Statue_Fox_Cylinder.036"
+  ],
+  "materialNames": [
+    "Stone"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1OKgPwTt9c4N8izHQaJ4R2O1kO3EUcjOO",
+    "file": "OBJ/Statue_Fox.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

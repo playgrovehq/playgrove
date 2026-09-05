@@ -1,0 +1,107 @@
+{
+  "version": 2,
+  "id": "2-story-stairs-mat",
+  "label": "2Story Stairs Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "story",
+    "stairs",
+    "mat",
+    "2story",
+    "quaternius",
+    "ultimatetexturedbuildings",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#66887e",
+    "#8e9573",
+    "#56736a",
+    "#425554",
+    "#b6b6b6",
+    "#794a36",
+    "#5c3f2a",
+    "#687d8c",
+    "#414141"
+  ],
+  "colorNames": [
+    "gray",
+    "green",
+    "brown",
+    "beige",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "2-story-stairs-mat.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 6877,
+    "triangles": 4112,
+    "parts": 9,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -1.079323,
+      -0.003245,
+      -1.077302
+    ],
+    "max": [
+      1.079323,
+      2.742088,
+      1.454873
+    ],
+    "size": [
+      2.158646,
+      2.745333,
+      2.532175
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "2Story_Stairs_Mat_Cube.041"
+  ],
+  "materialNames": [
+    "Bricks",
+    "Light",
+    "Main",
+    "Dark",
+    "White",
+    "Wood",
+    "DarkWood",
+    "Glass",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1SpKs6aEz5eb2_8sXMeSi5VFiWCHz7JRw",
+    "file": "Models with Materials/OBJ/2Story_Stairs_Mat.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

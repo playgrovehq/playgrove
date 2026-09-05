@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "curve-1-overgrown",
+  "label": "Curve 1 Overgrown",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "curve",
+    "overgrown",
+    "quaternius",
+    "ultimatemodularruins",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#646559",
+    "#848676",
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "curve-1-overgrown.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4680,
+    "triangles": 2444,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -2.282715,
+      -0.001501,
+      -2.075469
+    ],
+    "max": [
+      0.022074,
+      1.999357,
+      -0.006529
+    ],
+    "size": [
+      2.304789,
+      2.000858,
+      2.06894
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Curve_1_Overgrown_Cube.531"
+  ],
+  "materialNames": [
+    "Main",
+    "Highlights",
+    "Leaf_Texture",
+    "Green"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1kDuywsFNHkCyKsRQDEe75aEMXYLDt6cV",
+    "file": "OBJ/Curve_1_Overgrown.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

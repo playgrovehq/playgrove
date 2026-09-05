@@ -1,0 +1,30 @@
+{
+  "id": "bed-bunk",
+  "label": "Bed Bunk",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1nAE6D1EuaGwhQHHN8-99NUuxrYZU4s5u",
+  "file": "OBJ/Bed_Bunk.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "021d87d15f3187961e7ef2cd6a7ef4bd698a673b685cfaf90b8943a609f6a1f0",
+  "originalInputSha256": "021d87d15f3187961e7ef2cd6a7ef4bd698a673b685cfaf90b8943a609f6a1f0",
+  "dependencies": [
+    {
+      "path": "OBJ/Bed_Bunk.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1TVd2hE8j6OPBAfJZQ1SeeGqFGJgFd8wR",
+      "sha256": "507cb143b48b198e7788ce09b70645ac3060c5343f66e0a1a1081f462ddc91d6",
+      "bytes": 765
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bed-bunk.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2.168826997280121,3.030714074149728,3.99739408493042]",
+  "convertedAt": "2026-09-05T13:40:38.584Z"
+}

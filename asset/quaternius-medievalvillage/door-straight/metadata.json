@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "door-straight",
+  "label": "Door Straight",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "door",
+    "straight",
+    "quaternius",
+    "medievalvillage",
+    "cube",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#757f84",
+    "#636b76",
+    "#7f5532",
+    "#624226",
+    "#38323b"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "door-straight.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1800,
+    "triangles": 958,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.250689,
+      -0.043475,
+      -0.002705
+    ],
+    "max": [
+      0.250689,
+      0.664432,
+      0.293685
+    ],
+    "size": [
+      0.501378,
+      0.707907,
+      0.29639
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Door_Straight_Cube.243"
+  ],
+  "materialNames": [
+    "Stone_Light",
+    "Stone_Dark",
+    "Wood_Light",
+    "Wood",
+    "Metal"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1dQGdrAv5NFsSIaZ1JvX9jrS3I-PMSQzC",
+    "file": "Props/OBJ/Door_Straight.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

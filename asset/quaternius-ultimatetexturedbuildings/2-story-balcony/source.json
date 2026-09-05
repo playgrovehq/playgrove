@@ -1,0 +1,30 @@
+{
+  "id": "2-story-balcony",
+  "label": "2Story Balcony",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1tvai3jluf2GCd8XPoobNsWmViYGUOMOo",
+  "file": "Textured Models/Finished Textured Buildings/OBJ/2Story_Balcony.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e784da11fe502f06b0a95665f17952f40d68a33c3bf7561c4146f5494246db06",
+  "originalInputSha256": "e784da11fe502f06b0a95665f17952f40d68a33c3bf7561c4146f5494246db06",
+  "dependencies": [
+    {
+      "path": "Textured Models/Finished Textured Buildings/OBJ/2Story_Balcony.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1XkaP0MjIdC6JEx1kPQE-21zbjyPjQuLG",
+      "sha256": "372284d4cfee8d8c039cf649f16f130edccccd2da53c19cbb8812b4ca9d969bf",
+      "bytes": 243
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "2-story-balcony.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1586461067199707,2.944069985533133,2.5321749448776245]",
+  "convertedAt": "2026-09-05T13:48:29.170Z"
+}

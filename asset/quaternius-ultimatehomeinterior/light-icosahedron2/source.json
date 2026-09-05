@@ -1,0 +1,30 @@
+{
+  "id": "light-icosahedron2",
+  "label": "Light Icosahedron2",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1oVxxxScz0ZFMD42Ime61Ax3gGByf7wci",
+  "file": "OBJ/Light_Icosahedron2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e19648d3d6e63215b06653169d0f731690192785d252081d946ce45bf1e264f7",
+  "originalInputSha256": "e19648d3d6e63215b06653169d0f731690192785d252081d946ce45bf1e264f7",
+  "dependencies": [
+    {
+      "path": "OBJ/Light_Icosahedron2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1igrvC9pHldzmklBgkkhEfHZkx6t1NwVF",
+      "sha256": "0f54bcec212d81222489e9ae883f22ab79133de193057db0cfc48a82bc79e825",
+      "bytes": 783
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "light-icosahedron2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.626162052154541,0.8797940015792847,0.5021499991416931]",
+  "convertedAt": "2026-09-05T13:40:39.955Z"
+}

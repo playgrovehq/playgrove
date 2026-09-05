@@ -1,0 +1,30 @@
+{
+  "id": "light-chandelier",
+  "label": "Light Chandelier",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1AZQcBPhFmGwpoELqq1-AEsNsictfbD3w",
+  "file": "OBJ/Light_Chandelier.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7bf133935c577a05b2349bab3c26b658b8560c6433f50a62504e1fc6b37fe4be",
+  "originalInputSha256": "7bf133935c577a05b2349bab3c26b658b8560c6433f50a62504e1fc6b37fe4be",
+  "dependencies": [
+    {
+      "path": "OBJ/Light_Chandelier.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1lpqmAfXhY5vtEkWp9FUc4eCZeCv7MF9J",
+      "sha256": "1714b39aa2effc2db71fb01c08ed62e4ba64efaf8c7566061db8c806a5890401",
+      "bytes": 420
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "light-chandelier.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.8131069839000702,0.5188159942626953,0.8131060004234314]",
+  "convertedAt": "2026-09-05T13:40:39.792Z"
+}

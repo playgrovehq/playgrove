@@ -1,0 +1,3426 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T13:41:59.524Z",
+  "assets": [
+    {
+      "id": "birch-1",
+      "label": "Birch 1",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "birch-1/thumbnail.png",
+      "model": "birch-1/birch-1.ts",
+      "package": "birch-1",
+      "descriptor": "birch-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=15onVVTzbRAiQRCUTnHy9LPqAP38tlcFj",
+        "file": "OBJ/Birch_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1570,
+        "triangles": 2308,
+        "parts": 1,
+        "discardedDegenerate": 6
+      },
+      "bounds": {
+        "min": [
+          -2.878983,
+          -0.001098,
+          -2.501204
+        ],
+        "max": [
+          2.014409,
+          9.475346,
+          1.960943
+        ],
+        "size": [
+          4.893392,
+          9.476444,
+          4.462147
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "birch-10",
+      "label": "Birch 10",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "birch-10/thumbnail.png",
+      "model": "birch-10/birch-10.ts",
+      "package": "birch-10",
+      "descriptor": "birch-10/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WvFKijxIWuUgj31f-VCnuC5_YLVnqPhM",
+        "file": "OBJ/Birch_10.obj"
+      },
+      "category": "props",
+      "tags": [
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1537,
+        "triangles": 2264,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.224507,
+          -0.002992,
+          -2.189356
+        ],
+        "max": [
+          2.136352,
+          10.229007,
+          2.552184
+        ],
+        "size": [
+          5.360859,
+          10.231999,
+          4.74154
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "birch-2",
+      "label": "Birch 2",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "birch-2/thumbnail.png",
+      "model": "birch-2/birch-2.ts",
+      "package": "birch-2",
+      "descriptor": "birch-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1HcRfYjgFZwlvNz270w_fkOY_YjmC_56P",
+        "file": "OBJ/Birch_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 764,
+        "triangles": 1104,
+        "parts": 1,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -1.17062,
+          -0.001689,
+          -1.716848
+        ],
+        "max": [
+          3.944095,
+          8.9416,
+          1.342221
+        ],
+        "size": [
+          5.114715,
+          8.943289,
+          3.059069
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "birch-3",
+      "label": "Birch 3",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "birch-3/thumbnail.png",
+      "model": "birch-3/birch-3.ts",
+      "package": "birch-3",
+      "descriptor": "birch-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1PcOunk7lpmvOM_C5_IK0X_m1SRG7NF1t",
+        "file": "OBJ/Birch_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1673,
+        "triangles": 2472,
+        "parts": 1,
+        "discardedDegenerate": 18
+      },
+      "bounds": {
+        "min": [
+          -4.721842,
+          -0.001822,
+          -1.313775
+        ],
+        "max": [
+          4.035913,
+          10.293656,
+          3.031955
+        ],
+        "size": [
+          8.757755,
+          10.295478,
+          4.34573
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "birch-4",
+      "label": "Birch 4",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "birch-4/thumbnail.png",
+      "model": "birch-4/birch-4.ts",
+      "package": "birch-4",
+      "descriptor": "birch-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1chGPGyRIdzISsLB5RXo1POWhQiVt7rz7",
+        "file": "OBJ/Birch_4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1034,
+        "triangles": 1516,
+        "parts": 1,
+        "discardedDegenerate": 18
+      },
+      "bounds": {
+        "min": [
+          -3.148585,
+          -0.001098,
+          -1.24474
+        ],
+        "max": [
+          2.023197,
+          9.991319,
+          3.257096
+        ],
+        "size": [
+          5.171782,
+          9.992417,
+          4.501836
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "birch-5",
+      "label": "Birch 5",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "birch-5/thumbnail.png",
+      "model": "birch-5/birch-5.ts",
+      "package": "birch-5",
+      "descriptor": "birch-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1nfkfFloYDOeV2TmTWYKZwRqtgHMhoJuV",
+        "file": "OBJ/Birch_5.obj"
+      },
+      "category": "props",
+      "tags": [
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1125,
+        "triangles": 1644,
+        "parts": 1,
+        "discardedDegenerate": 18
+      },
+      "bounds": {
+        "min": [
+          -4.371835,
+          -0.001098,
+          -1.208812
+        ],
+        "max": [
+          1.977343,
+          9.083622,
+          2.718626
+        ],
+        "size": [
+          6.349178,
+          9.08472,
+          3.927438
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "birch-6",
+      "label": "Birch 6",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "birch-6/thumbnail.png",
+      "model": "birch-6/birch-6.ts",
+      "package": "birch-6",
+      "descriptor": "birch-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=17m5oVFZ54tkCVUmHy2cHiDGKsonvT6Qm",
+        "file": "OBJ/Birch_6.obj"
+      },
+      "category": "props",
+      "tags": [
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1405,
+        "triangles": 2072,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4.376943,
+          -0.002992,
+          -2.602458
+        ],
+        "max": [
+          2.152165,
+          9.610977,
+          3.066967
+        ],
+        "size": [
+          6.529108,
+          9.613969,
+          5.669425
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "birch-7",
+      "label": "Birch 7",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "birch-7/thumbnail.png",
+      "model": "birch-7/birch-7.ts",
+      "package": "birch-7",
+      "descriptor": "birch-7/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1i3HqbbOzIu6oRHoDsbnzXQteWpQLEe9v",
+        "file": "OBJ/Birch_7.obj"
+      },
+      "category": "props",
+      "tags": [
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1087,
+        "triangles": 1584,
+        "parts": 1,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -3.143124,
+          0.002349,
+          -2.501204
+        ],
+        "max": [
+          1.731894,
+          9.927202,
+          1.960943
+        ],
+        "size": [
+          4.875018,
+          9.924853,
+          4.462147
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "birch-8",
+      "label": "Birch 8",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "birch-8/thumbnail.png",
+      "model": "birch-8/birch-8.ts",
+      "package": "birch-8",
+      "descriptor": "birch-8/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pH6TZMm68R_MLi_3NRSeKsLhSF5tBajQ",
+        "file": "OBJ/Birch_8.obj"
+      },
+      "category": "props",
+      "tags": [
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1701,
+        "triangles": 2488,
+        "parts": 1,
+        "discardedDegenerate": 18
+      },
+      "bounds": {
+        "min": [
+          -4.006245,
+          -0.001822,
+          -1.585089
+        ],
+        "max": [
+          3.322884,
+          9.900015,
+          2.924043
+        ],
+        "size": [
+          7.329129,
+          9.901837,
+          4.509132
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "birch-9",
+      "label": "Birch 9",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "birch-9/thumbnail.png",
+      "model": "birch-9/birch-9.ts",
+      "package": "birch-9",
+      "descriptor": "birch-9/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1l31pjfKsdjjS4POZBQ-DD51LCd9r8N2H",
+        "file": "OBJ/Birch_9.obj"
+      },
+      "category": "props",
+      "tags": [
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 999,
+        "triangles": 1460,
+        "parts": 1,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -4.062418,
+          -0.001098,
+          -1.445168
+        ],
+        "max": [
+          1.145705,
+          9.051486,
+          3.257096
+        ],
+        "size": [
+          5.208123,
+          9.052584,
+          4.702264
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-birch-1",
+      "label": "DeadBirch 1",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-birch-1/thumbnail.png",
+      "model": "dead-birch-1/dead-birch-1.ts",
+      "package": "dead-birch-1",
+      "descriptor": "dead-birch-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pUMS92WErJq2HaY2uy1jhYiJCMzmOWaY",
+        "file": "OBJ/DeadBirch_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dead",
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 788,
+        "triangles": 1204,
+        "parts": 1,
+        "discardedDegenerate": 6
+      },
+      "bounds": {
+        "min": [
+          -2.448023,
+          -0.001098,
+          -1.532504
+        ],
+        "max": [
+          1.410219,
+          9.372278,
+          1.526498
+        ],
+        "size": [
+          3.858242,
+          9.373376,
+          3.059002
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-birch-10",
+      "label": "DeadBirch 10",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-birch-10/thumbnail.png",
+      "model": "dead-birch-10/dead-birch-10.ts",
+      "package": "dead-birch-10",
+      "descriptor": "dead-birch-10/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1KH20z9jqyNG-jtgPf2b6vLc_n20XUX-z",
+        "file": "OBJ/DeadBirch_10.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dead",
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 772,
+        "triangles": 1184,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.754626,
+          -0.002992,
+          -1.434544
+        ],
+        "max": [
+          1.490516,
+          10.072539,
+          1.643624
+        ],
+        "size": [
+          4.245142,
+          10.075531,
+          3.078168
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-birch-2",
+      "label": "DeadBirch 2",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-birch-2/thumbnail.png",
+      "model": "dead-birch-2/dead-birch-2.ts",
+      "package": "dead-birch-2",
+      "descriptor": "dead-birch-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=19U6J2x9Yx4e71KOgU15UeHWPRkenF_vD",
+        "file": "OBJ/DeadBirch_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dead",
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 356,
+        "triangles": 528,
+        "parts": 1,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -0.747177,
+          -0.001689,
+          -1.463963
+        ],
+        "max": [
+          3.11027,
+          8.74194,
+          0.433383
+        ],
+        "size": [
+          3.857447,
+          8.743629,
+          1.897346
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-birch-3",
+      "label": "DeadBirch 3",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-birch-3/thumbnail.png",
+      "model": "dead-birch-3/dead-birch-3.ts",
+      "package": "dead-birch-3",
+      "descriptor": "dead-birch-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=11f6VkFTVKSigA2EEy5lrD6_8hPnOlECI",
+        "file": "OBJ/DeadBirch_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dead",
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 942,
+        "triangles": 1440,
+        "parts": 1,
+        "discardedDegenerate": 18
+      },
+      "bounds": {
+        "min": [
+          -4.41128,
+          -0.001822,
+          -0.608821
+        ],
+        "max": [
+          2.722798,
+          10.091194,
+          1.796513
+        ],
+        "size": [
+          7.134078,
+          10.093016,
+          2.405334
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-birch-4",
+      "label": "DeadBirch 4",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-birch-4/thumbnail.png",
+      "model": "dead-birch-4/dead-birch-4.ts",
+      "package": "dead-birch-4",
+      "descriptor": "dead-birch-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1EeBDWWUnpcXrVlq4K1vhzbGgxnE9w0O1",
+        "file": "OBJ/DeadBirch_4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dead",
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 660,
+        "triangles": 988,
+        "parts": 1,
+        "discardedDegenerate": 18
+      },
+      "bounds": {
+        "min": [
+          -2.43229,
+          -0.001098,
+          -0.101931
+        ],
+        "max": [
+          1.773331,
+          9.640042,
+          2.129949
+        ],
+        "size": [
+          4.205621,
+          9.64114,
+          2.23188
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-birch-5",
+      "label": "DeadBirch 5",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-birch-5/thumbnail.png",
+      "model": "dead-birch-5/dead-birch-5.ts",
+      "package": "dead-birch-5",
+      "descriptor": "dead-birch-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ndzcvZxJCFaWj36SGTWYMobZG8Q5shvM",
+        "file": "OBJ/DeadBirch_5.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dead",
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 564,
+        "triangles": 852,
+        "parts": 1,
+        "discardedDegenerate": 18
+      },
+      "bounds": {
+        "min": [
+          -3.609721,
+          -0.001098,
+          -0.50225
+        ],
+        "max": [
+          1.412074,
+          8.802977,
+          1.390338
+        ],
+        "size": [
+          5.021795,
+          8.804075,
+          1.892588
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-birch-6",
+      "label": "DeadBirch 6",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-birch-6/thumbnail.png",
+      "model": "dead-birch-6/dead-birch-6.ts",
+      "package": "dead-birch-6",
+      "descriptor": "dead-birch-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1b-V9ixmWcdUMKjfou8etRcbCPoLPDXil",
+        "file": "OBJ/DeadBirch_6.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dead",
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 776,
+        "triangles": 1184,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.754478,
+          -0.002992,
+          -1.56449
+        ],
+        "max": [
+          1.378809,
+          9.339422,
+          1.338209
+        ],
+        "size": [
+          5.133287,
+          9.342414,
+          2.902699
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-birch-7",
+      "label": "DeadBirch 7",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-birch-7/thumbnail.png",
+      "model": "dead-birch-7/dead-birch-7.ts",
+      "package": "dead-birch-7",
+      "descriptor": "dead-birch-7/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=18XTjBjgbcWSelJP6KAXD5ezWIdK7PK5e",
+        "file": "OBJ/DeadBirch_7.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dead",
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 492,
+        "triangles": 744,
+        "parts": 1,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -2.902107,
+          0.002349,
+          -1.54851
+        ],
+        "max": [
+          0.907329,
+          9.851376,
+          0.757475
+        ],
+        "size": [
+          3.809436,
+          9.849027,
+          2.305985
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-birch-8",
+      "label": "DeadBirch 8",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-birch-8/thumbnail.png",
+      "model": "dead-birch-8/dead-birch-8.ts",
+      "package": "dead-birch-8",
+      "descriptor": "dead-birch-8/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1lmyj1Zve0e3l2H36REX_fYq6IfBX8iQ8",
+        "file": "OBJ/DeadBirch_8.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dead",
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 902,
+        "triangles": 1360,
+        "parts": 1,
+        "discardedDegenerate": 18
+      },
+      "bounds": {
+        "min": [
+          -3.659669,
+          -0.001822,
+          -0.503325
+        ],
+        "max": [
+          2.722798,
+          9.766245,
+          1.796513
+        ],
+        "size": [
+          6.382467,
+          9.768067,
+          2.299838
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-birch-9",
+      "label": "DeadBirch 9",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-birch-9/thumbnail.png",
+      "model": "dead-birch-9/dead-birch-9.ts",
+      "package": "dead-birch-9",
+      "descriptor": "dead-birch-9/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Ycqp_vZdh3pRCluUCWwCzjKq_GY_e8-U",
+        "file": "OBJ/DeadBirch_9.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dead",
+        "birch",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 540,
+        "triangles": 812,
+        "parts": 1,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -3.659669,
+          -0.001098,
+          -0.50225
+        ],
+        "max": [
+          0.658348,
+          8.663099,
+          1.489149
+        ],
+        "size": [
+          4.318017,
+          8.664197,
+          1.991399
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-tree-1",
+      "label": "DeadTree 1",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-tree-1/thumbnail.png",
+      "model": "dead-tree-1/dead-tree-1.ts",
+      "package": "dead-tree-1",
+      "descriptor": "dead-tree-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1dsEB0Jy3AdH-DFJ5WTBiVQA0twb6rdnW",
+        "file": "OBJ/DeadTree_1.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "dead",
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 380,
+        "triangles": 444,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.903029,
+          0.011173,
+          -0.434159
+        ],
+        "max": [
+          0.540469,
+          5.182299,
+          1.084796
+        ],
+        "size": [
+          2.443498,
+          5.171126,
+          1.518955
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-tree-10",
+      "label": "DeadTree 10",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-tree-10/thumbnail.png",
+      "model": "dead-tree-10/dead-tree-10.ts",
+      "package": "dead-tree-10",
+      "descriptor": "dead-tree-10/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1v6XDAfhm3UEhDYxxGGV-G0l8zGpgqg0n",
+        "file": "OBJ/DeadTree_10.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "dead",
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 478,
+        "triangles": 756,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.833427,
+          -0.00138,
+          -2.352075
+        ],
+        "max": [
+          0.506423,
+          4.346673,
+          1.493065
+        ],
+        "size": [
+          3.33985,
+          4.348053,
+          3.84514
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-tree-2",
+      "label": "DeadTree 2",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-tree-2/thumbnail.png",
+      "model": "dead-tree-2/dead-tree-2.ts",
+      "package": "dead-tree-2",
+      "descriptor": "dead-tree-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=10W_S5qvcRBkVqw3h_RMKOCVUxcEE-MFE",
+        "file": "OBJ/DeadTree_2.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "dead",
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 466,
+        "triangles": 736,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.845778,
+          -0.00138,
+          -2.11
+        ],
+        "max": [
+          1.758523,
+          4.830359,
+          1.429407
+        ],
+        "size": [
+          4.604301,
+          4.831739,
+          3.539407
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-tree-3",
+      "label": "DeadTree 3",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-tree-3/thumbnail.png",
+      "model": "dead-tree-3/dead-tree-3.ts",
+      "package": "dead-tree-3",
+      "descriptor": "dead-tree-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=19_x0DqEZuHNRV8EJ3rBwbhZxyItKyU4L",
+        "file": "OBJ/DeadTree_3.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "dead",
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 896,
+        "triangles": 1392,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.343656,
+          -0.00138,
+          -2.352074
+        ],
+        "max": [
+          2.160007,
+          5.617333,
+          2.164033
+        ],
+        "size": [
+          4.503663,
+          5.618713,
+          4.516107
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-tree-4",
+      "label": "DeadTree 4",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-tree-4/thumbnail.png",
+      "model": "dead-tree-4/dead-tree-4.ts",
+      "package": "dead-tree-4",
+      "descriptor": "dead-tree-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1OWqkwnAmAyioLYDlwqH-esPkgvE2k0xF",
+        "file": "OBJ/DeadTree_4.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "dead",
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 644,
+        "triangles": 1000,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.130995,
+          -0.017857,
+          -2.241433
+        ],
+        "max": [
+          2.759024,
+          4.959537,
+          2.237943
+        ],
+        "size": [
+          4.890019,
+          4.977394,
+          4.479376
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-tree-5",
+      "label": "DeadTree 5",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-tree-5/thumbnail.png",
+      "model": "dead-tree-5/dead-tree-5.ts",
+      "package": "dead-tree-5",
+      "descriptor": "dead-tree-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1OZIewI7fR8DpgYTs-6LGB-SxL_TsSXFY",
+        "file": "OBJ/DeadTree_5.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "dead",
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 580,
+        "triangles": 872,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.933092,
+          0.011173,
+          -1.295681
+        ],
+        "max": [
+          2.305844,
+          6.02739,
+          1.69183
+        ],
+        "size": [
+          5.238936,
+          6.016217,
+          2.987511
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-tree-6",
+      "label": "DeadTree 6",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-tree-6/thumbnail.png",
+      "model": "dead-tree-6/dead-tree-6.ts",
+      "package": "dead-tree-6",
+      "descriptor": "dead-tree-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1f0pAJeveavUUltUQG9jUHoKJus47ZK6B",
+        "file": "OBJ/DeadTree_6.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "dead",
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 664,
+        "triangles": 1040,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.731153,
+          0.003278,
+          -2.546063
+        ],
+        "max": [
+          3.061168,
+          7.609743,
+          2.072343
+        ],
+        "size": [
+          4.792321,
+          7.606465,
+          4.618406
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-tree-7",
+      "label": "DeadTree 7",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-tree-7/thumbnail.png",
+      "model": "dead-tree-7/dead-tree-7.ts",
+      "package": "dead-tree-7",
+      "descriptor": "dead-tree-7/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1OMyhJ6BFJDifxiAE3eDJp5KZ8ainVepz",
+        "file": "OBJ/DeadTree_7.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "dead",
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 370,
+        "triangles": 516,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.463339,
+          0.021687,
+          -0.285743
+        ],
+        "max": [
+          1.445385,
+          5.25993,
+          0.187256
+        ],
+        "size": [
+          2.908724,
+          5.238243,
+          0.472999
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-tree-8",
+      "label": "DeadTree 8",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-tree-8/thumbnail.png",
+      "model": "dead-tree-8/dead-tree-8.ts",
+      "package": "dead-tree-8",
+      "descriptor": "dead-tree-8/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Nz-Op6Ft8u-8jz8RQEj5shCJKhLHEr3N",
+        "file": "OBJ/DeadTree_8.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "dead",
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 440,
+        "triangles": 624,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.065686,
+          0.011173,
+          -0.288992
+        ],
+        "max": [
+          2.526343,
+          4.959795,
+          0.920718
+        ],
+        "size": [
+          4.592029,
+          4.948622,
+          1.20971
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dead-tree-9",
+      "label": "DeadTree 9",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "dead-tree-9/thumbnail.png",
+      "model": "dead-tree-9/dead-tree-9.ts",
+      "package": "dead-tree-9",
+      "descriptor": "dead-tree-9/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=13IlPIOTv22rSNc3pPE9daX9AlJrjWX0s",
+        "file": "OBJ/DeadTree_9.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "dead",
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 438,
+        "triangles": 676,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.534762,
+          -0.00138,
+          -2.352075
+        ],
+        "max": [
+          2.55231,
+          4.415967,
+          1.493065
+        ],
+        "size": [
+          5.087072,
+          4.417347,
+          3.84514
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pine-1",
+      "label": "Pine 1",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "pine-1/thumbnail.png",
+      "model": "pine-1/pine-1.ts",
+      "package": "pine-1",
+      "descriptor": "pine-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1-SObTti4jmNi3jc79CZjlNpBLBHLHd-B",
+        "file": "OBJ/Pine_1.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "pine",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 604,
+        "triangles": 664,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4.134016,
+          -0.00091,
+          -3.509134
+        ],
+        "max": [
+          3.600543,
+          7.5814,
+          3.254549
+        ],
+        "size": [
+          7.734559,
+          7.58231,
+          6.763683
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pine-2",
+      "label": "Pine 2",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "pine-2/thumbnail.png",
+      "model": "pine-2/pine-2.ts",
+      "package": "pine-2",
+      "descriptor": "pine-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pLIK9v6iOcqgNP8QBjUn63-D7t2Gn4Qt",
+        "file": "OBJ/Pine_2.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "pine",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 528,
+        "triangles": 608,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.680732,
+          -0.380554,
+          -3.512053
+        ],
+        "max": [
+          2.931853,
+          7.963258,
+          3.27267
+        ],
+        "size": [
+          6.612585,
+          8.343812,
+          6.784723
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pine-3",
+      "label": "Pine 3",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "pine-3/thumbnail.png",
+      "model": "pine-3/pine-3.ts",
+      "package": "pine-3",
+      "descriptor": "pine-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1z6Wu1vSF-t-usp8KFeCvdcU-kj0u3Mfw",
+        "file": "OBJ/Pine_3.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "pine",
+        "quaternius",
+        "stylizedtree",
+        "plane",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 464,
+        "triangles": 532,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.765972,
+          -0.074097,
+          -3.477899
+        ],
+        "max": [
+          3.116922,
+          8.022987,
+          3.815816
+        ],
+        "size": [
+          6.882894,
+          8.097084,
+          7.293715
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pine-4",
+      "label": "Pine 4",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "pine-4/thumbnail.png",
+      "model": "pine-4/pine-4.ts",
+      "package": "pine-4",
+      "descriptor": "pine-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1dMbd2nGz67OL1ReRclphv2zAuVnfB183",
+        "file": "OBJ/Pine_4.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "pine",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 400,
+        "triangles": 460,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.138691,
+          -0.00068,
+          -2.104061
+        ],
+        "max": [
+          2.170636,
+          5.66992,
+          2.076905
+        ],
+        "size": [
+          4.309327,
+          5.6706,
+          4.180966
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pine-5",
+      "label": "Pine 5",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "pine-5/thumbnail.png",
+      "model": "pine-5/pine-5.ts",
+      "package": "pine-5",
+      "descriptor": "pine-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1OcXhBBVV1UrLtQuVyZbtefu4O-2mCeDH",
+        "file": "OBJ/Pine_5.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "pine",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 610,
+        "triangles": 664,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.620089,
+          -0.001237,
+          -3.178033
+        ],
+        "max": [
+          3.175529,
+          10.306259,
+          2.85727
+        ],
+        "size": [
+          6.795618,
+          10.307496,
+          6.035303
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree-1",
+      "label": "Tree 1",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "tree-1/thumbnail.png",
+      "model": "tree-1/tree-1.ts",
+      "package": "tree-1",
+      "descriptor": "tree-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Lc4NMYVapE7toyNk_jpJA125K3rIn-9_",
+        "file": "OBJ/Tree_1.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 635,
+        "triangles": 804,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.332882,
+          0.011173,
+          -2.071206
+        ],
+        "max": [
+          1.805098,
+          5.555437,
+          2.059143
+        ],
+        "size": [
+          4.13798,
+          5.544264,
+          4.130349
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree-10",
+      "label": "Tree 10",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "tree-10/thumbnail.png",
+      "model": "tree-10/tree-10.ts",
+      "package": "tree-10",
+      "descriptor": "tree-10/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1n_ePw4E9aNE9qQGSX_aN6dZQECd9nwZJ",
+        "file": "OBJ/Tree_10.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 801,
+        "triangles": 1212,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.285634,
+          -0.00138,
+          -2.352075
+        ],
+        "max": [
+          0.99506,
+          4.346673,
+          1.628426
+        ],
+        "size": [
+          4.280694,
+          4.348053,
+          3.980501
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree-2",
+      "label": "Tree 2",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "tree-2/thumbnail.png",
+      "model": "tree-2/tree-2.ts",
+      "package": "tree-2",
+      "descriptor": "tree-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=16CH6cx2bSttaGV0Chzrze0C71cdY63Wg",
+        "file": "OBJ/Tree_2.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 942,
+        "triangles": 1408,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.648627,
+          -0.00138,
+          -2.966908
+        ],
+        "max": [
+          2.244177,
+          5.432774,
+          2.903188
+        ],
+        "size": [
+          5.892804,
+          5.434154,
+          5.870096
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree-3",
+      "label": "Tree 3",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "tree-3/thumbnail.png",
+      "model": "tree-3/tree-3.ts",
+      "package": "tree-3",
+      "descriptor": "tree-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ggdXk0ldA_2dTds9I7C4K7_ZaNefdK9e",
+        "file": "OBJ/Tree_3.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1389,
+        "triangles": 2088,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.830877,
+          -0.00138,
+          -2.352074
+        ],
+        "max": [
+          2.950911,
+          5.721669,
+          2.818874
+        ],
+        "size": [
+          5.781788,
+          5.723049,
+          5.170948
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree-4",
+      "label": "Tree 4",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "tree-4/thumbnail.png",
+      "model": "tree-4/tree-4.ts",
+      "package": "tree-4",
+      "descriptor": "tree-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1SlMnDAkZzgRm_VxwmZpQZtTE5nAsQ11E",
+        "file": "OBJ/Tree_4.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1120,
+        "triangles": 1672,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.91454,
+          -0.017896,
+          -2.240487
+        ],
+        "max": [
+          3.35643,
+          5.316891,
+          3.221569
+        ],
+        "size": [
+          6.27097,
+          5.334787,
+          5.462056
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree-5",
+      "label": "Tree 5",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "tree-5/thumbnail.png",
+      "model": "tree-5/tree-5.ts",
+      "package": "tree-5",
+      "descriptor": "tree-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1THcRl8MbmcZtP2QI3u3mXUbPU479ON-D",
+        "file": "OBJ/Tree_5.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1277,
+        "triangles": 1856,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.641115,
+          0.011173,
+          -2.586446
+        ],
+        "max": [
+          3.095598,
+          6.370689,
+          2.398258
+        ],
+        "size": [
+          6.736713,
+          6.359516,
+          4.984704
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree-6",
+      "label": "Tree 6",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "tree-6/thumbnail.png",
+      "model": "tree-6/tree-6.ts",
+      "package": "tree-6",
+      "descriptor": "tree-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1y0HSMRlEPbvSu_nLUOgRmcDviNcdo8Z6",
+        "file": "OBJ/Tree_6.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 987,
+        "triangles": 1496,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.14487,
+          0,
+          -2.422015
+        ],
+        "max": [
+          4.6938,
+          8.384549,
+          2.374563
+        ],
+        "size": [
+          6.83867,
+          8.384549,
+          4.796578
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree-7",
+      "label": "Tree 7",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "tree-7/thumbnail.png",
+      "model": "tree-7/tree-7.ts",
+      "package": "tree-7",
+      "descriptor": "tree-7/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1NjGkQbHOYJKw9xT8Rrey14x2YVrbsgrb",
+        "file": "OBJ/Tree_7.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 948,
+        "triangles": 1332,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.857702,
+          0.021687,
+          -2.330092
+        ],
+        "max": [
+          2.689987,
+          5.883323,
+          2.141905
+        ],
+        "size": [
+          5.547689,
+          5.861636,
+          4.471997
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree-8",
+      "label": "Tree 8",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "tree-8/thumbnail.png",
+      "model": "tree-8/tree-8.ts",
+      "package": "tree-8",
+      "descriptor": "tree-8/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1vcyWUdl1eBLl9oNrgj_U-IUhR8BayXw9",
+        "file": "OBJ/Tree_8.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1035,
+        "triangles": 1464,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.816731,
+          0.011173,
+          -2.251613
+        ],
+        "max": [
+          4.127654,
+          5.530464,
+          2.141905
+        ],
+        "size": [
+          6.944385,
+          5.519291,
+          4.393518
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree-9",
+      "label": "Tree 9",
+      "description": "Stylized Tree Pack by Quaternius.",
+      "thumbnail": "tree-9/thumbnail.png",
+      "model": "tree-9/tree-9.ts",
+      "package": "tree-9",
+      "descriptor": "tree-9/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/stylizedtree.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Tocu3J37Tbl8EFiv413vgU5k6Nqh6S54",
+        "file": "OBJ/Tree_9.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "tree",
+        "quaternius",
+        "stylizedtree",
+        "cylinder",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 863,
+        "triangles": 1276,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.969912,
+          -0.00138,
+          -2.352075
+        ],
+        "max": [
+          3.394527,
+          5.491145,
+          2.584317
+        ],
+        "size": [
+          6.364439,
+          5.492525,
+          4.936392
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "curve-2",
+  "label": "Curve 2",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1UDZeOGbB4vG97wv_v86alNwQwMrZ2FaD",
+  "file": "OBJ/Curve_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0877635f832d6b372615a995dc1dce1bf76f62f54f3cbfc0151c6f7218060fc6",
+  "originalInputSha256": "0877635f832d6b372615a995dc1dce1bf76f62f54f3cbfc0151c6f7218060fc6",
+  "dependencies": [
+    {
+      "path": "OBJ/Curve_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1fcvfylaG-EV0aMLBnByE_HEahvvMJpNB",
+      "sha256": "a5a23afa9af109d164d7a2c9f19ab8b67921e8ae371261cf795d9e4942c95d39",
+      "bytes": 416
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "curve-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2.274849908426404,1.9973689676262438,2.0689410171471536]",
+  "convertedAt": "2026-09-05T13:32:45.120Z"
+}

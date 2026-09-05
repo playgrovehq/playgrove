@@ -1,0 +1,30 @@
+{
+  "id": "tree-10",
+  "label": "Tree 10",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "pack": "quaternius-stylizedtree",
+  "listing": "https://quaternius.com/packs/stylizedtree.html",
+  "download": "https://drive.google.com/uc?export=download&id=1n_ePw4E9aNE9qQGSX_aN6dZQECd9nwZJ",
+  "file": "OBJ/Tree_10.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "420cf025fb5276eaaf20cf69b566bdbe350c12d2bc291e019e5d577dd3e4b09d",
+  "originalInputSha256": "420cf025fb5276eaaf20cf69b566bdbe350c12d2bc291e019e5d577dd3e4b09d",
+  "dependencies": [
+    {
+      "path": "OBJ/Tree_10.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1lka-gfLUH-XnnOSiuumN-cx7Mjw5bb2v",
+      "sha256": "ac55a0e0b2c325d509fabe85b94aa44a2fb4be3359d342708839a638aaf35101",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tree-10.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[4.28069406747818,4.348053011810407,3.9805010557174683]",
+  "convertedAt": "2026-09-05T13:41:59.271Z"
+}

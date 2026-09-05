@@ -1,0 +1,30 @@
+{
+  "id": "statue-fox",
+  "label": "Statue Fox",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1OKgPwTt9c4N8izHQaJ4R2O1kO3EUcjOO",
+  "file": "OBJ/Statue_Fox.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d170bde15f291292b94a0361333532b04dfe2e2f3dbf5509e458770ed5faf660",
+  "originalInputSha256": "d170bde15f291292b94a0361333532b04dfe2e2f3dbf5509e458770ed5faf660",
+  "dependencies": [
+    {
+      "path": "OBJ/Statue_Fox.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1-vGIW63zllyHpvoTRXtiEnl_Zdht6nps",
+      "sha256": "5fe0ea5d2c587490210d2b83531cc9e2231e80a55cc9599eb159007c47b8dfd3",
+      "bytes": 237
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "statue-fox.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.350648045539856,3.7524540424346924,1.678604006767273]",
+  "convertedAt": "2026-09-05T13:32:45.701Z"
+}

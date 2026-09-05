@@ -1,0 +1,30 @@
+{
+  "id": "teleporter4",
+  "label": "Teleporter4",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "pack": "quaternius-turretpack",
+  "listing": "https://quaternius.com/packs/turretpack.html",
+  "download": "https://drive.google.com/uc?export=download&id=11DZkHJLTCwnnZS5qAVAJPTAhhcB-6Lvp",
+  "file": "OBJ/Teleporter4.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3c9295624df915da26f14118ce5cd84afb8c7e58eacaaac72cf11b41a2aaa5fa",
+  "originalInputSha256": "3c9295624df915da26f14118ce5cd84afb8c7e58eacaaac72cf11b41a2aaa5fa",
+  "dependencies": [
+    {
+      "path": "OBJ/Teleporter4.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17B96Mj8xw8KtfQweg_L56A68v2ICrs4p",
+      "sha256": "8afc417ca18536874ea95d6fe275b19e3d3f80990046c013555a62ad255a3107",
+      "bytes": 415
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "teleporter4.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.7620599865913391,2.41230808198452,1.7620609998703003]",
+  "convertedAt": "2026-09-05T13:42:54.819Z"
+}

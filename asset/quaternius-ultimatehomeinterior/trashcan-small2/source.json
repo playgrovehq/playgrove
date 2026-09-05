@@ -1,0 +1,30 @@
+{
+  "id": "trashcan-small2",
+  "label": "Trashcan Small2",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1n-x6JNqz_cyoPvpzrMOc0QKkmtF9l0AP",
+  "file": "OBJ/Trashcan_Small2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "af1029d97e74ca204e994eb2555c0ff8b59fd0ebf8e94c674353dd8df6670974",
+  "originalInputSha256": "af1029d97e74ca204e994eb2555c0ff8b59fd0ebf8e94c674353dd8df6670974",
+  "dependencies": [
+    {
+      "path": "OBJ/Trashcan_Small2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17wYDlaNFUD4M2GXe42seAeOB88y_Mr8t",
+      "sha256": "8cf047f60a40152864b321d99d1904a1cb05aceb438a2ed089147c2c16624b34",
+      "bytes": 247
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "trashcan-small2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.46477600932121277,0.5602779984474182,0.4284540116786957]",
+  "convertedAt": "2026-09-05T13:40:40.380Z"
+}

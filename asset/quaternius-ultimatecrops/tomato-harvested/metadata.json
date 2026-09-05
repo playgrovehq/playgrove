@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "tomato-harvested",
+  "label": "Tomato Harvested",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "tomato",
+    "harvested",
+    "quaternius",
+    "ultimatecrops",
+    "icosphere",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#77a15a"
+  ],
+  "colorNames": [
+    "green"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tomato-harvested.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2870,
+    "triangles": 1358,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.369766,
+      -0.000141,
+      -0.336472
+    ],
+    "max": [
+      0.423415,
+      1.719962,
+      0.47353
+    ],
+    "size": [
+      0.793181,
+      1.720103,
+      0.810002
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Tomato_Harvested_Icosphere.014"
+  ],
+  "materialNames": [
+    "Green"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1gSJnGfL-M8ZZ-Tl8dJ1aWwTcO8QQYCVa",
+    "file": "OBJ/Tomato_Harvested.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

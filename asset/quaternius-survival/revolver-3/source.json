@@ -1,0 +1,30 @@
+{
+  "id": "revolver-3",
+  "label": "Revolver 3",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1phsHYpisydJJv0BYxXifrOwDCill4lMf",
+  "file": "OBJ/Revolver_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "45f17ec299807fcb5e8a7f09d78419322412ac6b696bb87dd19aedf959b7b69c",
+  "originalInputSha256": "45f17ec299807fcb5e8a7f09d78419322412ac6b696bb87dd19aedf959b7b69c",
+  "dependencies": [
+    {
+      "path": "OBJ/Revolver_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1RvzSqwh3jkQcvGpIRbTwHH_L_8REb9GA",
+      "sha256": "e26f39bf3961456d6085d829504c87c7c7da3c2e6a80b1bf26ae3ef1ea18286c",
+      "bytes": 597
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "revolver-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.9011049419641495,0.9627270102500916,0.2943570017814636]",
+  "convertedAt": "2026-09-05T13:37:26.740Z"
+}

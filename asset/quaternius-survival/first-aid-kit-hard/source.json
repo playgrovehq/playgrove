@@ -1,0 +1,30 @@
+{
+  "id": "first-aid-kit-hard",
+  "label": "FirstAidKit Hard",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1jA8tuPzp5Kt1HCTn0CZqMja4AvQF1uv0",
+  "file": "OBJ/FirstAidKit_Hard.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "fdf433f554e515e8d87bf69c1dd4454f7a53162d543124ad58d5c9c44a8f4997",
+  "originalInputSha256": "fdf433f554e515e8d87bf69c1dd4454f7a53162d543124ad58d5c9c44a8f4997",
+  "dependencies": [
+    {
+      "path": "OBJ/FirstAidKit_Hard.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1b1xELaOu-t--43_C_Yhg5wKqPoNH0v15",
+      "sha256": "797f83c1695359af20e71ef09fad09dd2d03dacf46b0724f827a41888465ae22",
+      "bytes": 778
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "first-aid-kit-hard.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.8837199807167053,1.277076005935669,0.6769990026950836]",
+  "convertedAt": "2026-09-05T13:37:26.389Z"
+}

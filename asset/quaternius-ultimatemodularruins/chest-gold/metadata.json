@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "id": "chest-gold",
+  "label": "Chest Gold",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "chest",
+    "gold",
+    "quaternius",
+    "ultimatemodularruins",
+    "base",
+    "cube",
+    "top",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#4b3d29",
+    "#625239",
+    "#4f5157",
+    "#938054"
+  ],
+  "colorNames": [
+    "black",
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "chest-gold.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 23832,
+    "triangles": 22512,
+    "parts": 6,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.589659,
+      -0.001326,
+      -0.388946
+    ],
+    "max": [
+      0.589659,
+      0.909335,
+      0.433321
+    ],
+    "size": [
+      1.179318,
+      0.910661,
+      0.822267
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Chest_Gold_Base_Cube.010",
+    "Chest_Gold_Top_Cylinder.041"
+  ],
+  "materialNames": [
+    "DarkWood",
+    "Wood",
+    "Metal",
+    "Gold"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1bR42q1fGBJYK7dXAcR7gG2vryE1f63hs",
+    "file": "OBJ/Chest_Gold.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

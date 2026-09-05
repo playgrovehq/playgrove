@@ -1,0 +1,30 @@
+{
+  "id": "light-stand1",
+  "label": "Light Stand1",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ueWu2v9A5fQnRqPahTPXuVbzRbTh3pwL",
+  "file": "OBJ/Light_Stand1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "872d09e361c05a00f2e90e204193dec5af0711f4adace6e78071b25c728d5bce",
+  "originalInputSha256": "872d09e361c05a00f2e90e204193dec5af0711f4adace6e78071b25c728d5bce",
+  "dependencies": [
+    {
+      "path": "OBJ/Light_Stand1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1sHaOpe94L5-ODQbOFwNpOE9dBChKP5R2",
+      "sha256": "1548241e33de3037d4de4d36c97b4f2fb83589e651d75417799001f813c95d5c",
+      "bytes": 422
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "light-stand1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7733680009841919,2.9937829971313477,0.813167005777359]",
+  "convertedAt": "2026-09-05T13:40:39.991Z"
+}

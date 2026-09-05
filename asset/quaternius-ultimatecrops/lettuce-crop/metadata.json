@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "lettuce-crop",
+  "label": "Lettuce Crop",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "lettuce",
+    "crop",
+    "quaternius",
+    "ultimatecrops",
+    "cube",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#60674d"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "lettuce-crop.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 208,
+    "triangles": 112,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.202139,
+      -0.023387,
+      -0.202139
+    ],
+    "max": [
+      0.202139,
+      0.400416,
+      0.202139
+    ],
+    "size": [
+      0.404278,
+      0.423803,
+      0.404278
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Lettuce_Crop_Cube.015"
+  ],
+  "materialNames": [
+    "DarkGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1BtGw0Qd74HsnJ6SK7q8CR5swB0BEM9Yt",
+    "file": "OBJ/Lettuce_Crop.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

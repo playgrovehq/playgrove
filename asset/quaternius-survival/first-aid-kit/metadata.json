@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "first-aid-kit",
+  "label": "FirstAidKit",
+  "description": "Survival Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "first",
+    "aid",
+    "kit",
+    "quaternius",
+    "survival",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#733230",
+    "#c5c5c5",
+    "#2d2d2d"
+  ],
+  "colorNames": [
+    "brown",
+    "beige",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "first-aid-kit.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1404,
+    "triangles": 754,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.780669,
+      -0.602321,
+      -0.366653
+    ],
+    "max": [
+      0.782442,
+      0.757046,
+      0.366653
+    ],
+    "size": [
+      1.563111,
+      1.359367,
+      0.733306
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "FirstAidKit_Cube.001"
+  ],
+  "materialNames": [
+    "Red",
+    "White",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/survival.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ngDWPJ6BQbAO2gWT7vCdhlx2c77qJzyN",
+    "file": "OBJ/FirstAidKit.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

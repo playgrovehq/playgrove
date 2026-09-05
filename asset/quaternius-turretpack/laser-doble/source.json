@@ -1,0 +1,30 @@
+{
+  "id": "laser-doble",
+  "label": "Laser Doble",
+  "description": "Steampunk Turret Pack by Quaternius.",
+  "pack": "quaternius-turretpack",
+  "listing": "https://quaternius.com/packs/turretpack.html",
+  "download": "https://drive.google.com/uc?export=download&id=15kW8U07HtmQUxhY-HTozdg-lUcHIIrdf",
+  "file": "OBJ/Laser_Doble.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d011f7c6195281f868e024fc8ca24b495386f1677cecb78735c4c95b262d38af",
+  "originalInputSha256": "d011f7c6195281f868e024fc8ca24b495386f1677cecb78735c4c95b262d38af",
+  "dependencies": [
+    {
+      "path": "OBJ/Laser_Doble.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=10IpzDENf739rD9V0I9F9B1Cypq28yh9E",
+      "sha256": "f31f9c0a0e1a5fb5ada6e1f92b563a27c939bf8be672356f7a6eeb56b48be52a",
+      "bytes": 415
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "laser-doble.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=6 materials=6 bounds=[1.4111040234565735,2.2917390912771225,2.778687000274658]",
+  "convertedAt": "2026-09-05T13:42:54.658Z"
+}

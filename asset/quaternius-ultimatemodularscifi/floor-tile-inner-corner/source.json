@@ -1,0 +1,30 @@
+{
+  "id": "floor-tile-inner-corner",
+  "label": "FloorTile InnerCorner",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Z7SJQpcXBkkuI6zATEsM9-Iz0OlvWBUC",
+  "file": "OBJ/FloorTile_InnerCorner.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0b2727ebf87bad5bb430813d06b66755868eeb83105334e368ed83bdb1f94257",
+  "originalInputSha256": "0b2727ebf87bad5bb430813d06b66755868eeb83105334e368ed83bdb1f94257",
+  "dependencies": [
+    {
+      "path": "OBJ/FloorTile_InnerCorner.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16ChBv4RPeXOVhYZj-a0Q6lYdv3TcllxZ",
+      "sha256": "d214ee4e26d851218d396d84697427a141b776dc6ac4f122154e0c3200cbd08c",
+      "bytes": 968
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "floor-tile-inner-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[2,0.0509909987449646,2]",
+  "convertedAt": "2026-09-05T13:34:57.139Z"
+}

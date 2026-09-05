@@ -1,0 +1,30 @@
+{
+  "id": "light-desk",
+  "label": "Light Desk",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1JlLRt_Wk4MPNsWKm7A9PegIpC7EXIQ5A",
+  "file": "OBJ/Light_Desk.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "357b925d4a260d72c2972311d0eb3589459d1f9012ab734c76073c7294ef64ea",
+  "originalInputSha256": "357b925d4a260d72c2972311d0eb3589459d1f9012ab734c76073c7294ef64ea",
+  "dependencies": [
+    {
+      "path": "OBJ/Light_Desk.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17pgXQtEf2qyjA2idwzMC3J4-kgrD7GyV",
+      "sha256": "9e834d55158783997514a6db7804626faa1ce28a933185739bd6c302d51c2dfa",
+      "bytes": 598
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "light-desk.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.2515299916267395,0.5732029993232572,0.45317500829696655]",
+  "convertedAt": "2026-09-05T13:40:39.842Z"
+}

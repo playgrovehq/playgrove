@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "watermelon-harvested",
+  "label": "Watermelon Harvested",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "watermelon",
+    "harvested",
+    "quaternius",
+    "ultimatecrops",
+    "sphere",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#77a15a",
+    "#60674d"
+  ],
+  "colorNames": [
+    "green",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "watermelon-harvested.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4760,
+    "triangles": 2380,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.498018,
+      -0.2046,
+      -0.653336
+    ],
+    "max": [
+      0.791704,
+      0.385378,
+      0.421983
+    ],
+    "size": [
+      1.289722,
+      0.589978,
+      1.075319
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Watermelon_Harvested_Sphere.002"
+  ],
+  "materialNames": [
+    "Green",
+    "DarkGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Z82k8q4drdXsSKKZFN3jJM5I2k9UJEQs",
+    "file": "OBJ/Watermelon_Harvested.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dead-tree-3",
+  "label": "DeadTree 3",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "pack": "quaternius-stylizedtree",
+  "listing": "https://quaternius.com/packs/stylizedtree.html",
+  "download": "https://drive.google.com/uc?export=download&id=19_x0DqEZuHNRV8EJ3rBwbhZxyItKyU4L",
+  "file": "OBJ/DeadTree_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ecb555af5f6044955ce82e1f535891d8f52931796e8e1e90c7c4825b1b4d31ca",
+  "originalInputSha256": "ecb555af5f6044955ce82e1f535891d8f52931796e8e1e90c7c4825b1b4d31ca",
+  "dependencies": [
+    {
+      "path": "OBJ/DeadTree_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1vr9w6wOgqIKg9smxwzjz3W37-3_Fumnj",
+      "sha256": "51f4191f775337a9556fde94cda5a85649abc18e8997b3c8454d80b5760e56f1",
+      "bytes": 236
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "dead-tree-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[4.503663063049316,5.618712935363874,4.516106843948364]",
+  "convertedAt": "2026-09-05T13:41:59.052Z"
+}

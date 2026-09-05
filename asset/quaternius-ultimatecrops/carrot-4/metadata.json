@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "id": "carrot-4",
+  "label": "Carrot 4",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "carrot",
+    "quaternius",
+    "ultimatecrops",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#b18c52",
+    "#77a15a",
+    "#4b623e"
+  ],
+  "colorNames": [
+    "orange",
+    "green",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "carrot-4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1066,
+    "triangles": 514,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.378556,
+      -0.60972,
+      -0.305674
+    ],
+    "max": [
+      0.297972,
+      0.669452,
+      0.195894
+    ],
+    "size": [
+      0.676528,
+      1.279172,
+      0.501568
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Carrot_4_Cylinder.004"
+  ],
+  "materialNames": [
+    "LightOrange",
+    "Green",
+    "DarkGreen2"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1up6wBSHSGuuQqqMTJecsuAhou38C2Kuf",
+    "file": "OBJ/Carrot_4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

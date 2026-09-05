@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "dead-tree-2",
+  "label": "DeadTree 2",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "dead",
+    "tree",
+    "quaternius",
+    "ultimatemodularruins",
+    "cylinder",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "dead-tree-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 370,
+    "triangles": 516,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.731669,
+      0.010844,
+      -0.142872
+    ],
+    "max": [
+      0.722693,
+      2.629965,
+      0.093628
+    ],
+    "size": [
+      1.454362,
+      2.619121,
+      0.2365
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "DeadTree_2_Cylinder.014"
+  ],
+  "materialNames": [
+    "Bark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1X-3DqPEr-Ex3rGeid83YFOumoEciHuQ_",
+    "file": "OBJ/DeadTree_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

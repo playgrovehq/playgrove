@@ -1,0 +1,30 @@
+{
+  "id": "smoke",
+  "label": "Smoke",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1pzUNc6LpJrtkwlRXenhAytR0_GDprhBb",
+  "file": "Props/OBJ/Smoke.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a9bf5e35d1d3bd8b90d82807911aa7c6cd3a034283f86294a0f03ea06c72d602",
+  "originalInputSha256": "a9bf5e35d1d3bd8b90d82807911aa7c6cd3a034283f86294a0f03ea06c72d602",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Smoke.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1lY8csV2t5JfTvXq-9Qs4HJuAppdU8WIX",
+      "sha256": "7cef3210db69f52bec1ce5e1c66a254e607fa55e0d23b0cbc3995100ac433225",
+      "bytes": 232
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "smoke.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.44224999845027924,1.0675369650125504,0.2723290026187897]",
+  "convertedAt": "2026-09-05T13:36:05.040Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kitchen-oven-large",
+  "label": "Kitchen Oven Large",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ADdCJFSc4ldGsA8krVwWnfn-ILpbfLNd",
+  "file": "OBJ/Kitchen_Oven_Large.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5c42b118716b8ed9d18e28e5f3525e296cc8d7fdb43824c8c55f3b81b3e61e1a",
+  "originalInputSha256": "5c42b118716b8ed9d18e28e5f3525e296cc8d7fdb43824c8c55f3b81b3e61e1a",
+  "dependencies": [
+    {
+      "path": "OBJ/Kitchen_Oven_Large.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1AamJTkczAbP5Rt1A0BiI9m4WKzFkDIxl",
+      "sha256": "545c31671ff2fd2773bf2e44812b542e437bef8d3e96a9c157c581e25f063b37",
+      "bytes": 966
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "kitchen-oven-large.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.1712199449539185,1.592607021331787,1.070363998413086]",
+  "convertedAt": "2026-09-05T13:40:39.626Z"
+}

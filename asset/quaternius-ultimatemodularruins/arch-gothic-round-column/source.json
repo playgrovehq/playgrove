@@ -1,0 +1,30 @@
+{
+  "id": "arch-gothic-round-column",
+  "label": "Arch Gothic RoundColumn",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1MWDB75qNvAlNpjFj6g6Q0pcfV6pntnM9",
+  "file": "OBJ/Arch_Gothic_RoundColumn.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0f77437cb8f0df3337a52de17f0f83ccf8d19baa358d9ed5a49add512c0b641f",
+  "originalInputSha256": "0f77437cb8f0df3337a52de17f0f83ccf8d19baa358d9ed5a49add512c0b641f",
+  "dependencies": [
+    {
+      "path": "OBJ/Arch_Gothic_RoundColumn.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1WKEdhZz72XAYbv8ZMWB2H7-zTnFsmUO0",
+      "sha256": "f1296855fdff6713494c1a2f009333f8fad296859078c4d570bf5201b2e70609",
+      "bytes": 610
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "arch-gothic-round-column.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.0919458866119385,3.7587039393838495,0.4893900156021118]",
+  "convertedAt": "2026-09-05T13:32:44.559Z"
+}

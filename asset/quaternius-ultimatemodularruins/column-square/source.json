@@ -1,0 +1,30 @@
+{
+  "id": "column-square",
+  "label": "Column Square",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1SeU_iHLTsbzKjKjVoIo5YyQxA4HH4wy2",
+  "file": "OBJ/Column_Square.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e8bfa9b52be420f5253dd3aabf6863b1cd62b72d903f9c6f684e474327639dc5",
+  "originalInputSha256": "e8bfa9b52be420f5253dd3aabf6863b1cd62b72d903f9c6f684e474327639dc5",
+  "dependencies": [
+    {
+      "path": "OBJ/Column_Square.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1mVnN5TBPv3kz17NEntcgOJkwJ1MqLP1j",
+      "sha256": "1509730580203eeef9e75f12fa66b6b4a2109b1c133aafcb52f008b583db0bea",
+      "bytes": 422
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "column-square.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6565899848937988,3.9898910522460938,0.6565899848937988]",
+  "convertedAt": "2026-09-05T13:32:45.037Z"
+}

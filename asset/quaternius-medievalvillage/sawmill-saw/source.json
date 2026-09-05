@@ -1,0 +1,30 @@
+{
+  "id": "sawmill-saw",
+  "label": "Sawmill saw",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1xVzU4brFjfz_wbt1mizYwCni57LyDpFb",
+  "file": "Props/OBJ/Sawmill_saw.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b27ba6dcf504cf89ecc5318ce825b37aa5b52cc21ff4d71633971ee10fabf10a",
+  "originalInputSha256": "b27ba6dcf504cf89ecc5318ce825b37aa5b52cc21ff4d71633971ee10fabf10a",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Sawmill_saw.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1cT7EbxZzHmwebKfWVkJA7MWPZmanY-Kp",
+      "sha256": "e47c93282aec56a908b97abe9f473d2118164a703b7f5f7ef1e767bc3832eef3",
+      "bytes": 959
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sawmill-saw.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.7052980065345764,0.5414539873600006,1.7045709490776062]",
+  "convertedAt": "2026-09-05T13:36:05.023Z"
+}

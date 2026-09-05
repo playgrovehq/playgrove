@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "tent",
+  "label": "Tent",
+  "description": "Survival Pack by Quaternius.",
+  "category": "camping",
+  "tags": [
+    "tent",
+    "quaternius",
+    "survival",
+    "cylinder",
+    "camping",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5f4b35",
+    "#2d2d2d",
+    "#524d32",
+    "#3e3921"
+  ],
+  "colorNames": [
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tent.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1370,
+    "triangles": 788,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -7.290246,
+      -0.175867,
+      -12.434095
+    ],
+    "max": [
+      7.290246,
+      10.148576,
+      12.434098
+    ],
+    "size": [
+      14.580492,
+      10.324443,
+      24.868193
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Tent_Cylinder.020"
+  ],
+  "materialNames": [
+    "DarkWood",
+    "Black",
+    "LightGreen",
+    "Green"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/survival.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Adyssh3_yq9GE8XA5cGKnWyB7EaooD6i",
+    "file": "OBJ/Tent.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

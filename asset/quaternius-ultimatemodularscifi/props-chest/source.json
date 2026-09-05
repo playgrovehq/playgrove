@@ -1,0 +1,30 @@
+{
+  "id": "props-chest",
+  "label": "Props Chest",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ebYb8JIkB6sU383jjjMtk6FloDmR4Kq4",
+  "file": "OBJ/Props_Chest.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "53b311a01e960fe1facc4eeb902a966e02249c46d17cff79557cd62f10485603",
+  "originalInputSha256": "53b311a01e960fe1facc4eeb902a966e02249c46d17cff79557cd62f10485603",
+  "dependencies": [
+    {
+      "path": "OBJ/Props_Chest.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1ocHG-9fQAAy_oGZm8Uhdeo6VzZZ57CDC",
+      "sha256": "ba6485c871d25a909124e4f48fc830b8d056253a610195f3f6bf9090e0eb01ae",
+      "bytes": 958
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "props-chest.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=10 materials=10 bounds=[1.2875980138778687,0.9110070122405887,0.808230996131897]",
+  "convertedAt": "2026-09-05T13:34:57.260Z"
+}

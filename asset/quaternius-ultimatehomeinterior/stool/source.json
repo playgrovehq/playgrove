@@ -1,0 +1,30 @@
+{
+  "id": "stool",
+  "label": "Stool",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1PyA25VRr1p8_SftdZXw-7QSuw4UPBZGV",
+  "file": "OBJ/Stool.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "404e3e53234267c1b72399e8ac66173bf3a4f4c2078b4c870583d22aa7265c78",
+  "originalInputSha256": "404e3e53234267c1b72399e8ac66173bf3a4f4c2078b4c870583d22aa7265c78",
+  "dependencies": [
+    {
+      "path": "OBJ/Stool.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=11b7qe-PT3PB9kRNlRlqjiYR5H56F1lJS",
+      "sha256": "7fa065cfacb4236e2ce70bdccd881cdf4d872a764ae89544c7dd14edda7bd066",
+      "bytes": 410
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "stool.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6753439903259277,1.3723019436001778,0.7100980281829834]",
+  "convertedAt": "2026-09-05T13:40:40.243Z"
+}

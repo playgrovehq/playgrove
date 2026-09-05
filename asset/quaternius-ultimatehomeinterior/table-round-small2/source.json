@@ -1,0 +1,30 @@
+{
+  "id": "table-round-small2",
+  "label": "Table RoundSmall2",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1wJuU8xTlfYGwP7OZybAQoElPjAwAD7US",
+  "file": "OBJ/Table_RoundSmall2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0390a1d43662396625c2a4c7b5c3248418c64d56dfaacf95d9c9a530b946d93e",
+  "originalInputSha256": "0390a1d43662396625c2a4c7b5c3248418c64d56dfaacf95d9c9a530b946d93e",
+  "dependencies": [
+    {
+      "path": "OBJ/Table_RoundSmall2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1QM9pw1G8--b-tRJRSOyf7NDFuZS5pmID",
+      "sha256": "eb7ca2f5e00896e3a50220932d66a4c55f29dceda463dcbf0e7780be2cbfe741",
+      "bytes": 243
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "table-round-small2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.9409879446029663,1.2077850326895714,1.9409879446029663]",
+  "convertedAt": "2026-09-05T13:40:40.294Z"
+}

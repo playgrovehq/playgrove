@@ -1,0 +1,30 @@
+{
+  "id": "kitchen-1-drawers",
+  "label": "Kitchen 1Drawers",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1UI8cht1p8J2cI0vzQd_aeX_Em1FbB4LK",
+  "file": "OBJ/Kitchen_1Drawers.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "fad738c97014b381e03b5f244ab7e37f005d3cee876347a044ada19494c3071d",
+  "originalInputSha256": "fad738c97014b381e03b5f244ab7e37f005d3cee876347a044ada19494c3071d",
+  "dependencies": [
+    {
+      "path": "OBJ/Kitchen_1Drawers.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=18zVvSfJf_rhik6SGWWkrwuAhmKZFiOxg",
+      "sha256": "ca06bfeedb95a7dd98d3846c957b97eab4b2a85e84b7ab8134504fcb3609f4fc",
+      "bytes": 606
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "kitchen-1-drawers.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.0108120441436768,1.6136309797875583,1.1204270124435425]",
+  "convertedAt": "2026-09-05T13:40:39.493Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cauldron",
+  "label": "Cauldron",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ptJF508TXM0-8vDsfoLhIIPPd0cj-ubJ",
+  "file": "Props/OBJ/Cauldron.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d3bf1105823bc075b1cf8d925051b463898a4abbd2d4b972d3c48b415e84268a",
+  "originalInputSha256": "d3bf1105823bc075b1cf8d925051b463898a4abbd2d4b972d3c48b415e84268a",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Cauldron.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1OsHFCgfSKF5E1gbDYZIKEtBSyFGE5e6r",
+      "sha256": "90e946dc1c66bf9e57b0cafcc600d4fc4c01137479252a970878576c324c9149",
+      "bytes": 773
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cauldron.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.3606620132923126,0.2517919971141964,0.29883599281311035]",
+  "convertedAt": "2026-09-05T13:36:04.729Z"
+}

@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "id": "props-crate-long",
+  "label": "Props CrateLong",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "props",
+    "crate",
+    "long",
+    "quaternius",
+    "ultimatemodularscifi",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a",
+    "#b28641",
+    "#797979",
+    "#76582b",
+    "#333333"
+  ],
+  "colorNames": [
+    "gray",
+    "orange",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "props-crate-long.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 5426,
+    "triangles": 3072,
+    "parts": 5,
+    "discardedDegenerate": 48
+  },
+  "bounds": {
+    "min": [
+      -0.619222,
+      0.001336,
+      -0.385081
+    ],
+    "max": [
+      0.613729,
+      0.771122,
+      0.384704
+    ],
+    "size": [
+      1.232951,
+      0.769786,
+      0.769785
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Props_CrateLong_Cube.021"
+  ],
+  "materialNames": [
+    "Main",
+    "Accent",
+    "DarkGrey",
+    "DarkAccent",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1BUncq2YYdXqbM8DSBRA8_zuu-6IAgBQR",
+    "file": "OBJ/Props_CrateLong.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

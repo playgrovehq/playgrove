@@ -1,0 +1,30 @@
+{
+  "id": "market-stand-1",
+  "label": "MarketStand 1",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1xpVDQ3CyAmwtn-htnOpoD3YyZCBRJql5",
+  "file": "Props/OBJ/MarketStand_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e732c75ae0e2254020abaffa6c16f891335d2ab243ee8df3a554c891659c03f6",
+  "originalInputSha256": "e732c75ae0e2254020abaffa6c16f891335d2ab243ee8df3a554c891659c03f6",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/MarketStand_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1mVZEbG1MVsE44Bc0fCPa1X-IqOG30jsf",
+      "sha256": "44c47832996520dc4ea81e587732608915b2ca9e1caebfda6ca3be651214a08d",
+      "bytes": 785
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "market-stand-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.9509419798851013,1.0491730570793152,1.1898319721221924]",
+  "convertedAt": "2026-09-05T13:36:04.859Z"
+}

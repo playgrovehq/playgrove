@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "couch-l",
+  "label": "Couch L",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "category": "furniture",
+  "tags": [
+    "couch",
+    "l",
+    "quaternius",
+    "ultimatehomeinterior",
+    "cube",
+    "furniture",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#4f4a47",
+    "#635d59"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "couch-l.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 816,
+    "triangles": 1424,
+    "parts": 2,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -3.299285,
+      -0.015454,
+      -1.380211
+    ],
+    "max": [
+      2.315124,
+      2.245869,
+      2.946761
+    ],
+    "size": [
+      5.614409,
+      2.261323,
+      4.326972
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Couch_L_Cube.028"
+  ],
+  "materialNames": [
+    "Couch_BeigeDark",
+    "Couch_Beige"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+    "download": "https://drive.google.com/uc?export=download&id=1atDgi0ql7BlIKojpVhu1l4JAg1NvX8r-",
+    "file": "OBJ/Couch_L.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

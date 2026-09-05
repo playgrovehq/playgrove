@@ -1,0 +1,30 @@
+{
+  "id": "raft",
+  "label": "Raft",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=10k7K7POVyOkvI3bAtdJzpc7HdZCA6I6w",
+  "file": "OBJ/Raft.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4c22fa080368ab1f347b808abc0b7179312f604aa1dde156472f81ed4205d757",
+  "originalInputSha256": "4c22fa080368ab1f347b808abc0b7179312f604aa1dde156472f81ed4205d757",
+  "dependencies": [
+    {
+      "path": "OBJ/Raft.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1F-XBX300BssGSPqhTKuOhbgciL5JGpbc",
+      "sha256": "f8f91af2210cba98311f2399d36496b3b0b97a96bf3b64b2459102d7b57b619b",
+      "bytes": 416
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "raft.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[11.96409797668457,4.302045106887817,23.645097732543945]",
+  "convertedAt": "2026-09-05T13:37:26.672Z"
+}

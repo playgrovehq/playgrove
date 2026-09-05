@@ -1,0 +1,30 @@
+{
+  "id": "1-story-round-roof-mat",
+  "label": "1Story RoundRoof Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1QwE8Sb4d7diIhWWmT1xQOETEU41LEARn",
+  "file": "Models with Materials/OBJ/1Story_RoundRoof_Mat.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7e2977c8df40757b5b4accac0477c844f1a607413b0425a447aec97ffe94ed75",
+  "originalInputSha256": "7e2977c8df40757b5b4accac0477c844f1a607413b0425a447aec97ffe94ed75",
+  "dependencies": [
+    {
+      "path": "Models with Materials/OBJ/1Story_RoundRoof_Mat.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1buQ3MopBhqAcpYGZLKeOcYjwjQL_qXFg",
+      "sha256": "1163516abcd47ddb81cbfdbf17046e006ebc64979d03530ecc0bc17669f3a424",
+      "bytes": 961
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "1-story-round-roof-mat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[2.086727023124695,2.3831141144037247,2.1257760524749756]",
+  "convertedAt": "2026-09-05T13:48:27.412Z"
+}

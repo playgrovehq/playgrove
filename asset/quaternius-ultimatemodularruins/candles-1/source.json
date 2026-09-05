@@ -1,0 +1,30 @@
+{
+  "id": "candles-1",
+  "label": "Candles 1",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1XCklrz4QXWUyV3s4-YB_bHrWvkdAlpn9",
+  "file": "OBJ/Candles_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ed9a8e66eac0304babab60b82ed14b0e40e4db1c86a70cb5901b30f66317fd42",
+  "originalInputSha256": "ed9a8e66eac0304babab60b82ed14b0e40e4db1c86a70cb5901b30f66317fd42",
+  "dependencies": [
+    {
+      "path": "OBJ/Candles_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Av-Z_gpsshY88RWV2pDEr9ziHn3dcEks",
+      "sha256": "62af6d1b2bd7054da7b47b66c18b9e252a4591621735320638786024066ba734",
+      "bytes": 593
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "candles-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.8810240030288696,0.6067359847947955,0.8435800075531006]",
+  "convertedAt": "2026-09-05T13:32:44.857Z"
+}

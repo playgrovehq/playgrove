@@ -1,0 +1,30 @@
+{
+  "id": "shovel",
+  "label": "Shovel",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1YOl2917iPPxRb0CucUG6WIcNUhwhagEk",
+  "file": "OBJ/Shovel.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e1573edc0751f44db1b13aca1c882be182f67e47e511190755d807edd918793c",
+  "originalInputSha256": "e1573edc0751f44db1b13aca1c882be182f67e47e511190755d807edd918793c",
+  "dependencies": [
+    {
+      "path": "OBJ/Shovel.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1IWXJZleo9st-E64FNxPg7h4Y1xXvn_lR",
+      "sha256": "30de0d053904f470275b53a86f4ec54fe6f6a1f17f90f28ebfb7a6bea1b1199c",
+      "bytes": 589
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "shovel.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.8046450018882751,3.8736549615859985,0.1837410032749176]",
+  "convertedAt": "2026-09-05T13:37:26.831Z"
+}

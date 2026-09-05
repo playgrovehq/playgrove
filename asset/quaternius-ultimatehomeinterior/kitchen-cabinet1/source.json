@@ -1,0 +1,30 @@
+{
+  "id": "kitchen-cabinet1",
+  "label": "Kitchen Cabinet1",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1R7SCT-FFcbH4RH49XUUEUGS5Dzhz2QzN",
+  "file": "OBJ/Kitchen_Cabinet1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "005bd751c143b4d841ab254f4435f7639e9cacaf590c69330debabe07d633093",
+  "originalInputSha256": "005bd751c143b4d841ab254f4435f7639e9cacaf590c69330debabe07d633093",
+  "dependencies": [
+    {
+      "path": "OBJ/Kitchen_Cabinet1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1LwDg9mAYYsWkgib_WSDejSS6U06bgLhY",
+      "sha256": "ed6f582213a0614bd1b0e6749e9656c4e24167296701a0bf148c032fe09355ec",
+      "bytes": 423
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "kitchen-cabinet1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.0108120441436768,1.5671219523064792,1.071465015411377]",
+  "convertedAt": "2026-09-05T13:40:39.542Z"
+}

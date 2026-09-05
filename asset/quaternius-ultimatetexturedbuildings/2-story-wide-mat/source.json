@@ -1,0 +1,30 @@
+{
+  "id": "2-story-wide-mat",
+  "label": "2Story Wide Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ktoXPc8p4O49G3id-ZfK7zf0NhtvP1za",
+  "file": "Models with Materials/OBJ/2Story_Wide_Mat.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3af55ffba86a236169814f39de768d5a496afaee63d0ad0a3aa2fd3a6d2900f5",
+  "originalInputSha256": "3af55ffba86a236169814f39de768d5a496afaee63d0ad0a3aa2fd3a6d2900f5",
+  "dependencies": [
+    {
+      "path": "Models with Materials/OBJ/2Story_Wide_Mat.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1pl1B7oOdV7xZp3LRPpyVbOrC9tICOgOV",
+      "sha256": "6585298a9dacd61bc71768ab0267e72d7111aad2ea2b57e26f8a32a8bc4e27a8",
+      "bytes": 1311
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "2-story-wide-mat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[3.825212001800537,2.74794590100646,2.2552980184555054]",
+  "convertedAt": "2026-09-05T13:48:27.733Z"
+}

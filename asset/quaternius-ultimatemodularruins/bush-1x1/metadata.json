@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "bush-1x1",
+  "label": "Bush 1x1",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "bush",
+    "1x1",
+    "quaternius",
+    "ultimatemodularruins",
+    "cube",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bush-1x1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 515,
+    "triangles": 516,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.560453,
+      -0.343565,
+      -0.594051
+    ],
+    "max": [
+      0.560453,
+      0.85599,
+      0.594051
+    ],
+    "size": [
+      1.120906,
+      1.199555,
+      1.188102
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Bush_1x1_Cube.023"
+  ],
+  "materialNames": [
+    "Texture_Leaves"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1BJsheX0BbExV-oZQE3Z7pQFTvGf6Rx3g",
+    "file": "OBJ/Bush_1x1.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

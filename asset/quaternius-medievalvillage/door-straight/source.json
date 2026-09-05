@@ -1,0 +1,30 @@
+{
+  "id": "door-straight",
+  "label": "Door Straight",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1dQGdrAv5NFsSIaZ1JvX9jrS3I-PMSQzC",
+  "file": "Props/OBJ/Door_Straight.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6c694a46b1842f801304afa08c4df0de68ee64fd0766ecc9b3bf16e34b152cab",
+  "originalInputSha256": "6c694a46b1842f801304afa08c4df0de68ee64fd0766ecc9b3bf16e34b152cab",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Door_Straight.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1oxcoR_W18wJx4Ilom04I2D3Ms5-21TB9",
+      "sha256": "f053e69014ddc1e8758c4901cc2781dbb6d7946830781a3c9af85672fc89fb78",
+      "bytes": 967
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "door-straight.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.5013779997825623,0.7079069875180721,0.2963899893220514]",
+  "convertedAt": "2026-09-05T13:36:04.786Z"
+}

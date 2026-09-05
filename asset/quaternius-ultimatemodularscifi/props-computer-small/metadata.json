@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "id": "props-computer-small",
+  "label": "Props ComputerSmall",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "props",
+    "computer",
+    "small",
+    "quaternius",
+    "ultimatemodularscifi",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a",
+    "#797979",
+    "#333333",
+    "#b28641",
+    "#76582b"
+  ],
+  "colorNames": [
+    "gray",
+    "black",
+    "orange",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "props-computer-small.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 933,
+    "triangles": 621,
+    "parts": 5,
+    "discardedDegenerate": 3
+  },
+  "bounds": {
+    "min": [
+      -0.375608,
+      -0.004169,
+      -0.133982
+    ],
+    "max": [
+      0.375608,
+      1.5336,
+      0.322403
+    ],
+    "size": [
+      0.751216,
+      1.537769,
+      0.456385
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Props_ComputerSmall_Cube.032"
+  ],
+  "materialNames": [
+    "Main",
+    "DarkGrey",
+    "Black",
+    "Accent",
+    "DarkAccent"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1w9oYALPIV6n04uAc6IdeA42QesNfCfZ9",
+    "file": "OBJ/Props_ComputerSmall.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

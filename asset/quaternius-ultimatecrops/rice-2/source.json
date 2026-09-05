@@ -1,0 +1,30 @@
+{
+  "id": "rice-2",
+  "label": "Rice 2",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1nes33Tc9hz83YdzjBhXgptVtawaeAzH5",
+  "file": "OBJ/Rice_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e52da9fcf6f54bdf9d7dfcf0214a2478a2cc05023f810cc441833b0fafaacfe6",
+  "originalInputSha256": "e52da9fcf6f54bdf9d7dfcf0214a2478a2cc05023f810cc441833b0fafaacfe6",
+  "dependencies": [
+    {
+      "path": "OBJ/Rice_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1cM_v6lDnPksDP_e9YZMkaKMPlmr8szoQ",
+      "sha256": "fcebd3c4f736496f7db7b22fd314aef6b63f5b7e997c0bd7e6480f35144308a1",
+      "bytes": 233
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "rice-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.25466299057006836,0.5647539813071489,0.12721000239253044]",
+  "convertedAt": "2026-09-05T13:45:27.162Z"
+}

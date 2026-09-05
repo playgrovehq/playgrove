@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "id": "1-story-gable-roof-base",
+  "label": "1Story GableRoof Base",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "story",
+    "gable",
+    "roof",
+    "base",
+    "1story",
+    "quaternius",
+    "ultimatetexturedbuildings",
+    "cube",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "1-story-gable-roof-base.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2341,
+    "triangles": 1220,
+    "parts": 1,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -1.052625,
+      -0.011054,
+      -1.190065
+    ],
+    "max": [
+      1.052625,
+      2.013506,
+      1.190065
+    ],
+    "size": [
+      2.10525,
+      2.02456,
+      2.38013
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "1Story_GableRoof_Base_Cube.054"
+  ],
+  "materialNames": [
+    "Texture"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1eqU5WaFETOTHPhZvyeP6pxMzHPEqOM1D",
+    "file": "Textured Models/Base Modular Buildings/OBJ/1Story_GableRoof_Base.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bag",
+  "label": "Bag",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1gOkHGgWaa0LhRosfqbk1Qbct71IH-xXH",
+  "file": "Props/OBJ/Bag.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "629ef51a6cff7a0500a37e6e386f9c573c488f101afb817be3b06dd709fcece6",
+  "originalInputSha256": "629ef51a6cff7a0500a37e6e386f9c573c488f101afb817be3b06dd709fcece6",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Bag.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1kj2anV98mq5LbqYErPZpCro14MdyVJEt",
+      "sha256": "196ebf49f434f1c10a9097585261f555362530a36f6b15bd8ab46dc4fb5dbe71",
+      "bytes": 228
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bag.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.15345999598503113,0.058370999060571194,0.10962700098752975]",
+  "convertedAt": "2026-09-05T13:36:04.556Z"
+}

@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "wheat-crop",
+  "label": "Wheat Crop",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "wheat",
+    "crop",
+    "quaternius",
+    "ultimatecrops",
+    "cube",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a19155"
+  ],
+  "colorNames": [
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "wheat-crop.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1188,
+    "triangles": 612,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.275064,
+      -0.052398,
+      -0.362561
+    ],
+    "max": [
+      0.315538,
+      0.052398,
+      0.395813
+    ],
+    "size": [
+      0.590602,
+      0.104796,
+      0.758374
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Wheat_Crop_Cube.001"
+  ],
+  "materialNames": [
+    "Yellow"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1D68aUSgLqQ2o0t71mqCC5vor0OP-DL8H",
+    "file": "OBJ/Wheat_Crop.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

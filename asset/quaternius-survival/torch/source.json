@@ -1,0 +1,30 @@
+{
+  "id": "torch",
+  "label": "Torch",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1mmnU8VII55SKhRvJWStmOrIu_sA4TS5H",
+  "file": "OBJ/Torch.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c163f60f54d64425d3984ffdecf4b5d159c0fd12de865b6b72b49bf65bd6f50d",
+  "originalInputSha256": "c163f60f54d64425d3984ffdecf4b5d159c0fd12de865b6b72b49bf65bd6f50d",
+  "dependencies": [
+    {
+      "path": "OBJ/Torch.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Z98-qr_vNxuv1gCFA7kShQvi-dY8XRr-",
+      "sha256": "cc9fbc80919b892c96c0d81c32f81de5b4f87612892343addcbede13db0fb070",
+      "bytes": 776
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "torch.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.67637500166893,2.5121350288391113,0.6660999953746796]",
+  "convertedAt": "2026-09-05T13:37:26.871Z"
+}

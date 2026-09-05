@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "pumpkin-1",
+  "label": "Pumpkin 1",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "pumpkin",
+    "quaternius",
+    "ultimatecrops",
+    "plane",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#77a15a",
+    "#60674d"
+  ],
+  "colorNames": [
+    "green",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pumpkin-1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 260,
+    "triangles": 132,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.077441,
+      0.000133,
+      -0.0262
+    ],
+    "max": [
+      0.139587,
+      0.391595,
+      0.066641
+    ],
+    "size": [
+      0.217028,
+      0.391462,
+      0.092841
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pumpkin_1_Plane.012"
+  ],
+  "materialNames": [
+    "Green",
+    "DarkGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatecrops.html",
+    "download": "https://drive.google.com/uc?export=download&id=1XDBqH11kTNQ2g507VFWK3yN4LE509RSz",
+    "file": "OBJ/Pumpkin_1.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "id": "kitchen-oven-large",
+  "label": "Kitchen Oven Large",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "kitchen",
+    "oven",
+    "large",
+    "quaternius",
+    "ultimatehomeinterior",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2f2f2f",
+    "#a1a19e",
+    "#686868",
+    "#4c4c4c",
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "black",
+    "gray",
+    "brown",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "kitchen-oven-large.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 578,
+    "triangles": 528,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.58561,
+      0,
+      -0.513029
+    ],
+    "max": [
+      0.58561,
+      1.592607,
+      0.557335
+    ],
+    "size": [
+      1.17122,
+      1.592607,
+      1.070364
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Kitchen_Oven_Large_Cylinder.019"
+  ],
+  "materialNames": [
+    "Black",
+    "White",
+    "LightMetal",
+    "DarkMetal",
+    "Glass"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ADdCJFSc4ldGsA8krVwWnfn-ILpbfLNd",
+    "file": "OBJ/Kitchen_Oven_Large.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

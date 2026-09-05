@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "market-stand-1",
+  "label": "MarketStand 1",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "market",
+    "stand",
+    "quaternius",
+    "medievalvillage",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#624226",
+    "#60281d",
+    "#9e9a77",
+    "#978359"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "market-stand-1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2520,
+    "triangles": 1548,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.475471,
+      -0.004749,
+      -0.596524
+    ],
+    "max": [
+      0.475471,
+      1.044424,
+      0.593308
+    ],
+    "size": [
+      0.950942,
+      1.049173,
+      1.189832
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "MarketStand_1_Cube.331"
+  ],
+  "materialNames": [
+    "Wood",
+    "RoofTiles_Red",
+    "Beige",
+    "Wood_Side"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1xpVDQ3CyAmwtn-htnOpoD3YyZCBRJql5",
+    "file": "Props/OBJ/MarketStand_1.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

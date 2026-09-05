@@ -1,0 +1,30 @@
+{
+  "id": "bookcase-full",
+  "label": "Bookcase Full",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1qqeXnG9AVgtZRuiKWy2ZWcw5PuZAYeZZ",
+  "file": "OBJ/Bookcase_Full.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9a25f0883f84ea9b667475e5b6333ad6b27f962eba6372bd0bf288a08f6be066",
+  "originalInputSha256": "9a25f0883f84ea9b667475e5b6333ad6b27f962eba6372bd0bf288a08f6be066",
+  "dependencies": [
+    {
+      "path": "OBJ/Bookcase_Full.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1FDKzDQGnKqu1M3BpcadogD8sXdfDag2_",
+      "sha256": "2de51f82e5c3501e43d90f0fe1afc0af6cda4480efe5ed6ea317c9c0c4b509cd",
+      "bytes": 1309
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bookcase-full.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[2.078526020050049,2.6541750114411116,0.6582140028476715]",
+  "convertedAt": "2026-09-05T13:32:44.695Z"
+}

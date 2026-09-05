@@ -1,0 +1,30 @@
+{
+  "id": "sign-bakery",
+  "label": "Sign Bakery",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1aCHykvgk7HMpoFzJVA8PtvFUHV2Db5cE",
+  "file": "Textured Models/Base Modular Parts/OBJ/Sign_Bakery.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "78066d063ddae5aa5b5f32c462f549c6c2370b73772876e36d1447c954f6ddc9",
+  "originalInputSha256": "78066d063ddae5aa5b5f32c462f549c6c2370b73772876e36d1447c954f6ddc9",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/Sign_Bakery.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1CysTUNm7VBW7IqHaU1_WMChqfEoNoHCi",
+      "sha256": "f0b7b3341c4c43454f8211dca5324dbd39a2158b732558bec763d075b8530685",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sign-bakery.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1817359924316406,0.8122820109128952,0.10764399915933609]",
+  "convertedAt": "2026-09-05T13:48:28.850Z"
+}

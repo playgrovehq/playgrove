@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "support-right",
+  "label": "Support Right",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "support",
+    "right",
+    "quaternius",
+    "ultimatemodularruins",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#646559",
+    "#353535",
+    "#848676",
+    "#767666"
+  ],
+  "colorNames": [
+    "brown",
+    "black",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "support-right.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 6263,
+    "triangles": 3560,
+    "parts": 4,
+    "discardedDegenerate": 10
+  },
+  "bounds": {
+    "min": [
+      -1.501825,
+      -0.000041,
+      -0.329469
+    ],
+    "max": [
+      0.143419,
+      4.096128,
+      0.329469
+    ],
+    "size": [
+      1.645244,
+      4.096169,
+      0.658938
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Support_Right_Cylinder.062"
+  ],
+  "materialNames": [
+    "Main",
+    "Black",
+    "Highlights",
+    "Main2"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1E5PvFdE7HmyXk71M4LeraPbMSTOK4ESC",
+    "file": "OBJ/Support_Right.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

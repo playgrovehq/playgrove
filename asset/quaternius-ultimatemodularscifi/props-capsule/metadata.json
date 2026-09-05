@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "props-capsule",
+  "label": "Props Capsule",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "props",
+    "capsule",
+    "quaternius",
+    "ultimatemodularscifi",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9a9a9a",
+    "#b28641",
+    "#797979",
+    "#333333",
+    "#76582b"
+  ],
+  "colorNames": [
+    "gray",
+    "orange",
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "props-capsule.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2368,
+    "triangles": 1260,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.434652,
+      -0.001723,
+      -0.434652
+    ],
+    "max": [
+      0.434652,
+      1.617435,
+      0.434652
+    ],
+    "size": [
+      0.869304,
+      1.619158,
+      0.869304
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Props_Capsule_Cylinder.014"
+  ],
+  "materialNames": [
+    "Main",
+    "Accent",
+    "DarkGrey",
+    "Black",
+    "DarkAccent"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=14L2v9yflnPc8egArU4S2q7L7GqbTJOew",
+    "file": "OBJ/Props_Capsule.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

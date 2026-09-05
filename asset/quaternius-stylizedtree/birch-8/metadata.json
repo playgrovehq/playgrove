@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "birch-8",
+  "label": "Birch 8",
+  "description": "Stylized Tree Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "birch",
+    "quaternius",
+    "stylizedtree",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "birch-8.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1701,
+    "triangles": 2488,
+    "parts": 1,
+    "discardedDegenerate": 18
+  },
+  "bounds": {
+    "min": [
+      -4.006245,
+      -0.001822,
+      -1.585089
+    ],
+    "max": [
+      3.322884,
+      9.900015,
+      2.924043
+    ],
+    "size": [
+      7.329129,
+      9.901837,
+      4.509132
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Birch_8_Cylinder.026"
+  ],
+  "materialNames": [
+    "Birch_Bark",
+    "Birch_Leaves"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/stylizedtree.html",
+    "download": "https://drive.google.com/uc?export=download&id=1pH6TZMm68R_MLi_3NRSeKsLhSF5tBajQ",
+    "file": "OBJ/Birch_8.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

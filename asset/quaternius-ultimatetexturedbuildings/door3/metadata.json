@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "id": "door3",
+  "label": "Door3",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "door3",
+    "quaternius",
+    "ultimatetexturedbuildings",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "door3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 288,
+    "triangles": 207,
+    "parts": 1,
+    "discardedDegenerate": 5
+  },
+  "bounds": {
+    "min": [
+      -0.219323,
+      -0.013159,
+      0.002955
+    ],
+    "max": [
+      0.219323,
+      0.903765,
+      0.045892
+    ],
+    "size": [
+      0.438646,
+      0.916924,
+      0.042937
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Door3_Cube.045"
+  ],
+  "materialNames": [
+    "Texture"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1BUK8OefBYLSNwDwT97zTy27B-8fTG42r",
+    "file": "Textured Models/Base Modular Parts/OBJ/Door3.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arch-gothic",
+  "label": "Arch Gothic",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ME7F7DUjYt_kQ30q8c6L4MWgaBZN66IN",
+  "file": "OBJ/Arch_Gothic.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0928dd7fe32dcda40526ab672217589e7112b52fc82ab144c7ad3e9eb78d9cd1",
+  "originalInputSha256": "0928dd7fe32dcda40526ab672217589e7112b52fc82ab144c7ad3e9eb78d9cd1",
+  "dependencies": [
+    {
+      "path": "OBJ/Arch_Gothic.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=128WB26umeW2y5R3JBVWIn1Lbgpj00fTD",
+      "sha256": "4bcd649694876465bd41aabf38e44345000cdc99dbcb8167eef02dbdf9c95cc8",
+      "bytes": 598
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "arch-gothic.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.0919458866119385,3.760495939437533,0.4909899979829788]",
+  "convertedAt": "2026-09-05T13:32:44.533Z"
+}

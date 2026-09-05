@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "propane-tank",
+  "label": "PropaneTank",
+  "description": "Survival Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "propane",
+    "tank",
+    "quaternius",
+    "survival",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#c5c5c5",
+    "#733230",
+    "#2d2d2d",
+    "#815735"
+  ],
+  "colorNames": [
+    "beige",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "propane-tank.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 948,
+    "triangles": 516,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.081465,
+      -1.364877,
+      -1.072591
+    ],
+    "max": [
+      1.073717,
+      1.526094,
+      0.977109
+    ],
+    "size": [
+      2.155182,
+      2.890971,
+      2.0497
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "PropaneTank_Cylinder.011"
+  ],
+  "materialNames": [
+    "White",
+    "Red",
+    "Black",
+    "Orange"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/survival.html",
+    "download": "https://drive.google.com/uc?export=download&id=1EygY2pnAYuVZaP1KOLI2RRI-3SDcgU8l",
+    "file": "OBJ/PropaneTank.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1-story-base",
+  "label": "1Story Base",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1A03vpi5VO8mD8U7ArOuvgJ7OK9MZ0w5P",
+  "file": "Textured Models/Base Modular Buildings/OBJ/1Story_Base.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d770736fa2375670fa4564178c81439020ebe90b8b0141905fd275c8ca3030b4",
+  "originalInputSha256": "d770736fa2375670fa4564178c81439020ebe90b8b0141905fd275c8ca3030b4",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Buildings/OBJ/1Story_Base.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=195-ka1SxfglJ8G2ehts-PBnVfsf5y2JA",
+      "sha256": "08c1f11d65df6721537ad830278bfa2ab2b496302bf8abe2209288ea88f783eb",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "1-story-base.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1541600227355957,1.6219140440225601,2.1746360063552856]",
+  "convertedAt": "2026-09-05T13:48:28.131Z"
+}

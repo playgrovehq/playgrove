@@ -1,0 +1,30 @@
+{
+  "id": "window-open",
+  "label": "Window Open",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1j6okt5HcQ-te2jmeLKaxcSpJeKg-2MMz",
+  "file": "OBJ/Window_Open.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "21e70d169ff84d09046b53b979c05eedc2d0d7e3b5e74a104489e6343eea29d7",
+  "originalInputSha256": "21e70d169ff84d09046b53b979c05eedc2d0d7e3b5e74a104489e6343eea29d7",
+  "dependencies": [
+    {
+      "path": "OBJ/Window_Open.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1s3hSKy4ZzcvXWrqQOTEzMh7phtCIxWFo",
+      "sha256": "20a1e3a5595705ab8a725c38c0f29a427ea9dd381e8634b616c9b36e8ec68189",
+      "bytes": 420
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "window-open.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.9904060363769531,1.9872459602775052,0.30289099738001823]",
+  "convertedAt": "2026-09-05T13:32:46.185Z"
+}

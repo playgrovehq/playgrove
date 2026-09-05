@@ -1,0 +1,30 @@
+{
+  "id": "bush-1x1",
+  "label": "Bush 1x1",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1BJsheX0BbExV-oZQE3Z7pQFTvGf6Rx3g",
+  "file": "OBJ/Bush_1x1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3a075913c70db53dfc65402d69d7580182e373d62be92d099ec660c99c344d53",
+  "originalInputSha256": "3a075913c70db53dfc65402d69d7580182e373d62be92d099ec660c99c344d53",
+  "dependencies": [
+    {
+      "path": "OBJ/Bush_1x1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1SZ0T-7R3QSizgBkbULHRNbJqAFHxPrAT",
+      "sha256": "fa4d36490e8cab1909f8f6e148386a68edc822cd5f759d388e9ab9db701de54e",
+      "bytes": 244
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bush-1x1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.1209059953689575,1.199554979801178,1.1881020069122314]",
+  "convertedAt": "2026-09-05T13:32:44.766Z"
+}

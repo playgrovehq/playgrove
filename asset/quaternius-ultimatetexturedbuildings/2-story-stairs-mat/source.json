@@ -1,0 +1,30 @@
+{
+  "id": "2-story-stairs-mat",
+  "label": "2Story Stairs Mat",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1SpKs6aEz5eb2_8sXMeSi5VFiWCHz7JRw",
+  "file": "Models with Materials/OBJ/2Story_Stairs_Mat.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d5cf1e5ab7793a15f042a3b7692a57224947daeca02f5d50c4d960e9e007c931",
+  "originalInputSha256": "d5cf1e5ab7793a15f042a3b7692a57224947daeca02f5d50c4d960e9e007c931",
+  "dependencies": [
+    {
+      "path": "Models with Materials/OBJ/2Story_Stairs_Mat.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Lv5V2C8ePJ5kx6hzH2PChdZK9hUKFiwc",
+      "sha256": "563d7d905479de1c560734172978ae8ec074a57bff419899c76055f4078a2400",
+      "bytes": 1669
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "2-story-stairs-mat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=9 materials=9 bounds=[2.1586461067199707,2.7453330794814974,2.5321749448776245]",
+  "convertedAt": "2026-09-05T13:48:27.687Z"
+}

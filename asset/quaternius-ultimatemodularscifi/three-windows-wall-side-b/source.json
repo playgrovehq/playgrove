@@ -1,0 +1,30 @@
+{
+  "id": "three-windows-wall-side-b",
+  "label": "ThreeWindows Wall SideB",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1QAMfdKVPiQ9tzqVj_kwnox--R4hT6gpE",
+  "file": "OBJ/ThreeWindows_Wall_SideB.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "db9373c5ce515720163e6268cc45629bf89aa2518a70806412cb01a1b4cb82ca",
+  "originalInputSha256": "db9373c5ce515720163e6268cc45629bf89aa2518a70806412cb01a1b4cb82ca",
+  "dependencies": [
+    {
+      "path": "OBJ/ThreeWindows_Wall_SideB.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1DH39AnnREooFuJj_U61sA7PmWu0rM2KB",
+      "sha256": "e1f3db1ee2fdb75724ecf1748fe7a36d6dee6831f26b2c1aa27975fcf964cc7b",
+      "bytes": 965
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "three-windows-wall-side-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[4.000003814697266,4.430893898010254,0.526097983121872]",
+  "convertedAt": "2026-09-05T13:34:57.823Z"
+}

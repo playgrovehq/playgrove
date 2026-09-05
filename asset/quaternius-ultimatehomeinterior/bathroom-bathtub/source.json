@@ -1,0 +1,30 @@
+{
+  "id": "bathroom-bathtub",
+  "label": "Bathroom Bathtub",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Ov87tYAhC9oHhm3MwoNVuX8GxfMFjUpo",
+  "file": "OBJ/Bathroom_Bathtub.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9df05f82361de2ef954c8f7158dc971e96beca303326ae1c60ad2b8f6ed48add",
+  "originalInputSha256": "9df05f82361de2ef954c8f7158dc971e96beca303326ae1c60ad2b8f6ed48add",
+  "dependencies": [
+    {
+      "path": "OBJ/Bathroom_Bathtub.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1UXJmpiQHv53NUHWiE6hXBf-4kEF_02dG",
+      "sha256": "4d9f4dfc032f73612c6f5028144220bfd7c3b49ffd6bf4cb414bf58bf59812d8",
+      "bytes": 420
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bathroom-bathtub.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.607509970664978,1.260206997860223,3.899735927581787]",
+  "convertedAt": "2026-09-05T13:40:37.804Z"
+}

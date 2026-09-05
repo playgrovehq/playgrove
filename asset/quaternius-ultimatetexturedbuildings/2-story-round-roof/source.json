@@ -1,0 +1,30 @@
+{
+  "id": "2-story-round-roof",
+  "label": "2Story RoundRoof",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1QAs_iwJR-eavdW2gFbNL_Hwsz9ZHqq7T",
+  "file": "Textured Models/Finished Textured Buildings/OBJ/2Story_RoundRoof.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "425d1d04d9a2b47e076f635af8535c94d19b9dbb59a8738a5234c8223ae793b0",
+  "originalInputSha256": "425d1d04d9a2b47e076f635af8535c94d19b9dbb59a8738a5234c8223ae793b0",
+  "dependencies": [
+    {
+      "path": "Textured Models/Finished Textured Buildings/OBJ/2Story_RoundRoof.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1HOPPFk-P8HX7pcM6B1dwKqisyubLwR1k",
+      "sha256": "3b5fb929ab4df3e5d856aef2ad23b77b9b7112a8f203d85d98c04a757dd125aa",
+      "bytes": 245
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "2-story-round-roof.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1114859580993652,2.8993790298700333,2.1257760524749756]",
+  "convertedAt": "2026-09-05T13:48:29.272Z"
+}

@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "details-cylinder-long",
+  "label": "Details Cylinder Long",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "details",
+    "cylinder",
+    "long",
+    "quaternius",
+    "ultimatemodularscifi",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#b28641",
+    "#76582b"
+  ],
+  "colorNames": [
+    "orange",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "details-cylinder-long.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 472,
+    "triangles": 374,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.215103,
+      -0.191373,
+      0.000491
+    ],
+    "max": [
+      0.57422,
+      0.191373,
+      0.191373
+    ],
+    "size": [
+      0.789323,
+      0.382746,
+      0.190882
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Details_Cylinder_Long_Cylinder.020"
+  ],
+  "materialNames": [
+    "Accent",
+    "DarkAccent"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+    "download": "https://drive.google.com/uc?export=download&id=1YJvlrcX47xYwrr8tBGw0xnQOXWhj2Dfi",
+    "file": "OBJ/Details_Cylinder_Long.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

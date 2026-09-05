@@ -1,0 +1,30 @@
+{
+  "id": "bathroom-towel",
+  "label": "Bathroom Towel",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1UYdFRP9cm3ITZ3TRE8EEOl9KRbv_tc2k",
+  "file": "OBJ/Bathroom_Towel.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "33c39cc550c041271d72d94f41d8de9efeb6e2ed7b26f43097e00d568590c233",
+  "originalInputSha256": "33c39cc550c041271d72d94f41d8de9efeb6e2ed7b26f43097e00d568590c233",
+  "dependencies": [
+    {
+      "path": "OBJ/Bathroom_Towel.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Rgv0fBBOyz96AppxGwZewCDHtH9ocbHl",
+      "sha256": "611f301c09872caddab0348aa1910fe5e85db96e9ba50e31ea945ee385f2718f",
+      "bytes": 600
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bathroom-towel.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.1845459938049316,0.6538210175931454,0.16111600399017334]",
+  "convertedAt": "2026-09-05T13:40:38.546Z"
+}

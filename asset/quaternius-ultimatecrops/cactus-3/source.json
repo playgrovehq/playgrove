@@ -1,0 +1,30 @@
+{
+  "id": "cactus-3",
+  "label": "Cactus 3",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1LVZ-ciGEjNnl4Kz7WjJ2nVJ1ZnCQ4BpM",
+  "file": "OBJ/Cactus_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3921681b309fc718a2a1b6393d39f91c8e7ca8414253cbd65943112432d2437f",
+  "originalInputSha256": "3921681b309fc718a2a1b6393d39f91c8e7ca8414253cbd65943112432d2437f",
+  "dependencies": [
+    {
+      "path": "OBJ/Cactus_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1etY1EnICwo0PpaYmn0NOUaVa1YMCCyWa",
+      "sha256": "f9fd02c8137a140c4a416c8b6146e0246febd3001670bc63cde35ecba4d19c51",
+      "bytes": 424
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cactus-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.39371199905872345,0.7217130274511874,0.3819950073957443]",
+  "convertedAt": "2026-09-05T13:45:26.096Z"
+}

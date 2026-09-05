@@ -1,0 +1,4178 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T13:37:27.127Z",
+  "assets": [
+    {
+      "id": "axe",
+      "label": "Axe",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "axe/thumbnail.png",
+      "model": "axe/axe.ts",
+      "package": "axe",
+      "descriptor": "axe/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1U19W7wv108Sgy9wrXKrvynaBCgv5X2yN",
+        "file": "OBJ/Axe.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "axe",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5f4b35",
+        "#959595",
+        "#733230"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 450,
+        "triangles": 236,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.873077,
+          -0.798004,
+          -0.096166
+        ],
+        "max": [
+          0.3891,
+          2.458044,
+          0.094055
+        ],
+        "size": [
+          1.262177,
+          3.256048,
+          0.190221
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "axe-small",
+      "label": "Axe Small",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "axe-small/thumbnail.png",
+      "model": "axe-small/axe-small.ts",
+      "package": "axe-small",
+      "descriptor": "axe-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WuWIfJYh4aoSz3aNCe7DPcejUxC8KOCw",
+        "file": "OBJ/Axe_Small.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "axe",
+        "small",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5f4b35",
+        "#5f5f5f",
+        "#959595"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 322,
+        "triangles": 176,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.735249,
+          -0.934895,
+          -0.071139
+        ],
+        "max": [
+          0.164714,
+          1.528522,
+          0.071139
+        ],
+        "size": [
+          0.899963,
+          2.463417,
+          0.142278
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "backpack",
+      "label": "Backpack",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "backpack/thumbnail.png",
+      "model": "backpack/backpack.ts",
+      "package": "backpack",
+      "descriptor": "backpack/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1yH68a-27yBo3Tx42gUhjVhIuz70kD_ny",
+        "file": "OBJ/Backpack.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "backpack",
+        "quaternius",
+        "survival",
+        "plane",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6a5a39",
+        "#524d32",
+        "#78611c",
+        "#3e3921"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3479,
+        "triangles": 1752,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.671433,
+          -1.464718,
+          -0.628984
+        ],
+        "max": [
+          1.671433,
+          1.654598,
+          1.116688
+        ],
+        "size": [
+          3.342866,
+          3.119316,
+          1.745672
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bandages",
+      "label": "Bandages",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "bandages/thumbnail.png",
+      "model": "bandages/bandages.ts",
+      "package": "bandages",
+      "descriptor": "bandages/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CeRxee-ROW7H38UAa1Hcw03wiSleHnKw",
+        "file": "OBJ/Bandages.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bandages",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#c5c5c5",
+        "#733230"
+      ],
+      "colorNames": [
+        "beige",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 300,
+        "triangles": 156,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.15117,
+          -0.180741,
+          -0.158949
+        ],
+        "max": [
+          0.15117,
+          0.180741,
+          0.158949
+        ],
+        "size": [
+          0.30234,
+          0.361482,
+          0.317898
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "battery-big",
+      "label": "Battery Big",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "battery-big/thumbnail.png",
+      "model": "battery-big/battery-big.ts",
+      "package": "battery-big",
+      "descriptor": "battery-big/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1nGv0Hmbaf3QqKb_sKTQM1NKTK12nrKo_",
+        "file": "OBJ/Battery_Big.obj"
+      },
+      "category": "props",
+      "tags": [
+        "battery",
+        "big",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2d2d2d",
+        "#815735",
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 168,
+        "triangles": 100,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.1471,
+          0.002345,
+          -0.157122
+        ],
+        "max": [
+          0.152971,
+          0.462517,
+          0.14295
+        ],
+        "size": [
+          0.300071,
+          0.460172,
+          0.300072
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "battery-small",
+      "label": "Battery Small",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "battery-small/thumbnail.png",
+      "model": "battery-small/battery-small.ts",
+      "package": "battery-small",
+      "descriptor": "battery-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1DdMg9vF_nURDBjnG4iUve0fcK21SwS7-",
+        "file": "OBJ/Battery_Small.obj"
+      },
+      "category": "props",
+      "tags": [
+        "battery",
+        "small",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2d2d2d",
+        "#815735",
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 200,
+        "triangles": 132,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.091923,
+          0.002345,
+          -0.091923
+        ],
+        "max": [
+          0.091923,
+          0.459145,
+          0.091923
+        ],
+        "size": [
+          0.183846,
+          0.4568,
+          0.183846
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bear-trap-closed",
+      "label": "BearTrap Closed",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "bear-trap-closed/thumbnail.png",
+      "model": "bear-trap-closed/bear-trap-closed.ts",
+      "package": "bear-trap-closed",
+      "descriptor": "bear-trap-closed/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=13iREbXkVe-ELC1OEZmPKHGWTzTwsVWWq",
+        "file": "OBJ/BearTrap_Closed.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bear",
+        "trap",
+        "closed",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1214,
+        "triangles": 608,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.407852,
+          -0.046655,
+          -1.473967
+        ],
+        "max": [
+          1.407852,
+          1.648559,
+          2.06993
+        ],
+        "size": [
+          2.815704,
+          1.695214,
+          3.543897
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bear-trap-open",
+      "label": "BearTrap Open",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "bear-trap-open/thumbnail.png",
+      "model": "bear-trap-open/bear-trap-open.ts",
+      "package": "bear-trap-open",
+      "descriptor": "bear-trap-open/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pK0JtOhxrdkrLEH0tGVzTiFg34svVRKa",
+        "file": "OBJ/BearTrap_Open.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bear",
+        "trap",
+        "open",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1214,
+        "triangles": 608,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.49577,
+          -0.047977,
+          -1.473967
+        ],
+        "max": [
+          1.49577,
+          0.627109,
+          2.06993
+        ],
+        "size": [
+          2.99154,
+          0.675086,
+          3.543897
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bonfire",
+      "label": "Bonfire",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "bonfire/thumbnail.png",
+      "model": "bonfire/bonfire.ts",
+      "package": "bonfire",
+      "descriptor": "bonfire/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=136o0UqgjaQnY7Jd0d86uTbSmSeTcd290",
+        "file": "OBJ/Bonfire.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bonfire",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624a41",
+        "#6b524b"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1220,
+        "triangles": 616,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.094394,
+          -0.025484,
+          -1.093939
+        ],
+        "max": [
+          1.081196,
+          0.650173,
+          0.890171
+        ],
+        "size": [
+          2.17559,
+          0.675657,
+          1.98411
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bonfire-fire",
+      "label": "Bonfire Fire",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "bonfire-fire/thumbnail.png",
+      "model": "bonfire-fire/bonfire-fire.ts",
+      "package": "bonfire-fire",
+      "descriptor": "bonfire-fire/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1AmAullA_K8tNL_snKsJJblOjqh7GmcV0",
+        "file": "OBJ/Bonfire_Fire.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bonfire",
+        "fire",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624a41",
+        "#6b524b",
+        "#a85922"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1484,
+        "triangles": 704,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.007237,
+          -0.059412,
+          -1.004723
+        ],
+        "max": [
+          1.168352,
+          2.251861,
+          0.979386
+        ],
+        "size": [
+          2.175589,
+          2.311273,
+          1.984109
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "can-broken",
+      "label": "Can Broken",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "can-broken/thumbnail.png",
+      "model": "can-broken/can-broken.ts",
+      "package": "can-broken",
+      "descriptor": "can-broken/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1LsB8-zp5vZa2CbTxAz8UT7QBxBT-GuQC",
+        "file": "OBJ/Can_Broken.obj"
+      },
+      "category": "props",
+      "tags": [
+        "can",
+        "broken",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5f5f5f",
+        "#414141"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 840,
+        "triangles": 428,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.236673,
+          0,
+          -0.236673
+        ],
+        "max": [
+          0.236673,
+          0.637496,
+          0.236673
+        ],
+        "size": [
+          0.473346,
+          0.637496,
+          0.473346
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "can-closed",
+      "label": "Can Closed",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "can-closed/thumbnail.png",
+      "model": "can-closed/can-closed.ts",
+      "package": "can-closed",
+      "descriptor": "can-closed/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1DmCoUXYkWfJKDglkDB_xwIRsUZSya8ch",
+        "file": "OBJ/Can_Closed.obj"
+      },
+      "category": "props",
+      "tags": [
+        "can",
+        "closed",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959595",
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 840,
+        "triangles": 428,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.236673,
+          0,
+          -0.236673
+        ],
+        "max": [
+          0.236673,
+          0.637496,
+          0.236673
+        ],
+        "size": [
+          0.473346,
+          0.637496,
+          0.473346
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "can-open",
+      "label": "Can Open",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "can-open/thumbnail.png",
+      "model": "can-open/can-open.ts",
+      "package": "can-open",
+      "descriptor": "can-open/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1qv91v1rTg4YkL6Ache8TRsA6A1HUcZRB",
+        "file": "OBJ/Can_Open.obj"
+      },
+      "category": "props",
+      "tags": [
+        "can",
+        "open",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959595",
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 888,
+        "triangles": 452,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.236673,
+          0,
+          -0.236673
+        ],
+        "max": [
+          0.236673,
+          0.637496,
+          0.236673
+        ],
+        "size": [
+          0.473346,
+          0.637496,
+          0.473346
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "can-red",
+      "label": "Can Red",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "can-red/thumbnail.png",
+      "model": "can-red/can-red.ts",
+      "package": "can-red",
+      "descriptor": "can-red/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1aifWKvFfiJ4IKbNhTg9qMMkpEia4xmW8",
+        "file": "OBJ/Can_Red.obj"
+      },
+      "category": "props",
+      "tags": [
+        "can",
+        "red",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959595",
+        "#5f5f5f",
+        "#733230"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 648,
+        "triangles": 332,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.236673,
+          0,
+          -0.236673
+        ],
+        "max": [
+          0.236673,
+          0.637496,
+          0.236673
+        ],
+        "size": [
+          0.473346,
+          0.637496,
+          0.473346
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "compass-closed",
+      "label": "Compass Closed",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "compass-closed/thumbnail.png",
+      "model": "compass-closed/compass-closed.ts",
+      "package": "compass-closed",
+      "descriptor": "compass-closed/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ryZsjc2TMhFkMke3uwlQ7TbLSNw9DG2m",
+        "file": "OBJ/Compass_Closed.obj"
+      },
+      "category": "props",
+      "tags": [
+        "compass",
+        "closed",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#816c3b",
+        "#6b5a31"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 916,
+        "triangles": 484,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.301802,
+          -0.305793,
+          0.0024
+        ],
+        "max": [
+          0.336438,
+          0.499568,
+          0.286438
+        ],
+        "size": [
+          0.63824,
+          0.805361,
+          0.284038
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "compass-open",
+      "label": "Compass Open",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "compass-open/thumbnail.png",
+      "model": "compass-open/compass-open.ts",
+      "package": "compass-open",
+      "descriptor": "compass-open/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1AiREJdemStE31trUu_c2CL05xZx5GWdl",
+        "file": "OBJ/Compass_Open.obj"
+      },
+      "category": "props",
+      "tags": [
+        "compass",
+        "open",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#816c3b",
+        "#2d2d2d",
+        "#6b5a31",
+        "#733230",
+        "#c5c5c5"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1208,
+        "triangles": 656,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.571487,
+          -0.305793,
+          0.0024
+        ],
+        "max": [
+          0.336438,
+          0.499568,
+          0.705107
+        ],
+        "size": [
+          0.907925,
+          0.805361,
+          0.702707
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "first-aid-kit",
+      "label": "FirstAidKit",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "first-aid-kit/thumbnail.png",
+      "model": "first-aid-kit/first-aid-kit.ts",
+      "package": "first-aid-kit",
+      "descriptor": "first-aid-kit/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ngDWPJ6BQbAO2gWT7vCdhlx2c77qJzyN",
+        "file": "OBJ/FirstAidKit.obj"
+      },
+      "category": "props",
+      "tags": [
+        "first",
+        "aid",
+        "kit",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#733230",
+        "#c5c5c5",
+        "#2d2d2d"
+      ],
+      "colorNames": [
+        "brown",
+        "beige",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1404,
+        "triangles": 754,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.780669,
+          -0.602321,
+          -0.366653
+        ],
+        "max": [
+          0.782442,
+          0.757046,
+          0.366653
+        ],
+        "size": [
+          1.563111,
+          1.359367,
+          0.733306
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "first-aid-kit-hard",
+      "label": "FirstAidKit Hard",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "first-aid-kit-hard/thumbnail.png",
+      "model": "first-aid-kit-hard/first-aid-kit-hard.ts",
+      "package": "first-aid-kit-hard",
+      "descriptor": "first-aid-kit-hard/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1jA8tuPzp5Kt1HCTn0CZqMja4AvQF1uv0",
+        "file": "OBJ/FirstAidKit_Hard.obj"
+      },
+      "category": "props",
+      "tags": [
+        "first",
+        "aid",
+        "kit",
+        "hard",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#c5c5c5",
+        "#733230",
+        "#959595",
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "beige",
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 466,
+        "triangles": 268,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.941077,
+          -0.617714,
+          -0.299342
+        ],
+        "max": [
+          0.942643,
+          0.659362,
+          0.377657
+        ],
+        "size": [
+          1.88372,
+          1.277076,
+          0.676999
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "flare-gun",
+      "label": "FlareGun",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "flare-gun/thumbnail.png",
+      "model": "flare-gun/flare-gun.ts",
+      "package": "flare-gun",
+      "descriptor": "flare-gun/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1jTHFbPxfPEgNUUzWLxAlX4CkfgCa7fwx",
+        "file": "OBJ/FlareGun.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "flare",
+        "gun",
+        "quaternius",
+        "survival",
+        "cube",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#733230",
+        "#2d2d2d"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 881,
+        "triangles": 540,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.415143,
+          -0.532531,
+          -0.303772
+        ],
+        "max": [
+          2.090122,
+          1.1237,
+          0.299511
+        ],
+        "size": [
+          2.505265,
+          1.656231,
+          0.603283
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gas-can",
+      "label": "GasCan",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "gas-can/thumbnail.png",
+      "model": "gas-can/gas-can.ts",
+      "package": "gas-can",
+      "descriptor": "gas-can/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1zTUlgRcYurnmPmtzaSGevKA-w1JbFLur",
+        "file": "OBJ/GasCan.obj"
+      },
+      "category": "props",
+      "tags": [
+        "gas",
+        "can",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#733230",
+        "#592625",
+        "#2d2d2d"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1268,
+        "triangles": 788,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.900984,
+          -0.00347,
+          -0.30767
+        ],
+        "max": [
+          0.976484,
+          2.469473,
+          0.30767
+        ],
+        "size": [
+          1.877468,
+          2.472943,
+          0.61534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "knife",
+      "label": "Knife",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "knife/thumbnail.png",
+      "model": "knife/knife.ts",
+      "package": "knife",
+      "descriptor": "knife/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1n3i-gcVL6xEqDIEmvksmk8ECfp4ux6j5",
+        "file": "OBJ/Knife.obj"
+      },
+      "category": "props",
+      "tags": [
+        "knife",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5f5f5f",
+        "#959595",
+        "#5f4b35",
+        "#816c3b"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 676,
+        "triangles": 450,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.109576,
+          -0.363614,
+          -0.038906
+        ],
+        "max": [
+          0.155871,
+          1.19925,
+          0.038906
+        ],
+        "size": [
+          0.265447,
+          1.562864,
+          0.077812
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "match",
+      "label": "Match",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "match/thumbnail.png",
+      "model": "match/match.ts",
+      "package": "match",
+      "descriptor": "match/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1sBFFsyD3JrO6btNGjPKuWICzLsIYlUJm",
+        "file": "OBJ/Match.obj"
+      },
+      "category": "props",
+      "tags": [
+        "match",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#733230",
+        "#a69b7f"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 56,
+        "triangles": 28,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.020678,
+          -0.299806,
+          -0.018988
+        ],
+        "max": [
+          0.020678,
+          0.299806,
+          0.018988
+        ],
+        "size": [
+          0.041356,
+          0.599612,
+          0.037976
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "match-burnt",
+      "label": "Match Burnt",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "match-burnt/thumbnail.png",
+      "model": "match-burnt/match-burnt.ts",
+      "package": "match-burnt",
+      "descriptor": "match-burnt/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1o0cytwgNhvTVKuMqXx-nG6LiDwpERZwQ",
+        "file": "OBJ/Match_Burnt.obj"
+      },
+      "category": "props",
+      "tags": [
+        "match",
+        "burnt",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2d2d2d"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 152,
+        "triangles": 76,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.028178,
+          -0.298427,
+          -0.030822
+        ],
+        "max": [
+          0.028655,
+          0.270713,
+          0.051388
+        ],
+        "size": [
+          0.056833,
+          0.56914,
+          0.08221
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "match-fire",
+      "label": "Match Fire",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "match-fire/thumbnail.png",
+      "model": "match-fire/match-fire.ts",
+      "package": "match-fire",
+      "descriptor": "match-fire/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1uwooZ1YIxBwFwgI53nHpLf-Nt_ktYLtR",
+        "file": "OBJ/Match_Fire.obj"
+      },
+      "category": "props",
+      "tags": [
+        "match",
+        "fire",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a69b7f",
+        "#a85922"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 192,
+        "triangles": 80,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.036079,
+          -0.299806,
+          -0.033118
+        ],
+        "max": [
+          0.032868,
+          0.385456,
+          0.037189
+        ],
+        "size": [
+          0.068947,
+          0.685262,
+          0.070307
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "matchbox",
+      "label": "Matchbox",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "matchbox/thumbnail.png",
+      "model": "matchbox/matchbox.ts",
+      "package": "matchbox",
+      "descriptor": "matchbox/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1sLMGUihGIjPqFz2VJhF6LuloozelWXxd",
+        "file": "OBJ/Matchbox.obj"
+      },
+      "category": "props",
+      "tags": [
+        "matchbox",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#816c3b",
+        "#6b5a31",
+        "#733230",
+        "#a69b7f"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 744,
+        "triangles": 396,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.269838,
+          -0.298911,
+          -0.104353
+        ],
+        "max": [
+          0.269838,
+          0.790157,
+          0.060899
+        ],
+        "size": [
+          0.539676,
+          1.089068,
+          0.165252
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pan",
+      "label": "Pan",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "pan/thumbnail.png",
+      "model": "pan/pan.ts",
+      "package": "pan",
+      "descriptor": "pan/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1lOxHZalmiz-PjqdxQjF9fwEk4k-ywWVo",
+        "file": "OBJ/Pan.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pan",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2d2d2d",
+        "#5f5f5f",
+        "#5f4b35"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 470,
+        "triangles": 246,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.86149,
+          -0.273504,
+          -0.471354
+        ],
+        "max": [
+          0.86149,
+          0.068521,
+          2.353276
+        ],
+        "size": [
+          1.72298,
+          0.342025,
+          2.82463
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pan-small",
+      "label": "Pan Small",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "pan-small/thumbnail.png",
+      "model": "pan-small/pan-small.ts",
+      "package": "pan-small",
+      "descriptor": "pan-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1tmzCmgEK7-ue-7TR1-_QtnaBb3qfuwF2",
+        "file": "OBJ/Pan_Small.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pan",
+        "small",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2d2d2d",
+        "#5f5f5f",
+        "#5f4b35"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 470,
+        "triangles": 246,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.580988,
+          -0.134166,
+          -0.500001
+        ],
+        "max": [
+          0.593977,
+          0.097481,
+          1.687228
+        ],
+        "size": [
+          1.174965,
+          0.231647,
+          2.187229
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "phone",
+      "label": "Phone",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "phone/thumbnail.png",
+      "model": "phone/phone.ts",
+      "package": "phone",
+      "descriptor": "phone/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1AT-Q7YGHizmBQNsfnWqFUFY61WUEvtwU",
+        "file": "OBJ/Phone.obj"
+      },
+      "category": "props",
+      "tags": [
+        "phone",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#c5c5c5",
+        "#2d2d2d",
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "beige",
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 392,
+        "triangles": 224,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.209152,
+          -0.454651,
+          -0.028838
+        ],
+        "max": [
+          0.214954,
+          0.453806,
+          0.03179
+        ],
+        "size": [
+          0.424106,
+          0.908457,
+          0.060628
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-1",
+      "label": "Pistol 1",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "pistol-1/thumbnail.png",
+      "model": "pistol-1/pistol-1.ts",
+      "package": "pistol-1",
+      "descriptor": "pistol-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1PI6KvmlC61omiH8p6QaYe7_b73P0bdMX",
+        "file": "OBJ/Pistol_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#51443b",
+        "#373736",
+        "#414241",
+        "#28292a",
+        "#1b1b1c"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1944,
+        "triangles": 1036,
+        "parts": 5,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.339644,
+          -0.407922,
+          -0.161605
+        ],
+        "max": [
+          1.479757,
+          0.753634,
+          0.161605
+        ],
+        "size": [
+          1.819401,
+          1.161556,
+          0.32321
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-2",
+      "label": "Pistol 2",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "pistol-2/thumbnail.png",
+      "model": "pistol-2/pistol-2.ts",
+      "package": "pistol-2",
+      "descriptor": "pistol-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ncNsXEwQwZQwfq85g3GogKP8Pf-hf2Uq",
+        "file": "OBJ/Pistol_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#414241",
+        "#28292a",
+        "#555659"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2104,
+        "triangles": 1196,
+        "parts": 4,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.348734,
+          -0.412467,
+          -0.161605
+        ],
+        "max": [
+          1.470667,
+          0.749089,
+          0.161605
+        ],
+        "size": [
+          1.819401,
+          1.161556,
+          0.32321
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pot",
+      "label": "Pot",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "pot/thumbnail.png",
+      "model": "pot/pot.ts",
+      "package": "pot",
+      "descriptor": "pot/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1TYIK0U4X76PPhJf3wlhZspTClQBmhmsO",
+        "file": "OBJ/Pot.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pot",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2d2d2d",
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 624,
+        "triangles": 326,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.86149,
+          -0.00512,
+          -1.015328
+        ],
+        "max": [
+          0.86149,
+          1.035079,
+          1.015328
+        ],
+        "size": [
+          1.72298,
+          1.040199,
+          2.030656
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pot-small",
+      "label": "Pot Small",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "pot-small/thumbnail.png",
+      "model": "pot-small/pot-small.ts",
+      "package": "pot-small",
+      "descriptor": "pot-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hXf1xasyCesezYle9Hdnw_4ZHdoWOOmU",
+        "file": "OBJ/Pot_Small.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pot",
+        "small",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2d2d2d",
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 624,
+        "triangles": 326,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.596938,
+          -0.003548,
+          -0.703535
+        ],
+        "max": [
+          0.596938,
+          0.41432,
+          0.703535
+        ],
+        "size": [
+          1.193876,
+          0.417868,
+          1.40707
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "propane-tank",
+      "label": "PropaneTank",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "propane-tank/thumbnail.png",
+      "model": "propane-tank/propane-tank.ts",
+      "package": "propane-tank",
+      "descriptor": "propane-tank/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1EygY2pnAYuVZaP1KOLI2RRI-3SDcgU8l",
+        "file": "OBJ/PropaneTank.obj"
+      },
+      "category": "props",
+      "tags": [
+        "propane",
+        "tank",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#c5c5c5",
+        "#733230",
+        "#2d2d2d",
+        "#815735"
+      ],
+      "colorNames": [
+        "beige",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 948,
+        "triangles": 516,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.081465,
+          -1.364877,
+          -1.072591
+        ],
+        "max": [
+          1.073717,
+          1.526094,
+          0.977109
+        ],
+        "size": [
+          2.155182,
+          2.890971,
+          2.0497
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "radio",
+      "label": "Radio",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "radio/thumbnail.png",
+      "model": "radio/radio.ts",
+      "package": "radio",
+      "descriptor": "radio/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1tHo75tNUG5doOWG1ZQEf16iID2bEP96Y",
+        "file": "OBJ/Radio.obj"
+      },
+      "category": "props",
+      "tags": [
+        "radio",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414141",
+        "#2d2d2d",
+        "#959595",
+        "#733230"
+      ],
+      "colorNames": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 833,
+        "triangles": 481,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.842819,
+          0.005461,
+          -0.120263
+        ],
+        "max": [
+          0.842819,
+          2.107708,
+          0.449856
+        ],
+        "size": [
+          1.685638,
+          2.102247,
+          0.570119
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "raft",
+      "label": "Raft",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "raft/thumbnail.png",
+      "model": "raft/raft.ts",
+      "package": "raft",
+      "descriptor": "raft/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=10k7K7POVyOkvI3bAtdJzpc7HdZCA6I6w",
+        "file": "OBJ/Raft.obj"
+      },
+      "category": "props",
+      "tags": [
+        "raft",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#9e8e2a",
+        "#2d2d2d"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1956,
+        "triangles": 1036,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -5.982049,
+          -1.368083,
+          -11.822549
+        ],
+        "max": [
+          5.982049,
+          2.933962,
+          11.822549
+        ],
+        "size": [
+          11.964098,
+          4.302045,
+          23.645098
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "raft-paddle",
+      "label": "Raft Paddle",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "raft-paddle/thumbnail.png",
+      "model": "raft-paddle/raft-paddle.ts",
+      "package": "raft-paddle",
+      "descriptor": "raft-paddle/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1opfmeY0z0O9rbb0I121ExbF3wF9A9W2T",
+        "file": "OBJ/Raft_Paddle.obj"
+      },
+      "category": "props",
+      "tags": [
+        "raft",
+        "paddle",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#9e8e2a",
+        "#3e4d9e"
+      ],
+      "colorNames": [
+        "brown",
+        "blue"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 512,
+        "triangles": 264,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.835546,
+          -0.152027,
+          -5.888455
+        ],
+        "max": [
+          0.835546,
+          0.152027,
+          8.963804
+        ],
+        "size": [
+          1.671092,
+          0.304054,
+          14.852259
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "revolver-1",
+      "label": "Revolver 1",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "revolver-1/thumbnail.png",
+      "model": "revolver-1/revolver-1.ts",
+      "package": "revolver-1",
+      "descriptor": "revolver-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1a7Dul14DEeLQ1dDpga4HK-toVevSX0Zh",
+        "file": "OBJ/Revolver_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "revolver",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241",
+        "#555659",
+        "#5c4c42"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1594,
+        "triangles": 1046,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.241989,
+          -0.31617,
+          -0.147195
+        ],
+        "max": [
+          1.739905,
+          0.573639,
+          0.147162
+        ],
+        "size": [
+          1.981894,
+          0.889809,
+          0.294357
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "revolver-2",
+      "label": "Revolver 2",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "revolver-2/thumbnail.png",
+      "model": "revolver-2/revolver-2.ts",
+      "package": "revolver-2",
+      "descriptor": "revolver-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1MWL89RVDfBEePhfOfZVdpXfGaElFJ3Mf",
+        "file": "OBJ/Revolver_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "revolver",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241",
+        "#555659",
+        "#51443b"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1484,
+        "triangles": 966,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.222243,
+          -0.314898,
+          -0.147195
+        ],
+        "max": [
+          1.250419,
+          0.60022,
+          0.147162
+        ],
+        "size": [
+          1.472662,
+          0.915118,
+          0.294357
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "revolver-3",
+      "label": "Revolver 3",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "revolver-3/thumbnail.png",
+      "model": "revolver-3/revolver-3.ts",
+      "package": "revolver-3",
+      "descriptor": "revolver-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1phsHYpisydJJv0BYxXifrOwDCill4lMf",
+        "file": "OBJ/Revolver_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "revolver",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241",
+        "#555659",
+        "#333435"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2180,
+        "triangles": 1334,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.183275,
+          -0.2623,
+          -0.147195
+        ],
+        "max": [
+          1.71783,
+          0.700427,
+          0.147162
+        ],
+        "size": [
+          1.901105,
+          0.962727,
+          0.294357
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun-1",
+      "label": "Shotgun 1",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "shotgun-1/thumbnail.png",
+      "model": "shotgun-1/shotgun-1.ts",
+      "package": "shotgun-1",
+      "descriptor": "shotgun-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1KF9mOKBSVWhCSq8b9ZI4tapYYBpukLpM",
+        "file": "OBJ/Shotgun_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#555659",
+        "#414241",
+        "#373736",
+        "#28292a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2046,
+        "triangles": 1270,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.414408,
+          -0.524007,
+          -0.123267
+        ],
+        "max": [
+          3.80057,
+          0.418674,
+          0.123267
+        ],
+        "size": [
+          5.214978,
+          0.942681,
+          0.246534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun-2",
+      "label": "Shotgun 2",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "shotgun-2/thumbnail.png",
+      "model": "shotgun-2/shotgun-2.ts",
+      "package": "shotgun-2",
+      "descriptor": "shotgun-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=15_jprDih0UvQGqllRhEVTvYyFoXxWB-c",
+        "file": "OBJ/Shotgun_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#414241",
+        "#373736",
+        "#28292a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1660,
+        "triangles": 978,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.477144,
+          -0.563263,
+          -0.123267
+        ],
+        "max": [
+          4.307756,
+          0.379417,
+          0.123267
+        ],
+        "size": [
+          5.7849,
+          0.94268,
+          0.246534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun-sawed-off",
+      "label": "Shotgun SawedOff",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "shotgun-sawed-off/thumbnail.png",
+      "model": "shotgun-sawed-off/shotgun-sawed-off.ts",
+      "package": "shotgun-sawed-off",
+      "descriptor": "shotgun-sawed-off/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1t77HkDxCJEMPQZw-7L2IWIdyvtg10beV",
+        "file": "OBJ/Shotgun_SawedOff.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "sawed",
+        "off",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#28292a",
+        "#5c4c42",
+        "#414241",
+        "#51443b"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1675,
+        "triangles": 955,
+        "parts": 5,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.402993,
+          -0.455389,
+          -0.211228
+        ],
+        "max": [
+          3.285208,
+          0.564741,
+          0.211224
+        ],
+        "size": [
+          3.688201,
+          1.02013,
+          0.422452
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun-short-stock",
+      "label": "Shotgun ShortStock",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "shotgun-short-stock/thumbnail.png",
+      "model": "shotgun-short-stock/shotgun-short-stock.ts",
+      "package": "shotgun-short-stock",
+      "descriptor": "shotgun-short-stock/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1U9lwTM2NS1iZglmoq1NcoUDhJAQvCd6u",
+        "file": "OBJ/Shotgun_ShortStock.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "short",
+        "stock",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#414241",
+        "#373736",
+        "#28292a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2501,
+        "triangles": 1589,
+        "parts": 4,
+        "discardedDegenerate": 23
+      },
+      "bounds": {
+        "min": [
+          -0.422269,
+          -0.426904,
+          -0.123267
+        ],
+        "max": [
+          4.048998,
+          0.539995,
+          0.123267
+        ],
+        "size": [
+          4.471267,
+          0.966899,
+          0.246534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shovel",
+      "label": "Shovel",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "shovel/thumbnail.png",
+      "model": "shovel/shovel.ts",
+      "package": "shovel",
+      "descriptor": "shovel/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1YOl2917iPPxRb0CucUG6WIcNUhwhagEk",
+        "file": "OBJ/Shovel.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shovel",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5f4b35",
+        "#5f5f5f",
+        "#733230"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 654,
+        "triangles": 322,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.401862,
+          -2.083292,
+          -0.083384
+        ],
+        "max": [
+          0.402783,
+          1.790363,
+          0.100357
+        ],
+        "size": [
+          0.804645,
+          3.873655,
+          0.183741
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tent",
+      "label": "Tent",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "tent/thumbnail.png",
+      "model": "tent/tent.ts",
+      "package": "tent",
+      "descriptor": "tent/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Adyssh3_yq9GE8XA5cGKnWyB7EaooD6i",
+        "file": "OBJ/Tent.obj"
+      },
+      "category": "camping",
+      "tags": [
+        "tent",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "camping",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5f4b35",
+        "#2d2d2d",
+        "#524d32",
+        "#3e3921"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1370,
+        "triangles": 788,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -7.290246,
+          -0.175867,
+          -12.434095
+        ],
+        "max": [
+          7.290246,
+          10.148576,
+          12.434098
+        ],
+        "size": [
+          14.580492,
+          10.324443,
+          24.868193
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "torch",
+      "label": "Torch",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "torch/thumbnail.png",
+      "model": "torch/torch.ts",
+      "package": "torch",
+      "descriptor": "torch/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1mmnU8VII55SKhRvJWStmOrIu_sA4TS5H",
+        "file": "OBJ/Torch.obj"
+      },
+      "category": "props",
+      "tags": [
+        "torch",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#816c3b",
+        "#2d2d2d",
+        "#94a9bd",
+        "#6b5a31"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1194,
+        "triangles": 610,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.338188,
+          -1.447162,
+          -0.343405
+        ],
+        "max": [
+          0.338187,
+          1.064973,
+          0.322695
+        ],
+        "size": [
+          0.676375,
+          2.512135,
+          0.6661
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "trashcan",
+      "label": "Trashcan",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "trashcan/thumbnail.png",
+      "model": "trashcan/trashcan.ts",
+      "package": "trashcan",
+      "descriptor": "trashcan/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1aBansDMD3AUJsTInqAzWdseUEuzYhyWB",
+        "file": "OBJ/Trashcan.obj"
+      },
+      "category": "props",
+      "tags": [
+        "trashcan",
+        "quaternius",
+        "survival",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4b623e",
+        "#2d2d2d"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1329,
+        "triangles": 739,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.852918,
+          -0.000087,
+          -2.659092
+        ],
+        "max": [
+          1.863659,
+          6.751132,
+          2.19958
+        ],
+        "size": [
+          3.716577,
+          6.751219,
+          4.858672
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "water-bottle-1",
+      "label": "WaterBottle 1",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "water-bottle-1/thumbnail.png",
+      "model": "water-bottle-1/water-bottle-1.ts",
+      "package": "water-bottle-1",
+      "descriptor": "water-bottle-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=18TGlUR73LZJEswEzvHtCdg-lyKcQ7HaS",
+        "file": "OBJ/WaterBottle_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "water",
+        "bottle",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#749abd",
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "cyan",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 312,
+        "triangles": 168,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.275542,
+          -0.539843,
+          -0.275542
+        ],
+        "max": [
+          0.275542,
+          1.310609,
+          0.275542
+        ],
+        "size": [
+          0.551084,
+          1.850452,
+          0.551084
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "water-bottle-2",
+      "label": "WaterBottle 2",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "water-bottle-2/thumbnail.png",
+      "model": "water-bottle-2/water-bottle-2.ts",
+      "package": "water-bottle-2",
+      "descriptor": "water-bottle-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=14xvo8Z06MikPBHwL2NGryjItZH-xAQ2t",
+        "file": "OBJ/WaterBottle_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "water",
+        "bottle",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#749abd",
+        "#5f5f5f"
+      ],
+      "colorNames": [
+        "cyan",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 888,
+        "triangles": 456,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.275564,
+          -0.539843,
+          -0.275564
+        ],
+        "max": [
+          0.275564,
+          1.310609,
+          0.275564
+        ],
+        "size": [
+          0.551128,
+          1.850452,
+          0.551128
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "water-bottle-3",
+      "label": "WaterBottle 3",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "water-bottle-3/thumbnail.png",
+      "model": "water-bottle-3/water-bottle-3.ts",
+      "package": "water-bottle-3",
+      "descriptor": "water-bottle-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1RM22mLxmxO1szjFZF_kS7s6eWKdWfqjp",
+        "file": "OBJ/WaterBottle_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "water",
+        "bottle",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#749abd",
+        "#5f5f5f",
+        "#733230"
+      ],
+      "colorNames": [
+        "cyan",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 552,
+        "triangles": 288,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.24973,
+          -0.001063,
+          -0.24973
+        ],
+        "max": [
+          0.24973,
+          1.433969,
+          0.24973
+        ],
+        "size": [
+          0.49946,
+          1.435032,
+          0.49946
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "wood-log",
+      "label": "WoodLog",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "wood-log/thumbnail.png",
+      "model": "wood-log/wood-log.ts",
+      "package": "wood-log",
+      "descriptor": "wood-log/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=16dlhFcCvJ5t-IVLz1sfrPyqKFEENDLmi",
+        "file": "OBJ/WoodLog.obj"
+      },
+      "category": "props",
+      "tags": [
+        "wood",
+        "log",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#624a41",
+        "#6b524b"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 412,
+        "triangles": 202,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.907714,
+          -0.019476,
+          -0.649201
+        ],
+        "max": [
+          1.861109,
+          1.074036,
+          0.459812
+        ],
+        "size": [
+          3.768823,
+          1.093512,
+          1.109013
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "wooden-torch",
+      "label": "WoodenTorch",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "wooden-torch/thumbnail.png",
+      "model": "wooden-torch/wooden-torch.ts",
+      "package": "wooden-torch",
+      "descriptor": "wooden-torch/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1QRmb_rL__7cBpQpP2XGcwqeByrws3Jmm",
+        "file": "OBJ/WoodenTorch.obj"
+      },
+      "category": "props",
+      "tags": [
+        "wooden",
+        "torch",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5f4b35",
+        "#959595",
+        "#816c3b"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 892,
+        "triangles": 448,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.22333,
+          -0.583405,
+          -0.209413
+        ],
+        "max": [
+          0.233903,
+          2.107188,
+          0.209413
+        ],
+        "size": [
+          0.457233,
+          2.690593,
+          0.418826
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "wooden-torch-fire",
+      "label": "WoodenTorch Fire",
+      "description": "Survival Pack by Quaternius.",
+      "thumbnail": "wooden-torch-fire/thumbnail.png",
+      "model": "wooden-torch-fire/wooden-torch-fire.ts",
+      "package": "wooden-torch-fire",
+      "descriptor": "wooden-torch-fire/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/survival.html",
+        "download": "https://drive.google.com/uc?export=download&id=1tD49_v1KCU-MZmKtM0QmWQwFanKVxPMd",
+        "file": "OBJ/WoodenTorch_Fire.obj"
+      },
+      "category": "props",
+      "tags": [
+        "wooden",
+        "torch",
+        "fire",
+        "quaternius",
+        "survival",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5f4b35",
+        "#959595",
+        "#816c3b",
+        "#a85922"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 992,
+        "triangles": 454,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.31955,
+          -0.583405,
+          -0.253968
+        ],
+        "max": [
+          0.301355,
+          2.963206,
+          0.247057
+        ],
+        "size": [
+          0.620905,
+          3.546611,
+          0.501025
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

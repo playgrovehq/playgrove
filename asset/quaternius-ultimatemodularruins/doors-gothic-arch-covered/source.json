@@ -1,0 +1,30 @@
+{
+  "id": "doors-gothic-arch-covered",
+  "label": "Doors GothicArch Covered",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=19qORsjerGKrEVAsQ8NJsQnr06T9__5g6",
+  "file": "OBJ/Doors_GothicArch_Covered.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f8a293831094b87a0ebb820d03402b5cadf109133159a574bb3c2f33c06241d2",
+  "originalInputSha256": "f8a293831094b87a0ebb820d03402b5cadf109133159a574bb3c2f33c06241d2",
+  "dependencies": [
+    {
+      "path": "OBJ/Doors_GothicArch_Covered.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1BgcJPezfP2iVbQ_LkQvo-tpRVJKEfX8A",
+      "sha256": "5521cba5153338a4afe3a03fb6dd37f59b4ef57eb5d990d3e5003f417f064d7e",
+      "bytes": 793
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "doors-gothic-arch-covered.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2.5226320028305054,3.2096120822243392,0.2788560092449188]",
+  "convertedAt": "2026-09-05T13:32:45.227Z"
+}

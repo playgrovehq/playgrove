@@ -1,0 +1,30 @@
+{
+  "id": "roof-tile-corner-pipes",
+  "label": "RoofTile Corner Pipes",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1y2AfBTpn-6fSmkmV_Gk8wc0j3wrz6mdI",
+  "file": "OBJ/RoofTile_Corner_Pipes.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "78377b70fc6fd67183048052cf2f2bcb1110d6fdb062e354bf047dfaef170cc8",
+  "originalInputSha256": "78377b70fc6fd67183048052cf2f2bcb1110d6fdb062e354bf047dfaef170cc8",
+  "dependencies": [
+    {
+      "path": "OBJ/RoofTile_Corner_Pipes.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1KaT6pBeXOrO2bNouUm3ShIZGr_VT2DVY",
+      "sha256": "92ac54716f1e7df283ada5c459c3f3e046f8fc55dfcd8d16f094158894cc9400",
+      "bytes": 785
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "roof-tile-corner-pipes.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2,0.11466699838638306,2]",
+  "convertedAt": "2026-09-05T13:34:57.553Z"
+}

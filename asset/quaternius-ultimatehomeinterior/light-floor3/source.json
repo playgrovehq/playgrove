@@ -1,0 +1,30 @@
+{
+  "id": "light-floor3",
+  "label": "Light Floor3",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1eDCNluXDceo1d4tORloz2-L-fY_2XblO",
+  "file": "OBJ/Light_Floor3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cadc7ee586a2ca61e5c0a4ef0bfaf3a1cc78508158d9d6cb3655311cdf3d09b1",
+  "originalInputSha256": "cadc7ee586a2ca61e5c0a4ef0bfaf3a1cc78508158d9d6cb3655311cdf3d09b1",
+  "dependencies": [
+    {
+      "path": "OBJ/Light_Floor3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=11jiEhu0J5MBI96iigN71UtVcpy_X5APc",
+      "sha256": "5066fc13dde220772071e4d97a8ef527a79e8cb076c6db67a016e28f08fb467d",
+      "bytes": 422
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "light-floor3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.4002459943294525,0.8941969871520996,0.4208439886569977]",
+  "convertedAt": "2026-09-05T13:40:39.893Z"
+}

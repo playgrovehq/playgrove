@@ -1,0 +1,30 @@
+{
+  "id": "casino-sign",
+  "label": "CasinoSign",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ao6qq9_iw37lQEoignjL_J8dCIsBxJ0C",
+  "file": "Textured Models/Base Modular Parts/OBJ/CasinoSign.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2b8610542310e9f24df123b53b088a316be17148f3d9db413c8418e00bd2cd1e",
+  "originalInputSha256": "2b8610542310e9f24df123b53b088a316be17148f3d9db413c8418e00bd2cd1e",
+  "dependencies": [
+    {
+      "path": "Textured Models/Base Modular Parts/OBJ/CasinoSign.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1f_zjTwv4i8tWPZtPiSHMdBpeqfl76y99",
+      "sha256": "9331ec0728b5841da41a51132b88d7439161a8b487edf248d60f465af1492d33",
+      "bytes": 239
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "casino-sign.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3.6625980138778687,0.6837850026786327,0.13611599802970886]",
+  "convertedAt": "2026-09-05T13:48:28.634Z"
+}

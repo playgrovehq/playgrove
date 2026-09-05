@@ -1,0 +1,30 @@
+{
+  "id": "barrel",
+  "label": "Barrel",
+  "description": "Medieval Village Pack by Quaternius.",
+  "pack": "quaternius-medievalvillage",
+  "listing": "https://quaternius.com/packs/medievalvillage.html",
+  "download": "https://drive.google.com/uc?export=download&id=1JhOER31nujFKpsM4x6o95iYi-vlRnEuO",
+  "file": "Props/OBJ/Barrel.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a5b7aadcf07bb643a71d11b8797106decccc426be9ef2a1ecba61c503ffff897",
+  "originalInputSha256": "a5b7aadcf07bb643a71d11b8797106decccc426be9ef2a1ecba61c503ffff897",
+  "dependencies": [
+    {
+      "path": "Props/OBJ/Barrel.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1x17kCeByLvX9QVqugE5en0NvuhmKnHPs",
+      "sha256": "00a1e3c3efb014c0a9676c8847985c6ddd83046870b3bd21e39a220dd83bdb60",
+      "bytes": 591
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "barrel.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.15820400416851044,0.2043299999786541,0.15682800114154816]",
+  "convertedAt": "2026-09-05T13:36:04.606Z"
+}

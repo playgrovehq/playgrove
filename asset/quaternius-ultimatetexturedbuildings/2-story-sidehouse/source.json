@@ -1,0 +1,30 @@
+{
+  "id": "2-story-sidehouse",
+  "label": "2Story Sidehouse",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "pack": "quaternius-ultimatetexturedbuildings",
+  "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1jIVTaZz4EcQqXyQo5iDn-nAf_NglkkWu",
+  "file": "Textured Models/Finished Textured Buildings/OBJ/2Story_Sidehouse.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9bcec70a95297eed9de0de52da8e00efa4d3bb0a9a55c82311f93c517df6089d",
+  "originalInputSha256": "9bcec70a95297eed9de0de52da8e00efa4d3bb0a9a55c82311f93c517df6089d",
+  "dependencies": [
+    {
+      "path": "Textured Models/Finished Textured Buildings/OBJ/2Story_Sidehouse.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1zJ0ddJQjUixgU6I7gLZXxQYHmulXh3oj",
+      "sha256": "cb2097b1024e6586526e9716dde8693dca52d51a5bc8caca75b1d7d9f587f918",
+      "bytes": 245
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "2-story-sidehouse.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3.4682199954986572,2.757281010504812,2.532175064086914]",
+  "convertedAt": "2026-09-05T13:48:29.298Z"
+}

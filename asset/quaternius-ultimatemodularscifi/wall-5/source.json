@@ -1,0 +1,30 @@
+{
+  "id": "wall-5",
+  "label": "Wall 5",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Z6LKHZC2byAxhUmBFYz-uet31_zfK2UA",
+  "file": "OBJ/Wall_5.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2248720939784b7537559c4bb3b49288fd33b3aaf289d7ba28c4fa9705a239a5",
+  "originalInputSha256": "2248720939784b7537559c4bb3b49288fd33b3aaf289d7ba28c4fa9705a239a5",
+  "dependencies": [
+    {
+      "path": "OBJ/Wall_5.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1PLIEpzzYAApEVM8wskMr8f22XaGHP94C",
+      "sha256": "14e088fe8887f870041ad7c88d6f534ad294babfb49e76fec258acdb8818525c",
+      "bytes": 1131
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "wall-5.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=6 materials=6 bounds=[4.000001907348633,4.430893898010254,0.527877002954483]",
+  "convertedAt": "2026-09-05T13:34:57.907Z"
+}

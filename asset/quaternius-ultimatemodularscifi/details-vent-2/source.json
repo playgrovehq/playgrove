@@ -1,0 +1,30 @@
+{
+  "id": "details-vent-2",
+  "label": "Details Vent 2",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=11OoBIDFgEtX2_ii3MHiRlnZSPnl5bgDX",
+  "file": "OBJ/Details_Vent_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f5d0552137bbc07de309643ccd0632b0c1326727ce47909ec7aaedced2ade6ed",
+  "originalInputSha256": "f5d0552137bbc07de309643ccd0632b0c1326727ce47909ec7aaedced2ade6ed",
+  "dependencies": [
+    {
+      "path": "OBJ/Details_Vent_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=14pkQtp1wGbBHIIThipI8CELy1cZOJXLA",
+      "sha256": "c1bae54eb074d83548d79b2015c9a701efd2bdcfe7428ccd5f51578b52741a18",
+      "bytes": 603
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "details-vent-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.3098990023136139,0.3098980039358139,0.04127399995923042]",
+  "convertedAt": "2026-09-05T13:34:56.826Z"
+}

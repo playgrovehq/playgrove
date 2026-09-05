@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "id": "pan",
+  "label": "Pan",
+  "description": "Survival Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "pan",
+    "quaternius",
+    "survival",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2d2d2d",
+    "#5f5f5f",
+    "#5f4b35"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pan.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 470,
+    "triangles": 246,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.86149,
+      -0.273504,
+      -0.471354
+    ],
+    "max": [
+      0.86149,
+      0.068521,
+      2.353276
+    ],
+    "size": [
+      1.72298,
+      0.342025,
+      2.82463
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pan_Cylinder.021"
+  ],
+  "materialNames": [
+    "Black",
+    "Grey",
+    "DarkWood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/survival.html",
+    "download": "https://drive.google.com/uc?export=download&id=1lOxHZalmiz-PjqdxQjF9fwEk4k-ywWVo",
+    "file": "OBJ/Pan.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

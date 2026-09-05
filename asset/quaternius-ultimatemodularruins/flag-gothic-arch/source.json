@@ -1,0 +1,30 @@
+{
+  "id": "flag-gothic-arch",
+  "label": "Flag GothicArch",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularruins",
+  "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+  "download": "https://drive.google.com/uc?export=download&id=1oPZheHWGcRFFoAahEv7ojVCBVIyopH3l",
+  "file": "OBJ/Flag_GothicArch.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d75ca1a3ab5d9d423946ca18457716b1fa9927d680bf72ca64ba6448a9e5d9b6",
+  "originalInputSha256": "d75ca1a3ab5d9d423946ca18457716b1fa9927d680bf72ca64ba6448a9e5d9b6",
+  "dependencies": [
+    {
+      "path": "OBJ/Flag_GothicArch.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1SdYDZ2PVr43iBYhZIMk9pa9a692loe3q",
+      "sha256": "55282452920ef2e8d368135c56638b4f0f5ce8aa515b8a7bd31a312b61e705ef",
+      "bytes": 241
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "flag-gothic-arch.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.1880860328674316,1.2156920433044434,0.3160420060157776]",
+  "convertedAt": "2026-09-05T13:32:45.280Z"
+}

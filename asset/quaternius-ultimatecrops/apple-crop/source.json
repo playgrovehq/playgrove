@@ -1,0 +1,30 @@
+{
+  "id": "apple-crop",
+  "label": "Apple Crop",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1CSYmWbtWtqhkzSb_ZKs_siOS3BSK0UBk",
+  "file": "OBJ/Apple_Crop.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "eb816d57ded74b57b5f8e6ab84d281c9a5998f03766b63bff56670819728471f",
+  "originalInputSha256": "eb816d57ded74b57b5f8e6ab84d281c9a5998f03766b63bff56670819728471f",
+  "dependencies": [
+    {
+      "path": "OBJ/Apple_Crop.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=18v_62ibfHTHfJkZok0WT87M6seN40FuH",
+      "sha256": "a2a670ddd6f156a7225ca9e61be92d3e44817a9b5faba3159073e6e53f993c6e",
+      "bytes": 611
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "apple-crop.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.15752199292182922,0.16798099875450134,0.1582610011100769]",
+  "convertedAt": "2026-09-05T13:45:25.749Z"
+}

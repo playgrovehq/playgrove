@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "id": "window-bars-double-overgrown",
+  "label": "Window Bars Double Overgrown",
+  "description": "Ultimate Modular Ruins Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "window",
+    "bars",
+    "double",
+    "overgrown",
+    "quaternius",
+    "ultimatemodularruins",
+    "cube",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#646559",
+    "#848676",
+    "#4f5157",
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "window-bars-double-overgrown.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3980,
+    "triangles": 2192,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.99335,
+      0.001875,
+      -0.258255
+    ],
+    "max": [
+      1.015512,
+      3.989121,
+      0.051639
+    ],
+    "size": [
+      2.008862,
+      3.987246,
+      0.309894
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Window_Bars_Double_Overgrown_Cube.668"
+  ],
+  "materialNames": [
+    "Main",
+    "Highlights",
+    "Metal",
+    "Leaf_Texture",
+    "Green"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatemodularruins.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Tx5N2STxYrqeo9iKYt7b0GpoRsXYOl3Q",
+    "file": "OBJ/Window_Bars_Double_Overgrown.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

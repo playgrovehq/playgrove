@@ -1,0 +1,30 @@
+{
+  "id": "knife",
+  "label": "Knife",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=18yKgBj5vCh_X-MlXwAXZU_FL-kDF6qI8",
+  "file": "OBJ/Knife.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "75c7cd638e590a249ce092174ff4200ba2f0bf8ab3b8f64d50d6793d778fd5ac",
+  "originalInputSha256": "75c7cd638e590a249ce092174ff4200ba2f0bf8ab3b8f64d50d6793d778fd5ac",
+  "dependencies": [
+    {
+      "path": "OBJ/Knife.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1RHLPU18TUBb22qJNczAKL8jmy4CsdDfy",
+      "sha256": "b6124e48c57af894b153eea42c4e50b3c3c11b77c16c629ffc64c5e649d47d76",
+      "bytes": 237
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "knife.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.03482300043106079,0.00710300006903708,0.4191319942474365]",
+  "convertedAt": "2026-09-05T13:40:39.659Z"
+}

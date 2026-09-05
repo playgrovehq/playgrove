@@ -1,0 +1,30 @@
+{
+  "id": "light-cube2",
+  "label": "Light Cube2",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1UZsAvcC98q6cPVk2e6Owz6xvFirHxlvd",
+  "file": "OBJ/Light_Cube2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "51b9f11dd0d25fd1cf6bbbd86487513be8d96e424b965d4f3fa3b35e4e32644f",
+  "originalInputSha256": "51b9f11dd0d25fd1cf6bbbd86487513be8d96e424b965d4f3fa3b35e4e32644f",
+  "dependencies": [
+    {
+      "path": "OBJ/Light_Cube2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=15Je1t4jTZWuHGoN79QVJDqg5CEhi_nvg",
+      "sha256": "bb1f11a3dc439c6ed3914056582e1a4c4c7db3850fd4f7b8cd6c6cc2e6bf960d",
+      "bytes": 776
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "light-cube2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.5542259812355042,0.9222919830353931,0.6407219767570496]",
+  "convertedAt": "2026-09-05T13:40:39.825Z"
+}

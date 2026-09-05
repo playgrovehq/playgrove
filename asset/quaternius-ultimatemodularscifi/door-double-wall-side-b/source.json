@@ -1,0 +1,30 @@
+{
+  "id": "door-double-wall-side-b",
+  "label": "DoorDouble Wall SideB",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1GKMy3X_xkFh2z4Kr0CqNoCZCeFVoVEg-",
+  "file": "OBJ/DoorDouble_Wall_SideB.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3e6e19a1d3d2c6cdfc24190a10ac8201a0ebae6658e3970bebaea85282a695c9",
+  "originalInputSha256": "3e6e19a1d3d2c6cdfc24190a10ac8201a0ebae6658e3970bebaea85282a695c9",
+  "dependencies": [
+    {
+      "path": "OBJ/DoorDouble_Wall_SideB.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1kZ8XF1r6Zetyk-wXgt0CTYf7Sgj_Omwo",
+      "sha256": "e3236f473a03e4a1ab5e95b43c7adec833f9dbe80db368a08b61e2b75c4765a0",
+      "bytes": 785
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "door-double-wall-side-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[4.000001907348633,4.430893898010254,0.5307129919528961]",
+  "convertedAt": "2026-09-05T13:34:56.963Z"
+}

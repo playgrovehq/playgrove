@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "door-window2",
+  "label": "Door Window2",
+  "description": "Ultimate Buildings Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "door",
+    "window2",
+    "quaternius",
+    "ultimatetexturedbuildings",
+    "cube",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "door-window2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 200,
+    "triangles": 114,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.221863,
+      -0.008413,
+      0.006891
+    ],
+    "max": [
+      0.221863,
+      0.898182,
+      0.056458
+    ],
+    "size": [
+      0.443726,
+      0.906595,
+      0.049567
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Door_Window2_Cube.173"
+  ],
+  "materialNames": [
+    "Texture"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1iKYb18nzdG033A8Bj49Ap1qOtPBnhUD8",
+    "file": "Textured Models/Base Modular Parts/OBJ/Door_Window2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

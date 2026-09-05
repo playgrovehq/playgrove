@@ -1,0 +1,30 @@
+{
+  "id": "props-laser",
+  "label": "Props Laser",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1r80_Xlt4i3Moj1LF6vY0cYCJ6jKMkg9E",
+  "file": "OBJ/Props_Laser.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4e919d77b2173eb5ca46355a1cb319827b661c0d6c3d00698b8b79af0e7e32f9",
+  "originalInputSha256": "4e919d77b2173eb5ca46355a1cb319827b661c0d6c3d00698b8b79af0e7e32f9",
+  "dependencies": [
+    {
+      "path": "OBJ/Props_Laser.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Y5FpkPXT-5RZi6Tr-mPLfHZafTNkN21K",
+      "sha256": "fdb984c230907c3f2038687036d38bea72f2bf20f3f9e0c1bd114fb26fd94e9d",
+      "bytes": 597
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "props-laser.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.8412989377975464,1.2905839551240206,1.4638620018959045]",
+  "convertedAt": "2026-09-05T13:34:57.375Z"
+}

@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "compass-closed",
+  "label": "Compass Closed",
+  "description": "Survival Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "compass",
+    "closed",
+    "quaternius",
+    "survival",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#816c3b",
+    "#6b5a31"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "compass-closed.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 916,
+    "triangles": 484,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.301802,
+      -0.305793,
+      0.0024
+    ],
+    "max": [
+      0.336438,
+      0.499568,
+      0.286438
+    ],
+    "size": [
+      0.63824,
+      0.805361,
+      0.284038
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Compass_Closed_Cylinder.027"
+  ],
+  "materialNames": [
+    "Yellow",
+    "DarkYellow"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/survival.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ryZsjc2TMhFkMke3uwlQ7TbLSNw9DG2m",
+    "file": "OBJ/Compass_Closed.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

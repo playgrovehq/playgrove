@@ -1,0 +1,30 @@
+{
+  "id": "details-cylinder",
+  "label": "Details Cylinder",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hmr3guLEfqwQJnzxAqR7jpqcLc5huCig",
+  "file": "OBJ/Details_Cylinder.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d3be090768b12bc02452b224ae8fb00a1849fbd9e1181861c80206b866cbbc15",
+  "originalInputSha256": "d3be090768b12bc02452b224ae8fb00a1849fbd9e1181861c80206b866cbbc15",
+  "dependencies": [
+    {
+      "path": "OBJ/Details_Cylinder.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1sXzZZ2B7exz3o-kuWg2hvrfeO8jGd-nh",
+      "sha256": "8c2bda7229404745438043306410afe75681dc3379a48091ce742232b26d9801",
+      "bytes": 427
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "details-cylinder.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.4302060008049011,0.38274601101875305,0.19088200549595058]",
+  "convertedAt": "2026-09-05T13:34:56.572Z"
+}

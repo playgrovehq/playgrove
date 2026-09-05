@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "bag-open",
+  "label": "Bag Open",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "bag",
+    "open",
+    "quaternius",
+    "medievalvillage",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#84765a",
+    "#7f5632"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bag-open.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 277,
+    "triangles": 280,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.069701,
+      -0.000893,
+      -0.101636
+    ],
+    "max": [
+      0.080469,
+      0.10349,
+      0.101837
+    ],
+    "size": [
+      0.15017,
+      0.104383,
+      0.203473
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Bag_Open_Cube.257"
+  ],
+  "materialNames": [
+    "Bag",
+    "Bag_Inside"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1NxpqJnyuXMKKTkv7lYzoOQVfeW1qmIuh",
+    "file": "Props/OBJ/Bag_Open.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

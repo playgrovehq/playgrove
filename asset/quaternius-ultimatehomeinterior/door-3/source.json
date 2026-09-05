@@ -1,0 +1,30 @@
+{
+  "id": "door-3",
+  "label": "Door 3",
+  "description": "Ultimate House Interior Pack by Quaternius.",
+  "pack": "quaternius-ultimatehomeinterior",
+  "listing": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "download": "https://drive.google.com/uc?export=download&id=1TwTleSf_vru41TJ2wNu-7xnwVIhT5aR3",
+  "file": "OBJ/Door_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5aa697c5aa034b17855c7859abc91da54a3e4c5fbe373cc6a521684b38890f98",
+  "originalInputSha256": "5aa697c5aa034b17855c7859abc91da54a3e4c5fbe373cc6a521684b38890f98",
+  "dependencies": [
+    {
+      "path": "OBJ/Door_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17MMYqOLurBuxwfAcgJpqccJ5tB6tgJFu",
+      "sha256": "c25b8505f783aeeb46aa976c70888ed62776e492ef74f8d82b5705514477e6d2",
+      "bytes": 410
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "door-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.7357709407806396,4.187836170196533,0.41585201025009155]",
+  "convertedAt": "2026-09-05T13:40:39.093Z"
+}

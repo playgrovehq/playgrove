@@ -1,0 +1,103 @@
+{
+  "version": 2,
+  "id": "house-2",
+  "label": "House 2",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "house",
+    "quaternius",
+    "medievalvillage",
+    "cylinder",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#9e9a77",
+    "#624226",
+    "#636b76",
+    "#2f2f2f",
+    "#7f5632",
+    "#215860",
+    "#757f84",
+    "#978359",
+    "#4f5157"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "house-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 13720,
+    "triangles": 7162,
+    "parts": 9,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.118887,
+      -0.001701,
+      -2.071084
+    ],
+    "max": [
+      1.101274,
+      3.248652,
+      1.34894
+    ],
+    "size": [
+      2.220161,
+      3.250353,
+      3.420024
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "House_2_Cylinder.021"
+  ],
+  "materialNames": [
+    "Beige",
+    "Wood",
+    "Stone_Dark",
+    "Windows",
+    "Wood_Light",
+    "RoofTiles",
+    "Stone_Light",
+    "Wood_Side",
+    "Stone"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1R3hfjUPwU-JUgbdLLnydf116T2jWCTfe",
+    "file": "Buildings/OBJ/House_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

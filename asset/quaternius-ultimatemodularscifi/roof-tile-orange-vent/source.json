@@ -1,0 +1,30 @@
+{
+  "id": "roof-tile-orange-vent",
+  "label": "RoofTile OrangeVent",
+  "description": "Ultimate Modular Sci-Fi Pack by Quaternius.",
+  "pack": "quaternius-ultimatemodularscifi",
+  "listing": "https://quaternius.com/packs/ultimatemodularscifi.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Bb1k8-6FdTHlIUioDKtbFYLnvOBS8hwi",
+  "file": "OBJ/RoofTile_OrangeVent.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b57924ba385b8c991189737705bb5f6081ef066d92f1a1706c6dc8bd9296e184",
+  "originalInputSha256": "b57924ba385b8c991189737705bb5f6081ef066d92f1a1706c6dc8bd9296e184",
+  "dependencies": [
+    {
+      "path": "OBJ/RoofTile_OrangeVent.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1lpUsLAxkgwm844siYSu7hWQ2oYSDdYCX",
+      "sha256": "afdae4ae0d338733e66acddea2622e18e5c8fe85474183dc9e323969d98810e1",
+      "bytes": 966
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "roof-tile-orange-vent.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[2,0.11566999927163124,2]",
+  "convertedAt": "2026-09-05T13:34:57.621Z"
+}

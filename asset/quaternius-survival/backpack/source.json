@@ -1,0 +1,30 @@
+{
+  "id": "backpack",
+  "label": "Backpack",
+  "description": "Survival Pack by Quaternius.",
+  "pack": "quaternius-survival",
+  "listing": "https://quaternius.com/packs/survival.html",
+  "download": "https://drive.google.com/uc?export=download&id=1yH68a-27yBo3Tx42gUhjVhIuz70kD_ny",
+  "file": "OBJ/Backpack.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3b3b3f30e74cb49454b55e119eec55e455372b555bd45de026b5ebbc5291f13d",
+  "originalInputSha256": "3b3b3f30e74cb49454b55e119eec55e455372b555bd45de026b5ebbc5291f13d",
+  "dependencies": [
+    {
+      "path": "OBJ/Backpack.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1FF5G7bbclY8Y1zXz75j_cCPAiM8q6BUc",
+      "sha256": "c91aa20c559b03f65ad0c2021044ea6fb9567788d42cf7ea5eb17987dc070ec4",
+      "bytes": 773
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "backpack.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[3.3428659439086914,3.119315981864929,1.7456719875335693]",
+  "convertedAt": "2026-09-05T13:37:26.139Z"
+}

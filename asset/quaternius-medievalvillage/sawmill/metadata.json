@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "id": "sawmill",
+  "label": "Sawmill",
+  "description": "Medieval Village Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "sawmill",
+    "quaternius",
+    "medievalvillage",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#60281d",
+    "#9e9a77",
+    "#978359",
+    "#4b321d",
+    "#4f5157",
+    "#2f2f2f",
+    "#624226",
+    "#7f5632",
+    "#636b76",
+    "#757f84"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "sawmill.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 8193,
+    "triangles": 4335,
+    "parts": 10,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.323257,
+      -0.05183,
+      -1.649003
+    ],
+    "max": [
+      3.075833,
+      2.810642,
+      1.634494
+    ],
+    "size": [
+      4.39909,
+      2.862472,
+      3.283497
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Sawmill_Cube.047"
+  ],
+  "materialNames": [
+    "RoofTiles_Red",
+    "Plaster",
+    "Wood_Side",
+    "DarkWood",
+    "Metal",
+    "Windows",
+    "Wood",
+    "Wood_Light",
+    "Stone_Dark",
+    "Stone_Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalvillage.html",
+    "download": "https://drive.google.com/uc?export=download&id=1-PQUcFcBMA0pD_pknkLFyrFS_pPYe_Yl",
+    "file": "Buildings/OBJ/Sawmill.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

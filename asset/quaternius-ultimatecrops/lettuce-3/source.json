@@ -1,0 +1,30 @@
+{
+  "id": "lettuce-3",
+  "label": "Lettuce 3",
+  "description": "Ultimate Crops Pack by Quaternius.",
+  "pack": "quaternius-ultimatecrops",
+  "listing": "https://quaternius.com/packs/ultimatecrops.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Gw6-yeFq6d9xA2aZLGn8JyywMwsF2mar",
+  "file": "OBJ/Lettuce_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "83e03c0d89dfbf9ee954d4a44144845a06d8f927a103cfa6345b839e3da60cac",
+  "originalInputSha256": "83e03c0d89dfbf9ee954d4a44144845a06d8f927a103cfa6345b839e3da60cac",
+  "dependencies": [
+    {
+      "path": "OBJ/Lettuce_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1DI26psMYp1S-GgbRxQBbboDualRFKKAz",
+      "sha256": "60bfa9b464cf3d5c329c92e1d5ec8df4b330105873c77e3141854dc1e7fcdd01",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "lettuce-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.6231620013713837,0.38159801065921783,0.6763970255851746]",
+  "convertedAt": "2026-09-05T13:45:26.597Z"
+}
