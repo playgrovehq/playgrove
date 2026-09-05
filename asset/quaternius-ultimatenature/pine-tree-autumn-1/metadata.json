@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "pine-tree-autumn-1",
+  "label": "PineTree Autumn 1",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "pine",
+    "tree",
+    "autumn",
+    "quaternius",
+    "ultimatenature",
+    "cylinder",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#62433e",
+    "#a96f45",
+    "#b18c52"
+  ],
+  "colorNames": [
+    "brown",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pine-tree-autumn-1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3801,
+    "triangles": 1920,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.817391,
+      -0.012997,
+      -0.830825
+    ],
+    "max": [
+      1.13877,
+      2.68703,
+      0.984538
+    ],
+    "size": [
+      1.956161,
+      2.700027,
+      1.815363
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "PineTree_Autumn_1_Cylinder.065"
+  ],
+  "materialNames": [
+    "Wood",
+    "Orange",
+    "LightOrange"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=12YwEBM8t1b6atBRE9FXPqBLAhKXD8QdH",
+    "file": "OBJ/PineTree_Autumn_1.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

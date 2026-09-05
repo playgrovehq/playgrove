@@ -1,0 +1,30 @@
+{
+  "id": "flashlight",
+  "label": "Flashlight",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1z3F_PZdgE3hsB18SEPXHHs8t_EHYv7Jx",
+  "file": "OBJ/Accessories/Flashlight.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4822bf3fe96e5a18083d7dfffd33996e45f0705c54d0a8f2308c3dadadb37b75",
+  "originalInputSha256": "4822bf3fe96e5a18083d7dfffd33996e45f0705c54d0a8f2308c3dadadb37b75",
+  "dependencies": [
+    {
+      "path": "OBJ/Accessories/Flashlight.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1r0cP_nTDq4jQ1Mm2c9gnHT2i7WoADQ9r",
+      "sha256": "70658a7097938db58bbfac658a57c3b2d3e8473eb2158d74f074a9f904c69d9c",
+      "bytes": 415
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "flashlight.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.38983500748872757,0.22724000737071037,0.31856200098991394]",
+  "convertedAt": "2026-09-05T13:55:49.670Z"
+}

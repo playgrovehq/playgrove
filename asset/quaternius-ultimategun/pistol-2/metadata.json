@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "pistol-2",
+  "label": "Pistol 2",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "pistol",
+    "quaternius",
+    "ultimategun",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5c4c42",
+    "#414241",
+    "#28292a",
+    "#555659"
+  ],
+  "colorNames": [
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pistol-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2104,
+    "triangles": 1196,
+    "parts": 4,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -0.348734,
+      -0.412467,
+      -0.161605
+    ],
+    "max": [
+      1.470667,
+      0.749089,
+      0.161605
+    ],
+    "size": [
+      1.819401,
+      1.161556,
+      0.32321
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pistol_2_Cube.000"
+  ],
+  "materialNames": [
+    "Wood",
+    "Metal",
+    "Black",
+    "LightMetal"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimategun.html",
+    "download": "https://drive.google.com/uc?export=download&id=12llZNaR14v9Y-Q2l0rQeo4bSdorD7Cqb",
+    "file": "OBJ/Pistol_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

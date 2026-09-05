@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "tentacle",
+  "label": "Tentacle",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "tentacle",
+    "quaternius",
+    "ultimatefood",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#89548d",
+    "#ab6688"
+  ],
+  "colorNames": [
+    "purple",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tentacle.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1194,
+    "triangles": 612,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.307699,
+      -0.173882,
+      -0.136105
+    ],
+    "max": [
+      0.454317,
+      0.101786,
+      0.131205
+    ],
+    "size": [
+      0.762016,
+      0.275668,
+      0.26731
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Tentacle_Cube.019"
+  ],
+  "materialNames": [
+    "PalePink2",
+    "PalePink"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefood.html",
+    "download": "https://drive.google.com/uc?export=download&id=1X-hhtTUpF0U9FivGJolRy9a_sMpKUWCx",
+    "file": "OBJ/Tentacle.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

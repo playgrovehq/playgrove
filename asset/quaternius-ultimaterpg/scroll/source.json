@@ -1,0 +1,30 @@
+{
+  "id": "scroll",
+  "label": "Scroll",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Bb8jUcc-YV_XErrZqnnw2htjLHrTTqyJ",
+  "file": "OBJ/Scroll.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "fde3956939d7c04fd6ef29a7c4c75f7f5bd882593058959a57e66bd45e48fb53",
+  "originalInputSha256": "fde3956939d7c04fd6ef29a7c4c75f7f5bd882593058959a57e66bd45e48fb53",
+  "dependencies": [
+    {
+      "path": "OBJ/Scroll.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1siIEL9NOO_UZLA4kHgLdFzJkrlKeTEl8",
+      "sha256": "8f94e8c024dd213ef730f764165245dec83d8fb96c579e45b51dc1f9d310fcd2",
+      "bytes": 413
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "scroll.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.4776320457458496,0.23844200372695923,0.2505500018596649]",
+  "convertedAt": "2026-09-05T13:54:22.667Z"
+}

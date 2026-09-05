@@ -1,0 +1,102 @@
+{
+  "version": 2,
+  "id": "sword-wall-mount",
+  "label": "Sword WallMount",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "sword",
+    "wall",
+    "mount",
+    "quaternius",
+    "modulardungeon",
+    "cube",
+    "cylinder",
+    "big",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#574039",
+    "#959aa0",
+    "#795239",
+    "#654430",
+    "#a4a8b0",
+    "#7f7f75"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "sword-wall-mount.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3807,
+    "triangles": 2382,
+    "parts": 11,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.457801,
+      -0.40133,
+      -0.000945
+    ],
+    "max": [
+      0.608016,
+      0.445812,
+      0.21078
+    ],
+    "size": [
+      1.065817,
+      0.847142,
+      0.211725
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Sword_WallMount_Cube.002",
+    "Sword_Cylinder.005",
+    "Sword_big_Cylinder.009"
+  ],
+  "materialNames": [
+    "DarkWood",
+    "Steel",
+    "LightWood",
+    "DarkWood.001",
+    "LightSteel",
+    "DarkSteel"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulardungeon.html",
+    "download": "https://drive.google.com/uc?export=download&id=1kvPFvf4GEYu7eU-_9SjqzdpWzJlg-wUJ",
+    "file": "OBJ/Sword_WallMount.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

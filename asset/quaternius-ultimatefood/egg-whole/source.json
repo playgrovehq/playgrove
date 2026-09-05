@@ -1,0 +1,30 @@
+{
+  "id": "egg-whole",
+  "label": "Egg Whole",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_W6rEeFLBOr9yji7XBtkDNXXfmWiOU9m",
+  "file": "OBJ/Egg_Whole.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "797be79e85309542cb75e0cbd0d956aaa2eb6c65dc801d70afd11fae7c0867e8",
+  "originalInputSha256": "797be79e85309542cb75e0cbd0d956aaa2eb6c65dc801d70afd11fae7c0867e8",
+  "dependencies": [
+    {
+      "path": "OBJ/Egg_Whole.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=186jgnCtBJWJrhFev7IIKvT6MCCy5WqZd",
+      "sha256": "17a547e2e7e30f0ea329dfbb88d9921eccc0dc663e1a554c4c11ed08a3f4ddf7",
+      "bytes": 242
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "egg-whole.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.36325401067733765,0.46589200221933424,0.36325401067733765]",
+  "convertedAt": "2026-09-05T13:51:31.193Z"
+}

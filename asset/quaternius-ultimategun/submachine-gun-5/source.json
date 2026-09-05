@@ -1,0 +1,30 @@
+{
+  "id": "submachine-gun-5",
+  "label": "SubmachineGun 5",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1kRQElAZ_yo4Ctn2UzPZS_PB8jQcdkR3P",
+  "file": "OBJ/SubmachineGun_5.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c31ef6a80868fd7c7e0349fd9e971d0bae7eb33c7ec873555afc32c3c35675b5",
+  "originalInputSha256": "c31ef6a80868fd7c7e0349fd9e971d0bae7eb33c7ec873555afc32c3c35675b5",
+  "dependencies": [
+    {
+      "path": "OBJ/SubmachineGun_5.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1uI_xgvcWbPltapdoo2WWuLrJ6xBBUhxR",
+      "sha256": "483af5f5aaf9264c9e02310825869cf4ba00d0acc95cd3ea37cd0131aedbebac",
+      "bytes": 779
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "submachine-gun-5.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[5.029029965400696,1.7305440306663513,0.31854599714279175]",
+  "convertedAt": "2026-09-05T13:55:50.596Z"
+}

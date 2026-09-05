@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "crown2",
+  "label": "Crown2",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "crown2",
+    "quaternius",
+    "ultimaterpg",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1493c",
+    "#b9a54f"
+  ],
+  "colorNames": [
+    "red",
+    "yellow"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "crown2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1660,
+    "triangles": 840,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.443121,
+      -0.12759,
+      -0.443121
+    ],
+    "max": [
+      0.443121,
+      0.457401,
+      0.443121
+    ],
+    "size": [
+      0.886242,
+      0.584991,
+      0.886242
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Crown2_Cylinder.009"
+  ],
+  "materialNames": [
+    "Red",
+    "Gold"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimaterpg.html",
+    "download": "https://drive.google.com/uc?export=download&id=1xNZz5jfhXudEu1rCVJ1kBgTsTxFkQ7qk",
+    "file": "OBJ/Crown2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

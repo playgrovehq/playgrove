@@ -1,0 +1,30 @@
+{
+  "id": "potion6-filled",
+  "label": "Potion6 Filled",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=13TGtvtPPOwWL55MexY-Nx2nVaS9v4sHr",
+  "file": "OBJ/Potion6_Filled.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5e8c13aa28f36a0a91eb147eb65452afc3a13e84aa80ea045b17288cdcdf0965",
+  "originalInputSha256": "5e8c13aa28f36a0a91eb147eb65452afc3a13e84aa80ea045b17288cdcdf0965",
+  "dependencies": [
+    {
+      "path": "OBJ/Potion6_Filled.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1VRORETEUxXXSYseEg2pN-wILK1waG2Sm",
+      "sha256": "28663ae1632b64e79d3ac192acc06fe7c811f3e98f34c20fe86bd5aea2be3801",
+      "bytes": 602
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "potion6-filled.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.7081180214881897,1.5050239861011505,0.7081180214881897]",
+  "convertedAt": "2026-09-05T13:54:22.419Z"
+}

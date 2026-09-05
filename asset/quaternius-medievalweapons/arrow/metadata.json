@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "arrow",
+  "label": "Arrow",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "arrow",
+    "quaternius",
+    "medievalweapons",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#795239",
+    "#959aa0",
+    "#a4a8b0",
+    "#b45d62"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "arrow.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 336,
+    "triangles": 224,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.137528,
+      -0.08521,
+      -0.042227
+    ],
+    "max": [
+      0.136617,
+      0.153064,
+      2.691597
+    ],
+    "size": [
+      0.274145,
+      0.238274,
+      2.733824
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Arrow_Cylinder.001"
+  ],
+  "materialNames": [
+    "LightWood",
+    "Steel",
+    "LightSteel",
+    "Red"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalweapons.html",
+    "download": "https://drive.google.com/uc?export=download&id=1qv7T-xKQKE7UxUnTABj0CxsQ7YZ14_vo",
+    "file": "OBJ/Arrow.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

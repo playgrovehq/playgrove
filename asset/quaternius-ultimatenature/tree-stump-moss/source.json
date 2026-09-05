@@ -1,0 +1,30 @@
+{
+  "id": "tree-stump-moss",
+  "label": "TreeStump Moss",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=11ULtVV7y-fklZDtNvsmU9VNrr7aIsnQb",
+  "file": "OBJ/TreeStump_Moss.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9e2dedc8efe19b96fccd35624e2e864d595a3f45aaddbff7072e499be925f6b0",
+  "originalInputSha256": "9e2dedc8efe19b96fccd35624e2e864d595a3f45aaddbff7072e499be925f6b0",
+  "dependencies": [
+    {
+      "path": "OBJ/TreeStump_Moss.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1qRq-R_Bwh7BiShVZH_u1w6BPYuNvFPfV",
+      "sha256": "44532eb8b4b8056425105f156bba5b2861ea55dd66dc115d3ff9a14dbb970fcf",
+      "bytes": 418
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tree-stump-moss.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.3595660328865051,0.621580979321152,1.0313920080661774]",
+  "convertedAt": "2026-09-05T13:59:43.167Z"
+}

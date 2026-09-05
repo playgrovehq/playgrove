@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "open-barn",
+  "label": "OpenBarn",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "open",
+    "barn",
+    "quaternius",
+    "farmbuildings",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#7c3a32",
+    "#d1d1d1",
+    "#8f433a",
+    "#824e36",
+    "#4f4f4f"
+  ],
+  "colorNames": [
+    "brown",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "open-barn.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2534,
+    "triangles": 1606,
+    "parts": 5,
+    "discardedDegenerate": 6
+  },
+  "bounds": {
+    "min": [
+      -2.839323,
+      0.000953,
+      -3.09102
+    ],
+    "max": [
+      2.904433,
+      4.744408,
+      3.09102
+    ],
+    "size": [
+      5.743756,
+      4.743455,
+      6.18204
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "OpenBarn_Cube.045"
+  ],
+  "materialNames": [
+    "DarkRed",
+    "White",
+    "LightRed",
+    "Brown",
+    "RoofBlack"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/farmbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1jH7mW0J8yLQFJ2meQ665UgM6qCZO7txg",
+    "file": "OBJ/OpenBarn.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pine-tree-4",
+  "label": "PineTree 4",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1-q5fXSgvb4ZAWBodiYU3AqFwpuZECKwu",
+  "file": "OBJ/PineTree_4.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e5ce718e37845725990b915bfc0e1c474aaa669b8b15432168d8c386ed202af6",
+  "originalInputSha256": "e5ce718e37845725990b915bfc0e1c474aaa669b8b15432168d8c386ed202af6",
+  "dependencies": [
+    {
+      "path": "OBJ/PineTree_4.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Vk37BKZcVCX3wlw0WMWFOoHsaxIr0pYu",
+      "sha256": "99d158116cd10b422fe3e805c7d2ad1e909c07ade502bb235d02d4ab364fad0f",
+      "bytes": 414
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pine-tree-4.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.2540670037269592,3.3425239008502103,1.3930490016937256]",
+  "convertedAt": "2026-09-05T13:59:42.470Z"
+}

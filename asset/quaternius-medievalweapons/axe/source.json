@@ -1,0 +1,30 @@
+{
+  "id": "axe",
+  "label": "Axe",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hF6Sth-dGie5yQiHle5gylrwmkAMRmPK",
+  "file": "OBJ/Axe.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "30c85452b3a6dc70e6c1d60d6792dc2100bbb6bee47a7ae6153dfde6f71b57d1",
+  "originalInputSha256": "30c85452b3a6dc70e6c1d60d6792dc2100bbb6bee47a7ae6153dfde6f71b57d1",
+  "dependencies": [
+    {
+      "path": "OBJ/Axe.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1BsZtwOZ0ivy7L1MiqmNZYlU7DbVnPhNc",
+      "sha256": "aa32f5ac1fe1c751b5ec6af77fd8ef297e5c427c82148f8ede3357b5b32451a5",
+      "bytes": 776
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "axe.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.1708130240440369,5.259862065315247,0.24829000234603882]",
+  "convertedAt": "2026-09-05T14:04:47.680Z"
+}

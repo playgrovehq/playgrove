@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "id": "building1-small",
+  "label": "Building1 Small",
+  "description": "Buildings Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "building1",
+    "small",
+    "quaternius",
+    "buildings",
+    "plane",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#7e4242",
+    "#5a442a",
+    "#aba997",
+    "#767676",
+    "#d1d1d1",
+    "#464646",
+    "#9d9b8a"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "white",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "building1-small.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 23608,
+    "triangles": 16596,
+    "parts": 7,
+    "discardedDegenerate": 24
+  },
+  "bounds": {
+    "min": [
+      -1.873747,
+      -0.001144,
+      -1.371792
+    ],
+    "max": [
+      1.873747,
+      4.662141,
+      1.371792
+    ],
+    "size": [
+      3.747494,
+      4.663285,
+      2.743584
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Building1_Small_Plane.003"
+  ],
+  "materialNames": [
+    "DarkRed",
+    "Brown",
+    "LightYellow",
+    "Grey",
+    "White",
+    "DarkGrey",
+    "Beige"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/buildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1fcivNaZ-1IhLTZRjnXxPQqYSkUUKh42G",
+    "file": "OBJ/Building1_Small.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

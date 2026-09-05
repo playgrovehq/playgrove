@@ -1,0 +1,30 @@
+{
+  "id": "street-elevated",
+  "label": "Street Elevated",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1EYXeIFG66g2dmb-dPONcrssu8RENeuOF",
+  "file": "OBJ/Street_Elevated.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3302ff29caa42f65f40b05687cb5a1063af9bce713d6893058dbe4dccd532154",
+  "originalInputSha256": "3302ff29caa42f65f40b05687cb5a1063af9bce713d6893058dbe4dccd532154",
+  "dependencies": [
+    {
+      "path": "OBJ/Street_Elevated.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1M3voF4bVZ_D2rSoGMJfn5tABLG3RaxMd",
+      "sha256": "7431f81af18b3bbcfcccee883df08e07b56b13ba10a8c771d1bea5532da852b5",
+      "bytes": 597
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "street-elevated.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2,0.5798479989171028,2]",
+  "convertedAt": "2026-09-05T14:06:13.753Z"
+}

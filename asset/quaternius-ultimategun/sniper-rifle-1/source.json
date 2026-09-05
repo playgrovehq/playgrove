@@ -1,0 +1,30 @@
+{
+  "id": "sniper-rifle-1",
+  "label": "SniperRifle 1",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1HUfH1-p4b9cnofdMd6bRVRfZUS8ElLvd",
+  "file": "OBJ/SniperRifle_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6d9ba49106fcd690bb0328ad177cdee2a68327e69e72801cf230b62978d456eb",
+  "originalInputSha256": "6d9ba49106fcd690bb0328ad177cdee2a68327e69e72801cf230b62978d456eb",
+  "dependencies": [
+    {
+      "path": "OBJ/SniperRifle_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1PG-QKEoiHq9rsCwYWQLOuCyAF01Z6SIq",
+      "sha256": "3d91a0d98c9a9a3b019a1c4d65d801a866d146d206271d3c80b4a667e7250e4a",
+      "bytes": 955
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sniper-rifle-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[7.294632911682129,1.4839730262756348,0.45930998027324677]",
+  "convertedAt": "2026-09-05T13:55:50.408Z"
+}

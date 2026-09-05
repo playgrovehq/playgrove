@@ -1,0 +1,100 @@
+{
+  "version": 2,
+  "id": "short-closet",
+  "label": "ShortCloset",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "short",
+    "closet",
+    "quaternius",
+    "ultimatefurniture",
+    "left",
+    "door",
+    "cube",
+    "right",
+    "bottom",
+    "drawer",
+    "top",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5c4831",
+    "#877948",
+    "#6a5339"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "short-closet.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 7411,
+    "triangles": 4035,
+    "parts": 10,
+    "discardedDegenerate": 5
+  },
+  "bounds": {
+    "min": [
+      -0.775957,
+      -0.007873,
+      -0.430164
+    ],
+    "max": [
+      0.776546,
+      2.258823,
+      0.476592
+    ],
+    "size": [
+      1.552503,
+      2.266696,
+      0.906756
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "ShortCloset_LeftDoor_Cube.008",
+    "ShortCloset_RightDoor_Cube.005",
+    "ShortCloset_BottomDrawer_Cube.004",
+    "ShortCloset_TopDrawer_Cube.003",
+    "ShortCloset_Cube"
+  ],
+  "materialNames": [
+    "DarkWood",
+    "Metal",
+    "Wood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+    "download": "https://drive.google.com/uc?export=download&id=1o0Q0XJ3zGzHWXdyKl86HwZolshe4oj2z",
+    "file": "OBJ/ShortCloset.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cheeseburger",
+  "label": "Cheeseburger",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1nVy1Hz43722kqcQKZ_Gvu9qBuzX2Z-Pg",
+  "file": "OBJ/Cheeseburger.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "91c6903311b2e4b8f99313db41ea719d507e3c418a99c5bb9ad95ebfff568086",
+  "originalInputSha256": "91c6903311b2e4b8f99313db41ea719d507e3c418a99c5bb9ad95ebfff568086",
+  "dependencies": [
+    {
+      "path": "OBJ/Cheeseburger.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1ywDnZost8hXWhJ2C7Hi4cJ5ax4CTrtL9",
+      "sha256": "2c98914ddfe36b5c5370fbbaa72fa03ed0e5483747a5d9142d9216179b7fbd65",
+      "bytes": 780
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cheeseburger.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.4647629857063293,0.9381890296936035,1.5409590005874634]",
+  "convertedAt": "2026-09-05T13:51:30.848Z"
+}

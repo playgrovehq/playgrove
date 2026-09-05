@@ -1,0 +1,30 @@
+{
+  "id": "tree-stump",
+  "label": "TreeStump",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ePxAKsXc3MhVV9DPX0GkNgr7pj8NR_A9",
+  "file": "OBJ/TreeStump.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8c1a8448a65700c479484477ef36f3882b662857ad2bd400a8e090dc97ad4aab",
+  "originalInputSha256": "8c1a8448a65700c479484477ef36f3882b662857ad2bd400a8e090dc97ad4aab",
+  "dependencies": [
+    {
+      "path": "OBJ/TreeStump.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1rQyd0f4ZUZaK9Kv3MSKPV8r44XF8giem",
+      "sha256": "186fbe2e30fef6082a1191c6c5af239e68e3f0e06bb1cc9f8c88dbb568c7d7db",
+      "bytes": 595
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tree-stump.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.3595660328865051,0.621580979321152,1.0313920080661774]",
+  "convertedAt": "2026-09-05T13:59:43.150Z"
+}

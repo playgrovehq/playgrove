@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "lilypad",
+  "label": "Lilypad",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "lilypad",
+    "quaternius",
+    "ultimatenature",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#4b623e",
+    "#a55582"
+  ],
+  "colorNames": [
+    "brown",
+    "purple"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "lilypad.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 782,
+    "triangles": 372,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.598598,
+      -0.026891,
+      -0.594561
+    ],
+    "max": [
+      0.598598,
+      0.193973,
+      0.594561
+    ],
+    "size": [
+      1.197196,
+      0.220864,
+      1.189122
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Lilypad_Cylinder.016"
+  ],
+  "materialNames": [
+    "Green",
+    "Pink"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=1SVHnvU3soTvMezekz4McfSRrSt0JJzV4",
+    "file": "OBJ/Lilypad.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

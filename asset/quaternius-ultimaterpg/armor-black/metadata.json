@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "armor-black",
+  "label": "Armor Black",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "armor",
+    "black",
+    "quaternius",
+    "ultimaterpg",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#1f1f1f",
+    "#552d28"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "armor-black.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2088,
+    "triangles": 1040,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.769946,
+      -0.563154,
+      -0.335211
+    ],
+    "max": [
+      0.769946,
+      0.638569,
+      0.424323
+    ],
+    "size": [
+      1.539892,
+      1.201723,
+      0.759534
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Armor_Black_Cylinder.056"
+  ],
+  "materialNames": [
+    "Black",
+    "DarkRed"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimaterpg.html",
+    "download": "https://drive.google.com/uc?export=download&id=1kaRgcMDHho8C79OiDt8zVwkJGxS6ai_H",
+    "file": "OBJ/Armor_Black.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

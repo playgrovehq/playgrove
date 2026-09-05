@@ -1,0 +1,423 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T14:06:25.137Z",
+  "assets": [
+    {
+      "id": "boat",
+      "label": "Boat",
+      "description": "Ships Pack by Quaternius.",
+      "thumbnail": "boat/thumbnail.png",
+      "model": "boat/boat.ts",
+      "package": "boat",
+      "descriptor": "boat/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ships.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hiE2ccUMRL9zfOs5NoWjad9GojG5WhVF",
+        "file": "OBJ/Boat.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "boat",
+        "quaternius",
+        "ships",
+        "cube",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#78543b",
+        "#8d6446"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 320,
+        "triangles": 172,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.182269,
+          -0.002203,
+          -0.341333
+        ],
+        "max": [
+          0.182269,
+          0.154712,
+          0.327068
+        ],
+        "size": [
+          0.364538,
+          0.156915,
+          0.668401
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "boat-wsail",
+      "label": "BoatWSail",
+      "description": "Ships Pack by Quaternius.",
+      "thumbnail": "boat-wsail/thumbnail.png",
+      "model": "boat-wsail/boat-wsail.ts",
+      "package": "boat-wsail",
+      "descriptor": "boat-wsail/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ships.html",
+        "download": "https://drive.google.com/uc?export=download&id=1XegQviymM6PRnAIIF-elHF7ykKp947pT",
+        "file": "OBJ/BoatWSail.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "boat",
+        "wsail",
+        "quaternius",
+        "ships",
+        "sail",
+        "cube",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e4b38",
+        "#bcb092",
+        "#b17e58",
+        "#9b9b9b"
+      ],
+      "colorNames": [
+        "brown",
+        "beige",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1819,
+        "triangles": 1017,
+        "parts": 5,
+        "discardedDegenerate": 3
+      },
+      "bounds": {
+        "min": [
+          -0.211944,
+          -0.004691,
+          -0.428346
+        ],
+        "max": [
+          0.191273,
+          0.850025,
+          0.560691
+        ],
+        "size": [
+          0.403217,
+          0.854716,
+          0.989037
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cruise-ship",
+      "label": "CruiseShip",
+      "description": "Ships Pack by Quaternius.",
+      "thumbnail": "cruise-ship/thumbnail.png",
+      "model": "cruise-ship/cruise-ship.ts",
+      "package": "cruise-ship",
+      "descriptor": "cruise-ship/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ships.html",
+        "download": "https://drive.google.com/uc?export=download&id=1lgUg8ChFHTwJPOeEpgO95-T6kzHIIOgP",
+        "file": "OBJ/CruiseShip.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "cruise",
+        "ship",
+        "quaternius",
+        "ships",
+        "cube",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#dbdbdb",
+        "#d1d1d1",
+        "#d1373a",
+        "#444444"
+      ],
+      "colorNames": [
+        "white",
+        "red",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1416,
+        "triangles": 854,
+        "parts": 4,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -2,
+          -0.001352,
+          -8.859712
+        ],
+        "max": [
+          2,
+          6.595243,
+          9.186741
+        ],
+        "size": [
+          4,
+          6.596595,
+          18.046453
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sail-ship",
+      "label": "Sail ship",
+      "description": "Ships Pack by Quaternius.",
+      "thumbnail": "sail-ship/thumbnail.png",
+      "model": "sail-ship/sail-ship.ts",
+      "package": "sail-ship",
+      "descriptor": "sail-ship/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ships.html",
+        "download": "https://drive.google.com/uc?export=download&id=1M6Xvcb9_wgq6jeXw8zXDfOPJcipWOcNt",
+        "file": "OBJ/Sail ship.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "sail",
+        "ship",
+        "quaternius",
+        "ships",
+        "back",
+        "cylinder",
+        "front",
+        "midle",
+        "big",
+        "rudder",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a17250",
+        "#d1c6ac",
+        "#815c40",
+        "#c88e63",
+        "#a6393f"
+      ],
+      "colorNames": [
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 6260,
+        "triangles": 3934,
+        "parts": 12,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.847529,
+          -0.111952,
+          -2.604487
+        ],
+        "max": [
+          0.847529,
+          3.737727,
+          3.77094
+        ],
+        "size": [
+          1.695058,
+          3.849679,
+          6.375427
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "viking-boat",
+      "label": "Viking boat",
+      "description": "Ships Pack by Quaternius.",
+      "thumbnail": "viking-boat/thumbnail.png",
+      "model": "viking-boat/viking-boat.ts",
+      "package": "viking-boat",
+      "descriptor": "viking-boat/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ships.html",
+        "download": "https://drive.google.com/uc?export=download&id=1e6rAw94HQv0d6JrqJZ_LR5h59vsZEBCf",
+        "file": "OBJ/Viking boat.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "viking",
+        "boat",
+        "quaternius",
+        "ships",
+        "sail",
+        "plane",
+        "ship",
+        "cylinder",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbd1ba",
+        "#d15a50",
+        "#a0724e",
+        "#b27f57",
+        "#c0926c"
+      ],
+      "colorNames": [
+        "beige",
+        "red",
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3090,
+        "triangles": 1638,
+        "parts": 6,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.776046,
+          -0.012313,
+          -1.916902
+        ],
+        "max": [
+          0.791162,
+          2.496833,
+          2.284562
+        ],
+        "size": [
+          1.567208,
+          2.509146,
+          4.201464
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

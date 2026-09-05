@@ -1,0 +1,30 @@
+{
+  "id": "locomotive-coal-tender",
+  "label": "Locomotive CoalTender",
+  "description": "Modular Train Pack by Quaternius.",
+  "pack": "quaternius-modulartrain",
+  "listing": "https://quaternius.com/packs/modulartrain.html",
+  "download": "https://drive.google.com/uc?export=download&id=1m72AenEGRDb0AtV298qjbpSDZNQ84AsH",
+  "file": "OBJ/Locomotive_CoalTender.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b4ca81920107ea831a571a49d5857fbcd26548052183af4d17629c1edb7dce05",
+  "originalInputSha256": "b4ca81920107ea831a571a49d5857fbcd26548052183af4d17629c1edb7dce05",
+  "dependencies": [
+    {
+      "path": "OBJ/Locomotive_CoalTender.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1EnYiSQCdE-QHIYV8pHZ-7V8ZotM2m3py",
+      "sha256": "99551e146dfde7e1c43203ac2edda1bb7e66c5796f63f6cfc5af1d2624212c48",
+      "bytes": 425
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "locomotive-coal-tender.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[5.211630821228027,2.3466958850622177,2.018660068511963]",
+  "convertedAt": "2026-09-05T14:01:37.106Z"
+}

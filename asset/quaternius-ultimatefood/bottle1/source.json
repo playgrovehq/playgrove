@@ -1,0 +1,30 @@
+{
+  "id": "bottle1",
+  "label": "Bottle1",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1VjlPrByNBbF5lsiL-OZJ5-V9V_LDzawJ",
+  "file": "OBJ/Bottle1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ca513465342e14b2cd2225b6ed92e7462100118d7e2087c576f145379a33f1ec",
+  "originalInputSha256": "ca513465342e14b2cd2225b6ed92e7462100118d7e2087c576f145379a33f1ec",
+  "dependencies": [
+    {
+      "path": "OBJ/Bottle1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1u5TSZTH7X_ioYAZSViJ5q3UAP3BuSi_S",
+      "sha256": "807d356fc69bf3f2c2d84343ca560498734dc194fce9ae1704ef091b884d1c76",
+      "bytes": 603
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bottle1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.45167601108551025,1.5638050140114501,0.45167601108551025]",
+  "convertedAt": "2026-09-05T13:51:30.630Z"
+}

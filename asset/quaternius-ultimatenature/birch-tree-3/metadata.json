@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "birch-tree-3",
+  "label": "BirchTree 3",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "birch",
+    "tree",
+    "quaternius",
+    "ultimatenature",
+    "cube",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#c0c3bc",
+    "#3b3b3b",
+    "#4b623e",
+    "#3a4c30"
+  ],
+  "colorNames": [
+    "beige",
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "birch-tree-3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3510,
+    "triangles": 1730,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.760765,
+      -0.072028,
+      -1.128305
+    ],
+    "max": [
+      0.814011,
+      4.021173,
+      0.642061
+    ],
+    "size": [
+      1.574776,
+      4.093201,
+      1.770366
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "BirchTree_3_Cube.065"
+  ],
+  "materialNames": [
+    "White",
+    "Black",
+    "Green",
+    "DarkGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=1sfWVtRc6GzQ3o5605oHu4jrHLpdvNFL6",
+    "file": "OBJ/BirchTree_3.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "wheat",
+  "label": "Wheat",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1zMEUuN423p69cPSsmPWldu9YISjY_KG9",
+  "file": "OBJ/Wheat.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4d326157bd26cc327ef5b3112b47e0d2d1133a3623ffdad34397470d6c6bc052",
+  "originalInputSha256": "4d326157bd26cc327ef5b3112b47e0d2d1133a3623ffdad34397470d6c6bc052",
+  "dependencies": [
+    {
+      "path": "OBJ/Wheat.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1x7VIOeMqBpEqAXog2HBFuaTByJnG4cqR",
+      "sha256": "2f22d9d6a87ec8861924586320a6ef7fc85ecf44894cf190d7eb89e95b9887c3",
+      "bytes": 233
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "wheat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.3577979952096939,1.1022209906950593,0.3564850091934204]",
+  "convertedAt": "2026-09-05T13:59:43.204Z"
+}

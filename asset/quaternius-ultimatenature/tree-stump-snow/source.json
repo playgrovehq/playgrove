@@ -1,0 +1,30 @@
+{
+  "id": "tree-stump-snow",
+  "label": "TreeStump Snow",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ggAQyxhT3EldLyuWPLcENVW7QSrXer2o",
+  "file": "OBJ/TreeStump_Snow.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "012336e02367e65db042240175df978ab0ca076a4012109501f84ed5ff076547",
+  "originalInputSha256": "012336e02367e65db042240175df978ab0ca076a4012109501f84ed5ff076547",
+  "dependencies": [
+    {
+      "path": "OBJ/TreeStump_Snow.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1t87yhnC7kKucrx3UA6um_qDkeEK45PEj",
+      "sha256": "7009105152a4d5df6cf9854d9bdcc0efcc04afb21cb692f24deaafce2702ba8b",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tree-stump-snow.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.3595660328865051,0.621580979321152,1.0313920080661774]",
+  "convertedAt": "2026-09-05T13:59:43.186Z"
+}

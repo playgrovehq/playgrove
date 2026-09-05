@@ -1,0 +1,103 @@
+{
+  "version": 2,
+  "id": "tower-windmill",
+  "label": "TowerWindmill",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "tower",
+    "windmill",
+    "quaternius",
+    "farmbuildings",
+    "cylinder",
+    "blades",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#747474",
+    "#4f4f4f",
+    "#9b805c",
+    "#d1d1d1",
+    "#313032",
+    "#a0a0a0",
+    "#6a573f"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "white",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tower-windmill.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 11401,
+    "triangles": 7827,
+    "parts": 8,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -3.947709,
+      -0.033565,
+      -2.585704
+    ],
+    "max": [
+      3.97596,
+      11.379702,
+      2.404893
+    ],
+    "size": [
+      7.923669,
+      11.413267,
+      4.990597
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "TowerWindmill_Cylinder.008",
+    "TowerWindmill_Blades_Cylinder.006"
+  ],
+  "materialNames": [
+    "DarkGrey",
+    "RoofBlack",
+    "LightBrown",
+    "White",
+    "Black",
+    "Grey",
+    "DarkBrown"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/farmbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1pAck0BU91yY6J7wb8J08oDnOqwHic0Ro",
+    "file": "OBJ/TowerWindmill.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "bullpup-1",
+  "label": "Bullpup 1",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "bullpup",
+    "quaternius",
+    "ultimategun",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#191f27",
+    "#22272a",
+    "#2a2f33"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bullpup-1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4852,
+    "triangles": 2782,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -2.528853,
+      -0.420916,
+      -0.155142
+    ],
+    "max": [
+      2.719206,
+      1.119973,
+      0.155142
+    ],
+    "size": [
+      5.248059,
+      1.540889,
+      0.310284
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Bullpup_1_Cylinder.051"
+  ],
+  "materialNames": [
+    "MainDark",
+    "Main",
+    "MainLight"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimategun.html",
+    "download": "https://drive.google.com/uc?export=download&id=1asgtwDsX9-Rm5GIhkA4BPn9QtYTVyEIn",
+    "file": "OBJ/Bullpup_1.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

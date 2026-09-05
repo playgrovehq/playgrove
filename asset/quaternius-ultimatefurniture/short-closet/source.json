@@ -1,0 +1,30 @@
+{
+  "id": "short-closet",
+  "label": "ShortCloset",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "pack": "quaternius-ultimatefurniture",
+  "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+  "download": "https://drive.google.com/uc?export=download&id=1o0Q0XJ3zGzHWXdyKl86HwZolshe4oj2z",
+  "file": "OBJ/ShortCloset.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a7fde3c36852603bf420c60321d24fcbe9bf1252d9984ad96d4434b138177fe9",
+  "originalInputSha256": "a7fde3c36852603bf420c60321d24fcbe9bf1252d9984ad96d4434b138177fe9",
+  "dependencies": [
+    {
+      "path": "OBJ/ShortCloset.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1GyLfjogWNWTe9UdJIkHxqCBsUhslQOo0",
+      "sha256": "05a81a74a4eaf76dcd91554199c933b9a7246091fe899eb7b3edacded7c7a003",
+      "bytes": 596
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "short-closet.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=10 materials=10 bounds=[1.552502989768982,2.266695917584002,0.9067560136318207]",
+  "convertedAt": "2026-09-05T14:12:34.350Z"
+}

@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "sniper-rifle-4",
+  "label": "SniperRifle 4",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "sniper",
+    "rifle",
+    "quaternius",
+    "ultimategun",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#373736",
+    "#28292a",
+    "#414241",
+    "#070e1c",
+    "#333435"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "sniper-rifle-4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2416,
+    "triangles": 1346,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.377546,
+      -0.713719,
+      -0.154958
+    ],
+    "max": [
+      4.958062,
+      0.634547,
+      0.304352
+    ],
+    "size": [
+      6.335608,
+      1.348266,
+      0.45931
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "SniperRifle_4_Cube.133"
+  ],
+  "materialNames": [
+    "DarkMetal",
+    "Black",
+    "Metal",
+    "Glass",
+    "Grey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimategun.html",
+    "download": "https://drive.google.com/uc?export=download&id=1rcDt3viB4D2e4CP8yxI8iXS9W_IiaOts",
+    "file": "OBJ/SniperRifle_4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

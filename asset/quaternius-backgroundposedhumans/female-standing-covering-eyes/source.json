@@ -1,0 +1,30 @@
+{
+  "id": "female-standing-covering-eyes",
+  "label": "Female Standing CoveringEyes",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "pack": "quaternius-backgroundposedhumans",
+  "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Ta4NtjZzYPmzC75DMUwbn-oWZdu0Eg3g",
+  "file": "Female/Female Poses/OBJ/Female_Standing_CoveringEyes.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c2e9035d39e8ed7435ba988d1bedc4e46433d9d3a5a5ab6e78603d1a69425852",
+  "originalInputSha256": "c2e9035d39e8ed7435ba988d1bedc4e46433d9d3a5a5ab6e78603d1a69425852",
+  "dependencies": [
+    {
+      "path": "Female/Female Poses/OBJ/Female_Standing_CoveringEyes.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1JosiMN1-eJYaRX6Q2qBuDSViN-Az1Kyz",
+      "sha256": "4ba36d4e328902c4166c4849508423cb00bb58736c34fe2491bcc5fa50b66383",
+      "bytes": 788
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "female-standing-covering-eyes.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.0208500027656555,3.7672259313985705,0.9408769905567169]",
+  "convertedAt": "2026-09-05T14:05:32.724Z"
+}

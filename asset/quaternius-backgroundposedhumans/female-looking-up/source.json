@@ -1,0 +1,30 @@
+{
+  "id": "female-looking-up",
+  "label": "Female LookingUp",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "pack": "quaternius-backgroundposedhumans",
+  "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+  "download": "https://drive.google.com/uc?export=download&id=1uwIvkv2ClvA3xqU3aknLtME_AZHSUGKm",
+  "file": "Female/Female Poses/OBJ/Female_LookingUp.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "11e9b1e78d343ad10982985a7b04f49a2dceb9f3536690a5fb3a3a2e7275c59e",
+  "originalInputSha256": "11e9b1e78d343ad10982985a7b04f49a2dceb9f3536690a5fb3a3a2e7275c59e",
+  "dependencies": [
+    {
+      "path": "Female/Female Poses/OBJ/Female_LookingUp.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=12Vlx5q9mI4eI2z6hudWiakemDOtnydkw",
+      "sha256": "65b6f496980b9bf758d0d5903b258bdf7c25a5ad2ab4429fbb01d64405975670",
+      "bytes": 776
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "female-looking-up.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.3645620346069336,3.5913060791790485,1.0658979713916779]",
+  "convertedAt": "2026-09-05T14:05:32.609Z"
+}

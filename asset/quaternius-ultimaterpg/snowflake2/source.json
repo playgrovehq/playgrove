@@ -1,0 +1,30 @@
+{
+  "id": "snowflake2",
+  "label": "Snowflake2",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1J6ZcLYkqEpKdluAc1_RLNSFAewqJ7yOE",
+  "file": "OBJ/Snowflake2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "34ffe21206612a42f2b2828dd92bb52a254e81d123975f768941a6c019df31f9",
+  "originalInputSha256": "34ffe21206612a42f2b2828dd92bb52a254e81d123975f768941a6c019df31f9",
+  "dependencies": [
+    {
+      "path": "OBJ/Snowflake2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1A2zDanktG6y4zHzIsnpRSSPryFfiLUpu",
+      "sha256": "7f099858312332cd86c45152786961fe038d085efff60cee29376e3e15890f2e",
+      "bytes": 241
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "snowflake2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.8948019742965698,0.8948019742965698,0.10083399713039398]",
+  "convertedAt": "2026-09-05T13:54:22.734Z"
+}

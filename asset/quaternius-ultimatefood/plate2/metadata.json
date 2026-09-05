@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "id": "plate2",
+  "label": "Plate2",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "plate2",
+    "quaternius",
+    "ultimatefood",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a3a3a3"
+  ],
+  "colorNames": [
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "plate2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 380,
+    "triangles": 196,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.986523,
+      0.007014,
+      -1.037292
+    ],
+    "max": [
+      0.986523,
+      0.226746,
+      1.037292
+    ],
+    "size": [
+      1.973046,
+      0.219732,
+      2.074584
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Plate2_Cylinder.018"
+  ],
+  "materialNames": [
+    "White"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefood.html",
+    "download": "https://drive.google.com/uc?export=download&id=1crtI_XMONzvf8IvML94jadw3icCWIKe5",
+    "file": "OBJ/Plate2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

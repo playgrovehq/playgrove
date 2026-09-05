@@ -1,0 +1,30 @@
+{
+  "id": "corndog",
+  "label": "Corndog",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1IKmT9Y8C9_GsO2fN2L_ZARjmTup9X6V3",
+  "file": "OBJ/Corndog.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "58a0d0a731e5e719e17ae45a58f756b0d3fb08e3a7fcc57a60b32b1be9c5f3d5",
+  "originalInputSha256": "58a0d0a731e5e719e17ae45a58f756b0d3fb08e3a7fcc57a60b32b1be9c5f3d5",
+  "dependencies": [
+    {
+      "path": "OBJ/Corndog.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1BpyBBnoGfVQLvynBzNFryM5yBl3jzz9U",
+      "sha256": "4056602120b5e0d082ab168d916a6ad5ad1be1e0a0caee9e5dcb26588e4eeb28",
+      "bytes": 420
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "corndog.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.25615599751472473,1.3518230361514725,0.25615599751472473]",
+  "convertedAt": "2026-09-05T13:51:31.013Z"
+}

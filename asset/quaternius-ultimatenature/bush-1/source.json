@@ -1,0 +1,30 @@
+{
+  "id": "bush-1",
+  "label": "Bush 1",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1YP2jjYoZQksh5v0LoZZ8Um5_0pAWFScQ",
+  "file": "OBJ/Bush_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0cac6fca9e9a5d899fa1859867bf9cc2dbcc1817b31a0668d8b6faf2b033788b",
+  "originalInputSha256": "0cac6fca9e9a5d899fa1859867bf9cc2dbcc1817b31a0668d8b6faf2b033788b",
+  "dependencies": [
+    {
+      "path": "OBJ/Bush_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1lAgUVz8PiyyBbfJMaJ39ninZqg8y6jmD",
+      "sha256": "2a0bf1c9f6ad09cd9b54f7b8c8ef1f31b597b1e142658ddc0c68ad1449b19e0e",
+      "bytes": 233
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bush-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.328428030014038,1.241747960448265,1.690026044845581]",
+  "convertedAt": "2026-09-05T13:59:41.408Z"
+}

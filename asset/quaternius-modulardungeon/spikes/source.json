@@ -1,0 +1,30 @@
+{
+  "id": "spikes",
+  "label": "Spikes",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_kFdESax8vrcRCOfv5l1Kp10A_oEeoO6",
+  "file": "OBJ/Spikes.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0b3f42898d59d08e8b136ef153f0252780fccf46f0baf8377dac01342387d5b5",
+  "originalInputSha256": "0b3f42898d59d08e8b136ef153f0252780fccf46f0baf8377dac01342387d5b5",
+  "dependencies": [
+    {
+      "path": "OBJ/Spikes.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=11ykUyEZJYMeZ8A1rIy_CGDnsFjZx73JW",
+      "sha256": "10de61226489c1385ee1396e3535b69514b1e5986ef1f42c60b0a8077c705889",
+      "bytes": 237
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "spikes.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.7645339965820312,1.1754510588943958,1.7645339965820312]",
+  "convertedAt": "2026-09-05T14:01:01.034Z"
+}

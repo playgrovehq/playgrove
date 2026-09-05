@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "willow-snow-5",
+  "label": "Willow Snow 5",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "willow",
+    "snow",
+    "quaternius",
+    "ultimatenature",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#62433e",
+    "#3a4c30",
+    "#aaa2ae"
+  ],
+  "colorNames": [
+    "brown",
+    "black",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "willow-snow-5.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3432,
+    "triangles": 1720,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.429215,
+      -0.007935,
+      -0.99021
+    ],
+    "max": [
+      0.580724,
+      2.455308,
+      1.500022
+    ],
+    "size": [
+      1.009939,
+      2.463243,
+      2.490232
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Willow_Snow_5_Cube.141"
+  ],
+  "materialNames": [
+    "Wood",
+    "DarkGreen",
+    "Snow"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=1IGzrvaoO0dPYTCNDzWwiV8XbAEmjoB3u",
+    "file": "OBJ/Willow_Snow_5.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

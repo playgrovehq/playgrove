@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "birch-tree-autumn-2",
+  "label": "BirchTree Autumn 2",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "birch",
+    "tree",
+    "autumn",
+    "quaternius",
+    "ultimatenature",
+    "cube",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#c0c3bc",
+    "#3b3b3b",
+    "#a96f45",
+    "#b18c52"
+  ],
+  "colorNames": [
+    "beige",
+    "black",
+    "brown",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "birch-tree-autumn-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3170,
+    "triangles": 1566,
+    "parts": 4,
+    "discardedDegenerate": 2
+  },
+  "bounds": {
+    "min": [
+      -0.731324,
+      -0.04246,
+      -0.457792
+    ],
+    "max": [
+      0.737618,
+      3.988314,
+      1.234935
+    ],
+    "size": [
+      1.468942,
+      4.030774,
+      1.692727
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "BirchTree_Autumn_2_Cube.083"
+  ],
+  "materialNames": [
+    "White",
+    "Black",
+    "Orange",
+    "LightOrange"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=13N88nn3VNJ921qiGvUtI0W86BIhk6niC",
+    "file": "OBJ/BirchTree_Autumn_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

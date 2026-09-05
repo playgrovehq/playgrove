@@ -1,0 +1,30 @@
+{
+  "id": "ice-cream-cone",
+  "label": "IceCream Cone",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FCgnXVhAx8z_X2AtVkY86XOq5mbOVgr6",
+  "file": "OBJ/IceCream_Cone.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ff0686b627228199eed60a45a406a930dd3d515b18bd4a82d52721ed9c09e498",
+  "originalInputSha256": "ff0686b627228199eed60a45a406a930dd3d515b18bd4a82d52721ed9c09e498",
+  "dependencies": [
+    {
+      "path": "OBJ/IceCream_Cone.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1B7CkXf6f-sosaRTIRelYpVvbsUPH2tby",
+      "sha256": "3f8cc6ba87f971d4b69583fc0a8e4239b20197d3976ff25057f69fac755a58e9",
+      "bytes": 246
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "ice-cream-cone.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.5524399876594543,0.8104409873485565,0.5524399876594543]",
+  "convertedAt": "2026-09-05T13:51:31.451Z"
+}

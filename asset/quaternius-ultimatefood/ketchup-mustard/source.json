@@ -1,0 +1,30 @@
+{
+  "id": "ketchup-mustard",
+  "label": "KetchupMustard",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1aK2j7T1CevZbOIosCG_3CwY3oD53ETQx",
+  "file": "OBJ/KetchupMustard.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d433d2b93537924349293e06fc94bbd40568c313b54659ec1eb1f87f16c09588",
+  "originalInputSha256": "d433d2b93537924349293e06fc94bbd40568c313b54659ec1eb1f87f16c09588",
+  "dependencies": [
+    {
+      "path": "OBJ/KetchupMustard.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=13ZHvu35GjeRBgiMaCvtom-2S5nq3RYS6",
+      "sha256": "1a9c2159c77816a173901828f97f6873ef4f4219fe6bde87f4499ba9449fc81b",
+      "bytes": 418
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "ketchup-mustard.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.16279200464487076,0.10584799945354462,1.280646026134491]",
+  "convertedAt": "2026-09-05T13:51:31.524Z"
+}

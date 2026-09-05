@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "donut1",
+  "label": "Donut1",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "donut1",
+    "quaternius",
+    "ultimatefood",
+    "torus",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a38b67",
+    "#ab6688",
+    "#a34a3b",
+    "#3f5e8f",
+    "#607945"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "blue",
+    "green"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "donut1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1974,
+    "triangles": 984,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.428817,
+      -0.127477,
+      -0.426064
+    ],
+    "max": [
+      0.430233,
+      0.163906,
+      0.443713
+    ],
+    "size": [
+      0.85905,
+      0.291383,
+      0.869777
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Donut1_Torus"
+  ],
+  "materialNames": [
+    "LightYellow",
+    "PalePink",
+    "Red",
+    "Blue",
+    "Green"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefood.html",
+    "download": "https://drive.google.com/uc?export=download&id=1u5sq2HoXq3cU699g9jw4kr37vii7xdSy",
+    "file": "OBJ/Donut1.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

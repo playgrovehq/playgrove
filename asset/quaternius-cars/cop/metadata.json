@@ -1,0 +1,114 @@
+{
+  "version": 2,
+  "id": "cop",
+  "label": "Cop",
+  "description": "Cars Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "cop",
+    "quaternius",
+    "cars",
+    "cube",
+    "back",
+    "wheels",
+    "cylinder",
+    "front",
+    "left",
+    "wheel",
+    "right",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#c3c3c3",
+    "#2f2f2f",
+    "#707070",
+    "#d1955a",
+    "#1b1b1b",
+    "#d14d45",
+    "#d1d1d1",
+    "#3a6fd1"
+  ],
+  "colorNames": [
+    "beige",
+    "black",
+    "gray",
+    "orange",
+    "red",
+    "white",
+    "blue"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "cop.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 6184,
+    "triangles": 3232,
+    "parts": 14,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.888813,
+      -0.016261,
+      -1.867038
+    ],
+    "max": [
+      0.888813,
+      1.222489,
+      1.863452
+    ],
+    "size": [
+      1.777626,
+      1.23875,
+      3.73049
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Cop_Cube.001",
+    "Cop_BackWheels_Cylinder.001",
+    "Cop_FrontLeftWheel_Cylinder.011",
+    "Cop_FrontRightWheel_Cylinder.012"
+  ],
+  "materialNames": [
+    "White",
+    "Windows",
+    "Grey",
+    "Headlights",
+    "Black",
+    "TailLights",
+    "WhiteLights",
+    "BlueLights"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cars.html",
+    "download": "https://drive.google.com/uc?export=download&id=1acEdJqBQMZn0z3yBGPHbbqtk4Kk4UhNT",
+    "file": "OBJ/Cop.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

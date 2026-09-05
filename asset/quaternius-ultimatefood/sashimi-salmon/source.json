@@ -1,0 +1,30 @@
+{
+  "id": "sashimi-salmon",
+  "label": "Sashimi Salmon",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=19ZjpMk4wFW3jh5b1EweAtGhm2aq4zrYb",
+  "file": "OBJ/Sashimi_Salmon.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "09075266e6680048e77d5291ae48845a5e62ccb82cf12517b059df527dbc287b",
+  "originalInputSha256": "09075266e6680048e77d5291ae48845a5e62ccb82cf12517b059df527dbc287b",
+  "dependencies": [
+    {
+      "path": "OBJ/Sashimi_Salmon.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1uxr8n9ft9FXvNbFcZrIonXh7q5idugqG",
+      "sha256": "bcb6814180b6d81e4861d941af348241a663d3f979156f7a2b0e969a992b04ed",
+      "bytes": 420
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sashimi-salmon.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.597599983215332,0.15175199508666992,0.2715739905834198]",
+  "convertedAt": "2026-09-05T13:51:31.962Z"
+}

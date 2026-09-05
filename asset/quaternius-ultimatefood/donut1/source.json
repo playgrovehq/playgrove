@@ -1,0 +1,30 @@
+{
+  "id": "donut1",
+  "label": "Donut1",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1u5sq2HoXq3cU699g9jw4kr37vii7xdSy",
+  "file": "OBJ/Donut1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "24f3e93d83ef69a2a80fd3878afca3d7338d3801bcd5fccb368d82f7a1efec82",
+  "originalInputSha256": "24f3e93d83ef69a2a80fd3878afca3d7338d3801bcd5fccb368d82f7a1efec82",
+  "dependencies": [
+    {
+      "path": "OBJ/Donut1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1QU4Vq618r2fklYKN4FnGI9RCFbhBXwVx",
+      "sha256": "8100cd2c76c91cf2e460a9aaa2930a41cc157f7404be59c73d8e4d29d96ba9a3",
+      "bytes": 951
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "donut1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.8590500056743622,0.2913829982280731,0.8697770237922668]",
+  "convertedAt": "2026-09-05T13:51:31.065Z"
+}

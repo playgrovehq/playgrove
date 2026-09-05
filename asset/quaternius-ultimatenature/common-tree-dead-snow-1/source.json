@@ -1,0 +1,30 @@
+{
+  "id": "common-tree-dead-snow-1",
+  "label": "CommonTree Dead Snow 1",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1v8P7z-lKVKB22_hNnsbIH_Gmr_Jk5Xz6",
+  "file": "OBJ/CommonTree_Dead_Snow_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f1a0d1c17c201751a23a5ff4d446add626073348876f6753bb2c9d84266f53c3",
+  "originalInputSha256": "f1a0d1c17c201751a23a5ff4d446add626073348876f6753bb2c9d84266f53c3",
+  "dependencies": [
+    {
+      "path": "OBJ/CommonTree_Dead_Snow_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1ceg5eE1E-y6bXuEIALCGF5EJuMGhMIN9",
+      "sha256": "280626677f97fefd2e1bee922a034a4dd364bd5dd85f7650d69bc6864863a898",
+      "bytes": 425
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "common-tree-dead-snow-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.044786959886551,2.2208199836313725,2.119997978210449]",
+  "convertedAt": "2026-09-05T13:59:42.014Z"
+}

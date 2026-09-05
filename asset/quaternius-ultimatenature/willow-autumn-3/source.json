@@ -1,0 +1,30 @@
+{
+  "id": "willow-autumn-3",
+  "label": "Willow Autumn 3",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1wzbi4Nm-K03F6gOyRbx_dy6qq4GB67M-",
+  "file": "OBJ/Willow_Autumn_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cb5a93ffadcb13fe99c7a3460f30bab0bd6dd30b560a1d1045725bb58bac4b7d",
+  "originalInputSha256": "cb5a93ffadcb13fe99c7a3460f30bab0bd6dd30b560a1d1045725bb58bac4b7d",
+  "dependencies": [
+    {
+      "path": "OBJ/Willow_Autumn_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1thc-YtsDnTT-SChOhw5BnGjFfuZosdN6",
+      "sha256": "e9d1676cebb28d0b02ef8f17e9447ba3c86434a8036dd3f4446a5e833723fb09",
+      "bytes": 420
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "willow-autumn-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.31625497341156,2.3484238982200623,1.9813409745693207]",
+  "convertedAt": "2026-09-05T13:59:43.362Z"
+}

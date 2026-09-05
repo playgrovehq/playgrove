@@ -1,0 +1,30 @@
+{
+  "id": "spikes-platform",
+  "label": "Spikes Platform",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hzS2rRf5GNnGaZRGUNittHMcBlmuDF31",
+  "file": "OBJ/Spikes_Platform.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2897cbfa57fce4e7dffc858255df4b99e50be58331c002d99eec61ff1e23c20e",
+  "originalInputSha256": "2897cbfa57fce4e7dffc858255df4b99e50be58331c002d99eec61ff1e23c20e",
+  "dependencies": [
+    {
+      "path": "OBJ/Spikes_Platform.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=10Lf-PkkRqipLkd7k9mYqbd1iNrbqb53A",
+      "sha256": "393840cedeec66240340271bcff25692c5587b84e0d62af84075dbe5c45a46a1",
+      "bytes": 422
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "spikes-platform.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.7024179697036743,1.2713109999895096,1.7024179697036743]",
+  "convertedAt": "2026-09-05T14:03:43.383Z"
+}

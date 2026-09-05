@@ -1,0 +1,30 @@
+{
+  "id": "crown2",
+  "label": "Crown2",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1xNZz5jfhXudEu1rCVJ1kBgTsTxFkQ7qk",
+  "file": "OBJ/Crown2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "34538dae05b78952c187a827a77e76c8280189b68b7225e44413d0ac76ffa1f7",
+  "originalInputSha256": "34538dae05b78952c187a827a77e76c8280189b68b7225e44413d0ac76ffa1f7",
+  "dependencies": [
+    {
+      "path": "OBJ/Crown2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1hbHFxHuPQxR-pvHqnzebcgogq85IFzaC",
+      "sha256": "ef179c2cd273a7fd6f6e33a699828a1ef7f6110cc32a1069a428f76a096ad850",
+      "bytes": 408
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "crown2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.8862419724464417,0.5849910080432892,0.8862419724464417]",
+  "convertedAt": "2026-09-05T13:54:21.585Z"
+}

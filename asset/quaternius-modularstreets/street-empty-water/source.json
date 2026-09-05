@@ -1,0 +1,30 @@
+{
+  "id": "street-empty-water",
+  "label": "Street Empty Water",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_gx7EI_CGUQmXKnWpRhdeKnGlrWBjKxw",
+  "file": "OBJ/Street_Empty_Water.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ffe370cffa22fcafd84473d19430ac929608bcf9d64707d0069e4831f1ec70fc",
+  "originalInputSha256": "ffe370cffa22fcafd84473d19430ac929608bcf9d64707d0069e4831f1ec70fc",
+  "dependencies": [
+    {
+      "path": "OBJ/Street_Empty_Water.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Gw8AbQm2rNiQEK1vkCmkuS_w1HVHDqtK",
+      "sha256": "dcebcd86e6eebb62d18334661b9ff5e552244a7374f81cbdcad5a0f4da5e866f",
+      "bytes": 245
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "street-empty-water.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2,0.12090900167822838,2.0002410411834717]",
+  "convertedAt": "2026-09-05T14:06:13.803Z"
+}

@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "water-tower",
+  "label": "WaterTower",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "water",
+    "tower",
+    "quaternius",
+    "farmbuildings",
+    "cube",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#824e36",
+    "#a0a0a0",
+    "#747474"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "water-tower.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3597,
+    "triangles": 2507,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.19311,
+      -0.071568,
+      -1.244743
+    ],
+    "max": [
+      1.339141,
+      8.357031,
+      1.244743
+    ],
+    "size": [
+      2.532251,
+      8.428599,
+      2.489486
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "WaterTower_Cube.006"
+  ],
+  "materialNames": [
+    "Brown",
+    "Grey",
+    "DarkGrey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/farmbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=17UrBt3T5Sq9FUfhsojfWmm_FylEHDXfo",
+    "file": "OBJ/WaterTower.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

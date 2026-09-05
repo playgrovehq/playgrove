@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "palm-tree-1",
+  "label": "PalmTree 1",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "palm",
+    "tree",
+    "quaternius",
+    "ultimatenature",
+    "cylinder",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#62433e",
+    "#4b623e",
+    "#3a4c30"
+  ],
+  "colorNames": [
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "palm-tree-1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3600,
+    "triangles": 1772,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.267573,
+      -0.02376,
+      -1.074887
+    ],
+    "max": [
+      1.609337,
+      4.447637,
+      1.534104
+    ],
+    "size": [
+      2.87691,
+      4.471397,
+      2.608991
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "PalmTree_1_Cylinder.041"
+  ],
+  "materialNames": [
+    "Wood",
+    "Green",
+    "DarkGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=1HA__5rz6I5m8ZC0HaL8JSELUR4bTmS4F",
+    "file": "OBJ/PalmTree_1.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

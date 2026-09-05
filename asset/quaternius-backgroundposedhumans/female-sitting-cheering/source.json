@@ -1,0 +1,30 @@
+{
+  "id": "female-sitting-cheering",
+  "label": "Female Sitting Cheering",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "pack": "quaternius-backgroundposedhumans",
+  "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+  "download": "https://drive.google.com/uc?export=download&id=1QV2hODdvt1Ta0kCwfd0Vw7Z6vt6Myhuk",
+  "file": "Female/Female Poses/OBJ/Female_Sitting_Cheering.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "07f1f51623e5c7115818142af1b18ae5752a78b3700562a66a26126c606bc9a0",
+  "originalInputSha256": "07f1f51623e5c7115818142af1b18ae5752a78b3700562a66a26126c606bc9a0",
+  "dependencies": [
+    {
+      "path": "Female/Female Poses/OBJ/Female_Sitting_Cheering.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1X8mNUyynTJL1aJoATBJVss0hiYxdV0k8",
+      "sha256": "5da1509195935014ee88136610f13a86256f446ce2dc4359642335db4dd485f1",
+      "bytes": 783
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "female-sitting-cheering.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.0766159892082214,3.2625870211049914,1.468680053949356]",
+  "convertedAt": "2026-09-05T14:05:32.684Z"
+}

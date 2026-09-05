@@ -1,0 +1,30 @@
+{
+  "id": "waffle",
+  "label": "Waffle",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1J31HDlqoBFkvtKHXVz9TTDLTPVOs9Rxb",
+  "file": "OBJ/Waffle.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1c779cb318a477aaf986cc3b47582876838f059e9b5194e4b42c93ef9566108c",
+  "originalInputSha256": "1c779cb318a477aaf986cc3b47582876838f059e9b5194e4b42c93ef9566108c",
+  "dependencies": [
+    {
+      "path": "OBJ/Waffle.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1assfUF3JatlJK6QziBt39EPoaHqV6_Ed",
+      "sha256": "562f497505ca4f4aa31fae613178b0d2a8bc4740409bd79ba4de8b72870e0983",
+      "bytes": 239
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "waffle.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.1340019702911377,0.2322400063276291,1.5291889905929565]",
+  "convertedAt": "2026-09-05T13:51:32.279Z"
+}

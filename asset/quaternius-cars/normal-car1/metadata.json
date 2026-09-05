@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "id": "normal-car1",
+  "label": "NormalCar1",
+  "description": "Cars Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "normal",
+    "car1",
+    "quaternius",
+    "cars",
+    "cube",
+    "back",
+    "wheels",
+    "front",
+    "left",
+    "wheel",
+    "right",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#90b0d1",
+    "#2f2f2f",
+    "#1b1b1b",
+    "#707070",
+    "#d1955a",
+    "#d14d45"
+  ],
+  "colorNames": [
+    "cyan",
+    "black",
+    "gray",
+    "orange",
+    "red"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "normal-car1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 5662,
+    "triangles": 2954,
+    "parts": 12,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.90368,
+      0.00603,
+      -2.107265
+    ],
+    "max": [
+      0.90368,
+      1.182609,
+      2.113452
+    ],
+    "size": [
+      1.80736,
+      1.176579,
+      4.220717
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "NormalCar1_Cube.012",
+    "NormalCar1_BackWheels_Cube.011",
+    "NormalCar1_FrontLeftWheel_Cube.007",
+    "NormalCar1_FrontRightWheel_Cube.008"
+  ],
+  "materialNames": [
+    "Blue",
+    "Windows",
+    "Black",
+    "Grey",
+    "Headlights",
+    "TailLights"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cars.html",
+    "download": "https://drive.google.com/uc?export=download&id=1dfatafHMRRxI3WE5srluI4Y4WD72pCD6",
+    "file": "OBJ/NormalCar1.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

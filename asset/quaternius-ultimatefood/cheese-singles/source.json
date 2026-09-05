@@ -1,0 +1,30 @@
+{
+  "id": "cheese-singles",
+  "label": "Cheese Singles",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1YhkT55N8bZmC-1gnSgK7_pW_4u5TLxqj",
+  "file": "OBJ/Cheese_Singles.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1baedb91e8267882963f2dc103c37e2d74ac293b49e608cbfdd4d1f727638a24",
+  "originalInputSha256": "1baedb91e8267882963f2dc103c37e2d74ac293b49e608cbfdd4d1f727638a24",
+  "dependencies": [
+    {
+      "path": "OBJ/Cheese_Singles.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1J45ROjxDoF0ZM2C9AYQZLA0MPxSTgMvG",
+      "sha256": "804cc906d2b30b61ec6ad5f8c928bc24d0b28b3218ad634e2146192232b23c0b",
+      "bytes": 242
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cheese-singles.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.0306600332260132,0.028388999169692397,0.975051999092102]",
+  "convertedAt": "2026-09-05T13:51:30.831Z"
+}

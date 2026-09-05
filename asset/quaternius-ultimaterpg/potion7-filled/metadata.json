@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "potion7-filled",
+  "label": "Potion7 Filled",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "potion7",
+    "filled",
+    "quaternius",
+    "ultimaterpg",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1",
+    "#62d1b3",
+    "#5d4539"
+  ],
+  "colorNames": [
+    "white",
+    "cyan",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "potion7-filled.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 853,
+    "triangles": 1662,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.351729,
+      -0.006736,
+      -0.351729
+    ],
+    "max": [
+      0.351729,
+      1.503501,
+      0.351729
+    ],
+    "size": [
+      0.703458,
+      1.510237,
+      0.703458
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Potion7_Filled_Cube.058"
+  ],
+  "materialNames": [
+    "Glass",
+    "Liquid_Yellow",
+    "Brown"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimaterpg.html",
+    "download": "https://drive.google.com/uc?export=download&id=1aHFxfKSaQKr3s7rhD0gD7oIXeoqYmgK1",
+    "file": "OBJ/Potion7_Filled.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

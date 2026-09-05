@@ -1,0 +1,30 @@
+{
+  "id": "gold-ingots",
+  "label": "Gold Ingots",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1TAlkcEXbOs8mgmHdANRPsdFHAM5OtcOP",
+  "file": "OBJ/Gold_Ingots.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7fe67f7cd7b9ba0ccf256a4850d8b78fce8fc3bd4afd093934d635ceddb54d3a",
+  "originalInputSha256": "7fe67f7cd7b9ba0ccf256a4850d8b78fce8fc3bd4afd093934d635ceddb54d3a",
+  "dependencies": [
+    {
+      "path": "OBJ/Gold_Ingots.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1aURE6laNU4Oez_NhZYLCT7AqelELxZyP",
+      "sha256": "475507b2df575c0da08f89f232a4251a9edab35372f81262af1c427e1079b99a",
+      "bytes": 237
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "gold-ingots.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.7200459837913513,0.45169400062877685,0.6072059869766235]",
+  "convertedAt": "2026-09-05T13:54:21.849Z"
+}

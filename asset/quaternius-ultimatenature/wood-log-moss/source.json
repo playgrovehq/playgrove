@@ -1,0 +1,30 @@
+{
+  "id": "wood-log-moss",
+  "label": "WoodLog Moss",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=14qx2bDTko8scbJ1it3QRprUGwQ9GQKU9",
+  "file": "OBJ/WoodLog_Moss.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4db59b4db0754be49329ca229ac247c6394fb26d17f0bd64a795e7af7404f048",
+  "originalInputSha256": "4db59b4db0754be49329ca229ac247c6394fb26d17f0bd64a795e7af7404f048",
+  "dependencies": [
+    {
+      "path": "OBJ/WoodLog_Moss.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=13vC6PJI6OTx2LDZnAB0cWlwoEzRl7TK5",
+      "sha256": "d743a1905cc78d78de2dded0f5cf529a005bd062d41dd2d36d36dd50c7c93061",
+      "bytes": 971
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "wood-log-moss.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.8966360092163086,0.6883230276871473,2.670295000076294]",
+  "convertedAt": "2026-09-05T13:59:43.714Z"
+}

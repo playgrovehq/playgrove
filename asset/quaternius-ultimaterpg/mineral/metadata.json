@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "mineral",
+  "label": "Mineral",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "mineral",
+    "quaternius",
+    "ultimaterpg",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#414141",
+    "#d142b1"
+  ],
+  "colorNames": [
+    "black",
+    "purple"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "mineral.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1846,
+    "triangles": 896,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.285114,
+      -0.111244,
+      -0.277421
+    ],
+    "max": [
+      0.30247,
+      0.325474,
+      0.286953
+    ],
+    "size": [
+      0.587584,
+      0.436718,
+      0.564374
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Mineral_Cube.024"
+  ],
+  "materialNames": [
+    "Grey",
+    "Pink"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimaterpg.html",
+    "download": "https://drive.google.com/uc?export=download&id=195AxggeXXY3kepwX7WwNMATe8HVAkrrk",
+    "file": "OBJ/Mineral.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

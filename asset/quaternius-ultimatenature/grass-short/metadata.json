@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "grass-short",
+  "label": "Grass Short",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "grass",
+    "short",
+    "quaternius",
+    "ultimatenature",
+    "plane",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#4b623e"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "grass-short.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 408,
+    "triangles": 192,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.191003,
+      -0.005342,
+      -0.256934
+    ],
+    "max": [
+      0.125207,
+      0.399234,
+      0.184802
+    ],
+    "size": [
+      0.31621,
+      0.404576,
+      0.441736
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Grass_Short_Plane.002"
+  ],
+  "materialNames": [
+    "Green"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=1SnhH-XN0MDBdD7Ga9yGkW0SEaA0XQieh",
+    "file": "OBJ/Grass_Short.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

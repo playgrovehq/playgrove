@@ -1,0 +1,30 @@
+{
+  "id": "spaceship3",
+  "label": "Spaceship3",
+  "description": "Spaceships Pack by Quaternius.",
+  "pack": "quaternius-spaceships",
+  "listing": "https://quaternius.com/packs/spaceships.html",
+  "download": "https://drive.google.com/uc?export=download&id=1sXdpcVjeIia1lOU0xiSvF63XseMY7Fnv",
+  "file": "OBJ/Spaceship3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a7c4abfc5259a57bbfa31a89b83a8c0482da85ee9da3fb7366ec671cec38f40f",
+  "originalInputSha256": "a7c4abfc5259a57bbfa31a89b83a8c0482da85ee9da3fb7366ec671cec38f40f",
+  "dependencies": [
+    {
+      "path": "OBJ/Spaceship3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1PU48TcrSguK-vO-d7haip986tn9EdVG_",
+      "sha256": "77f66203ae78c264acedfc3ebef29f059ee6999bbd4580abfb11e13e57d1a80b",
+      "bytes": 416
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "spaceship3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[10.382377624511719,1.8587189465761185,9.209404230117798]",
+  "convertedAt": "2026-09-05T14:06:35.851Z"
+}

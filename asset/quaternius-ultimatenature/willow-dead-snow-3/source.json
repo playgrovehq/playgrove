@@ -1,0 +1,30 @@
+{
+  "id": "willow-dead-snow-3",
+  "label": "Willow Dead Snow 3",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=18fXzGIzcpelJkos1ZpW8ifOKlGMNw7GC",
+  "file": "OBJ/Willow_Dead_Snow_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "51d645035abb27809e3dc1b2a85a9002db0d4be33954ef003f9dfe5a8036d3a3",
+  "originalInputSha256": "51d645035abb27809e3dc1b2a85a9002db0d4be33954ef003f9dfe5a8036d3a3",
+  "dependencies": [
+    {
+      "path": "OBJ/Willow_Dead_Snow_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1WbhP5kTKLc2J1AN3QlvCUtoI-LyOalkv",
+      "sha256": "32f2212d0e63d4aa5c90121e23842509fcdd0557ab80ebabc04c82154e903daf",
+      "bytes": 421
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "willow-dead-snow-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.31090499460697174,1.9057809710502625,1.5778059661388397]",
+  "convertedAt": "2026-09-05T13:59:43.548Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "streetlight-single",
+  "label": "Streetlight Single",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1T-lxIMpC24ZSNJbPGeOE-rNnAIC4znzY",
+  "file": "OBJ/Streetlight_Single.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b4069cbc1f2b68aacb5847fb04308720ffec2e87d9623d6eea670fe4ad01c5e1",
+  "originalInputSha256": "b4069cbc1f2b68aacb5847fb04308720ffec2e87d9623d6eea670fe4ad01c5e1",
+  "dependencies": [
+    {
+      "path": "OBJ/Streetlight_Single.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1gJhlmtqNN96X51Qn7K1uItMovt_VykbY",
+      "sha256": "fe742d11f79d43502a4ea32ffbd31869eb92d8f6047121d2201147f7ce1fe70b",
+      "bytes": 601
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "streetlight-single.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.13171200454235077,1.0903809595720304,0.13171200454235077]",
+  "convertedAt": "2026-09-05T14:06:13.861Z"
+}

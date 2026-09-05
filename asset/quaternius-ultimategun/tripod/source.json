@@ -1,0 +1,30 @@
+{
+  "id": "tripod",
+  "label": "Tripod",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1jC2OqDlZoN9irYrymuD3o3s1YP4b_7Kt",
+  "file": "OBJ/Accessories/Tripod.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8bda089d611f2867c50d4ba5a617baa18f41027080f16fc02540b80501a09755",
+  "originalInputSha256": "8bda089d611f2867c50d4ba5a617baa18f41027080f16fc02540b80501a09755",
+  "dependencies": [
+    {
+      "path": "OBJ/Accessories/Tripod.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1QBI_dYhqIu1ImoYDfHsG1waIsxQvS8sk",
+      "sha256": "22c91e2d8d30534c30669ccb4532fd7b28caab16aaf1374c62473716eb1a1db0",
+      "bytes": 415
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tripod.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.3105589747428894,1.1808939799666405,1.2162219882011414]",
+  "convertedAt": "2026-09-05T13:55:49.854Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "steak",
+  "label": "Steak",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=13NVNAPXgyY5RtthmIbXEcAHfvQuXkRai",
+  "file": "OBJ/Steak.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1fd25bff843d2a07146c0e77283d8cc1fea4bb04c764fb1a423123e4e8af2e20",
+  "originalInputSha256": "1fd25bff843d2a07146c0e77283d8cc1fea4bb04c764fb1a423123e4e8af2e20",
+  "dependencies": [
+    {
+      "path": "OBJ/Steak.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1fN0RSuEyddqNazDNQ2b_gXEXpyvQ5e0M",
+      "sha256": "08cf08dca55723c234d303f518d2dba969400672e5ce692398f431b75b3fdbe3",
+      "bytes": 412
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "steak.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.3199170231819153,0.33967000246047974,1.912660002708435]",
+  "convertedAt": "2026-09-05T13:51:32.080Z"
+}

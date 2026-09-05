@@ -1,0 +1,30 @@
+{
+  "id": "ring4",
+  "label": "Ring4",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1WbTK1svXOZhU1YrasGH6LRvFOtIXnzGB",
+  "file": "OBJ/Ring4.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f4332fc0074f789cf5364d9be4e212d2a7ee364dcf0271b78fdf0bf4bc8fbc0d",
+  "originalInputSha256": "f4332fc0074f789cf5364d9be4e212d2a7ee364dcf0271b78fdf0bf4bc8fbc0d",
+  "dependencies": [
+    {
+      "path": "OBJ/Ring4.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1lyjHQnKkQyjxaqccjLkrEA-o1ijJpZZD",
+      "sha256": "f5cca2d1a80962583ee862cbba1a05b29fc4740fd45e39d610168a4ee5661039",
+      "bytes": 410
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "ring4.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6634899973869324,0.77190101146698,0.12797999382019043]",
+  "convertedAt": "2026-09-05T13:54:22.600Z"
+}

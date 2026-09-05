@@ -1,0 +1,30 @@
+{
+  "id": "tomato",
+  "label": "Tomato",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1m_q2EMN23G-2czWOssEQNT774SZMGQIl",
+  "file": "OBJ/Tomato.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "001a9652feb513c673c18438e6d637a6bf714b63a0ec41e01c0f51bbae86c3e4",
+  "originalInputSha256": "001a9652feb513c673c18438e6d637a6bf714b63a0ec41e01c0f51bbae86c3e4",
+  "dependencies": [
+    {
+      "path": "OBJ/Tomato.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1-S7xUgRWwtnAZBl5_sAEG1K1ye4yEuVX",
+      "sha256": "aa45bab31ebca7622fdf3e5acbbaaa79a2b181a43f2226340db99bb08662d223",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tomato.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7524809837341309,0.6263780146837234,0.7524800002574921]",
+  "convertedAt": "2026-09-05T13:51:32.222Z"
+}

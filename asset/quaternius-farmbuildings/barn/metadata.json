@@ -1,0 +1,100 @@
+{
+  "version": 2,
+  "id": "barn",
+  "label": "Barn",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "barn",
+    "quaternius",
+    "farmbuildings",
+    "cube",
+    "door",
+    "door2",
+    "window",
+    "window2",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#7c3a32",
+    "#d1d1d1",
+    "#8f433a",
+    "#4f4f4f"
+  ],
+  "colorNames": [
+    "brown",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "barn.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4175,
+    "triangles": 2910,
+    "parts": 14,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -3.862378,
+      0.001977,
+      -3.989264
+    ],
+    "max": [
+      3.864516,
+      6.010615,
+      4.233183
+    ],
+    "size": [
+      7.726894,
+      6.008638,
+      8.222447
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Barn_Cube.005",
+    "Barn_Door_Cube.002",
+    "Barn_Door2_Cube.007",
+    "Barn_Window_Cube",
+    "Barn_Window2_Cube.014"
+  ],
+  "materialNames": [
+    "DarkRed",
+    "White",
+    "LightRed",
+    "RoofBlack"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/farmbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1c18wNK6jsQNnLlOtbHsQE2ZU025jOJZC",
+    "file": "OBJ/Barn.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "bipod",
+  "label": "Bipod",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "bipod",
+    "quaternius",
+    "ultimategun",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#373736",
+    "#28292a"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bipod.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 904,
+    "triangles": 476,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.079641,
+      -1.243098,
+      -0.608111
+    ],
+    "max": [
+      0.065635,
+      0.088375,
+      0.608111
+    ],
+    "size": [
+      0.145276,
+      1.331473,
+      1.216222
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Bipod_Cube.049"
+  ],
+  "materialNames": [
+    "DarkMetal",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimategun.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ISacotpZLaFCG7y4ygxrrcReVfVuSXyP",
+    "file": "OBJ/Accessories/Bipod.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

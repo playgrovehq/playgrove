@@ -1,0 +1,30 @@
+{
+  "id": "popsicle-multiple",
+  "label": "Popsicle Multiple",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=17spv_1rsLO-sV_QnTvOWcp_6Hun2w7fr",
+  "file": "OBJ/Popsicle_Multiple.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8fc3334b9741cd00980ea086f8e69b7879274833409ea8744957aac0882f9e99",
+  "originalInputSha256": "8fc3334b9741cd00980ea086f8e69b7879274833409ea8744957aac0882f9e99",
+  "dependencies": [
+    {
+      "path": "OBJ/Popsicle_Multiple.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1r3VZj9n90xaTmpnCeGs40n8I6ZKPcHSW",
+      "sha256": "a9f8bc79276a2ece0b9dbc7fc0d577e9bda0d9fbe1d9924c1f91aba40b92208c",
+      "bytes": 785
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "popsicle-multiple.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.29110199213027954,0.9900040030479431,0.07984399795532227]",
+  "convertedAt": "2026-09-05T13:51:31.912Z"
+}

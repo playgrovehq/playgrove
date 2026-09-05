@@ -1,0 +1,30 @@
+{
+  "id": "lever",
+  "label": "Lever",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1vkYXFQ9aFuL5-RrqvrPNYInN6jaFXBSF",
+  "file": "OBJ/Lever.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c86371aa0adc5ec65d0289d3bce7afe698a0eb3d0698579654d878e4718b37e6",
+  "originalInputSha256": "c86371aa0adc5ec65d0289d3bce7afe698a0eb3d0698579654d878e4718b37e6",
+  "dependencies": [
+    {
+      "path": "OBJ/Lever.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1jat0W1jDtrXeqA4F5DzjM9oqCUF5qPei",
+      "sha256": "d2c209bed60d8d2c3e8a1a6b8c1be1d9ce9019e07037cb8bba7e32cef2bf5a3a",
+      "bytes": 413
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "lever.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.8407840132713318,1.1902730464935303,0.263945996761322]",
+  "convertedAt": "2026-09-05T14:03:42.952Z"
+}

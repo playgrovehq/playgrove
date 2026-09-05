@@ -1,0 +1,30 @@
+{
+  "id": "hotdog",
+  "label": "Hotdog",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1V05NMgRl15pYRAjzSeVNgXdMyP6WMmWz",
+  "file": "OBJ/Hotdog.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3794a2b8531f0af79c6f0430bfb26b6e8dcd0823ba3b00d9bb6642591cf03494",
+  "originalInputSha256": "3794a2b8531f0af79c6f0430bfb26b6e8dcd0823ba3b00d9bb6642591cf03494",
+  "dependencies": [
+    {
+      "path": "OBJ/Hotdog.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1EzwjimiNy5afEIQoenTUjzHBtg-YeLFR",
+      "sha256": "ad0e847057a360dbebe75217f77efded1418737ba91efa42f2e0291020648c97",
+      "bytes": 773
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "hotdog.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.7852920293807983,0.4093710035085678,1.6618940234184265]",
+  "convertedAt": "2026-09-05T13:51:31.335Z"
+}

@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "burger-patty-burned",
+  "label": "BurgerPatty Burned",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "category": "food",
+  "tags": [
+    "burger",
+    "patty",
+    "burned",
+    "quaternius",
+    "ultimatefood",
+    "cube",
+    "food",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2d2d2d"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "burger-patty-burned.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 256,
+    "triangles": 128,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.712733,
+      -0.168184,
+      -0.712733
+    ],
+    "max": [
+      0.712733,
+      0.168184,
+      0.712733
+    ],
+    "size": [
+      1.425466,
+      0.336368,
+      1.425466
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "BurgerPatty_Burned_Cube.045"
+  ],
+  "materialNames": [
+    "DarkGrey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefood.html",
+    "download": "https://drive.google.com/uc?export=download&id=1xJvdXtdRF2XexMQTdwdK0dG6ADHJNK4d",
+    "file": "OBJ/BurgerPatty_Burned.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

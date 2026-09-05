@@ -1,0 +1,30 @@
+{
+  "id": "silencer-long",
+  "label": "Silencer long",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hsMIvIhs6CvsDOWJlN2fPIe2uRA5q06T",
+  "file": "OBJ/Accessories/Silencer_long.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "61aae846a68c0715b7eedf04c697bdf0be17a39e1724261eec44485f948f3e54",
+  "originalInputSha256": "61aae846a68c0715b7eedf04c697bdf0be17a39e1724261eec44485f948f3e54",
+  "dependencies": [
+    {
+      "path": "OBJ/Accessories/Silencer_long.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1cf0VR0Bejc1aiBU9xh0fnyrkI9JX84fW",
+      "sha256": "3558a7aae2df435c879652b920f1987117d9dc2b7033d5652caa21f74bb18ecb",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "silencer-long.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.6600539535284042,0.31518998742103577,0.3314099907875061]",
+  "convertedAt": "2026-09-05T13:55:49.803Z"
+}

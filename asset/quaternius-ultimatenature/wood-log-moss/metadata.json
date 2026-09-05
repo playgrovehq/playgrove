@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "wood-log-moss",
+  "label": "WoodLog Moss",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "wood",
+    "log",
+    "moss",
+    "quaternius",
+    "ultimatenature",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#62433e",
+    "#4b623e",
+    "#62544f",
+    "#958078",
+    "#3a4c30"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "wood-log-moss.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1266,
+    "triangles": 614,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.566312,
+      -0.001382,
+      -1.498198
+    ],
+    "max": [
+      0.330324,
+      0.686941,
+      1.172097
+    ],
+    "size": [
+      0.896636,
+      0.688323,
+      2.670295
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "WoodLog_Moss_Cylinder.011"
+  ],
+  "materialNames": [
+    "Wood",
+    "Green",
+    "Mushroom_Top",
+    "Mushroom_Bottom",
+    "DarkGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=14qx2bDTko8scbJ1it3QRprUGwQ9GQKU9",
+    "file": "OBJ/WoodLog_Moss.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

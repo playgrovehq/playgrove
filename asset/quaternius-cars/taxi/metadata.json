@@ -1,0 +1,107 @@
+{
+  "version": 2,
+  "id": "taxi",
+  "label": "Taxi",
+  "description": "Cars Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "taxi",
+    "quaternius",
+    "cars",
+    "cube",
+    "back",
+    "wheels",
+    "front",
+    "left",
+    "wheel",
+    "right",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1b63c",
+    "#2f2f2f",
+    "#1b1b1b",
+    "#707070",
+    "#d1955a",
+    "#d14d45"
+  ],
+  "colorNames": [
+    "yellow",
+    "black",
+    "gray",
+    "orange",
+    "red"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "taxi.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 6257,
+    "triangles": 3270,
+    "parts": 12,
+    "discardedDegenerate": 8
+  },
+  "bounds": {
+    "min": [
+      -0.904123,
+      -0.010888,
+      -2.006755
+    ],
+    "max": [
+      0.903237,
+      1.299577,
+      2.213962
+    ],
+    "size": [
+      1.80736,
+      1.310465,
+      4.220717
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Taxi_Cube.009",
+    "Taxi_BackWheels_Cube.010",
+    "Taxi_FrontLeftWheel_Cube.013",
+    "Taxi_FrontRightWheel_Cube.014"
+  ],
+  "materialNames": [
+    "Yellow",
+    "Windows",
+    "Black",
+    "Grey",
+    "Headlights",
+    "TailLights"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cars.html",
+    "download": "https://drive.google.com/uc?export=download&id=1UMriCC_JWsDfpTh5tBjQdhAj9_lJeuR2",
+    "file": "OBJ/Taxi.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

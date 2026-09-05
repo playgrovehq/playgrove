@@ -1,0 +1,30 @@
+{
+  "id": "hammer-small",
+  "label": "Hammer Small",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_USpUK_y4OGZFV8cqzgg4Qs6Br9K40nk",
+  "file": "OBJ/Hammer_Small.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "712a18108823221851cad428eed84c6d2fab812605356527a092ac9369dc300a",
+  "originalInputSha256": "712a18108823221851cad428eed84c6d2fab812605356527a092ac9369dc300a",
+  "dependencies": [
+    {
+      "path": "OBJ/Hammer_Small.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Kxvs8wXkfWBFGIVdpJWMNcKisC5M2WTs",
+      "sha256": "abc14d2fe50249e12ae4bdb85e0766ec661f9754d49f1bc1ca672e481d3ccd20",
+      "bytes": 785
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "hammer-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.4866340160369873,4.329723954200745,0.8057079911231995]",
+  "convertedAt": "2026-09-05T14:04:47.873Z"
+}

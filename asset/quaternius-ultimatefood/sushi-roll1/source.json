@@ -1,0 +1,30 @@
+{
+  "id": "sushi-roll1",
+  "label": "Sushi Roll1",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1StAM1dNBiVTSut5xVHh27tS1UL43S_za",
+  "file": "OBJ/Sushi_Roll1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ebf8bd7510e2eba770051d9ec6063b17537eac058bffb633b4ac0774725702d7",
+  "originalInputSha256": "ebf8bd7510e2eba770051d9ec6063b17537eac058bffb633b4ac0774725702d7",
+  "dependencies": [
+    {
+      "path": "OBJ/Sushi_Roll1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1sFi4MAy6b-VZKYRNfQTY3FhsUyyZa8IR",
+      "sha256": "0aab6aa8f0e7fbdf71e079e87e5fc9d62db5447710ea34f3ac8df91685352f67",
+      "bytes": 598
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sushi-roll1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.29227200150489807,0.1543480008840561,0.29227200150489807]",
+  "convertedAt": "2026-09-05T13:51:32.167Z"
+}

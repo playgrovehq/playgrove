@@ -1,0 +1,1792 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T14:06:13.977Z",
+  "assets": [
+    {
+      "id": "sign-no-parking",
+      "label": "Sign NoParking",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "sign-no-parking/thumbnail.png",
+      "model": "sign-no-parking/sign-no-parking.ts",
+      "package": "sign-no-parking",
+      "descriptor": "sign-no-parking/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1lnv8cfYkdkiXHlCkm7a7UZ94NsnvbMBh",
+        "file": "OBJ/Sign_NoParking.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sign",
+        "no",
+        "parking",
+        "quaternius",
+        "modularstreets",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#989898",
+        "#d1d1d1",
+        "#d13328",
+        "#2c2c2c"
+      ],
+      "colorNames": [
+        "gray",
+        "white",
+        "red",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 364,
+        "triangles": 244,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.007605,
+          0.000039,
+          -0.069893
+        ],
+        "max": [
+          0.01928,
+          0.538875,
+          0.069501
+        ],
+        "size": [
+          0.026885,
+          0.538836,
+          0.139394
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sign-stop",
+      "label": "Sign Stop",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "sign-stop/thumbnail.png",
+      "model": "sign-stop/sign-stop.ts",
+      "package": "sign-stop",
+      "descriptor": "sign-stop/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1bLWfiXncg3nQtP1janHKZaViW-4ftTao",
+        "file": "OBJ/Sign_Stop.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sign",
+        "stop",
+        "quaternius",
+        "modularstreets",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#989898",
+        "#d1d1d1",
+        "#d13328"
+      ],
+      "colorNames": [
+        "gray",
+        "white",
+        "red"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 474,
+        "triangles": 296,
+        "parts": 3,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.007605,
+          0.000039,
+          -0.069213
+        ],
+        "max": [
+          0.015666,
+          0.537748,
+          0.069213
+        ],
+        "size": [
+          0.023271,
+          0.537709,
+          0.138426
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sign-triangle",
+      "label": "Sign Triangle",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "sign-triangle/thumbnail.png",
+      "model": "sign-triangle/sign-triangle.ts",
+      "package": "sign-triangle",
+      "descriptor": "sign-triangle/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1af-FHKALqyVGl9gTTQbfixpwGJxkGvHn",
+        "file": "OBJ/Sign_Triangle.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sign",
+        "triangle",
+        "quaternius",
+        "modularstreets",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#989898",
+        "#d1d1d1",
+        "#d1cc32"
+      ],
+      "colorNames": [
+        "gray",
+        "white",
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 102,
+        "triangles": 60,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.007605,
+          0.000039,
+          -0.07749
+        ],
+        "max": [
+          0.026929,
+          0.534466,
+          0.077448
+        ],
+        "size": [
+          0.034534,
+          0.534427,
+          0.154938
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-3-way-2",
+      "label": "Street 3Way 2",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-3-way-2/thumbnail.png",
+      "model": "street-3-way-2/street-3-way-2.ts",
+      "package": "street-3-way-2",
+      "descriptor": "street-3-way-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hOSouEN5cTDdjhN9g9YZ4AhPwD998dxn",
+        "file": "OBJ/Street_3Way_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "way",
+        "3way",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 244,
+        "triangles": 185,
+        "parts": 3,
+        "discardedDegenerate": 3
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -1.000032
+        ],
+        "max": [
+          1,
+          0.15,
+          1.000032
+        ],
+        "size": [
+          2,
+          0.25,
+          2.000064
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-4-way-2",
+      "label": "Street 4Way 2",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-4-way-2/thumbnail.png",
+      "model": "street-4-way-2/street-4-way-2.ts",
+      "package": "street-4-way-2",
+      "descriptor": "street-4-way-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1DSDt87Oi-287R5ob8W6BtGxAkxETqRpW",
+        "file": "OBJ/Street_4Way_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "way",
+        "4way",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 304,
+        "triangles": 224,
+        "parts": 3,
+        "discardedDegenerate": 8
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -1.000032
+        ],
+        "max": [
+          1,
+          0.15,
+          1.000032
+        ],
+        "size": [
+          2,
+          0.25,
+          2.000064
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-bridge",
+      "label": "Street Bridge",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-bridge/thumbnail.png",
+      "model": "street-bridge/street-bridge.ts",
+      "package": "street-bridge",
+      "descriptor": "street-bridge/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1by8F-c9O55doEXvmSKVkICVc88J8hxAf",
+        "file": "OBJ/Street_Bridge.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "bridge",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1",
+        "#cbbba8"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1436,
+        "triangles": 1412,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -0.999999
+        ],
+        "max": [
+          1,
+          0.665887,
+          1.000001
+        ],
+        "size": [
+          2,
+          0.765887,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-bridge-ramp",
+      "label": "Street Bridge Ramp",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-bridge-ramp/thumbnail.png",
+      "model": "street-bridge-ramp/street-bridge-ramp.ts",
+      "package": "street-bridge-ramp",
+      "descriptor": "street-bridge-ramp/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1tG7QfbGMboDBXhw_J1lB2BWQDWPOqQO8",
+        "file": "OBJ/Street_Bridge_Ramp.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "bridge",
+        "ramp",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1",
+        "#cbbba8"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1732,
+        "triangles": 1618,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.000001,
+          -0.1,
+          -1
+        ],
+        "max": [
+          0.999997,
+          0.663782,
+          1
+        ],
+        "size": [
+          1.999998,
+          0.763782,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-bridge-underpass",
+      "label": "Street Bridge Underpass",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-bridge-underpass/thumbnail.png",
+      "model": "street-bridge-underpass/street-bridge-underpass.ts",
+      "package": "street-bridge-underpass",
+      "descriptor": "street-bridge-underpass/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1_Kds3lmALPrIVkFPhm79TT7_HZMTG596",
+        "file": "OBJ/Street_Bridge_Underpass.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "bridge",
+        "underpass",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1",
+        "#cbbba8"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1184,
+        "triangles": 1082,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -1.000002,
+          -0.1,
+          -0.999999
+        ],
+        "max": [
+          1.000002,
+          0.665887,
+          1.000043
+        ],
+        "size": [
+          2.000004,
+          0.765887,
+          2.000042
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-bridge-water",
+      "label": "Street Bridge Water",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-bridge-water/thumbnail.png",
+      "model": "street-bridge-water/street-bridge-water.ts",
+      "package": "street-bridge-water",
+      "descriptor": "street-bridge-water/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Fx2sAGnHhAXs-X8zhXbdCuNjq7eGwo6J",
+        "file": "OBJ/Street_Bridge_Water.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "bridge",
+        "water",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1",
+        "#cbbba8",
+        "#7badd1"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white",
+        "beige",
+        "cyan"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1436,
+        "triangles": 1412,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -0.999999
+        ],
+        "max": [
+          1,
+          0.665887,
+          1.000001
+        ],
+        "size": [
+          2,
+          0.765887,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-bridge-water-ramp",
+      "label": "Street Bridge WaterRamp",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-bridge-water-ramp/thumbnail.png",
+      "model": "street-bridge-water-ramp/street-bridge-water-ramp.ts",
+      "package": "street-bridge-water-ramp",
+      "descriptor": "street-bridge-water-ramp/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1_cK3UnRUtAdJSnrLCxui7h3tpR1omO_0",
+        "file": "OBJ/Street_Bridge_WaterRamp.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "bridge",
+        "water",
+        "ramp",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1",
+        "#cbbba8",
+        "#7badd1"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white",
+        "beige",
+        "cyan"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1348,
+        "triangles": 1102,
+        "parts": 5,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -1.000001
+        ],
+        "max": [
+          1,
+          0.663782,
+          1.000241
+        ],
+        "size": [
+          2,
+          0.763782,
+          2.000242
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-curve",
+      "label": "Street Curve",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-curve/thumbnail.png",
+      "model": "street-curve/street-curve.ts",
+      "package": "street-curve",
+      "descriptor": "street-curve/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1OkmxXH5cXu5-_z4CHOp-GBWU3D-Lw2cL",
+        "file": "OBJ/Street_Curve.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "curve",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 428,
+        "triangles": 289,
+        "parts": 3,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -1
+        ],
+        "max": [
+          1.000017,
+          0.15,
+          1
+        ],
+        "size": [
+          2.000017,
+          0.25,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-deadend",
+      "label": "Street Deadend",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-deadend/thumbnail.png",
+      "model": "street-deadend/street-deadend.ts",
+      "package": "street-deadend",
+      "descriptor": "street-deadend/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1vv1gNO9Qe6icofkeWl6jnuMsuBaQlmj7",
+        "file": "OBJ/Street_Deadend.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "deadend",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 308,
+        "triangles": 306,
+        "parts": 3,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -1
+        ],
+        "max": [
+          1,
+          0.15,
+          1
+        ],
+        "size": [
+          2,
+          0.25,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-elevated",
+      "label": "Street Elevated",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-elevated/thumbnail.png",
+      "model": "street-elevated/street-elevated.ts",
+      "package": "street-elevated",
+      "descriptor": "street-elevated/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1EYXeIFG66g2dmb-dPONcrssu8RENeuOF",
+        "file": "OBJ/Street_Elevated.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "elevated",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 409,
+        "triangles": 394,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -1
+        ],
+        "max": [
+          1,
+          0.479848,
+          1
+        ],
+        "size": [
+          2,
+          0.579848,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-elevated-ramp",
+      "label": "Street Elevated Ramp",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-elevated-ramp/thumbnail.png",
+      "model": "street-elevated-ramp/street-elevated-ramp.ts",
+      "package": "street-elevated-ramp",
+      "descriptor": "street-elevated-ramp/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Qab232ObOv5amfmYnp_Ir_ZlrCtUNfAy",
+        "file": "OBJ/Street_Elevated_Ramp.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "elevated",
+        "ramp",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 621,
+        "triangles": 364,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.000033,
+          -0.102109,
+          -1.001191
+        ],
+        "max": [
+          0.999991,
+          0.479886,
+          1
+        ],
+        "size": [
+          2.000024,
+          0.581995,
+          2.001191
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-empty",
+      "label": "Street Empty",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-empty/thumbnail.png",
+      "model": "street-empty/street-empty.ts",
+      "package": "street-empty",
+      "descriptor": "street-empty/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=15CB1nqtpg0VLwYlhNim-X2vehDfKKiT_",
+        "file": "OBJ/Street_Empty.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "empty",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -1
+        ],
+        "max": [
+          1,
+          0.15,
+          1
+        ],
+        "size": [
+          2,
+          0.25,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-empty-water",
+      "label": "Street Empty Water",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-empty-water/thumbnail.png",
+      "model": "street-empty-water/street-empty-water.ts",
+      "package": "street-empty-water",
+      "descriptor": "street-empty-water/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1_gx7EI_CGUQmXKnWpRhdeKnGlrWBjKxw",
+        "file": "OBJ/Street_Empty_Water.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "empty",
+        "water",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#7badd1"
+      ],
+      "colorNames": [
+        "cyan"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 58,
+        "triangles": 44,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -1
+        ],
+        "max": [
+          1,
+          0.020909,
+          1.000241
+        ],
+        "size": [
+          2,
+          0.120909,
+          2.000241
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-straight",
+      "label": "Street Straight",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "street-straight/thumbnail.png",
+      "model": "street-straight/street-straight.ts",
+      "package": "street-straight",
+      "descriptor": "street-straight/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=18LsfGQe--Qrmy6CYQrwipKc52WfbsC7u",
+        "file": "OBJ/Street_Straight.obj"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "straight",
+        "quaternius",
+        "modularstreets",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a4a6ab",
+        "#3a3434",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 380,
+        "triangles": 356,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.1,
+          -1
+        ],
+        "max": [
+          1,
+          0.15,
+          1
+        ],
+        "size": [
+          2,
+          0.25,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "streetlight-double",
+      "label": "Streetlight Double",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "streetlight-double/thumbnail.png",
+      "model": "streetlight-double/streetlight-double.ts",
+      "package": "streetlight-double",
+      "descriptor": "streetlight-double/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1EV5A7Kj3KXikRb9tTIQXomAVsvGIBIw5",
+        "file": "OBJ/Streetlight_Double.obj"
+      },
+      "category": "props",
+      "tags": [
+        "streetlight",
+        "double",
+        "quaternius",
+        "modularstreets",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#1f3b24",
+        "#d1d1d1",
+        "#d1b122"
+      ],
+      "colorNames": [
+        "black",
+        "white",
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4540,
+        "triangles": 2486,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.065856,
+          -0.000014,
+          -0.157866
+        ],
+        "max": [
+          0.065856,
+          1.10026,
+          0.157866
+        ],
+        "size": [
+          0.131712,
+          1.100274,
+          0.315732
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "streetlight-single",
+      "label": "Streetlight Single",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "streetlight-single/thumbnail.png",
+      "model": "streetlight-single/streetlight-single.ts",
+      "package": "streetlight-single",
+      "descriptor": "streetlight-single/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1T-lxIMpC24ZSNJbPGeOE-rNnAIC4znzY",
+        "file": "OBJ/Streetlight_Single.obj"
+      },
+      "category": "props",
+      "tags": [
+        "streetlight",
+        "single",
+        "quaternius",
+        "modularstreets",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#1f3b24",
+        "#d1d1d1",
+        "#d1b122"
+      ],
+      "colorNames": [
+        "black",
+        "white",
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1912,
+        "triangles": 1028,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.065856,
+          -0.000014,
+          -0.065856
+        ],
+        "max": [
+          0.065856,
+          1.090367,
+          0.065856
+        ],
+        "size": [
+          0.131712,
+          1.090381,
+          0.131712
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "streetlight-triple",
+      "label": "Streetlight Triple",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "streetlight-triple/thumbnail.png",
+      "model": "streetlight-triple/streetlight-triple.ts",
+      "package": "streetlight-triple",
+      "descriptor": "streetlight-triple/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=11E7QOE9bUfAbe34qNew6Y48KPpiO03PP",
+        "file": "OBJ/Streetlight_Triple.obj"
+      },
+      "category": "props",
+      "tags": [
+        "streetlight",
+        "triple",
+        "quaternius",
+        "modularstreets",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#1f3b24",
+        "#d1d1d1",
+        "#d1b122"
+      ],
+      "colorNames": [
+        "black",
+        "white",
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 5089,
+        "triangles": 2794,
+        "parts": 3,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.065856,
+          -0.000014,
+          -0.157866
+        ],
+        "max": [
+          0.065856,
+          1.090367,
+          0.157866
+        ],
+        "size": [
+          0.131712,
+          1.090381,
+          0.315732
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "traffic-light",
+      "label": "TrafficLight",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "traffic-light/thumbnail.png",
+      "model": "traffic-light/traffic-light.ts",
+      "package": "traffic-light",
+      "descriptor": "traffic-light/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1MjwDjpS8oEBOb8JiTLni3xfuTeAZwQI0",
+        "file": "OBJ/TrafficLight.obj"
+      },
+      "category": "props",
+      "tags": [
+        "traffic",
+        "light",
+        "quaternius",
+        "modularstreets",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#bfbfbf",
+        "#8a8a8a",
+        "#e14c41",
+        "#d1d166",
+        "#71d14d"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "red",
+        "yellow",
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 798,
+        "triangles": 352,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.035475,
+          0.000175,
+          -0.044808
+        ],
+        "max": [
+          0.087501,
+          0.871073,
+          0.044808
+        ],
+        "size": [
+          0.122976,
+          0.870898,
+          0.089616
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "traffic-light-2",
+      "label": "TrafficLight 2",
+      "description": "Modular Streets Pack by Quaternius.",
+      "thumbnail": "traffic-light-2/thumbnail.png",
+      "model": "traffic-light-2/traffic-light-2.ts",
+      "package": "traffic-light-2",
+      "descriptor": "traffic-light-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularstreets.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CzHuQStrE4BXYM2sgmJM6Sh68YiLGjr0",
+        "file": "OBJ/TrafficLight_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "traffic",
+        "light",
+        "quaternius",
+        "modularstreets",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#bfbfbf",
+        "#8a8a8a",
+        "#e14c41",
+        "#d1d166",
+        "#71d14d"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "red",
+        "yellow",
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 874,
+        "triangles": 398,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.035475,
+          0.000175,
+          -0.027592
+        ],
+        "max": [
+          0.087501,
+          1.134076,
+          0.643174
+        ],
+        "size": [
+          0.122976,
+          1.133901,
+          0.670766
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

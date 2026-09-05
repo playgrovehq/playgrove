@@ -1,0 +1,30 @@
+{
+  "id": "traffic-light",
+  "label": "TrafficLight",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1MjwDjpS8oEBOb8JiTLni3xfuTeAZwQI0",
+  "file": "OBJ/TrafficLight.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "180e20cf8db37a3ab370334e9aaccb0fb44bfb8e4ea02f0ad09718fa939b9239",
+  "originalInputSha256": "180e20cf8db37a3ab370334e9aaccb0fb44bfb8e4ea02f0ad09718fa939b9239",
+  "dependencies": [
+    {
+      "path": "OBJ/TrafficLight.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1jLxxRtbts8DiZxzCTcMT3uBJqj1lA1vZ",
+      "sha256": "9ca3a41e2d58c659dc855e6eefb706ba375efd62818a1282bef74a0b3d08bec5",
+      "bytes": 964
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "traffic-light.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.12297599762678146,0.870898007589858,0.08961600065231323]",
+  "convertedAt": "2026-09-05T14:06:13.904Z"
+}

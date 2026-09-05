@@ -1,0 +1,1214 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T14:01:37.252Z",
+  "assets": [
+    {
+      "id": "cargo-train-coal-container",
+      "label": "CargoTrain CoalContainer",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "cargo-train-coal-container/thumbnail.png",
+      "model": "cargo-train-coal-container/cargo-train-coal-container.ts",
+      "package": "cargo-train-coal-container",
+      "descriptor": "cargo-train-coal-container/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=17aG_lANhG4P14V2GqB6Y5c9PNb7lz0xw",
+        "file": "OBJ/CargoTrain_CoalContainer.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "cargo",
+        "train",
+        "coal",
+        "container",
+        "quaternius",
+        "modulartrain",
+        "wagon",
+        "cube",
+        "wheels1",
+        "cylinder",
+        "wheels2",
+        "wheels3",
+        "wheels4",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#3d3d3d",
+        "#566065",
+        "#252525",
+        "#2f2f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3970,
+        "triangles": 2530,
+        "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4.808573,
+          -0.001065,
+          -1.124884
+        ],
+        "max": [
+          4.45202,
+          2.72109,
+          1.124884
+        ],
+        "size": [
+          9.260593,
+          2.722155,
+          2.249768
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cargo-train-container",
+      "label": "CargoTrain Container",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "cargo-train-container/thumbnail.png",
+      "model": "cargo-train-container/cargo-train-container.ts",
+      "package": "cargo-train-container",
+      "descriptor": "cargo-train-container/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1TRneX0yYUFyvNUeTwelFPMAQbqThcGPU",
+        "file": "OBJ/CargoTrain_Container.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "cargo",
+        "train",
+        "container",
+        "quaternius",
+        "modulartrain",
+        "wagon",
+        "cube",
+        "wheels1",
+        "cylinder",
+        "wheels2",
+        "wheels3",
+        "wheels4",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#3d3d3d",
+        "#656565",
+        "#3f5238",
+        "#2f2f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 6910,
+        "triangles": 4472,
+        "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4.808573,
+          -0.001065,
+          -1.031447
+        ],
+        "max": [
+          4.45202,
+          2.578197,
+          1.031447
+        ],
+        "size": [
+          9.260593,
+          2.579262,
+          2.062894
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cargo-train-front",
+      "label": "CargoTrain Front",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "cargo-train-front/thumbnail.png",
+      "model": "cargo-train-front/cargo-train-front.ts",
+      "package": "cargo-train-front",
+      "descriptor": "cargo-train-front/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1lYtjJ5BMjYrkNHfFxn8HjXmA3claOnHX",
+        "file": "OBJ/CargoTrain_Front.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "cargo",
+        "train",
+        "front",
+        "quaternius",
+        "modulartrain",
+        "wheels4",
+        "cylinder",
+        "wheels3",
+        "wheels2",
+        "wheels1",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2f2f2f",
+        "#9e8c4f",
+        "#675a3d",
+        "#494949",
+        "#8c8c8c",
+        "#6d6d6d",
+        "#e7be52",
+        "#323232"
+      ],
+      "colorNames": [
+        "black",
+        "gray",
+        "brown",
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 15673,
+        "triangles": 9372,
+        "parts": 12,
+        "discardedDegenerate": 34
+      },
+      "bounds": {
+        "min": [
+          -5.232437,
+          -0.001065,
+          -1.075151
+        ],
+        "max": [
+          5.122542,
+          2.68154,
+          1.075146
+        ],
+        "size": [
+          10.354979,
+          2.682605,
+          2.150297
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cargo-train-wagon",
+      "label": "CargoTrain Wagon",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "cargo-train-wagon/thumbnail.png",
+      "model": "cargo-train-wagon/cargo-train-wagon.ts",
+      "package": "cargo-train-wagon",
+      "descriptor": "cargo-train-wagon/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=12Ju9iM0K8GLbKgD1WmgeSEbVHu-Kpj0g",
+        "file": "OBJ/CargoTrain_Wagon.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "cargo",
+        "train",
+        "wagon",
+        "quaternius",
+        "modulartrain",
+        "cylinder",
+        "wheels1",
+        "wheels2",
+        "wheels3",
+        "wheels4",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#9e8c4f",
+        "#675a3d",
+        "#2f2f2f",
+        "#494949",
+        "#8c8c8c",
+        "#6d6d6d",
+        "#323232"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 12740,
+        "triangles": 8052,
+        "parts": 11,
+        "discardedDegenerate": 44
+      },
+      "bounds": {
+        "min": [
+          -5.122542,
+          -0.001065,
+          -1.049888
+        ],
+        "max": [
+          5.122542,
+          2.618777,
+          1.049888
+        ],
+        "size": [
+          10.245084,
+          2.619842,
+          2.099776
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cargo-train-wagon-empty",
+      "label": "CargoTrain WagonEmpty",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "cargo-train-wagon-empty/thumbnail.png",
+      "model": "cargo-train-wagon-empty/cargo-train-wagon-empty.ts",
+      "package": "cargo-train-wagon-empty",
+      "descriptor": "cargo-train-wagon-empty/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1HTynsGlyfL_OmAdbB-IzukTJocrZx7zE",
+        "file": "OBJ/CargoTrain_WagonEmpty.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "cargo",
+        "train",
+        "wagon",
+        "empty",
+        "quaternius",
+        "modulartrain",
+        "cube",
+        "wheels1",
+        "cylinder",
+        "wheels2",
+        "wheels3",
+        "wheels4",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#3d3d3d",
+        "#2f2f2f"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2946,
+        "triangles": 1992,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4.808573,
+          -0.001065,
+          -1.031447
+        ],
+        "max": [
+          4.45202,
+          1.023845,
+          1.031447
+        ],
+        "size": [
+          9.260593,
+          1.02491,
+          2.062894
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cargo-train-wagon-open-container",
+      "label": "CargoTrain WagonOpenContainer",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "cargo-train-wagon-open-container/thumbnail.png",
+      "model": "cargo-train-wagon-open-container/cargo-train-wagon-open-container.ts",
+      "package": "cargo-train-wagon-open-container",
+      "descriptor": "cargo-train-wagon-open-container/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1-3b_lbzdxTNryo-ww-y3vRZVYXm7gHoF",
+        "file": "OBJ/CargoTrain_WagonOpenContainer.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "cargo",
+        "train",
+        "wagon",
+        "open",
+        "container",
+        "quaternius",
+        "modulartrain",
+        "cube",
+        "wheels1",
+        "cylinder",
+        "wheels2",
+        "wheels3",
+        "wheels4",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#3d3d3d",
+        "#566065",
+        "#2f2f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3382,
+        "triangles": 2236,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4.808573,
+          -0.001065,
+          -1.124884
+        ],
+        "max": [
+          4.45202,
+          2.730167,
+          1.124884
+        ],
+        "size": [
+          9.260593,
+          2.731232,
+          2.249768
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "high-speed-front",
+      "label": "HighSpeed Front",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "high-speed-front/thumbnail.png",
+      "model": "high-speed-front/high-speed-front.ts",
+      "package": "high-speed-front",
+      "descriptor": "high-speed-front/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1bvr6HXmr-2oVzB5DVBjf4TlQBGU2O0ZP",
+        "file": "OBJ/HighSpeed_Front.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "high",
+        "speed",
+        "front",
+        "quaternius",
+        "modulartrain",
+        "highspeed",
+        "train",
+        "cube",
+        "wheels1",
+        "cylinder",
+        "wheels2",
+        "wheels3",
+        "wheels4",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#acacac",
+        "#2d2d2d",
+        "#38474f",
+        "#3e3e3e",
+        "#537d8c"
+      ],
+      "colorNames": [
+        "beige",
+        "black",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 5256,
+        "triangles": 5024,
+        "parts": 9,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -6.573513,
+          -0.001065,
+          -1.014031
+        ],
+        "max": [
+          5.589995,
+          1.903317,
+          1.014031
+        ],
+        "size": [
+          12.163508,
+          1.904382,
+          2.028062
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "high-speed-wagon",
+      "label": "HighSpeed Wagon",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "high-speed-wagon/thumbnail.png",
+      "model": "high-speed-wagon/high-speed-wagon.ts",
+      "package": "high-speed-wagon",
+      "descriptor": "high-speed-wagon/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1tfj-AT-0Tx6pN_N7T3bq2FaGC7XP3SLF",
+        "file": "OBJ/HighSpeed_Wagon.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "high",
+        "speed",
+        "wagon",
+        "quaternius",
+        "modulartrain",
+        "highspeed",
+        "train",
+        "cube",
+        "wheels1",
+        "cylinder",
+        "wheels2",
+        "wheels3",
+        "wheels4",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#acacac",
+        "#2d2d2d",
+        "#38474f",
+        "#3e3e3e",
+        "#537d8c"
+      ],
+      "colorNames": [
+        "beige",
+        "black",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 5196,
+        "triangles": 4988,
+        "parts": 9,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -5.589995,
+          -0.001065,
+          -1.014031
+        ],
+        "max": [
+          5.589995,
+          1.903317,
+          1.014031
+        ],
+        "size": [
+          11.17999,
+          1.904382,
+          2.028062
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "locomotive-coal-tender",
+      "label": "Locomotive CoalTender",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "locomotive-coal-tender/thumbnail.png",
+      "model": "locomotive-coal-tender/locomotive-coal-tender.ts",
+      "package": "locomotive-coal-tender",
+      "descriptor": "locomotive-coal-tender/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1m72AenEGRDb0AtV298qjbpSDZNQ84AsH",
+        "file": "OBJ/Locomotive_CoalTender.obj"
+      },
+      "category": "props",
+      "tags": [
+        "locomotive",
+        "coal",
+        "tender",
+        "quaternius",
+        "modulartrain",
+        "cube",
+        "front",
+        "wheels",
+        "cylinder",
+        "back",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#353535",
+        "#292929"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4724,
+        "triangles": 2892,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.745386,
+          0.050936,
+          -1.00933
+        ],
+        "max": [
+          2.466245,
+          2.397632,
+          1.00933
+        ],
+        "size": [
+          5.211631,
+          2.346696,
+          2.01866
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "locomotive-front",
+      "label": "Locomotive Front",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "locomotive-front/thumbnail.png",
+      "model": "locomotive-front/locomotive-front.ts",
+      "package": "locomotive-front",
+      "descriptor": "locomotive-front/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1PDhwVLm8R6--AGcVgYd6Kvg2aIUdIaWA",
+        "file": "OBJ/Locomotive_Front.obj"
+      },
+      "category": "props",
+      "tags": [
+        "locomotive",
+        "front",
+        "quaternius",
+        "modulartrain",
+        "big",
+        "wheels1",
+        "cylinder",
+        "wheels2",
+        "wheels3",
+        "cube",
+        "small",
+        "wheels",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#383838",
+        "#292929"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 27460,
+        "triangles": 15613,
+        "parts": 10,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -4.518266,
+          0.015109,
+          -1.433545
+        ],
+        "max": [
+          3.570839,
+          3.598582,
+          1.433545
+        ],
+        "size": [
+          8.089105,
+          3.583473,
+          2.86709
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "locomotive-passenger-wagon",
+      "label": "Locomotive PassengerWagon",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "locomotive-passenger-wagon/thumbnail.png",
+      "model": "locomotive-passenger-wagon/locomotive-passenger-wagon.ts",
+      "package": "locomotive-passenger-wagon",
+      "descriptor": "locomotive-passenger-wagon/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1oy3NseobWmt2nTvQ-d14iOIMS0NS6hh2",
+        "file": "OBJ/Locomotive_PassengerWagon.obj"
+      },
+      "category": "props",
+      "tags": [
+        "locomotive",
+        "passenger",
+        "wagon",
+        "quaternius",
+        "modulartrain",
+        "front",
+        "wheels",
+        "cylinder",
+        "back",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#292929",
+        "#716150",
+        "#63322c",
+        "#56594b",
+        "#272325",
+        "#494b3f",
+        "#656565"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 5232,
+        "triangles": 3440,
+        "parts": 8,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -4.031305,
+          0.050936,
+          -1.05094
+        ],
+        "max": [
+          4.031305,
+          2.997942,
+          1.05094
+        ],
+        "size": [
+          8.06261,
+          2.947006,
+          2.10188
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "locomotive-wagon",
+      "label": "Locomotive Wagon",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "locomotive-wagon/thumbnail.png",
+      "model": "locomotive-wagon/locomotive-wagon.ts",
+      "package": "locomotive-wagon",
+      "descriptor": "locomotive-wagon/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=114DmIuvdmeUjyfwSoiaN8bKEsR74P4lV",
+        "file": "OBJ/Locomotive_Wagon.obj"
+      },
+      "category": "props",
+      "tags": [
+        "locomotive",
+        "wagon",
+        "quaternius",
+        "modulartrain",
+        "front",
+        "wheels",
+        "cylinder",
+        "back",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#292929",
+        "#716150",
+        "#636363",
+        "#59462f"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 10614,
+        "triangles": 7628,
+        "parts": 5,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -4.031305,
+          0.050936,
+          -1.033361
+        ],
+        "max": [
+          4.031305,
+          2.997942,
+          1.033361
+        ],
+        "size": [
+          8.06261,
+          2.947006,
+          2.066722
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "railway-track-curve",
+      "label": "RailwayTrack Curve",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "railway-track-curve/thumbnail.png",
+      "model": "railway-track-curve/railway-track-curve.ts",
+      "package": "railway-track-curve",
+      "descriptor": "railway-track-curve/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1VhfMspDp3ETnLuo2qP9SlX6PSJgaKfzS",
+        "file": "OBJ/RailwayTrack_Curve.obj"
+      },
+      "category": "roads",
+      "tags": [
+        "railway",
+        "track",
+        "curve",
+        "quaternius",
+        "modulartrain",
+        "cube",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4484,
+        "triangles": 2294,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.631905,
+          -0.071459,
+          -18.000143
+        ],
+        "max": [
+          17.999998,
+          0.071481,
+          0.63946
+        ],
+        "size": [
+          18.631903,
+          0.14294,
+          18.639603
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "railway-track-straight",
+      "label": "RailwayTrack Straight",
+      "description": "Modular Train Pack by Quaternius.",
+      "thumbnail": "railway-track-straight/thumbnail.png",
+      "model": "railway-track-straight/railway-track-straight.ts",
+      "package": "railway-track-straight",
+      "descriptor": "railway-track-straight/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulartrain.html",
+        "download": "https://drive.google.com/uc?export=download&id=1kU6tZGgZkuiDhnprCT4x_cLazqXId16K",
+        "file": "OBJ/RailwayTrack_Straight.obj"
+      },
+      "category": "roads",
+      "tags": [
+        "railway",
+        "track",
+        "straight",
+        "quaternius",
+        "modulartrain",
+        "cube",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2580,
+        "triangles": 1420,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -8.999953,
+          -0.07147,
+          -0.629893
+        ],
+        "max": [
+          8.999953,
+          0.07147,
+          0.629893
+        ],
+        "size": [
+          17.999906,
+          0.14294,
+          1.259786
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

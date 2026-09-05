@@ -1,0 +1,30 @@
+{
+  "id": "male-standing-covering-eyes",
+  "label": "Male Standing CoveringEyes",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "pack": "quaternius-backgroundposedhumans",
+  "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FF0qNA7cOEVWGM8XQzzKP7EC4nC1xH99",
+  "file": "Male/Male Poses/OBJ/Male_Standing_CoveringEyes.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2b121caacdf5451271a1e2eebafcbd00442ef70de82ee62dcef565d3843b40ca",
+  "originalInputSha256": "2b121caacdf5451271a1e2eebafcbd00442ef70de82ee62dcef565d3843b40ca",
+  "dependencies": [
+    {
+      "path": "Male/Male Poses/OBJ/Male_Standing_CoveringEyes.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17FROzMW0WIMiTWeye8NuYN31FUsTpCzp",
+      "sha256": "5b486b350f44a72e8fbbde407b1c8948c30cab089a68139a589cb8b39804967e",
+      "bytes": 786
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "male-standing-covering-eyes.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.4383039474487305,3.8536760099232197,0.9277340173721313]",
+  "convertedAt": "2026-09-05T14:05:32.981Z"
+}

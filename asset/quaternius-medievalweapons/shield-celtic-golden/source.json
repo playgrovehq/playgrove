@@ -1,0 +1,30 @@
+{
+  "id": "shield-celtic-golden",
+  "label": "Shield Celtic Golden",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=1td95wRRuIKYonX-g0LmLS6MeDSHVix-z",
+  "file": "OBJ/Shield_Celtic_Golden.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8d1c7e9e93ef7feb2289fe26d217dd3a9a04ebb11b56d110ac2fc88c1a84c3d5",
+  "originalInputSha256": "8d1c7e9e93ef7feb2289fe26d217dd3a9a04ebb11b56d110ac2fc88c1a84c3d5",
+  "dependencies": [
+    {
+      "path": "OBJ/Shield_Celtic_Golden.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1S95ZlBSfghAyS-ywkpoFVxaEoenyWRfH",
+      "sha256": "6c283188db76c2b4422151e1006b41f94d87a9ab0876b1acead4c73e9d9ec1cb",
+      "bytes": 788
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "shield-celtic-golden.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2.098560094833374,4.280177116394043,1.4127379655838013]",
+  "convertedAt": "2026-09-05T14:04:47.912Z"
+}

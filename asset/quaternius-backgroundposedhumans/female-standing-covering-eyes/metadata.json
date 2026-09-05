@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "female-standing-covering-eyes",
+  "label": "Female Standing CoveringEyes",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "female",
+    "standing",
+    "covering",
+    "eyes",
+    "quaternius",
+    "backgroundposedhumans",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#cbaa89",
+    "#81869a",
+    "#3e3c3d",
+    "#4c3b29"
+  ],
+  "colorNames": [
+    "beige",
+    "gray",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "female-standing-covering-eyes.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2824,
+    "triangles": 1356,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.554981,
+      -0.011764,
+      -0.378113
+    ],
+    "max": [
+      0.465869,
+      3.755462,
+      0.562764
+    ],
+    "size": [
+      1.02085,
+      3.767226,
+      0.940877
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Female_Standing_CoveringEyes_Cylinder.008"
+  ],
+  "materialNames": [
+    "Skin",
+    "Shirt",
+    "Pants",
+    "Shoes"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Ta4NtjZzYPmzC75DMUwbn-oWZdu0Eg3g",
+    "file": "Female/Female Poses/OBJ/Female_Standing_CoveringEyes.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

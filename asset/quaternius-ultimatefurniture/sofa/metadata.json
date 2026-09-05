@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "sofa",
+  "label": "Sofa",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "category": "furniture",
+  "tags": [
+    "sofa",
+    "quaternius",
+    "ultimatefurniture",
+    "cube",
+    "furniture",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2a2043",
+    "#433b37"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "sofa.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4233,
+    "triangles": 2392,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -2.12052,
+      -0.00757,
+      -0.901035
+    ],
+    "max": [
+      2.12052,
+      1.500214,
+      0.88263
+    ],
+    "size": [
+      4.24104,
+      1.507784,
+      1.783665
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Sofa_Cube"
+  ],
+  "materialNames": [
+    "Sofa",
+    "Legs"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Hju6oL6uFkl6VRzEMcYvlnGoRLFOT6Af",
+    "file": "OBJ/Sofa.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

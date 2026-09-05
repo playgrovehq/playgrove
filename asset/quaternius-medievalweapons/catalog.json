@@ -1,0 +1,1947 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T14:04:48.147Z",
+  "assets": [
+    {
+      "id": "arrow",
+      "label": "Arrow",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "arrow/thumbnail.png",
+      "model": "arrow/arrow.ts",
+      "package": "arrow",
+      "descriptor": "arrow/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1qv7T-xKQKE7UxUnTABj0CxsQ7YZ14_vo",
+        "file": "OBJ/Arrow.obj"
+      },
+      "category": "props",
+      "tags": [
+        "arrow",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#795239",
+        "#959aa0",
+        "#a4a8b0",
+        "#b45d62"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 336,
+        "triangles": 224,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.137528,
+          -0.08521,
+          -0.042227
+        ],
+        "max": [
+          0.136617,
+          0.153064,
+          2.691597
+        ],
+        "size": [
+          0.274145,
+          0.238274,
+          2.733824
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "axe",
+      "label": "Axe",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "axe/thumbnail.png",
+      "model": "axe/axe.ts",
+      "package": "axe",
+      "descriptor": "axe/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hF6Sth-dGie5yQiHle5gylrwmkAMRmPK",
+        "file": "OBJ/Axe.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "axe",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1877,
+        "triangles": 1127,
+        "parts": 4,
+        "discardedDegenerate": 3
+      },
+      "bounds": {
+        "min": [
+          -0.13672,
+          -1.719901,
+          -0.124145
+        ],
+        "max": [
+          1.034093,
+          3.539961,
+          0.124145
+        ],
+        "size": [
+          1.170813,
+          5.259862,
+          0.24829
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "axe-double",
+      "label": "Axe Double",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "axe-double/thumbnail.png",
+      "model": "axe-double/axe-double.ts",
+      "package": "axe-double",
+      "descriptor": "axe-double/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1RRGjDDW_qkS5yKumE6LtqrspaO_vz7WV",
+        "file": "OBJ/Axe_Double.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "axe",
+        "double",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3028,
+        "triangles": 1886,
+        "parts": 4,
+        "discardedDegenerate": 6
+      },
+      "bounds": {
+        "min": [
+          -0.423131,
+          -3.176555,
+          -0.130439
+        ],
+        "max": [
+          1.639158,
+          3.176555,
+          0.130439
+        ],
+        "size": [
+          2.062289,
+          6.35311,
+          0.260878
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "axe-small",
+      "label": "Axe Small",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "axe-small/thumbnail.png",
+      "model": "axe-small/axe-small.ts",
+      "package": "axe-small",
+      "descriptor": "axe-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1sl5QFeZDPxgslF2JtHV_hyJtHBJcc1wL",
+        "file": "OBJ/Axe_Small.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "axe",
+        "small",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1651,
+        "triangles": 965,
+        "parts": 4,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.13672,
+          -1.230855,
+          -0.124145
+        ],
+        "max": [
+          1.034093,
+          1.725503,
+          0.124145
+        ],
+        "size": [
+          1.170813,
+          2.956358,
+          0.24829
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bow-evil",
+      "label": "Bow Evil",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "bow-evil/thumbnail.png",
+      "model": "bow-evil/bow-evil.ts",
+      "package": "bow-evil",
+      "descriptor": "bow-evil/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1lz4BSlvODK78B5NnuVlE9lums1B8dxXX",
+        "file": "OBJ/Bow_Evil.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "bow",
+        "evil",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0343f",
+        "#2c2625",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1486,
+        "triangles": 772,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.447992,
+          -2.844571,
+          -0.115391
+        ],
+        "max": [
+          1.108241,
+          2.844571,
+          0.115393
+        ],
+        "size": [
+          1.556233,
+          5.689142,
+          0.230784
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bow-golden",
+      "label": "Bow Golden",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "bow-golden/thumbnail.png",
+      "model": "bow-golden/bow-golden.ts",
+      "package": "bow-golden",
+      "descriptor": "bow-golden/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=15NLKQH6XNT3lw6DSiUlK989Pe8qcZUu9",
+        "file": "OBJ/Bow_Golden.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "bow",
+        "golden",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4a564",
+        "#795239",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1526,
+        "triangles": 776,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.480121,
+          -2.718302,
+          -0.121704
+        ],
+        "max": [
+          1.099968,
+          2.718302,
+          0.121706
+        ],
+        "size": [
+          1.580089,
+          5.436604,
+          0.24341
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bow-wooden",
+      "label": "Bow Wooden",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "bow-wooden/thumbnail.png",
+      "model": "bow-wooden/bow-wooden.ts",
+      "package": "bow-wooden",
+      "descriptor": "bow-wooden/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1j-p51HP06ZWBJ-XjwFXoNRWTfBRAdsR1",
+        "file": "OBJ/Bow_Wooden.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "bow",
+        "wooden",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#654430",
+        "#795239",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "brown",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1406,
+        "triangles": 728,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.384499,
+          -2.718302,
+          -0.121704
+        ],
+        "max": [
+          1.083423,
+          2.718302,
+          0.121706
+        ],
+        "size": [
+          1.467922,
+          5.436604,
+          0.24341
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bow-wooden2",
+      "label": "Bow Wooden2",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "bow-wooden2/thumbnail.png",
+      "model": "bow-wooden2/bow-wooden2.ts",
+      "package": "bow-wooden2",
+      "descriptor": "bow-wooden2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ZtmJbmbnOXmwC9K4-hDxMSCLtV6lbccR",
+        "file": "OBJ/Bow_Wooden2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "bow",
+        "wooden2",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#654430",
+        "#795239",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "brown",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1290,
+        "triangles": 664,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.357613,
+          -2.718302,
+          -0.121704
+        ],
+        "max": [
+          1.110309,
+          2.718302,
+          0.121706
+        ],
+        "size": [
+          1.467922,
+          5.436604,
+          0.24341
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "claymore",
+      "label": "Claymore",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "claymore/thumbnail.png",
+      "model": "claymore/claymore.ts",
+      "package": "claymore",
+      "descriptor": "claymore/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1TPB8Ras6ysOs9NY4qEWpLFHcnqxaAgZG",
+        "file": "OBJ/Claymore.obj"
+      },
+      "category": "props",
+      "tags": [
+        "claymore",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b05b58",
+        "#a0343f",
+        "#4c4340",
+        "#2c2625",
+        "#7f7f75"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1523,
+        "triangles": 1028,
+        "parts": 5,
+        "discardedDegenerate": 5
+      },
+      "bounds": {
+        "min": [
+          -0.488973,
+          -0.321694,
+          -0.135642
+        ],
+        "max": [
+          0.488973,
+          6.272916,
+          0.135642
+        ],
+        "size": [
+          0.977946,
+          6.59461,
+          0.271284
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dagger",
+      "label": "Dagger",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "dagger/thumbnail.png",
+      "model": "dagger/dagger.ts",
+      "package": "dagger",
+      "descriptor": "dagger/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1M_xL00_w26sPP2XCb4Iiil7tAa08DWko",
+        "file": "OBJ/Dagger.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dagger",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0",
+        "#7f7f75"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1141,
+        "triangles": 726,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.283471,
+          -0.581349,
+          -0.104141
+        ],
+        "max": [
+          0.27451,
+          2.027074,
+          0.104141
+        ],
+        "size": [
+          0.557981,
+          2.608423,
+          0.208282
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "dagger-2",
+      "label": "Dagger 2",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "dagger-2/thumbnail.png",
+      "model": "dagger-2/dagger-2.ts",
+      "package": "dagger-2",
+      "descriptor": "dagger-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1XYMHxVdB44qkheXnJ-ilEre-Dl9vNe5V",
+        "file": "OBJ/Dagger_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "dagger",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0",
+        "#b4a564"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1163,
+        "triangles": 734,
+        "parts": 5,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.322,
+          -0.674764,
+          -0.128183
+        ],
+        "max": [
+          0.322,
+          2.430761,
+          0.128183
+        ],
+        "size": [
+          0.644,
+          3.105525,
+          0.256366
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "hammer-double",
+      "label": "Hammer Double",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "hammer-double/thumbnail.png",
+      "model": "hammer-double/hammer-double.ts",
+      "package": "hammer-double",
+      "descriptor": "hammer-double/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1UALNKKKOGyF_OdBQ2kEDXYqjLRraA4Ud",
+        "file": "OBJ/Hammer_Double.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "hammer",
+        "double",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3641,
+        "triangles": 1918,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.088095,
+          -1.777273,
+          -0.402435
+        ],
+        "max": [
+          1.128996,
+          3.193692,
+          0.403272
+        ],
+        "size": [
+          2.217091,
+          4.970965,
+          0.805707
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "hammer-small",
+      "label": "Hammer Small",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "hammer-small/thumbnail.png",
+      "model": "hammer-small/hammer-small.ts",
+      "package": "hammer-small",
+      "descriptor": "hammer-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1_USpUK_y4OGZFV8cqzgg4Qs6Br9K40nk",
+        "file": "OBJ/Hammer_Small.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "hammer",
+        "small",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2793,
+        "triangles": 1474,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.378088,
+          -1.179391,
+          -0.402435
+        ],
+        "max": [
+          1.108546,
+          3.150333,
+          0.403273
+        ],
+        "size": [
+          1.486634,
+          4.329724,
+          0.805708
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "scythe",
+      "label": "Scythe",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "scythe/thumbnail.png",
+      "model": "scythe/scythe.ts",
+      "package": "scythe",
+      "descriptor": "scythe/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hmS4a2qmqJkhlzmSc1AVmHqDtYPwO5Ch",
+        "file": "OBJ/Scythe.obj"
+      },
+      "category": "props",
+      "tags": [
+        "scythe",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2468,
+        "triangles": 1310,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.563437,
+          -2.215465,
+          -0.13853
+        ],
+        "max": [
+          2.465296,
+          3.366398,
+          0.13853
+        ],
+        "size": [
+          3.028733,
+          5.581863,
+          0.27706
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shield-celtic-golden",
+      "label": "Shield Celtic Golden",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "shield-celtic-golden/thumbnail.png",
+      "model": "shield-celtic-golden/shield-celtic-golden.ts",
+      "package": "shield-celtic-golden",
+      "descriptor": "shield-celtic-golden/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1td95wRRuIKYonX-g0LmLS6MeDSHVix-z",
+        "file": "OBJ/Shield_Celtic_Golden.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "shield",
+        "celtic",
+        "golden",
+        "quaternius",
+        "medievalweapons",
+        "cube",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4a564",
+        "#83adb4",
+        "#4fb46d",
+        "#d0be73"
+      ],
+      "colorNames": [
+        "gray",
+        "cyan",
+        "green",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1502,
+        "triangles": 832,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.04928,
+          -2.267177,
+          -0.706369
+        ],
+        "max": [
+          1.04928,
+          2.013,
+          0.706369
+        ],
+        "size": [
+          2.09856,
+          4.280177,
+          1.412738
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shield-heater",
+      "label": "Shield Heater",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "shield-heater/thumbnail.png",
+      "model": "shield-heater/shield-heater.ts",
+      "package": "shield-heater",
+      "descriptor": "shield-heater/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=16rF-zYtVL_B7wnp7YJ6IcUg3Tk7Y6Buh",
+        "file": "OBJ/Shield_Heater.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "shield",
+        "heater",
+        "quaternius",
+        "medievalweapons",
+        "cube",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#654430",
+        "#795239",
+        "#a4a8b0"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3010,
+        "triangles": 1888,
+        "parts": 4,
+        "discardedDegenerate": 80
+      },
+      "bounds": {
+        "min": [
+          -1.002508,
+          -1.302494,
+          -0.293712
+        ],
+        "max": [
+          1.002508,
+          1.261231,
+          0.303331
+        ],
+        "size": [
+          2.005016,
+          2.563725,
+          0.597043
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shield-heater-2",
+      "label": "Shield Heater 2",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "shield-heater-2/thumbnail.png",
+      "model": "shield-heater-2/shield-heater-2.ts",
+      "package": "shield-heater-2",
+      "descriptor": "shield-heater-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1QXvctC-MDnK_hPSxaRizZibVwIyH1Dyg",
+        "file": "OBJ/Shield_Heater_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "shield",
+        "heater",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#654430",
+        "#959aa0",
+        "#795239",
+        "#a4a8b0"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1962,
+        "triangles": 1212,
+        "parts": 4,
+        "discardedDegenerate": 80
+      },
+      "bounds": {
+        "min": [
+          -1.002508,
+          -1.499769,
+          -0.150709
+        ],
+        "max": [
+          1.002508,
+          1.063956,
+          0.44795
+        ],
+        "size": [
+          2.005016,
+          2.563725,
+          0.598659
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shield-round",
+      "label": "Shield Round",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "shield-round/thumbnail.png",
+      "model": "shield-round/shield-round.ts",
+      "package": "shield-round",
+      "descriptor": "shield-round/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1U0hgAUCo4CGtXu7w11cPlQD0K3E4qqlX",
+        "file": "OBJ/Shield_Round.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "shield",
+        "round",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#795239",
+        "#959aa0",
+        "#654430",
+        "#a4a8b0"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1962,
+        "triangles": 1056,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -1,
+          -0.37244
+        ],
+        "max": [
+          1,
+          1,
+          0.231237
+        ],
+        "size": [
+          2,
+          2,
+          0.603677
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shield-round-2",
+      "label": "Shield Round 2",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "shield-round-2/thumbnail.png",
+      "model": "shield-round-2/shield-round-2.ts",
+      "package": "shield-round-2",
+      "descriptor": "shield-round-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1RWFi_UibDrDf1ZLY0u27Q4mwSKM6fYsL",
+        "file": "OBJ/Shield_Round_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "shield",
+        "round",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#795239",
+        "#959aa0",
+        "#654430",
+        "#a4a8b0",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2234,
+        "triangles": 1204,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -1,
+          -0.37244
+        ],
+        "max": [
+          1,
+          1,
+          0.231237
+        ],
+        "size": [
+          2,
+          2,
+          0.603677
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "spear",
+      "label": "Spear",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "spear/thumbnail.png",
+      "model": "spear/spear.ts",
+      "package": "spear",
+      "descriptor": "spear/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1tsk7YkGm9Odagd00bPsNYH0lhwm10o_y",
+        "file": "OBJ/Spear.obj"
+      },
+      "category": "props",
+      "tags": [
+        "spear",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2410,
+        "triangles": 1202,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.219519,
+          -2.155195,
+          -0.162442
+        ],
+        "max": [
+          0.310596,
+          7.561881,
+          0.162442
+        ],
+        "size": [
+          0.530115,
+          9.717076,
+          0.324884
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sword",
+      "label": "Sword",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "sword/thumbnail.png",
+      "model": "sword/sword.ts",
+      "package": "sword",
+      "descriptor": "sword/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=10LrG7xhXSZGhx03OuQjpNKo3-LDBlJKQ",
+        "file": "OBJ/Sword.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "sword",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0",
+        "#7f7f75"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1383,
+        "triangles": 872,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.571198,
+          -0.818768,
+          -0.130572
+        ],
+        "max": [
+          0.571198,
+          4.634007,
+          0.130572
+        ],
+        "size": [
+          1.142396,
+          5.452775,
+          0.261144
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sword-2",
+      "label": "Sword 2",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "sword-2/thumbnail.png",
+      "model": "sword-2/sword-2.ts",
+      "package": "sword-2",
+      "descriptor": "sword-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1nNVTmpLBBvotT0oAK7h6h_awBxmsW0XO",
+        "file": "OBJ/Sword_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "sword",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0",
+        "#7f7f75"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1463,
+        "triangles": 942,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.608452,
+          -0.840533,
+          -0.155211
+        ],
+        "max": [
+          0.609145,
+          4.520053,
+          0.155211
+        ],
+        "size": [
+          1.217597,
+          5.360586,
+          0.310422
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sword-big",
+      "label": "Sword Big",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "sword-big/thumbnail.png",
+      "model": "sword-big/sword-big.ts",
+      "package": "sword-big",
+      "descriptor": "sword-big/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=1_Q1bpM01z6GZXBwb9zdHFvV3btyDEa4y",
+        "file": "OBJ/Sword_Big.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "sword",
+        "big",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0",
+        "#7f7f75"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1444,
+        "triangles": 830,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.510227,
+          -0.354648,
+          -0.119291
+        ],
+        "max": [
+          0.510227,
+          6.088071,
+          0.119291
+        ],
+        "size": [
+          1.020454,
+          6.442719,
+          0.238582
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sword-golden",
+      "label": "Sword Golden",
+      "description": "Modular Weapons Pack by Quaternius.",
+      "thumbnail": "sword-golden/thumbnail.png",
+      "model": "sword-golden/sword-golden.ts",
+      "package": "sword-golden",
+      "descriptor": "sword-golden/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/medievalweapons.html",
+        "download": "https://drive.google.com/uc?export=download&id=190v7rI6D8CjhTEgZH1dVG298crQA6N2T",
+        "file": "OBJ/Sword_Golden.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "sword",
+        "golden",
+        "quaternius",
+        "medievalweapons",
+        "cylinder",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4a564",
+        "#795239",
+        "#654430",
+        "#7f7f75",
+        "#d0be73"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1536,
+        "triangles": 1006,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.607357,
+          -0.620152,
+          -0.119291
+        ],
+        "max": [
+          0.607357,
+          5.346097,
+          0.119291
+        ],
+        "size": [
+          1.214714,
+          5.966249,
+          0.238582
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

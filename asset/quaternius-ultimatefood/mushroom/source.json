@@ -1,0 +1,30 @@
+{
+  "id": "mushroom",
+  "label": "Mushroom",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=19mnK6tD94tN1mKy_Z-xjb3zuptLXgGM_",
+  "file": "OBJ/Mushroom.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "00a86c06f6b2ba2a5a91c12a32ca7e4b141e76074c215bf17bbf77be3dae0a96",
+  "originalInputSha256": "00a86c06f6b2ba2a5a91c12a32ca7e4b141e76074c215bf17bbf77be3dae0a96",
+  "dependencies": [
+    {
+      "path": "OBJ/Mushroom.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1zYTYgA56hFUZ5M_RFvM1hP8DxwAAtRum",
+      "sha256": "663b5ce3f166d537260f9277cfa1865bb45ab7d12e27d75597b51eb9504bb0b5",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "mushroom.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.35805800557136536,0.40963999927043915,0.4134500026702881]",
+  "convertedAt": "2026-09-05T13:51:31.613Z"
+}

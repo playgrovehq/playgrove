@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "id": "avocado",
+  "label": "Avocado",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "avocado",
+    "quaternius",
+    "ultimatefood",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2d2d2d",
+    "#779161",
+    "#867669"
+  ],
+  "colorNames": [
+    "black",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "avocado.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 512,
+    "triangles": 256,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.376571,
+      -0.337494,
+      -0.044306
+    ],
+    "max": [
+      0.376571,
+      0.756411,
+      0.495447
+    ],
+    "size": [
+      0.753142,
+      1.093905,
+      0.539753
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Avocado_Cube.080"
+  ],
+  "materialNames": [
+    "DarkGrey",
+    "PaleGreen",
+    "LightBrown"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefood.html",
+    "download": "https://drive.google.com/uc?export=download&id=1x52r0sEIPFgmiM-QmL9pwEXlBWthBbqD",
+    "file": "OBJ/Avocado.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

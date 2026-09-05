@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "apple-green",
+  "label": "Apple Green",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "category": "food",
+  "tags": [
+    "apple",
+    "green",
+    "quaternius",
+    "ultimatefood",
+    "cube",
+    "food",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#779161",
+    "#634336",
+    "#2b3e29"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "apple-green.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 862,
+    "triangles": 440,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.401255,
+      -0.394196,
+      -0.399352
+    ],
+    "max": [
+      0.401197,
+      0.457542,
+      0.399352
+    ],
+    "size": [
+      0.802452,
+      0.851738,
+      0.798704
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Apple_Green_Cube.039"
+  ],
+  "materialNames": [
+    "PaleGreen",
+    "DarkBrown",
+    "DarkGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefood.html",
+    "download": "https://drive.google.com/uc?export=download&id=15I5rg7tkZa19kgenCZEmLRU4K1B7Uifc",
+    "file": "OBJ/Apple_Green.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

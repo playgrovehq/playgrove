@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "chicken-coop",
+  "label": "ChickenCoop",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "chicken",
+    "coop",
+    "quaternius",
+    "farmbuildings",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1",
+    "#8f433a",
+    "#824e36",
+    "#7c3a32",
+    "#4f4f4f"
+  ],
+  "colorNames": [
+    "white",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "chicken-coop.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1552,
+    "triangles": 948,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.202562,
+      -0.002965,
+      -0.947922
+    ],
+    "max": [
+      1.204647,
+      1.847894,
+      1.206074
+    ],
+    "size": [
+      2.407209,
+      1.850859,
+      2.153996
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "ChickenCoop_Cube.015"
+  ],
+  "materialNames": [
+    "White",
+    "LightRed",
+    "Brown",
+    "DarkRed",
+    "RoofBlack"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/farmbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ws9VQJWiBfO7Fn7OqacLuPUhMc_mD2zj",
+    "file": "OBJ/ChickenCoop.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

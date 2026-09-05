@@ -1,0 +1,30 @@
+{
+  "id": "house2",
+  "label": "House2",
+  "description": "Buildings Pack by Quaternius.",
+  "pack": "quaternius-buildings",
+  "listing": "https://quaternius.com/packs/buildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=17uRWzj1iHKrz7BjNeQC6xI7WeP5rLeM6",
+  "file": "OBJ/House2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "256f673c7fdaad00e6364c60fc9254f3eec63adb6c3e91f7b4d252e250b4869c",
+  "originalInputSha256": "256f673c7fdaad00e6364c60fc9254f3eec63adb6c3e91f7b4d252e250b4869c",
+  "dependencies": [
+    {
+      "path": "OBJ/House2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1etyW2HYpqaeeMCwQiVSw1K2VRXsZLXSm",
+      "sha256": "ca4fefd648a81cd57a416ddf7c056f0e1bd30539b99d98c8d5ff805e41e398d1",
+      "bytes": 769
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "house2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[3.643602967262268,2.926030023023486,3.0843390226364136]",
+  "convertedAt": "2026-09-05T14:02:15.018Z"
+}

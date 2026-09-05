@@ -1,0 +1,30 @@
+{
+  "id": "claymore",
+  "label": "Claymore",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=1TPB8Ras6ysOs9NY4qEWpLFHcnqxaAgZG",
+  "file": "OBJ/Claymore.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5c9c86c87a9808c93b3c40d467f1b6026bc808b07c2dbca772c4613a5704fd4d",
+  "originalInputSha256": "5c9c86c87a9808c93b3c40d467f1b6026bc808b07c2dbca772c4613a5704fd4d",
+  "dependencies": [
+    {
+      "path": "OBJ/Claymore.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1j2tEkqaXX1bKAqNN15g6Topv4qS6WB6-",
+      "sha256": "ef11e878ef847919f83cc04d51d0bceb706e257b6890a21c420a0c90fff818ad",
+      "bytes": 956
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "claymore.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.9779459834098816,6.594609826803207,0.2712840139865875]",
+  "convertedAt": "2026-09-05T14:04:47.803Z"
+}

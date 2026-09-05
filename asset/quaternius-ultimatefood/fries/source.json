@@ -1,0 +1,30 @@
+{
+  "id": "fries",
+  "label": "Fries",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1fG5Pnp5X_E6j3AbMwYfV8b9PsXPwYUCe",
+  "file": "OBJ/Fries.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3ce678471d78cc9a070779c071aad81066f9a90386e3f166bfb14d1730df0e8e",
+  "originalInputSha256": "3ce678471d78cc9a070779c071aad81066f9a90386e3f166bfb14d1730df0e8e",
+  "dependencies": [
+    {
+      "path": "OBJ/Fries.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1SupdpFCVcrSeCpo0p4W2u5yOB55Bd8rH",
+      "sha256": "97d44719f9140ccf15f41892c23ca1a90241ebce2d80ed152d01d846929d521a",
+      "bytes": 591
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "fries.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.9488379955291748,0.5857490012422204,1.3262869715690613]",
+  "convertedAt": "2026-09-05T13:51:31.300Z"
+}

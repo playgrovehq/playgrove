@@ -1,0 +1,30 @@
+{
+  "id": "shield-heater",
+  "label": "Shield Heater",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=16rF-zYtVL_B7wnp7YJ6IcUg3Tk7Y6Buh",
+  "file": "OBJ/Shield_Heater.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "15e442b6daccb2b8519a8a243240928c2e49f133505a1e4ccbd02e16c31513f9",
+  "originalInputSha256": "15e442b6daccb2b8519a8a243240928c2e49f133505a1e4ccbd02e16c31513f9",
+  "dependencies": [
+    {
+      "path": "OBJ/Shield_Heater.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1G2jTl-SGdz6nHxZ8_i-Ga94jwN4yBE28",
+      "sha256": "4dda84d24f82081436107a3cfee73f79504d604539c4558abb35faae0b865404",
+      "bytes": 786
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "shield-heater.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2.0050160884857178,2.563724994659424,0.597042977809906]",
+  "convertedAt": "2026-09-05T14:04:47.931Z"
+}

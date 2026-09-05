@@ -1,0 +1,30 @@
+{
+  "id": "pizza",
+  "label": "Pizza",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1xEFBDON3jNJ0AGmqgCAOWvDsidmmI79D",
+  "file": "OBJ/Pizza.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6caea503549f9156ee1501516514644fe4222293bd1f3df6a45a83e9f8ebae18",
+  "originalInputSha256": "6caea503549f9156ee1501516514644fe4222293bd1f3df6a45a83e9f8ebae18",
+  "dependencies": [
+    {
+      "path": "OBJ/Pizza.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1FGqMAmNxQVUG896Zmdchi7QJx12T4tym",
+      "sha256": "ee6fad45b6951a631aabad2d1da0de987fef9503528f7498696468164ad506dd",
+      "bytes": 593
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pizza.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.371837019920349,0.16093300189822912,3.3568620681762695]",
+  "convertedAt": "2026-09-05T13:51:31.792Z"
+}

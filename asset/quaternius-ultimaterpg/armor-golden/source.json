@@ -1,0 +1,30 @@
+{
+  "id": "armor-golden",
+  "label": "Armor Golden",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=13MGsSdESYLcTFGq0uOmxh7MYbrYwEKE8",
+  "file": "OBJ/Armor_Golden.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d4fc5db0ae4a4c22ba13bc8ac6098f55d7125f4547b95912fb75ce1429dc2e4a",
+  "originalInputSha256": "d4fc5db0ae4a4c22ba13bc8ac6098f55d7125f4547b95912fb75ce1429dc2e4a",
+  "dependencies": [
+    {
+      "path": "OBJ/Armor_Golden.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1cHzEXudf6Opf_CeXYMQt_0euiCUfSZR3",
+      "sha256": "0f89584c5270a094781ac4fb6698a806e90a5ad315ff023c6f51fe288c82eadc",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "armor-golden.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.5398919582366943,1.2017229795455933,0.7595340013504028]",
+  "convertedAt": "2026-09-05T13:54:21.003Z"
+}

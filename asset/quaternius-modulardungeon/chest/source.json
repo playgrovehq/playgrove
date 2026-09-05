@@ -1,0 +1,30 @@
+{
+  "id": "chest",
+  "label": "Chest",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1NjbQBOSfF5RMgvJUJez6uKcTjbryLac-",
+  "file": "OBJ/Chest.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2244fed55ed4b5e0f7ff3bdc7e8bf7e3aca7f25a78edac27754801da8051cbb4",
+  "originalInputSha256": "2244fed55ed4b5e0f7ff3bdc7e8bf7e3aca7f25a78edac27754801da8051cbb4",
+  "dependencies": [
+    {
+      "path": "OBJ/Chest.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=19Gu_i6bVIoH-k7qKNkfanFoB_nZGOnZV",
+      "sha256": "b20cf39f7af5e5ee14a7b0dfbf5010df66f8aa4555d431d22932d189e0ce236e",
+      "bytes": 590
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chest.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.1793169975280762,0.8984960071975365,0.8237699866294861]",
+  "convertedAt": "2026-09-05T14:01:00.701Z"
+}

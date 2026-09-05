@@ -1,0 +1,30 @@
+{
+  "id": "sword-big",
+  "label": "Sword big",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1L5wXP3LN5WYs74lofNpflBUVVAFOJj-P",
+  "file": "OBJ/Sword_big.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2c5af65d31f58be192054984569189da805a7e8c7950dd461187ad19baaa5091",
+  "originalInputSha256": "2c5af65d31f58be192054984569189da805a7e8c7950dd461187ad19baaa5091",
+  "dependencies": [
+    {
+      "path": "OBJ/Sword_big.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1XQj0Pg_eMO6um5-kF6vcog_wCssRleM1",
+      "sha256": "257c0d8cd339a08c76c13a2e7daa68aaeab945770ea847d008cc7b557b0d08c5",
+      "bytes": 964
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sword-big.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.433133989572525,2.734625995159149,0.10126599669456482]",
+  "convertedAt": "2026-09-05T13:54:22.805Z"
+}

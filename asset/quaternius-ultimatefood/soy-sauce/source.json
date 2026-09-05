@@ -1,0 +1,30 @@
+{
+  "id": "soy-sauce",
+  "label": "SoySauce",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1nwTIybhTXPCxnI-YmqOcI5bMQnJfzyqy",
+  "file": "OBJ/SoySauce.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2882b4c31b95dd6986dad54f4536469823e6f9982c9adbc7124b47170ee2ead5",
+  "originalInputSha256": "2882b4c31b95dd6986dad54f4536469823e6f9982c9adbc7124b47170ee2ead5",
+  "dependencies": [
+    {
+      "path": "OBJ/SoySauce.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1ufb1K0vSC26jBYsKVAXXChwlyvecisRM",
+      "sha256": "b413f3a66f839363bae2df3c37d5ceb63cff784020211a6bff4df17e062e0039",
+      "bytes": 413
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "soy-sauce.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.5959280133247375,0.2749780062586069,0.5959280133247375]",
+  "convertedAt": "2026-09-05T13:51:32.045Z"
+}

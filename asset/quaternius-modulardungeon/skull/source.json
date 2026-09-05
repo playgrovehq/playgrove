@@ -1,0 +1,30 @@
+{
+  "id": "skull",
+  "label": "Skull",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1uydDrr7uHQCbzrlEKYl2mQ83wen9my42",
+  "file": "OBJ/Skull.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "30e86861f87e456fbcdd904a650ce613003d0ba71ba9440bf4625b3a2b293eeb",
+  "originalInputSha256": "30e86861f87e456fbcdd904a650ce613003d0ba71ba9440bf4625b3a2b293eeb",
+  "dependencies": [
+    {
+      "path": "OBJ/Skull.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1XbGj467SJhpzTJz05u4vBKwOWsI7Msw3",
+      "sha256": "4915e27ec1e0abab567b1f888a9304b81d5d670b7eac2bc6b547dd7bc08f663b",
+      "bytes": 231
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "skull.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.6005689799785614,0.4610480070114136,0.4383289963006973]",
+  "convertedAt": "2026-09-05T14:01:01.016Z"
+}

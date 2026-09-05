@@ -1,0 +1,30 @@
+{
+  "id": "floor-bricks-separate",
+  "label": "Floor BricksSeparate",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=12hxzyMsMSHZbHyMfeOC552EOAjG7wJ56",
+  "file": "OBJ/Floor_BricksSeparate.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "693a3f8025b97e3327561b415c282f2029a8c34dcc3ac09604d97326da6fef15",
+  "originalInputSha256": "693a3f8025b97e3327561b415c282f2029a8c34dcc3ac09604d97326da6fef15",
+  "dependencies": [
+    {
+      "path": "OBJ/Floor_BricksSeparate.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=11BeOR_ZMVgCoPXEkCapEvWAHuW3e2lcu",
+      "sha256": "6c4548e7f8535f27c118bbf502246d9e20d61c2ac431de42f1d262385222fbc8",
+      "bytes": 252
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "floor-bricks-separate.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.9508900046348572,0.2560849990695715,1.1998449862003326]",
+  "convertedAt": "2026-09-05T14:01:00.926Z"
+}

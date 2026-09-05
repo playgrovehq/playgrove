@@ -1,0 +1,30 @@
+{
+  "id": "bomb",
+  "label": "Bomb",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1CApLXbqFcOZ37XYYkpEhEIBtdnvqTVuG",
+  "file": "OBJ/Bomb.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "088e9b97352b896881fc618c4c2f598f1ef79df677dbdf62e61819e2d2ebca28",
+  "originalInputSha256": "088e9b97352b896881fc618c4c2f598f1ef79df677dbdf62e61819e2d2ebca28",
+  "dependencies": [
+    {
+      "path": "OBJ/Bomb.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Tt7VODDuiEwyJPIvVRpihJzH9g0iHslo",
+      "sha256": "0e639763cca785bab60c787b529171a10d4f15316bc7f5deed13dc05c3b505cd",
+      "bytes": 408
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bomb.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.8219299614429474,0.741142988204956,0.6631879806518555]",
+  "convertedAt": "2026-09-05T14:03:42.626Z"
+}

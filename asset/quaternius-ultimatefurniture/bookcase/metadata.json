@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "id": "bookcase",
+  "label": "Bookcase",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "bookcase",
+    "quaternius",
+    "ultimatefurniture",
+    "book",
+    "case",
+    "single",
+    "cube",
+    "right",
+    "door",
+    "left",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#6e5941",
+    "#6a5339",
+    "#604e39",
+    "#877948"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bookcase.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4732,
+    "triangles": 2928,
+    "parts": 7,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.916734,
+      -0.018219,
+      -0.286549
+    ],
+    "max": [
+      0.925202,
+      3.353085,
+      0.377856
+    ],
+    "size": [
+      1.841936,
+      3.371304,
+      0.664405
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "BookCase_Single_Cube",
+    "BookCase_RightDoor_Cube.005",
+    "BookCase_LeftDoor_Cube.001"
+  ],
+  "materialNames": [
+    "Wood1",
+    "Wood2",
+    "DarkWood",
+    "Metal"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+    "download": "https://drive.google.com/uc?export=download&id=1AjpVxl1Ov-vXe9fB7YTxLCxwyJUJhfLc",
+    "file": "OBJ/Bookcase.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

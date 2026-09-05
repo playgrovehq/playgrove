@@ -1,0 +1,30 @@
+{
+  "id": "bag-coins",
+  "label": "Bag Coins",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1HwNTCrtvSdyHPxLT1ZYi_Pk3D6UVea52",
+  "file": "OBJ/Bag_Coins.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f531e776230e2980e1b337a9909153b86addf02ebd50a7d18c3d3b43d070ad64",
+  "originalInputSha256": "f531e776230e2980e1b337a9909153b86addf02ebd50a7d18c3d3b43d070ad64",
+  "dependencies": [
+    {
+      "path": "OBJ/Bag_Coins.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1pYJ6P7x3CcqVWCsRk2gc0B-y_-lSa3N7",
+      "sha256": "9b9a42ca4f9fa9599a16d57682c58ca0e51a7d16e36ccc38c590440e6cafe050",
+      "bytes": 411
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bag-coins.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.44197599589824677,0.11459300015121698,0.22217600047588348]",
+  "convertedAt": "2026-09-05T14:01:00.543Z"
+}

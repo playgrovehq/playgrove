@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "id": "sports-car2",
+  "label": "SportsCar2",
+  "description": "Cars Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "sports",
+    "car2",
+    "quaternius",
+    "cars",
+    "cube",
+    "back",
+    "wheels",
+    "cylinder",
+    "front",
+    "left",
+    "wheel",
+    "right",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#c3c3c3",
+    "#2f2f2f",
+    "#636363",
+    "#d1955a",
+    "#d14d45",
+    "#1b1b1b"
+  ],
+  "colorNames": [
+    "beige",
+    "black",
+    "brown",
+    "orange",
+    "red"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "sports-car2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 6072,
+    "triangles": 3148,
+    "parts": 11,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.935796,
+      -0.015738,
+      -2.028564
+    ],
+    "max": [
+      0.935795,
+      1.187317,
+      1.897969
+    ],
+    "size": [
+      1.871591,
+      1.203055,
+      3.926533
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "SportsCar2_Cube.006",
+    "SportsCar2_BackWheels_Cylinder.002",
+    "SportsCar2_FrontLeftWheel_Cylinder.017",
+    "SportsCar2_FrontRightWheel_Cylinder.018"
+  ],
+  "materialNames": [
+    "White",
+    "Windows",
+    "Grey",
+    "Headlights",
+    "TailLights",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cars.html",
+    "download": "https://drive.google.com/uc?export=download&id=1o9cgFWD966s-EZ2dILZH7Yig3yNkGR3C",
+    "file": "OBJ/SportsCar2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "street-straight",
+  "label": "Street Straight",
+  "description": "Modular Streets Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "street",
+    "straight",
+    "quaternius",
+    "modularstreets",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a4a6ab",
+    "#3a3434",
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "gray",
+    "black",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "street-straight.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 380,
+    "triangles": 356,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1,
+      -0.1,
+      -1
+    ],
+    "max": [
+      1,
+      0.15,
+      1
+    ],
+    "size": [
+      2,
+      0.25,
+      2
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Street_Straight_Cube.003"
+  ],
+  "materialNames": [
+    "Grey",
+    "Black",
+    "White"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modularstreets.html",
+    "download": "https://drive.google.com/uc?export=download&id=18LsfGQe--Qrmy6CYQrwipKc52WfbsC7u",
+    "file": "OBJ/Street_Straight.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

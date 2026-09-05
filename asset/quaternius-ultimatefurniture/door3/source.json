@@ -1,0 +1,30 @@
+{
+  "id": "door3",
+  "label": "Door3",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "pack": "quaternius-ultimatefurniture",
+  "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+  "download": "https://drive.google.com/uc?export=download&id=1JSuoZQrbiE0CcL20qNZZO-BTPdKaVuyR",
+  "file": "OBJ/Door3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "810866b75b4d7037ee50fa51c96d1912ab9223bec986cb353256fb7b958c030d",
+  "originalInputSha256": "810866b75b4d7037ee50fa51c96d1912ab9223bec986cb353256fb7b958c030d",
+  "dependencies": [
+    {
+      "path": "OBJ/Door3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1kCjPoTSAylU1pbMpyrKSVGkj2wxg_0-k",
+      "sha256": "851eaaf92d65114720b7b0a874dece841baa3dfb334a0364ddfc0d7d526a3f04",
+      "bytes": 409
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "door3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.7486149668693542,3.139806004241109,0.3271689862012863]",
+  "convertedAt": "2026-09-05T14:12:34.289Z"
+}

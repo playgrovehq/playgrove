@@ -1,0 +1,30 @@
+{
+  "id": "male-hairstyle-2",
+  "label": "Male Hairstyle 2",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "pack": "quaternius-backgroundposedhumans",
+  "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+  "download": "https://drive.google.com/uc?export=download&id=14IMfxxeZ3ZeACgnFKwCDFzDxh0r6I1Hr",
+  "file": "Male/Male Hairstyles/OBJ/Male_Hairstyle_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "80c97a9509fd57742e3146e0456efe985c7128a34d1150e772da40d05db45f0d",
+  "originalInputSha256": "80c97a9509fd57742e3146e0456efe985c7128a34d1150e772da40d05db45f0d",
+  "dependencies": [
+    {
+      "path": "Male/Male Hairstyles/OBJ/Male_Hairstyle_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1fEA28N2MWPUOcPLkpCcGjRc9Gi9ZzZEO",
+      "sha256": "651d3f6ab62746d98ea1f393d5b6b5e3244356b6a55a21f10e08ca948891ed18",
+      "bytes": 246
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "male-hairstyle-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.5025280117988586,0.5245140194892883,0.5719619989395142]",
+  "convertedAt": "2026-09-05T14:05:32.811Z"
+}

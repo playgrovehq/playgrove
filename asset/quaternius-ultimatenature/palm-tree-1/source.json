@@ -1,0 +1,30 @@
+{
+  "id": "palm-tree-1",
+  "label": "PalmTree 1",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1HA__5rz6I5m8ZC0HaL8JSELUR4bTmS4F",
+  "file": "OBJ/PalmTree_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5df4a32b4f337661b7ade1f017ffab0701539de3f5eeb1dd7ab6d2c73a646cfb",
+  "originalInputSha256": "5df4a32b4f337661b7ade1f017ffab0701539de3f5eeb1dd7ab6d2c73a646cfb",
+  "dependencies": [
+    {
+      "path": "OBJ/PalmTree_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1aAZ-5JNXWdDiPrjYbNJwrx6SOACERQ6r",
+      "sha256": "766a4bb429148b7133cc41868c6a610fc106280d37193ad5adff8e4587fb14d3",
+      "bytes": 596
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "palm-tree-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.8769099712371826,4.471397081390023,2.608991026878357]",
+  "convertedAt": "2026-09-05T13:59:42.334Z"
+}

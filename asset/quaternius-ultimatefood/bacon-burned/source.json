@@ -1,0 +1,30 @@
+{
+  "id": "bacon-burned",
+  "label": "Bacon Burned",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ihifKmnLf3aqua12DoJA95sds9CWxSM5",
+  "file": "OBJ/Bacon_Burned.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bf1874985b72bc4cd2b932ec993145719ddf8457973303f49bfcee2d49b9e1db",
+  "originalInputSha256": "bf1874985b72bc4cd2b932ec993145719ddf8457973303f49bfcee2d49b9e1db",
+  "dependencies": [
+    {
+      "path": "OBJ/Bacon_Burned.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=14BXDtC64LP31X9Nh_kMmVmWFp7S7U4YT",
+      "sha256": "bb1a3ad30a32e2c453a77681c6d541bcb67277e300078b3ab239a4591304f4d9",
+      "bytes": 607
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bacon-burned.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.1574790477752686,0.021268000826239586,0.29676400125026703]",
+  "convertedAt": "2026-09-05T13:51:30.562Z"
+}

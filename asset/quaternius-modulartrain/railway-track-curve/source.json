@@ -1,0 +1,30 @@
+{
+  "id": "railway-track-curve",
+  "label": "RailwayTrack Curve",
+  "description": "Modular Train Pack by Quaternius.",
+  "pack": "quaternius-modulartrain",
+  "listing": "https://quaternius.com/packs/modulartrain.html",
+  "download": "https://drive.google.com/uc?export=download&id=1VhfMspDp3ETnLuo2qP9SlX6PSJgaKfzS",
+  "file": "OBJ/RailwayTrack_Curve.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0dd703422475992f68a42218125b9d1ecd48f4049f34fd6989b26ea805b071a0",
+  "originalInputSha256": "0dd703422475992f68a42218125b9d1ecd48f4049f34fd6989b26ea805b071a0",
+  "dependencies": [
+    {
+      "path": "OBJ/RailwayTrack_Curve.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1X2yqBuckIGUMxIgQ1J05cO34pENLxyxd",
+      "sha256": "3a2e6e7e75d2288fedf30b9b8b0be1132677275c77c568f7fc86d2d57a7d46b6",
+      "bytes": 422
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "railway-track-curve.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[18.631903111934662,0.1429399996995926,18.639603078365326]",
+  "convertedAt": "2026-09-05T14:01:37.199Z"
+}

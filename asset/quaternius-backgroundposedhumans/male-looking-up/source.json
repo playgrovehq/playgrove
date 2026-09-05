@@ -1,0 +1,30 @@
+{
+  "id": "male-looking-up",
+  "label": "Male LookingUp",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "pack": "quaternius-backgroundposedhumans",
+  "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+  "download": "https://drive.google.com/uc?export=download&id=1V6pTUYjzt3cDD3XyexNvBRzW79HSkO8-",
+  "file": "Male/Male Poses/OBJ/Male_LookingUp.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "65e4b40a21dd7f05844c3ecc1062b7698aa13e7fd69dbcf7429d77da35da9f85",
+  "originalInputSha256": "65e4b40a21dd7f05844c3ecc1062b7698aa13e7fd69dbcf7429d77da35da9f85",
+  "dependencies": [
+    {
+      "path": "Male/Male Poses/OBJ/Male_LookingUp.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=15ggl2XYQjg_waRmU4MnY-xTVjgwa_iCE",
+      "sha256": "83284d19a0b3820dd556c0cc0b188f7792efebd72bbc6f235fc2ad3a24dfd58a",
+      "bytes": 774
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "male-looking-up.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.986024022102356,3.6855209432542324,1.1833059787750244]",
+  "convertedAt": "2026-09-05T14:05:32.864Z"
+}

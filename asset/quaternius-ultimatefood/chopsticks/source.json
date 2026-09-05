@@ -1,0 +1,30 @@
+{
+  "id": "chopsticks",
+  "label": "Chopsticks",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1xykR12QEPDimOeWOMiENEhf3DDYUlQC0",
+  "file": "OBJ/Chopsticks.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f82c8b863ebe388e0c7a763d538f69afa3c57124a4ebeb85d480c17d0da84354",
+  "originalInputSha256": "f82c8b863ebe388e0c7a763d538f69afa3c57124a4ebeb85d480c17d0da84354",
+  "dependencies": [
+    {
+      "path": "OBJ/Chopsticks.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=18t7z0Vj96OJUJ_ulOSVOZwT4CEIQSXod",
+      "sha256": "3226e5bd5401a4918a5d038266c863f9979e945d1b88d0210e49f881baedc298",
+      "bytes": 241
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chopsticks.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.6298120021820068,0.053171999752521515,0.12606999278068542]",
+  "convertedAt": "2026-09-05T13:51:30.896Z"
+}

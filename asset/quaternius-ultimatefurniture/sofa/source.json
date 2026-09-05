@@ -1,0 +1,30 @@
+{
+  "id": "sofa",
+  "label": "Sofa",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "pack": "quaternius-ultimatefurniture",
+  "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Hju6oL6uFkl6VRzEMcYvlnGoRLFOT6Af",
+  "file": "OBJ/Sofa.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f516984bdfb09fdfa9d8e4d862b802ba882cba39e97dbfc189d6390bcae5ac71",
+  "originalInputSha256": "f516984bdfb09fdfa9d8e4d862b802ba882cba39e97dbfc189d6390bcae5ac71",
+  "dependencies": [
+    {
+      "path": "OBJ/Sofa.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Arw6gdvzN_DnvmWSeyIAOhdbJ5f_7Qje",
+      "sha256": "a0a70a503c245384b9ff4350bca55b6c5287aad532f553f656df0357d86fa16d",
+      "bytes": 407
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sofa.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[4.241040229797363,1.5077839805744588,1.7836650013923645]",
+  "convertedAt": "2026-09-05T14:12:34.370Z"
+}

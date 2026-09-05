@@ -1,0 +1,30 @@
+{
+  "id": "banana",
+  "label": "Banana",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=11GONDcTZ9pkAOm-gcz_wXunjhUFabzJW",
+  "file": "OBJ/Banana.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a6dce36edcb2ce7d19094eca15555944712835cdd32373c91b5729cf38f6a651",
+  "originalInputSha256": "a6dce36edcb2ce7d19094eca15555944712835cdd32373c91b5729cf38f6a651",
+  "dependencies": [
+    {
+      "path": "OBJ/Banana.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1zaiiyM7NNRuiny241icibfBo64v6SKvg",
+      "sha256": "0d8349e12e8a383e0b071297960316c6cde5ca2bff495bfd8bd6201579d03eb8",
+      "bytes": 234
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "banana.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.1753950119018555,1.4042109847068787,0.3094799965620041]",
+  "convertedAt": "2026-09-05T13:51:30.613Z"
+}

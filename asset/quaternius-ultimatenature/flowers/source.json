@@ -1,0 +1,30 @@
+{
+  "id": "flowers",
+  "label": "Flowers",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1oOzfuZTnGm9sygsquH1jvCm1wMyny5Ux",
+  "file": "OBJ/Flowers.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8ae37b95704c894392cbb696d5ed2941e098a46c0d12154019a712587c2afb08",
+  "originalInputSha256": "8ae37b95704c894392cbb696d5ed2941e098a46c0d12154019a712587c2afb08",
+  "dependencies": [
+    {
+      "path": "OBJ/Flowers.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1t0d4ukZJhA3InosrBnOOHUQSPM8MPP-T",
+      "sha256": "79cd76df6a133ccbd76d95a333317ebb662f8d1e0e4f18f1bfda3a7af66f0f8a",
+      "bytes": 590
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "flowers.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.48948800563812256,0.8289469853043556,0.613679014146328]",
+  "convertedAt": "2026-09-05T13:59:42.243Z"
+}

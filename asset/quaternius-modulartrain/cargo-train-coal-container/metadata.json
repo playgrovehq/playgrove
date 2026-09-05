@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "id": "cargo-train-coal-container",
+  "label": "CargoTrain CoalContainer",
+  "description": "Modular Train Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "cargo",
+    "train",
+    "coal",
+    "container",
+    "quaternius",
+    "modulartrain",
+    "wagon",
+    "cube",
+    "wheels1",
+    "cylinder",
+    "wheels2",
+    "wheels3",
+    "wheels4",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#3d3d3d",
+    "#566065",
+    "#252525",
+    "#2f2f2f"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "cargo-train-coal-container.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3970,
+    "triangles": 2530,
+    "parts": 7,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -4.808573,
+      -0.001065,
+      -1.124884
+    ],
+    "max": [
+      4.45202,
+      2.72109,
+      1.124884
+    ],
+    "size": [
+      9.260593,
+      2.722155,
+      2.249768
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Wagon_ContainerCoal_Cube.002",
+    "Wheels1_Cylinder.000",
+    "Wheels2_Cylinder.001",
+    "Wheels3_Cylinder.003",
+    "Wheels4_Cylinder.004"
+  ],
+  "materialNames": [
+    "Base",
+    "Container",
+    "Coal",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulartrain.html",
+    "download": "https://drive.google.com/uc?export=download&id=17aG_lANhG4P14V2GqB6Y5c9PNb7lz0xw",
+    "file": "OBJ/CargoTrain_CoalContainer.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,4328 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T13:55:50.743Z",
+  "assets": [
+    {
+      "id": "assault-rifle-1",
+      "label": "AssaultRifle 1",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "assault-rifle-1/thumbnail.png",
+      "model": "assault-rifle-1/assault-rifle-1.ts",
+      "package": "assault-rifle-1",
+      "descriptor": "assault-rifle-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CyEzGioyY2r7SENNA5xokzeAzj67pYn_",
+        "file": "OBJ/AssaultRifle_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "assault",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a",
+        "#373736",
+        "#414241",
+        "#51443b"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2102,
+        "triangles": 1244,
+        "parts": 4,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -0.188199,
+          -0.437998,
+          -0.09801
+        ],
+        "max": [
+          2.916603,
+          0.822016,
+          0.098011
+        ],
+        "size": [
+          3.104802,
+          1.260014,
+          0.196021
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "assault-rifle-2",
+      "label": "AssaultRifle 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "assault-rifle-2/thumbnail.png",
+      "model": "assault-rifle-2/assault-rifle-2.ts",
+      "package": "assault-rifle-2",
+      "descriptor": "assault-rifle-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1kBflhIVyhk-H998dHv1eI6iQ5-k0fat7",
+        "file": "OBJ/AssaultRifle_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "assault",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#28292a",
+        "#373736",
+        "#414241",
+        "#51443b"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2274,
+        "triangles": 1294,
+        "parts": 5,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -1.60481,
+          -0.741542,
+          -0.09801
+        ],
+        "max": [
+          3.816847,
+          0.85982,
+          0.098011
+        ],
+        "size": [
+          5.421657,
+          1.601362,
+          0.196021
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "assault-rifle-3",
+      "label": "AssaultRifle 3",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "assault-rifle-3/thumbnail.png",
+      "model": "assault-rifle-3/assault-rifle-3.ts",
+      "package": "assault-rifle-3",
+      "descriptor": "assault-rifle-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1jLx48QK_bmchzeBDzoAQWier3PGhciX3",
+        "file": "OBJ/AssaultRifle_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "assault",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#28292a",
+        "#373736",
+        "#414241",
+        "#51443b"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2118,
+        "triangles": 1208,
+        "parts": 5,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -0.183759,
+          -0.728524,
+          -0.09801
+        ],
+        "max": [
+          3.247396,
+          0.872838,
+          0.098011
+        ],
+        "size": [
+          3.431155,
+          1.601362,
+          0.196021
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "assault-rifle-4",
+      "label": "AssaultRifle 4",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "assault-rifle-4/thumbnail.png",
+      "model": "assault-rifle-4/assault-rifle-4.ts",
+      "package": "assault-rifle-4",
+      "descriptor": "assault-rifle-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CDgA8sptFq_XpujejIH4Wfmb-zxkgXMc",
+        "file": "OBJ/AssaultRifle_4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "assault",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#28292a",
+        "#373736",
+        "#414241",
+        "#51443b"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2330,
+        "triangles": 1378,
+        "parts": 5,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -1.666761,
+          -0.736502,
+          -0.09801
+        ],
+        "max": [
+          3.826925,
+          0.864859,
+          0.098011
+        ],
+        "size": [
+          5.493686,
+          1.601361,
+          0.196021
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "assault-rifle-5",
+      "label": "AssaultRifle 5",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "assault-rifle-5/thumbnail.png",
+      "model": "assault-rifle-5/assault-rifle-5.ts",
+      "package": "assault-rifle-5",
+      "descriptor": "assault-rifle-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1QeN1RcRZYBx6zjC_PXQYb-GWzZV34aWi",
+        "file": "OBJ/AssaultRifle_5.obj"
+      },
+      "category": "props",
+      "tags": [
+        "assault",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a",
+        "#373736",
+        "#414241"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2270,
+        "triangles": 1294,
+        "parts": 3,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -1.599771,
+          -0.721385,
+          -0.09801
+        ],
+        "max": [
+          3.821886,
+          0.879976,
+          0.098011
+        ],
+        "size": [
+          5.421657,
+          1.601361,
+          0.196021
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "assault-rifle2-1",
+      "label": "AssaultRifle2 1",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "assault-rifle2-1/thumbnail.png",
+      "model": "assault-rifle2-1/assault-rifle2-1.ts",
+      "package": "assault-rifle2-1",
+      "descriptor": "assault-rifle2-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1d2qL5gebpWHVDPPcW73JIh3AWo1_F0eE",
+        "file": "OBJ/AssaultRifle2_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "assault",
+        "rifle2",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#22272a",
+        "#191f27",
+        "#2a2f33"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3344,
+        "triangles": 1928,
+        "parts": 3,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -1.55964,
+          -0.71847,
+          -0.171539
+        ],
+        "max": [
+          3.609176,
+          1.072012,
+          0.174866
+        ],
+        "size": [
+          5.168816,
+          1.790482,
+          0.346405
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "assault-rifle2-2",
+      "label": "AssaultRifle2 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "assault-rifle2-2/thumbnail.png",
+      "model": "assault-rifle2-2/assault-rifle2-2.ts",
+      "package": "assault-rifle2-2",
+      "descriptor": "assault-rifle2-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1kTfwBn5KsXlG-SCAVnwlpVyKuOaVo8bJ",
+        "file": "OBJ/AssaultRifle2_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "assault",
+        "rifle2",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#22272a",
+        "#191f27",
+        "#2a2f33"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2938,
+        "triangles": 1790,
+        "parts": 3,
+        "discardedDegenerate": 6
+      },
+      "bounds": {
+        "min": [
+          -1.563115,
+          -0.706537,
+          -0.135386
+        ],
+        "max": [
+          3.263308,
+          1.083945,
+          0.133937
+        ],
+        "size": [
+          4.826423,
+          1.790482,
+          0.269323
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "assault-rifle2-3",
+      "label": "AssaultRifle2 3",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "assault-rifle2-3/thumbnail.png",
+      "model": "assault-rifle2-3/assault-rifle2-3.ts",
+      "package": "assault-rifle2-3",
+      "descriptor": "assault-rifle2-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1O5SpFpEavMpGz66bru6JrB2omgx8Kk_W",
+        "file": "OBJ/AssaultRifle2_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "assault",
+        "rifle2",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#22272a",
+        "#191f27",
+        "#2a2f33"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2816,
+        "triangles": 1614,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.284986,
+          -0.415587,
+          -0.171539
+        ],
+        "max": [
+          3.467664,
+          1.042031,
+          0.174866
+        ],
+        "size": [
+          3.75265,
+          1.457618,
+          0.346405
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "assault-rifle2-4",
+      "label": "AssaultRifle2 4",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "assault-rifle2-4/thumbnail.png",
+      "model": "assault-rifle2-4/assault-rifle2-4.ts",
+      "package": "assault-rifle2-4",
+      "descriptor": "assault-rifle2-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1gnvtNZd5Qyqv7f-WyPWDfkdfdGoWk5zk",
+        "file": "OBJ/AssaultRifle2_4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "assault",
+        "rifle2",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#22272a",
+        "#191f27",
+        "#2a2f33"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2220,
+        "triangles": 1370,
+        "parts": 3,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -1.046274,
+          -0.507368,
+          -0.12235
+        ],
+        "max": [
+          1.911039,
+          1.047293,
+          0.12235
+        ],
+        "size": [
+          2.957313,
+          1.554661,
+          0.2447
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bayonet",
+      "label": "Bayonet",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "bayonet/thumbnail.png",
+      "model": "bayonet/bayonet.ts",
+      "package": "bayonet",
+      "descriptor": "bayonet/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1iupUD39IQZOLMvSv6yD6Ckbll-5SjZR7",
+        "file": "OBJ/Accessories/Bayonet.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bayonet",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a",
+        "#373736",
+        "#555659",
+        "#797a7e"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 432,
+        "triangles": 240,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.212932,
+          -0.139095,
+          -0.066127
+        ],
+        "max": [
+          0.953833,
+          0.095325,
+          0.066127
+        ],
+        "size": [
+          1.166765,
+          0.23442,
+          0.132254
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bayonet-2",
+      "label": "Bayonet 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "bayonet-2/thumbnail.png",
+      "model": "bayonet-2/bayonet-2.ts",
+      "package": "bayonet-2",
+      "descriptor": "bayonet-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1bShASLAITyhXPzzSA87HmjDreecJFaGj",
+        "file": "OBJ/Accessories/Bayonet_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bayonet",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4d5449",
+        "#28292a",
+        "#555659",
+        "#797a7e"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 616,
+        "triangles": 368,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.212932,
+          -0.139095,
+          -0.066127
+        ],
+        "max": [
+          0.954618,
+          0.095325,
+          0.066127
+        ],
+        "size": [
+          1.16755,
+          0.23442,
+          0.132254
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bipod",
+      "label": "Bipod",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "bipod/thumbnail.png",
+      "model": "bipod/bipod.ts",
+      "package": "bipod",
+      "descriptor": "bipod/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ISacotpZLaFCG7y4ygxrrcReVfVuSXyP",
+        "file": "OBJ/Accessories/Bipod.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bipod",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#28292a"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 904,
+        "triangles": 476,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.079641,
+          -1.243098,
+          -0.608111
+        ],
+        "max": [
+          0.065635,
+          0.088375,
+          0.608111
+        ],
+        "size": [
+          0.145276,
+          1.331473,
+          1.216222
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bullpup-1",
+      "label": "Bullpup 1",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "bullpup-1/thumbnail.png",
+      "model": "bullpup-1/bullpup-1.ts",
+      "package": "bullpup-1",
+      "descriptor": "bullpup-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1asgtwDsX9-Rm5GIhkA4BPn9QtYTVyEIn",
+        "file": "OBJ/Bullpup_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bullpup",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#191f27",
+        "#22272a",
+        "#2a2f33"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4852,
+        "triangles": 2782,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.528853,
+          -0.420916,
+          -0.155142
+        ],
+        "max": [
+          2.719206,
+          1.119973,
+          0.155142
+        ],
+        "size": [
+          5.248059,
+          1.540889,
+          0.310284
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bullpup-2",
+      "label": "Bullpup 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "bullpup-2/thumbnail.png",
+      "model": "bullpup-2/bullpup-2.ts",
+      "package": "bullpup-2",
+      "descriptor": "bullpup-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Le5Txs3v81bTMqqjOUZThkJoe25DFUnw",
+        "file": "OBJ/Bullpup_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bullpup",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#191f27",
+        "#22272a",
+        "#2a2f33"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4468,
+        "triangles": 2536,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.039476,
+          -0.424766,
+          -0.155142
+        ],
+        "max": [
+          2.717181,
+          1.092998,
+          0.155142
+        ],
+        "size": [
+          3.756657,
+          1.517764,
+          0.310284
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bullpup-3",
+      "label": "Bullpup 3",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "bullpup-3/thumbnail.png",
+      "model": "bullpup-3/bullpup-3.ts",
+      "package": "bullpup-3",
+      "descriptor": "bullpup-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WjIGbifVAwLoWanWcQJe95D9maYAvzM1",
+        "file": "OBJ/Bullpup_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bullpup",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a",
+        "#22272a",
+        "#191f27",
+        "#2a2f33"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3992,
+        "triangles": 2390,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.626685,
+          -0.519761,
+          -0.15466
+        ],
+        "max": [
+          2.678712,
+          1.075856,
+          0.155624
+        ],
+        "size": [
+          4.305397,
+          1.595617,
+          0.310284
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "flashlight",
+      "label": "Flashlight",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "flashlight/thumbnail.png",
+      "model": "flashlight/flashlight.ts",
+      "package": "flashlight",
+      "descriptor": "flashlight/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1z3F_PZdgE3hsB18SEPXHHs8t_EHYv7Jx",
+        "file": "OBJ/Accessories/Flashlight.obj"
+      },
+      "category": "props",
+      "tags": [
+        "flashlight",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a",
+        "#070e1c"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 254,
+        "triangles": 156,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.117575,
+          -0.034113,
+          -0.159281
+        ],
+        "max": [
+          0.27226,
+          0.193127,
+          0.159281
+        ],
+        "size": [
+          0.389835,
+          0.22724,
+          0.318562
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip",
+      "label": "Grip",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "grip/thumbnail.png",
+      "model": "grip/grip.ts",
+      "package": "grip",
+      "descriptor": "grip/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1aH2HBzm3Q3nJvtBb2cwbxkH9uGsB4JyB",
+        "file": "OBJ/Accessories/Grip.obj"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#22272a"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1580,
+        "triangles": 796,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.131696,
+          -0.244116,
+          -0.138473
+        ],
+        "max": [
+          0.131696,
+          0.422751,
+          0.138473
+        ],
+        "size": [
+          0.263392,
+          0.666867,
+          0.276946
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-1",
+      "label": "Pistol 1",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "pistol-1/thumbnail.png",
+      "model": "pistol-1/pistol-1.ts",
+      "package": "pistol-1",
+      "descriptor": "pistol-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1lqYq-BW8aDEiKZHnU5YIftXHg8UUVADD",
+        "file": "OBJ/Pistol_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#51443b",
+        "#373736",
+        "#414241",
+        "#28292a",
+        "#1b1b1c"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1944,
+        "triangles": 1036,
+        "parts": 5,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.339644,
+          -0.407922,
+          -0.161605
+        ],
+        "max": [
+          1.479757,
+          0.753634,
+          0.161605
+        ],
+        "size": [
+          1.819401,
+          1.161556,
+          0.32321
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-2",
+      "label": "Pistol 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "pistol-2/thumbnail.png",
+      "model": "pistol-2/pistol-2.ts",
+      "package": "pistol-2",
+      "descriptor": "pistol-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=12llZNaR14v9Y-Q2l0rQeo4bSdorD7Cqb",
+        "file": "OBJ/Pistol_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#414241",
+        "#28292a",
+        "#555659"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2104,
+        "triangles": 1196,
+        "parts": 4,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.348734,
+          -0.412467,
+          -0.161605
+        ],
+        "max": [
+          1.470667,
+          0.749089,
+          0.161605
+        ],
+        "size": [
+          1.819401,
+          1.161556,
+          0.32321
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-3",
+      "label": "Pistol 3",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "pistol-3/thumbnail.png",
+      "model": "pistol-3/pistol-3.ts",
+      "package": "pistol-3",
+      "descriptor": "pistol-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1y9kfsIHICS2PoQ752W7xUriTOgNJi1VB",
+        "file": "OBJ/Pistol_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#555659",
+        "#28292a",
+        "#414241"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2514,
+        "triangles": 1440,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.339644,
+          -0.426102,
+          -0.164361
+        ],
+        "max": [
+          1.505308,
+          0.867026,
+          0.16436
+        ],
+        "size": [
+          1.844952,
+          1.293128,
+          0.328721
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-4",
+      "label": "Pistol 4",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "pistol-4/thumbnail.png",
+      "model": "pistol-4/pistol-4.ts",
+      "package": "pistol-4",
+      "descriptor": "pistol-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=17pMfeGG_HD02vKdLhQJAcCpOe_qGrI67",
+        "file": "OBJ/Pistol_4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241",
+        "#28292a",
+        "#555659"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2413,
+        "triangles": 1318,
+        "parts": 3,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.36567,
+          -0.515481,
+          -0.150466
+        ],
+        "max": [
+          1.609844,
+          1.112692,
+          0.150466
+        ],
+        "size": [
+          1.975514,
+          1.628173,
+          0.300932
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-5",
+      "label": "Pistol 5",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "pistol-5/thumbnail.png",
+      "model": "pistol-5/pistol-5.ts",
+      "package": "pistol-5",
+      "descriptor": "pistol-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=11X9AtcYiyt3pkORolcfaYiKI3933I2TO",
+        "file": "OBJ/Pistol_5.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241",
+        "#28292a",
+        "#555659"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1745,
+        "triangles": 964,
+        "parts": 3,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.36682,
+          -0.476826,
+          -0.137178
+        ],
+        "max": [
+          1.452487,
+          0.721819,
+          0.137178
+        ],
+        "size": [
+          1.819307,
+          1.198645,
+          0.274356
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-6",
+      "label": "Pistol 6",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "pistol-6/thumbnail.png",
+      "model": "pistol-6/pistol-6.ts",
+      "package": "pistol-6",
+      "descriptor": "pistol-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1TSmvd49VlbnLzYQsBp6umewJC55dE1hn",
+        "file": "OBJ/Pistol_6.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241",
+        "#28292a",
+        "#555659"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3194,
+        "triangles": 1874,
+        "parts": 3,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.338008,
+          -0.407376,
+          -0.154386
+        ],
+        "max": [
+          2.109167,
+          0.754179,
+          0.154386
+        ],
+        "size": [
+          2.447175,
+          1.161555,
+          0.308772
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "revolver-1",
+      "label": "Revolver 1",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "revolver-1/thumbnail.png",
+      "model": "revolver-1/revolver-1.ts",
+      "package": "revolver-1",
+      "descriptor": "revolver-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hgeIaNjND3Hi239KZxF5lJWClNxczik3",
+        "file": "OBJ/Revolver_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "revolver",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241",
+        "#555659",
+        "#5c4c42"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1594,
+        "triangles": 1046,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.241989,
+          -0.31617,
+          -0.147195
+        ],
+        "max": [
+          1.739905,
+          0.573639,
+          0.147162
+        ],
+        "size": [
+          1.981894,
+          0.889809,
+          0.294357
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "revolver-2",
+      "label": "Revolver 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "revolver-2/thumbnail.png",
+      "model": "revolver-2/revolver-2.ts",
+      "package": "revolver-2",
+      "descriptor": "revolver-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1VEs-ZC_pgVsrUyPDTmgFfgQ8wTh0rDHK",
+        "file": "OBJ/Revolver_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "revolver",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#51443b",
+        "#555659",
+        "#414241",
+        "#333435"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2050,
+        "triangles": 1252,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.196357,
+          -0.278354,
+          -0.147195
+        ],
+        "max": [
+          1.785539,
+          0.665357,
+          0.147162
+        ],
+        "size": [
+          1.981896,
+          0.943711,
+          0.294357
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "revolver-3",
+      "label": "Revolver 3",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "revolver-3/thumbnail.png",
+      "model": "revolver-3/revolver-3.ts",
+      "package": "revolver-3",
+      "descriptor": "revolver-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1mlmr4ua1O1oQtEP1lcyKDsXfvRDsGXxJ",
+        "file": "OBJ/Revolver_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "revolver",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#51443b",
+        "#555659",
+        "#414241",
+        "#333435"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2394,
+        "triangles": 1438,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.213105,
+          -0.335117,
+          -0.147195
+        ],
+        "max": [
+          1.771881,
+          0.647373,
+          0.147162
+        ],
+        "size": [
+          1.984986,
+          0.98249,
+          0.294357
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "revolver-4",
+      "label": "Revolver 4",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "revolver-4/thumbnail.png",
+      "model": "revolver-4/revolver-4.ts",
+      "package": "revolver-4",
+      "descriptor": "revolver-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1L2pPEbDgDoz2A-4ZSXWoPvqQzU3g9p00",
+        "file": "OBJ/Revolver_4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "revolver",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241",
+        "#555659",
+        "#51443b"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1484,
+        "triangles": 966,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.222243,
+          -0.314898,
+          -0.147195
+        ],
+        "max": [
+          1.250419,
+          0.60022,
+          0.147162
+        ],
+        "size": [
+          1.472662,
+          0.915118,
+          0.294357
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "revolver-5",
+      "label": "Revolver 5",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "revolver-5/thumbnail.png",
+      "model": "revolver-5/revolver-5.ts",
+      "package": "revolver-5",
+      "descriptor": "revolver-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1TtLup16quvfRwe6YOrtHFzsUKmnU89Pk",
+        "file": "OBJ/Revolver_5.obj"
+      },
+      "category": "props",
+      "tags": [
+        "revolver",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241",
+        "#555659",
+        "#333435"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2180,
+        "triangles": 1334,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.183275,
+          -0.2623,
+          -0.147195
+        ],
+        "max": [
+          1.71783,
+          0.700427,
+          0.147162
+        ],
+        "size": [
+          1.901105,
+          0.962727,
+          0.294357
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "scope-1",
+      "label": "Scope 1",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "scope-1/thumbnail.png",
+      "model": "scope-1/scope-1.ts",
+      "package": "scope-1",
+      "descriptor": "scope-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ECK7CGna-FXVYqVqJjYfVboH7NQZyhaL",
+        "file": "OBJ/Accessories/Scope_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "scope",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a",
+        "#373736",
+        "#070e1c"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 748,
+        "triangles": 412,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.093578,
+          -0.031306,
+          -0.154958
+        ],
+        "max": [
+          1.010987,
+          0.353067,
+          0.154958
+        ],
+        "size": [
+          2.104565,
+          0.384373,
+          0.309916
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "scope-2",
+      "label": "Scope 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "scope-2/thumbnail.png",
+      "model": "scope-2/scope-2.ts",
+      "package": "scope-2",
+      "descriptor": "scope-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1IFMDDcUe3gfqfT3Ec4lNhFMo0-a7q0d1",
+        "file": "OBJ/Accessories/Scope_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "scope",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a",
+        "#373736",
+        "#070e1c"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 912,
+        "triangles": 468,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.001319,
+          -0.031239,
+          -0.180294
+        ],
+        "max": [
+          1.078035,
+          0.366986,
+          0.180293
+        ],
+        "size": [
+          2.079354,
+          0.398225,
+          0.360587
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "scope-3",
+      "label": "Scope 3",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "scope-3/thumbnail.png",
+      "model": "scope-3/scope-3.ts",
+      "package": "scope-3",
+      "descriptor": "scope-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1uLWICI4VWc0QRd254oXGd_9dbKlsYoPt",
+        "file": "OBJ/Accessories/Scope_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "scope",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a",
+        "#373736",
+        "#070e1c"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 780,
+        "triangles": 428,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.88164,
+          -0.02897,
+          -0.189244
+        ],
+        "max": [
+          1.041525,
+          0.389688,
+          0.189243
+        ],
+        "size": [
+          1.923165,
+          0.418658,
+          0.378487
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun-1",
+      "label": "Shotgun 1",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "shotgun-1/thumbnail.png",
+      "model": "shotgun-1/shotgun-1.ts",
+      "package": "shotgun-1",
+      "descriptor": "shotgun-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1BoldIbNoFgvddaVvBXzhG06WhsZBCkz8",
+        "file": "OBJ/Shotgun_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#555659",
+        "#414241",
+        "#373736",
+        "#28292a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2046,
+        "triangles": 1270,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.414408,
+          -0.524007,
+          -0.123267
+        ],
+        "max": [
+          3.80057,
+          0.418674,
+          0.123267
+        ],
+        "size": [
+          5.214978,
+          0.942681,
+          0.246534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun-2",
+      "label": "Shotgun 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "shotgun-2/thumbnail.png",
+      "model": "shotgun-2/shotgun-2.ts",
+      "package": "shotgun-2",
+      "descriptor": "shotgun-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=127p1wAvR8Axr2ohcey8Z_n8vj3aMRdYL",
+        "file": "OBJ/Shotgun_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241",
+        "#28292a",
+        "#373736",
+        "#5c4c42",
+        "#51443b"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1330,
+        "triangles": 746,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.434938,
+          -0.568302,
+          -0.123267
+        ],
+        "max": [
+          4.349963,
+          0.381153,
+          0.123266
+        ],
+        "size": [
+          5.784901,
+          0.949455,
+          0.246533
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun-3",
+      "label": "Shotgun 3",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "shotgun-3/thumbnail.png",
+      "model": "shotgun-3/shotgun-3.ts",
+      "package": "shotgun-3",
+      "descriptor": "shotgun-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1mFvkxFHf6RYBGtkZygc3gH88mv11oRYY",
+        "file": "OBJ/Shotgun_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#414241",
+        "#373736",
+        "#28292a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1660,
+        "triangles": 978,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.477144,
+          -0.563263,
+          -0.123267
+        ],
+        "max": [
+          4.307756,
+          0.379417,
+          0.123267
+        ],
+        "size": [
+          5.7849,
+          0.94268,
+          0.246534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun-4",
+      "label": "Shotgun 4",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "shotgun-4/thumbnail.png",
+      "model": "shotgun-4/shotgun-4.ts",
+      "package": "shotgun-4",
+      "descriptor": "shotgun-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1RmtFVZxcC_lgXpnsXkoCWcKY8AN1y_yj",
+        "file": "OBJ/Shotgun_4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#414241",
+        "#51443b",
+        "#373736",
+        "#28292a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1188,
+        "triangles": 668,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.51946,
+          -0.577505,
+          -0.099638
+        ],
+        "max": [
+          3.929357,
+          0.34925,
+          0.099638
+        ],
+        "size": [
+          5.448817,
+          0.926755,
+          0.199276
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun-sawed-off",
+      "label": "Shotgun SawedOff",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "shotgun-sawed-off/thumbnail.png",
+      "model": "shotgun-sawed-off/shotgun-sawed-off.ts",
+      "package": "shotgun-sawed-off",
+      "descriptor": "shotgun-sawed-off/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1j54Tht6TyOx3GNrFsQtSJeY9FpHbaCMP",
+        "file": "OBJ/Shotgun_SawedOff.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "sawed",
+        "off",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#28292a",
+        "#5c4c42",
+        "#414241",
+        "#51443b"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1675,
+        "triangles": 955,
+        "parts": 5,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.402993,
+          -0.455389,
+          -0.211228
+        ],
+        "max": [
+          3.285208,
+          0.564741,
+          0.211224
+        ],
+        "size": [
+          3.688201,
+          1.02013,
+          0.422452
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun-short-stock",
+      "label": "Shotgun ShortStock",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "shotgun-short-stock/thumbnail.png",
+      "model": "shotgun-short-stock/shotgun-short-stock.ts",
+      "package": "shotgun-short-stock",
+      "descriptor": "shotgun-short-stock/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1dHZemmRveHn69-xPGwr5nvOKzt-9NRYf",
+        "file": "OBJ/Shotgun_ShortStock.obj"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "short",
+        "stock",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4c42",
+        "#414241",
+        "#373736",
+        "#28292a"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2501,
+        "triangles": 1589,
+        "parts": 4,
+        "discardedDegenerate": 23
+      },
+      "bounds": {
+        "min": [
+          -0.422269,
+          -0.426904,
+          -0.123267
+        ],
+        "max": [
+          4.048998,
+          0.539995,
+          0.123267
+        ],
+        "size": [
+          4.471267,
+          0.966899,
+          0.246534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "silencer-1",
+      "label": "Silencer 1",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "silencer-1/thumbnail.png",
+      "model": "silencer-1/silencer-1.ts",
+      "package": "silencer-1",
+      "descriptor": "silencer-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1h59BlTqZeje4GN6dBEGPb8_yF3ARTLfF",
+        "file": "OBJ/Accessories/Silencer_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "silencer",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 430,
+        "triangles": 248,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.095312,
+          -0.157595,
+          -0.165705
+        ],
+        "max": [
+          1.649429,
+          0.157595,
+          0.165705
+        ],
+        "size": [
+          1.744741,
+          0.31519,
+          0.33141
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "silencer-2",
+      "label": "Silencer 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "silencer-2/thumbnail.png",
+      "model": "silencer-2/silencer-2.ts",
+      "package": "silencer-2",
+      "descriptor": "silencer-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1yXf6WabZkCEC4utp7BNTgc30bQH_RI5X",
+        "file": "OBJ/Accessories/Silencer_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "silencer",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1170,
+        "triangles": 608,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.070106,
+          -0.158043,
+          -0.166176
+        ],
+        "max": [
+          1.587633,
+          0.158042,
+          0.166176
+        ],
+        "size": [
+          1.657739,
+          0.316085,
+          0.332352
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "silencer-3",
+      "label": "Silencer 3",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "silencer-3/thumbnail.png",
+      "model": "silencer-3/silencer-3.ts",
+      "package": "silencer-3",
+      "descriptor": "silencer-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1QLuqxAJSjPzauKmw2H8MTbTjwXlJ70Uc",
+        "file": "OBJ/Accessories/Silencer_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "silencer",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1326,
+        "triangles": 824,
+        "parts": 1,
+        "discardedDegenerate": 8
+      },
+      "bounds": {
+        "min": [
+          -0.083642,
+          -0.165776,
+          -0.174307
+        ],
+        "max": [
+          1.688005,
+          0.165775,
+          0.174307
+        ],
+        "size": [
+          1.771647,
+          0.331551,
+          0.348614
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "silencer-long",
+      "label": "Silencer long",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "silencer-long/thumbnail.png",
+      "model": "silencer-long/silencer-long.ts",
+      "package": "silencer-long",
+      "descriptor": "silencer-long/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hsMIvIhs6CvsDOWJlN2fPIe2uRA5q06T",
+        "file": "OBJ/Accessories/Silencer_long.obj"
+      },
+      "category": "props",
+      "tags": [
+        "silencer",
+        "long",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 430,
+        "triangles": 248,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.108335,
+          -0.157595,
+          -0.165705
+        ],
+        "max": [
+          2.551719,
+          0.157595,
+          0.165705
+        ],
+        "size": [
+          2.660054,
+          0.31519,
+          0.33141
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "silencer-short",
+      "label": "Silencer Short",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "silencer-short/thumbnail.png",
+      "model": "silencer-short/silencer-short.ts",
+      "package": "silencer-short",
+      "descriptor": "silencer-short/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1K90g6YIoYEE7kzNzAbc5g4pP51i9ue_-",
+        "file": "OBJ/Accessories/Silencer_Short.obj"
+      },
+      "category": "props",
+      "tags": [
+        "silencer",
+        "short",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 430,
+        "triangles": 248,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.09693,
+          -0.157595,
+          -0.165705
+        ],
+        "max": [
+          0.77894,
+          0.157595,
+          0.165705
+        ],
+        "size": [
+          0.87587,
+          0.31519,
+          0.33141
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sniper-rifle-1",
+      "label": "SniperRifle 1",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "sniper-rifle-1/thumbnail.png",
+      "model": "sniper-rifle-1/sniper-rifle-1.ts",
+      "package": "sniper-rifle-1",
+      "descriptor": "sniper-rifle-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1HUfH1-p4b9cnofdMd6bRVRfZUS8ElLvd",
+        "file": "OBJ/SniperRifle_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sniper",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4d5449",
+        "#28292a",
+        "#373736",
+        "#070e1c",
+        "#333435"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2470,
+        "triangles": 1382,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.043425,
+          -0.78785,
+          -0.154958
+        ],
+        "max": [
+          5.251208,
+          0.696123,
+          0.304352
+        ],
+        "size": [
+          7.294633,
+          1.483973,
+          0.45931
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sniper-rifle-2",
+      "label": "SniperRifle 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "sniper-rifle-2/thumbnail.png",
+      "model": "sniper-rifle-2/sniper-rifle-2.ts",
+      "package": "sniper-rifle-2",
+      "descriptor": "sniper-rifle-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1YNILV_qF5gflRTINJWPAq6CKN3uugjic",
+        "file": "OBJ/SniperRifle_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sniper",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#28292a",
+        "#373736",
+        "#555659",
+        "#333435",
+        "#070e1c"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3137,
+        "triangles": 1732,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.874493,
+          -0.764186,
+          -0.180294
+        ],
+        "max": [
+          5.539346,
+          0.743259,
+          0.304352
+        ],
+        "size": [
+          7.413839,
+          1.507445,
+          0.484646
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sniper-rifle-3",
+      "label": "SniperRifle 3",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "sniper-rifle-3/thumbnail.png",
+      "model": "sniper-rifle-3/sniper-rifle-3.ts",
+      "package": "sniper-rifle-3",
+      "descriptor": "sniper-rifle-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1VBuCsfQV7w71vygsUbbUz4aAtrj9WvsX",
+        "file": "OBJ/SniperRifle_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sniper",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4d5449",
+        "#28292a",
+        "#373736",
+        "#070e1c",
+        "#333435"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2974,
+        "triangles": 1722,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.933177,
+          -0.383566,
+          -0.141385
+        ],
+        "max": [
+          5.311476,
+          0.81722,
+          0.304352
+        ],
+        "size": [
+          7.244653,
+          1.200786,
+          0.445737
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sniper-rifle-4",
+      "label": "SniperRifle 4",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "sniper-rifle-4/thumbnail.png",
+      "model": "sniper-rifle-4/sniper-rifle-4.ts",
+      "package": "sniper-rifle-4",
+      "descriptor": "sniper-rifle-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1rcDt3viB4D2e4CP8yxI8iXS9W_IiaOts",
+        "file": "OBJ/SniperRifle_4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sniper",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#28292a",
+        "#414241",
+        "#070e1c",
+        "#333435"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2416,
+        "triangles": 1346,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.377546,
+          -0.713719,
+          -0.154958
+        ],
+        "max": [
+          4.958062,
+          0.634547,
+          0.304352
+        ],
+        "size": [
+          6.335608,
+          1.348266,
+          0.45931
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sniper-rifle-5",
+      "label": "SniperRifle 5",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "sniper-rifle-5/thumbnail.png",
+      "model": "sniper-rifle-5/sniper-rifle-5.ts",
+      "package": "sniper-rifle-5",
+      "descriptor": "sniper-rifle-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1zJVE1IVRgp115Z5nnfa1pwU9np83XVbZ",
+        "file": "OBJ/SniperRifle_5.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sniper",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#555659",
+        "#414241",
+        "#28292a",
+        "#333435",
+        "#070e1c"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3052,
+        "triangles": 1690,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.357932,
+          -0.912703,
+          -0.620068
+        ],
+        "max": [
+          3.977676,
+          0.986577,
+          0.627783
+        ],
+        "size": [
+          6.335608,
+          1.89928,
+          1.247851
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sniper-rifle-6",
+      "label": "SniperRifle 6",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "sniper-rifle-6/thumbnail.png",
+      "model": "sniper-rifle-6/sniper-rifle-6.ts",
+      "package": "sniper-rifle-6",
+      "descriptor": "sniper-rifle-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1KHVUBuaaS3n_W1RZEsbh--5_vn7obTq-",
+        "file": "OBJ/SniperRifle_6.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sniper",
+        "rifle",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#51443b",
+        "#28292a",
+        "#373736",
+        "#333435",
+        "#070e1c"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2456,
+        "triangles": 1370,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.959392,
+          -0.758578,
+          -0.189244
+        ],
+        "max": [
+          5.246613,
+          0.759682,
+          0.304352
+        ],
+        "size": [
+          7.206005,
+          1.51826,
+          0.493596
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock",
+      "label": "Stock",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "stock/thumbnail.png",
+      "model": "stock/stock.ts",
+      "package": "stock",
+      "descriptor": "stock/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1SKRiEW5PCUokwA-VVZLpITyDtp1h1tok",
+        "file": "OBJ/Accessories/Stock.obj"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#414241"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 224,
+        "triangles": 170,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.587363,
+          -0.626102,
+          -0.05708
+        ],
+        "max": [
+          0.032232,
+          0.125751,
+          0.05708
+        ],
+        "size": [
+          1.619595,
+          0.751853,
+          0.11416
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "submachine-gun-1",
+      "label": "SubmachineGun 1",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "submachine-gun-1/thumbnail.png",
+      "model": "submachine-gun-1/submachine-gun-1.ts",
+      "package": "submachine-gun-1",
+      "descriptor": "submachine-gun-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1OlBq6bzSoS7eRFTqFEZLVScaRwsVfzda",
+        "file": "OBJ/SubmachineGun_1.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "submachine",
+        "gun",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#414241",
+        "#28292a",
+        "#333435"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1890,
+        "triangles": 1162,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.500199,
+          -0.750998,
+          -0.159273
+        ],
+        "max": [
+          2.27127,
+          0.957687,
+          0.159273
+        ],
+        "size": [
+          2.771469,
+          1.708685,
+          0.318546
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "submachine-gun-2",
+      "label": "SubmachineGun 2",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "submachine-gun-2/thumbnail.png",
+      "model": "submachine-gun-2/submachine-gun-2.ts",
+      "package": "submachine-gun-2",
+      "descriptor": "submachine-gun-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1AknXaNARrNTYiRBkmmptyKNxF4ymRvLV",
+        "file": "OBJ/SubmachineGun_2.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "submachine",
+        "gun",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#414241",
+        "#28292a",
+        "#333435"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2140,
+        "triangles": 1372,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -1.79508,
+          -0.860741,
+          -0.159273
+        ],
+        "max": [
+          2.248869,
+          0.986583,
+          0.159273
+        ],
+        "size": [
+          4.043949,
+          1.847324,
+          0.318546
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "submachine-gun-3",
+      "label": "SubmachineGun 3",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "submachine-gun-3/thumbnail.png",
+      "model": "submachine-gun-3/submachine-gun-3.ts",
+      "package": "submachine-gun-3",
+      "descriptor": "submachine-gun-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WY8fQrATsTk7OpdysejeeYbiOC4RTlCr",
+        "file": "OBJ/SubmachineGun_3.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "submachine",
+        "gun",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#414241",
+        "#28292a",
+        "#333435"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2674,
+        "triangles": 1564,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -1.875382,
+          -0.751014,
+          -0.159273
+        ],
+        "max": [
+          2.122204,
+          0.771627,
+          0.159273
+        ],
+        "size": [
+          3.997586,
+          1.522641,
+          0.318546
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "submachine-gun-4",
+      "label": "SubmachineGun 4",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "submachine-gun-4/thumbnail.png",
+      "model": "submachine-gun-4/submachine-gun-4.ts",
+      "package": "submachine-gun-4",
+      "descriptor": "submachine-gun-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1t6_2nE_XdSwjByd4HUGCtImIeVRnq_cx",
+        "file": "OBJ/SubmachineGun_4.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "submachine",
+        "gun",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#414241",
+        "#28292a",
+        "#333435"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1662,
+        "triangles": 1022,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.365742,
+          -0.793918,
+          -0.159273
+        ],
+        "max": [
+          2.183704,
+          0.844108,
+          0.159273
+        ],
+        "size": [
+          2.549446,
+          1.638026,
+          0.318546
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "submachine-gun-5",
+      "label": "SubmachineGun 5",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "submachine-gun-5/thumbnail.png",
+      "model": "submachine-gun-5/submachine-gun-5.ts",
+      "package": "submachine-gun-5",
+      "descriptor": "submachine-gun-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1kRQElAZ_yo4Ctn2UzPZS_PB8jQcdkR3P",
+        "file": "OBJ/SubmachineGun_5.obj"
+      },
+      "category": "equipment",
+      "tags": [
+        "submachine",
+        "gun",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#414241",
+        "#333435",
+        "#28292a"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2342,
+        "triangles": 1440,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.790265,
+          -0.739057,
+          -0.159273
+        ],
+        "max": [
+          3.238765,
+          0.991487,
+          0.159273
+        ],
+        "size": [
+          5.02903,
+          1.730544,
+          0.318546
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tripod",
+      "label": "Tripod",
+      "description": "Ultimate Guns Pack by Quaternius.",
+      "thumbnail": "tripod/thumbnail.png",
+      "model": "tripod/tripod.ts",
+      "package": "tripod",
+      "descriptor": "tripod/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimategun.html",
+        "download": "https://drive.google.com/uc?export=download&id=1jC2OqDlZoN9irYrymuD3o3s1YP4b_7Kt",
+        "file": "OBJ/Accessories/Tripod.obj"
+      },
+      "category": "props",
+      "tags": [
+        "tripod",
+        "quaternius",
+        "ultimategun",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#373736",
+        "#28292a"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1240,
+        "triangles": 648,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.503124,
+          -1.1529,
+          -0.606331
+        ],
+        "max": [
+          0.807435,
+          0.027994,
+          0.609891
+        ],
+        "size": [
+          1.310559,
+          1.180894,
+          1.216222
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

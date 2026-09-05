@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "pancake",
+  "label": "Pancake",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "pancake",
+    "quaternius",
+    "ultimatefood",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#ab9964",
+    "#937f63",
+    "#ae9044",
+    "#9d6d3e"
+  ],
+  "colorNames": [
+    "gray",
+    "orange",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pancake.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 724,
+    "triangles": 378,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.71075,
+      -0.137659,
+      -0.705917
+    ],
+    "max": [
+      0.73151,
+      0.117655,
+      0.736342
+    ],
+    "size": [
+      1.44226,
+      0.255314,
+      1.442259
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pancake_Cylinder.034"
+  ],
+  "materialNames": [
+    "LightBeige",
+    "Light",
+    "Yellow",
+    "Syrup"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefood.html",
+    "download": "https://drive.google.com/uc?export=download&id=1oIONE3Psl379bt3p9InPIlt3jJWvAs1C",
+    "file": "OBJ/Pancake.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

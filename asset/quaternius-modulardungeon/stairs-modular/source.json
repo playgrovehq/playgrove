@@ -1,0 +1,30 @@
+{
+  "id": "stairs-modular",
+  "label": "Stairs Modular",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1i7vC-2deqOyLZ1qQiLTvTa9WrjW_7tQb",
+  "file": "OBJ/Stairs_Modular.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d8125bc004e76ae96d95f598386fe938f706c0373123baef66715f79998ac78e",
+  "originalInputSha256": "d8125bc004e76ae96d95f598386fe938f706c0373123baef66715f79998ac78e",
+  "dependencies": [
+    {
+      "path": "OBJ/Stairs_Modular.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1_kvDVaWtU9tOZKUvG67BLioWMKn7FUAd",
+      "sha256": "d91223bccea38f1609114fa1218d22d2ec60562ba24d3daae4fff62a9e5ef5d8",
+      "bytes": 246
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "stairs-modular.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.0131360292434692,2.019315004348755,2.0516079664230347]",
+  "convertedAt": "2026-09-05T14:01:01.053Z"
+}

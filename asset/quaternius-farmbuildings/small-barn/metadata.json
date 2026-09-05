@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "id": "small-barn",
+  "label": "SmallBarn",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "small",
+    "barn",
+    "quaternius",
+    "farmbuildings",
+    "cube",
+    "door",
+    "window",
+    "window2",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#7c3a32",
+    "#d1d1d1",
+    "#8f433a",
+    "#4f4f4f"
+  ],
+  "colorNames": [
+    "brown",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "small-barn.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3104,
+    "triangles": 2174,
+    "parts": 11,
+    "discardedDegenerate": 2
+  },
+  "bounds": {
+    "min": [
+      -3.09099,
+      0.000162,
+      -3.112063
+    ],
+    "max": [
+      2.987729,
+      4.961273,
+      3.161823
+    ],
+    "size": [
+      6.078719,
+      4.961111,
+      6.273886
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Small_Barn_Cube.013",
+    "Small_Barn_Door_Cube.008",
+    "SmallBarn_Window_Cube.023",
+    "SmallBarn_Window2_Cube.022"
+  ],
+  "materialNames": [
+    "DarkRed",
+    "White",
+    "LightRed",
+    "RoofBlack"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/farmbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1JziZu1iGnyIcn8MyZy6oYML06_4EGsn1",
+    "file": "OBJ/SmallBarn.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

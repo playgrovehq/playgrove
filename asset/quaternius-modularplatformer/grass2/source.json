@@ -1,0 +1,30 @@
+{
+  "id": "grass2",
+  "label": "Grass2",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=14lEp8PPy340rILuBLxI4wL9H4D6iNpAa",
+  "file": "OBJ/Grass2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f85a402c6c9b0d6aba111f1b8b15ecf10b77dba6a8da1c6a1d5ae2888f0f7c47",
+  "originalInputSha256": "f85a402c6c9b0d6aba111f1b8b15ecf10b77dba6a8da1c6a1d5ae2888f0f7c47",
+  "dependencies": [
+    {
+      "path": "OBJ/Grass2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17Wh4MTG3QqhHCKC7BecWln5qwiEUCJZe",
+      "sha256": "2784b10ded0fe7e9b66a859dce90264f4e3f67e50b935abaece0397534138050",
+      "bytes": 233
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "grass2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4072680026292801,0.43407599441707134,0.15719999372959137]",
+  "convertedAt": "2026-09-05T14:03:42.836Z"
+}

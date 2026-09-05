@@ -1,0 +1,30 @@
+{
+  "id": "padlock",
+  "label": "Padlock",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ULPJPCUwjOw7NlLNBVT6B4oIr9SImySx",
+  "file": "OBJ/Padlock.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "92d4f051e39936a4ec8cbf2d5532fbe468bc9be535ef7a7f8734bd3e9f40ed50",
+  "originalInputSha256": "92d4f051e39936a4ec8cbf2d5532fbe468bc9be535ef7a7f8734bd3e9f40ed50",
+  "dependencies": [
+    {
+      "path": "OBJ/Padlock.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1h9EMqpOR_IHkuHfvGwdhdjU5cco4Qjst",
+      "sha256": "3edf9fca54ac0145ed136e74855daaf7c66321b379e9a447673d85d1a93a3e3c",
+      "bytes": 411
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "padlock.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6153180003166199,0.9685719907283783,0.31171800196170807]",
+  "convertedAt": "2026-09-05T13:54:22.107Z"
+}

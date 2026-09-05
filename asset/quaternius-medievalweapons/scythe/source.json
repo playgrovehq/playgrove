@@ -1,0 +1,30 @@
+{
+  "id": "scythe",
+  "label": "Scythe",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hmS4a2qmqJkhlzmSc1AVmHqDtYPwO5Ch",
+  "file": "OBJ/Scythe.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1907507b31384cc1ed2b90c9e32c09bf9c3d3e0752d44130aa4567e6636f62b2",
+  "originalInputSha256": "1907507b31384cc1ed2b90c9e32c09bf9c3d3e0752d44130aa4567e6636f62b2",
+  "dependencies": [
+    {
+      "path": "OBJ/Scythe.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1vJyRbVafOrcQcNn2PqEkqZbth3_u-PM-",
+      "sha256": "5ac9f191eb2935916815f173fe456d0e86b28446e2bf49526716769f967d6465",
+      "bytes": 779
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "scythe.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[3.028733015060425,5.581863164901733,0.27706000208854675]",
+  "convertedAt": "2026-09-05T14:04:47.892Z"
+}

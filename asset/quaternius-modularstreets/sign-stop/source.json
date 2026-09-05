@@ -1,0 +1,30 @@
+{
+  "id": "sign-stop",
+  "label": "Sign Stop",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1bLWfiXncg3nQtP1janHKZaViW-4ftTao",
+  "file": "OBJ/Sign_Stop.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "abb6299d8a56901271bbed81d69771790b5007aa04aace42ae682279a399d83e",
+  "originalInputSha256": "abb6299d8a56901271bbed81d69771790b5007aa04aace42ae682279a399d83e",
+  "dependencies": [
+    {
+      "path": "OBJ/Sign_Stop.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=193B8vagB7i1AJp5RNtKwO_3Pkdi7F7mF",
+      "sha256": "8df40605e8d68dc016946486508c7847b085152ea71cbb9bd4392a727182ca45",
+      "bytes": 589
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sign-stop.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.02327100047841668,0.5377089791654726,0.1384260058403015]",
+  "convertedAt": "2026-09-05T14:06:13.563Z"
+}

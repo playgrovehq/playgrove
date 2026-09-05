@@ -1,0 +1,30 @@
+{
+  "id": "pine-tree-snow-1",
+  "label": "PineTree Snow 1",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_fwj6eWGDmMqwPxdy0vd0gy4yWbzoCp_",
+  "file": "OBJ/PineTree_Snow_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6375ae63ee6f1dff78953faca214a6da092931a3eb30c728b146669037db4f05",
+  "originalInputSha256": "6375ae63ee6f1dff78953faca214a6da092931a3eb30c728b146669037db4f05",
+  "dependencies": [
+    {
+      "path": "OBJ/PineTree_Snow_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=14m9-Cd-t6YNBxW3C6s8GQw4C8CY39fZC",
+      "sha256": "0c9cf31962c20409d04daeab5ee011f1551f710ed6203cc4de493b2ea2430be7",
+      "bytes": 596
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pine-tree-snow-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.9561610221862793,2.7000270765274763,1.8153629899024963]",
+  "convertedAt": "2026-09-05T13:59:42.610Z"
+}

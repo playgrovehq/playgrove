@@ -1,0 +1,30 @@
+{
+  "id": "common-tree-autumn-2",
+  "label": "CommonTree Autumn 2",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1tCUzZSNd_e0ZbHGVG-2M07_-CUTKOlc5",
+  "file": "OBJ/CommonTree_Autumn_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a50eee933aae69ede630af06ebea6711de24d4bd3d273e172ca7d41d43580436",
+  "originalInputSha256": "a50eee933aae69ede630af06ebea6711de24d4bd3d273e172ca7d41d43580436",
+  "dependencies": [
+    {
+      "path": "OBJ/CommonTree_Autumn_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=178pMf6iBzEMFUJ8g3Kfns2HfB0cs6ROT",
+      "sha256": "758df19b34f6bbf759e82dd017a9a70d83af0f4b48cfa68a7dea679cf7941984",
+      "bytes": 608
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "common-tree-autumn-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.6631889939308167,3.122790090739727,2.5409120321273804]",
+  "convertedAt": "2026-09-05T13:59:41.839Z"
+}

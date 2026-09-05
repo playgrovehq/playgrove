@@ -1,0 +1,30 @@
+{
+  "id": "birch-tree-5",
+  "label": "BirchTree 5",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1sBEhEBzfxmipD-4Xs926U0S2BYWRCKgh",
+  "file": "OBJ/BirchTree_5.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cf98f18c29d92c29a9a0f372c8083f1d1dc7bf1773dc97539994f29d0fd2fe63",
+  "originalInputSha256": "cf98f18c29d92c29a9a0f372c8083f1d1dc7bf1773dc97539994f29d0fd2fe63",
+  "dependencies": [
+    {
+      "path": "OBJ/BirchTree_5.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1nvPyS0KyGYCP98Al6FB3Xq3_gNTvMBb8",
+      "sha256": "af9c2d998f6fe6dd0cc7001b87bda01fe29b0c2cdaafea158b5c131b1cba1296",
+      "bytes": 776
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "birch-tree-5.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.1872479915618896,5.009177051484585,1.9334619641304016]",
+  "convertedAt": "2026-09-05T13:59:41.000Z"
+}

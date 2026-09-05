@@ -1,0 +1,113 @@
+{
+  "version": 2,
+  "id": "cargo-train-front",
+  "label": "CargoTrain Front",
+  "description": "Modular Train Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "cargo",
+    "train",
+    "front",
+    "quaternius",
+    "modulartrain",
+    "wheels4",
+    "cylinder",
+    "wheels3",
+    "wheels2",
+    "wheels1",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2f2f2f",
+    "#9e8c4f",
+    "#675a3d",
+    "#494949",
+    "#8c8c8c",
+    "#6d6d6d",
+    "#e7be52",
+    "#323232"
+  ],
+  "colorNames": [
+    "black",
+    "gray",
+    "brown",
+    "yellow"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "cargo-train-front.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 15673,
+    "triangles": 9372,
+    "parts": 12,
+    "discardedDegenerate": 34
+  },
+  "bounds": {
+    "min": [
+      -5.232437,
+      -0.001065,
+      -1.075151
+    ],
+    "max": [
+      5.122542,
+      2.68154,
+      1.075146
+    ],
+    "size": [
+      10.354979,
+      2.682605,
+      2.150297
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Wheels4_Cylinder.004",
+    "Wheels3_Cylinder.003",
+    "Wheels2_Cylinder.001",
+    "Wheels1_Cylinder.000",
+    "Train_Cylinder.002"
+  ],
+  "materialNames": [
+    "Black",
+    "Main",
+    "DarkMain",
+    "Ventilation",
+    "Grey",
+    "DarkGrey",
+    "Glass",
+    "Lights",
+    "Windows"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulartrain.html",
+    "download": "https://drive.google.com/uc?export=download&id=1lYtjJ5BMjYrkNHfFxn8HjXmA3claOnHX",
+    "file": "OBJ/CargoTrain_Front.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

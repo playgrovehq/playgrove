@@ -1,0 +1,30 @@
+{
+  "id": "chicken-leg",
+  "label": "ChickenLeg",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=13LgTyZoUBJQH9gEolC9b4A9TpNGc8TFS",
+  "file": "OBJ/ChickenLeg.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "61e179f15e48833dcfbc71c5b1e46fffc3d9b72a6e53984186ddc37314239d62",
+  "originalInputSha256": "61e179f15e48833dcfbc71c5b1e46fffc3d9b72a6e53984186ddc37314239d62",
+  "dependencies": [
+    {
+      "path": "OBJ/ChickenLeg.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1b4swG7eOa5eOeOPMkfG7kH7fgLIYchN0",
+      "sha256": "2f9143f1b730fbb54fafd0952fdd3d49581aa477054a884ff94f9cbd18e07260",
+      "bytes": 415
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chicken-leg.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.0337390005588531,0.42969900369644165,0.45218798518180847]",
+  "convertedAt": "2026-09-05T13:54:21.498Z"
+}

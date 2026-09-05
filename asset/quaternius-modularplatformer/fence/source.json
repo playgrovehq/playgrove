@@ -1,0 +1,30 @@
+{
+  "id": "fence",
+  "label": "Fence",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1JhY-CpIk_glywnYevSv5foKaWDRxj6bM",
+  "file": "OBJ/Fence.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0f07f172ae7d22ac96516df4a3bf0f4f89ca39453d8bf4be8c78ed2f518164d4",
+  "originalInputSha256": "0f07f172ae7d22ac96516df4a3bf0f4f89ca39453d8bf4be8c78ed2f518164d4",
+  "dependencies": [
+    {
+      "path": "OBJ/Fence.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1t0RVrXnr3gYHA_9ahFpNaLRnY-FWTtFC",
+      "sha256": "01e8f523a72019d757f7fcab74afdf885ee220a6aea0112921f7a51891ff0e57",
+      "bytes": 232
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "fence.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3.277060031890869,1.0970630533993244,0.1428219974040985]",
+  "convertedAt": "2026-09-05T14:03:42.769Z"
+}

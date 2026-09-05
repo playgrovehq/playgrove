@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "potion6-empty",
+  "label": "Potion6 Empty",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "potion6",
+    "empty",
+    "quaternius",
+    "ultimaterpg",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1",
+    "#5d4539"
+  ],
+  "colorNames": [
+    "white",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "potion6-empty.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1180,
+    "triangles": 2352,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.354059,
+      -0.009843,
+      -0.354059
+    ],
+    "max": [
+      0.354059,
+      1.49518,
+      0.354059
+    ],
+    "size": [
+      0.708118,
+      1.505023,
+      0.708118
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Potion6_Empty_Cube.137"
+  ],
+  "materialNames": [
+    "Glass",
+    "Brown"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimaterpg.html",
+    "download": "https://drive.google.com/uc?export=download&id=10OKdpkfXOPbHSdZ_nVCl1ZiBzYtdZ7Vw",
+    "file": "OBJ/Potion6_Empty.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

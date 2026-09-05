@@ -1,0 +1,3674 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T14:01:01.411Z",
+  "assets": [
+    {
+      "id": "arch",
+      "label": "Arch",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "arch/thumbnail.png",
+      "model": "arch/arch.ts",
+      "package": "arch",
+      "descriptor": "arch/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1D4heiA6M906QDsiJCrtHnYZsPOH-tbrB",
+        "file": "OBJ/Arch.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "arch",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e604e",
+        "#6b5946",
+        "#827563"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 8585,
+        "triangles": 4447,
+        "parts": 3,
+        "discardedDegenerate": 37
+      },
+      "bounds": {
+        "min": [
+          -2.052181,
+          -0.000022,
+          -0.469388
+        ],
+        "max": [
+          2.052181,
+          4.010049,
+          0.523224
+        ],
+        "size": [
+          4.104362,
+          4.010071,
+          0.992612
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "arch-bars",
+      "label": "Arch bars",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "arch-bars/thumbnail.png",
+      "model": "arch-bars/arch-bars.ts",
+      "package": "arch-bars",
+      "descriptor": "arch-bars/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CiZX5vknBeosOC5KLLnnT1vV02TzOGns",
+        "file": "OBJ/Arch_bars.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "arch",
+        "bars",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#3e2a26"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2195,
+        "triangles": 1603,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.237746,
+          -0.025182,
+          -0.015165
+        ],
+        "max": [
+          1.240509,
+          3.362965,
+          0.015165
+        ],
+        "size": [
+          2.478255,
+          3.388147,
+          0.03033
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "arch-door",
+      "label": "Arch Door",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "arch-door/thumbnail.png",
+      "model": "arch-door/arch-door.ts",
+      "package": "arch-door",
+      "descriptor": "arch-door/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=12hqg2DBUmVMAAZFOBjAXxrsOeVt_4lk8",
+        "file": "OBJ/Arch_Door.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "arch",
+        "door",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#574039",
+        "#464255",
+        "#33303e"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1942,
+        "triangles": 1208,
+        "parts": 4,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -1.200003,
+          0.006791,
+          -0.172225
+        ],
+        "max": [
+          1.22111,
+          3.196838,
+          0.157395
+        ],
+        "size": [
+          2.421113,
+          3.190047,
+          0.32962
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "arch-door-bottompivot",
+      "label": "Arch Door bottompivot",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "arch-door-bottompivot/thumbnail.png",
+      "model": "arch-door-bottompivot/arch-door-bottompivot.ts",
+      "package": "arch-door-bottompivot",
+      "descriptor": "arch-door-bottompivot/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1xB5if9TcsW6-oQdvIEOsAXIGYeidvdVE",
+        "file": "OBJ/Arch_Door_bottompivot.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "arch",
+        "door",
+        "bottompivot",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#574039",
+        "#464255",
+        "#33303e"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1944,
+        "triangles": 1210,
+        "parts": 4,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -1.210556,
+          -0.000854,
+          -0.16481
+        ],
+        "max": [
+          1.210556,
+          3.189192,
+          0.16481
+        ],
+        "size": [
+          2.421112,
+          3.190046,
+          0.32962
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bag-coins",
+      "label": "Bag Coins",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "bag-coins/thumbnail.png",
+      "model": "bag-coins/bag-coins.ts",
+      "package": "bag-coins",
+      "descriptor": "bag-coins/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1HwNTCrtvSdyHPxLT1ZYi_Pk3D6UVea52",
+        "file": "OBJ/Bag_Coins.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bag",
+        "coins",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e5643",
+        "#938054"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1712,
+        "triangles": 976,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.154103,
+          -0.011469,
+          -0.114324
+        ],
+        "max": [
+          0.287873,
+          0.103124,
+          0.107852
+        ],
+        "size": [
+          0.441976,
+          0.114593,
+          0.222176
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bag-standing",
+      "label": "Bag Standing",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "bag-standing/thumbnail.png",
+      "model": "bag-standing/bag-standing.ts",
+      "package": "bag-standing",
+      "descriptor": "bag-standing/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1AAKSaNgBKoiMkz6bS2dnWu3voUM4UrO6",
+        "file": "OBJ/Bag_Standing.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bag",
+        "standing",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e5643",
+        "#35366e"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 912,
+        "triangles": 456,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.108876,
+          -0.009044,
+          -0.104969
+        ],
+        "max": [
+          0.108876,
+          0.243658,
+          0.104969
+        ],
+        "size": [
+          0.217752,
+          0.252702,
+          0.209938
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "banner",
+      "label": "Banner",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "banner/thumbnail.png",
+      "model": "banner/banner.ts",
+      "package": "banner",
+      "descriptor": "banner/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1rcV5j5krHkOwbHh4FtabQ6AriNvu8-_J",
+        "file": "OBJ/Banner.obj"
+      },
+      "category": "props",
+      "tags": [
+        "banner",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#464255",
+        "#702721",
+        "#36343e"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 986,
+        "triangles": 562,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -1.180506,
+          0.003701,
+          -0.109648
+        ],
+        "max": [
+          1.180506,
+          3.802257,
+          0.109648
+        ],
+        "size": [
+          2.361012,
+          3.798556,
+          0.219296
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "banner-wall",
+      "label": "Banner wall",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "banner-wall/thumbnail.png",
+      "model": "banner-wall/banner-wall.ts",
+      "package": "banner-wall",
+      "descriptor": "banner-wall/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1BUL5ZDAhZNd-RhQfU2JnwZvab9EvwelR",
+        "file": "OBJ/Banner_wall.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "banner",
+        "wall",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#464255",
+        "#702721"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 746,
+        "triangles": 438,
+        "parts": 3,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.793076,
+          -2.793281,
+          -0.503859
+        ],
+        "max": [
+          0.847185,
+          0.053581,
+          0.089198
+        ],
+        "size": [
+          1.640261,
+          2.846862,
+          0.593057
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel",
+      "label": "Barrel",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "barrel/thumbnail.png",
+      "model": "barrel/barrel.ts",
+      "package": "barrel",
+      "descriptor": "barrel/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1kfJ7ObO-DKFtx45IrwS8Mk8kF2b5N7Sg",
+        "file": "OBJ/Barrel.obj"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#464255",
+        "#574039"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2560,
+        "triangles": 1384,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.521312,
+          0.005742,
+          -0.518572
+        ],
+        "max": [
+          0.521312,
+          1.352353,
+          0.514988
+        ],
+        "size": [
+          1.042624,
+          1.346611,
+          1.03356
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel2",
+      "label": "Barrel2",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "barrel2/thumbnail.png",
+      "model": "barrel2/barrel2.ts",
+      "package": "barrel2",
+      "descriptor": "barrel2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1F9UDvI-uhK9a3BhcOuib5BVthTynKlFw",
+        "file": "OBJ/Barrel2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "barrel2",
+        "quaternius",
+        "modulardungeon",
+        "barrel",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#574039"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2080,
+        "triangles": 1088,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.518181,
+          0.005742,
+          -0.502527
+        ],
+        "max": [
+          0.509633,
+          1.352353,
+          0.513864
+        ],
+        "size": [
+          1.027814,
+          1.346611,
+          1.016391
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "brick",
+      "label": "Brick",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "brick/thumbnail.png",
+      "model": "brick/brick.ts",
+      "package": "brick",
+      "descriptor": "brick/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=14eWWKHNqGV9NQGYEgJNhXcqlLzFXulw7",
+        "file": "OBJ/Brick.obj"
+      },
+      "category": "props",
+      "tags": [
+        "brick",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#454451"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 228,
+        "triangles": 140,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.35743,
+          -0.008454,
+          -0.198583
+        ],
+        "max": [
+          0.35743,
+          0.17805,
+          0.198583
+        ],
+        "size": [
+          0.71486,
+          0.186504,
+          0.397166
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bucket",
+      "label": "Bucket",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "bucket/thumbnail.png",
+      "model": "bucket/bucket.ts",
+      "package": "bucket",
+      "descriptor": "bucket/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pc_vWU9hRThncDiRqUVEMs6WbykEIxzk",
+        "file": "OBJ/Bucket.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bucket",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#33303e",
+        "#464255"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 708,
+        "triangles": 360,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.189088,
+          0.001191,
+          -0.201958
+        ],
+        "max": [
+          0.189088,
+          0.530573,
+          0.20218
+        ],
+        "size": [
+          0.378176,
+          0.529382,
+          0.404138
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "chair",
+      "label": "Chair",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "chair/thumbnail.png",
+      "model": "chair/chair.ts",
+      "package": "chair",
+      "descriptor": "chair/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1jbV7swpALCT-JXqG_Hvime_eJIT5JVAm",
+        "file": "OBJ/Chair.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "chair",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#702721",
+        "#574039"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2077,
+        "triangles": 1298,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.313499,
+          0.003677,
+          -0.360243
+        ],
+        "max": [
+          0.313499,
+          1.162621,
+          0.342196
+        ],
+        "size": [
+          0.626998,
+          1.158944,
+          0.702439
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "chest",
+      "label": "Chest",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "chest/thumbnail.png",
+      "model": "chest/chest.ts",
+      "package": "chest",
+      "descriptor": "chest/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1NjbQBOSfF5RMgvJUJez6uKcTjbryLac-",
+        "file": "OBJ/Chest.obj"
+      },
+      "category": "props",
+      "tags": [
+        "chest",
+        "quaternius",
+        "modulardungeon",
+        "base",
+        "cube",
+        "top",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#574039",
+        "#705147",
+        "#464255"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2792,
+        "triangles": 1676,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.590267,
+          -0.001326,
+          -0.390449
+        ],
+        "max": [
+          0.58905,
+          0.89717,
+          0.433321
+        ],
+        "size": [
+          1.179317,
+          0.898496,
+          0.82377
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "chest-gold",
+      "label": "Chest Gold",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "chest-gold/thumbnail.png",
+      "model": "chest-gold/chest-gold.ts",
+      "package": "chest-gold",
+      "descriptor": "chest-gold/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Gz_RoKxxuzqhtTiG1xAtExxYDQ5KPuBo",
+        "file": "OBJ/Chest_Gold.obj"
+      },
+      "category": "props",
+      "tags": [
+        "chest",
+        "gold",
+        "quaternius",
+        "modulardungeon",
+        "base",
+        "cube",
+        "top",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#574039",
+        "#705147",
+        "#464255",
+        "#938054"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 35745,
+        "triangles": 22512,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.590267,
+          -0.001326,
+          -1.048747
+        ],
+        "max": [
+          0.58905,
+          0.898104,
+          0.433321
+        ],
+        "size": [
+          1.179317,
+          0.89943,
+          1.482068
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cobweb",
+      "label": "Cobweb",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "cobweb/thumbnail.png",
+      "model": "cobweb/cobweb.ts",
+      "package": "cobweb",
+      "descriptor": "cobweb/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1U28IE4TNw5c3byuZA2KWxOTpCZzeosxm",
+        "file": "OBJ/Cobweb.obj"
+      },
+      "category": "props",
+      "tags": [
+        "cobweb",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#dcdcdc"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2216,
+        "triangles": 1108,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.559354,
+          -0.032361,
+          -0.123207
+        ],
+        "max": [
+          0.646541,
+          0.722344,
+          0.787657
+        ],
+        "size": [
+          1.205895,
+          0.754705,
+          0.910864
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cobweb2",
+      "label": "Cobweb2",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "cobweb2/thumbnail.png",
+      "model": "cobweb2/cobweb2.ts",
+      "package": "cobweb2",
+      "descriptor": "cobweb2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1iSFJ9CqbERAvC2UiULVmjssQFrSTQYOW",
+        "file": "OBJ/Cobweb2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "cobweb2",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#dcdcdc"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1736,
+        "triangles": 868,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.608926,
+          -0.01559,
+          -0.070427
+        ],
+        "max": [
+          0.730263,
+          0.829497,
+          0.959632
+        ],
+        "size": [
+          1.339189,
+          0.845087,
+          1.030059
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "coin-pile",
+      "label": "Coin Pile",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "coin-pile/thumbnail.png",
+      "model": "coin-pile/coin-pile.ts",
+      "package": "coin-pile",
+      "descriptor": "coin-pile/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ZpVyDlWzqAkH2DNf70u_V_I69lC-yCST",
+        "file": "OBJ/Coin_Pile.obj"
+      },
+      "category": "props",
+      "tags": [
+        "coin",
+        "pile",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#938054"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 5040,
+        "triangles": 3220,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.067335,
+          -0.000593,
+          -0.059104
+        ],
+        "max": [
+          0.069054,
+          0.094047,
+          0.076345
+        ],
+        "size": [
+          0.136389,
+          0.09464,
+          0.135449
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "column",
+      "label": "Column",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "column/thumbnail.png",
+      "model": "column/column.ts",
+      "package": "column",
+      "descriptor": "column/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1iUScHLqzyepI1mwSW2GQdC2mBWrHNpRT",
+        "file": "OBJ/Column.obj"
+      },
+      "category": "props",
+      "tags": [
+        "column",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#454451",
+        "#36343e"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 764,
+        "triangles": 440,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.65206,
+          0.008336,
+          -0.65206
+        ],
+        "max": [
+          0.65206,
+          4.073401,
+          0.65206
+        ],
+        "size": [
+          1.30412,
+          4.065065,
+          1.30412
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "column2",
+      "label": "Column2",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "column2/thumbnail.png",
+      "model": "column2/column2.ts",
+      "package": "column2",
+      "descriptor": "column2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=12DXy_BXNzylXCa_KVz03C0QzEtaBgJNI",
+        "file": "OBJ/Column2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "column2",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#454451",
+        "#36343e"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 892,
+        "triangles": 548,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.65206,
+          0.008336,
+          -0.65206
+        ],
+        "max": [
+          0.65206,
+          4.080593,
+          0.65206
+        ],
+        "size": [
+          1.30412,
+          4.072257,
+          1.30412
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "crate",
+      "label": "Crate",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "crate/thumbnail.png",
+      "model": "crate/crate.ts",
+      "package": "crate",
+      "descriptor": "crate/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CMEkS5hNSnchU7Z7bqvZpIAh0rDkpifT",
+        "file": "OBJ/Crate.obj"
+      },
+      "category": "props",
+      "tags": [
+        "crate",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#574039"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3407,
+        "triangles": 2484,
+        "parts": 2,
+        "discardedDegenerate": 18
+      },
+      "bounds": {
+        "min": [
+          -0.689883,
+          0.001032,
+          -0.656177
+        ],
+        "max": [
+          0.689883,
+          1.308657,
+          0.654716
+        ],
+        "size": [
+          1.379766,
+          1.307625,
+          1.310893
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "decorative-wall",
+      "label": "Decorative Wall",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "decorative-wall/thumbnail.png",
+      "model": "decorative-wall/decorative-wall.ts",
+      "package": "decorative-wall",
+      "descriptor": "decorative-wall/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1JiPZFrg1kEFkgP-CATdy-u7Kn8ebpAe-",
+        "file": "OBJ/Decorative_Wall.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "decorative",
+        "wall",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e604e",
+        "#827563"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1924,
+        "triangles": 1092,
+        "parts": 2,
+        "discardedDegenerate": 64
+      },
+      "bounds": {
+        "min": [
+          -0.920131,
+          -0.820407,
+          -0.219036
+        ],
+        "max": [
+          0.819686,
+          0.702325,
+          0.219036
+        ],
+        "size": [
+          1.739817,
+          1.522732,
+          0.438072
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "fence-90-modular",
+      "label": "Fence 90 Modular",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "fence-90-modular/thumbnail.png",
+      "model": "fence-90-modular/fence-90-modular.ts",
+      "package": "fence-90-modular",
+      "descriptor": "fence-90-modular/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=16mMcytDXVz7ikOPND-C_KKxovC8IrP8D",
+        "file": "OBJ/Fence_90_Modular.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "fence",
+        "modular",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#36343e",
+        "#454451"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 216,
+        "triangles": 112,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.390598,
+          -0.999089,
+          -1
+        ],
+        "max": [
+          1,
+          0.29484,
+          0.390598
+        ],
+        "size": [
+          1.390598,
+          1.293929,
+          1.390598
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "fence-end-modular",
+      "label": "Fence End Modular",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "fence-end-modular/thumbnail.png",
+      "model": "fence-end-modular/fence-end-modular.ts",
+      "package": "fence-end-modular",
+      "descriptor": "fence-end-modular/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=15lTP8dnxhC_0nZ0nWogHJypnsN_8twLW",
+        "file": "OBJ/Fence_End_Modular.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "fence",
+        "end",
+        "modular",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#36343e",
+        "#454451"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 196,
+        "triangles": 102,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.390598,
+          -0.999089,
+          -0.390598
+        ],
+        "max": [
+          1,
+          0.29484,
+          0.390598
+        ],
+        "size": [
+          1.390598,
+          1.293929,
+          0.781196
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "fence-straight-modular",
+      "label": "Fence Straight Modular",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "fence-straight-modular/thumbnail.png",
+      "model": "fence-straight-modular/fence-straight-modular.ts",
+      "package": "fence-straight-modular",
+      "descriptor": "fence-straight-modular/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1N0BusHxnupv663JsNVuhupRTV43-yj-M",
+        "file": "OBJ/Fence_Straight_Modular.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "fence",
+        "straight",
+        "modular",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#36343e",
+        "#454451"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 200,
+        "triangles": 104,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.999089,
+          -0.390598
+        ],
+        "max": [
+          1,
+          0.29484,
+          0.390598
+        ],
+        "size": [
+          2,
+          1.293929,
+          0.781196
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "floor-bricks-separate",
+      "label": "Floor BricksSeparate",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "floor-bricks-separate/thumbnail.png",
+      "model": "floor-bricks-separate/floor-bricks-separate.ts",
+      "package": "floor-bricks-separate",
+      "descriptor": "floor-bricks-separate/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=12hxzyMsMSHZbHyMfeOC552EOAjG7wJ56",
+        "file": "OBJ/Floor_BricksSeparate.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "floor",
+        "bricks",
+        "separate",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#454451"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 420,
+        "triangles": 236,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.452475,
+          -0.02419,
+          -0.725523
+        ],
+        "max": [
+          0.498415,
+          0.231895,
+          0.474322
+        ],
+        "size": [
+          0.95089,
+          0.256085,
+          1.199845
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "floor-bricks-separate2",
+      "label": "Floor BricksSeparate2",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "floor-bricks-separate2/thumbnail.png",
+      "model": "floor-bricks-separate2/floor-bricks-separate2.ts",
+      "package": "floor-bricks-separate2",
+      "descriptor": "floor-bricks-separate2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1FjpLYVnHxpnS0bS785R5x-6oiFw1gaa4",
+        "file": "OBJ/Floor_BricksSeparate2.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "floor",
+        "bricks",
+        "separate2",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#454451"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 864,
+        "triangles": 484,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.80725,
+          -0.02419,
+          -0.725523
+        ],
+        "max": [
+          0.498415,
+          0.455472,
+          0.442719
+        ],
+        "size": [
+          1.305665,
+          0.479662,
+          1.168242
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "floor-modular",
+      "label": "Floor Modular",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "floor-modular/thumbnail.png",
+      "model": "floor-modular/floor-modular.ts",
+      "package": "floor-modular",
+      "descriptor": "floor-modular/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=17FtZXBeYUHeGC1OyaUvzxbOIh-_9f1I3",
+        "file": "OBJ/Floor_Modular.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "floor",
+        "modular",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#454451"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2176,
+        "triangles": 1174,
+        "parts": 1,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.997333,
+          -0.125164,
+          -0.999972
+        ],
+        "max": [
+          1.007484,
+          0.125164,
+          1.000606
+        ],
+        "size": [
+          2.004817,
+          0.250328,
+          2.000578
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pedestal",
+      "label": "Pedestal",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "pedestal/thumbnail.png",
+      "model": "pedestal/pedestal.ts",
+      "package": "pedestal",
+      "descriptor": "pedestal/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1GGTPHP-HmhDP5K6XwdvjurtTvyDfl3m8",
+        "file": "OBJ/Pedestal.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pedestal",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8d8b89"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3052,
+        "triangles": 1843,
+        "parts": 1,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.973491,
+          -0.000181,
+          -0.979717
+        ],
+        "max": [
+          0.97346,
+          2.192959,
+          0.979737
+        ],
+        "size": [
+          1.946951,
+          2.19314,
+          1.959454
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pedestal2",
+      "label": "Pedestal2",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "pedestal2/thumbnail.png",
+      "model": "pedestal2/pedestal2.ts",
+      "package": "pedestal2",
+      "descriptor": "pedestal2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1efdZl5Lm8Q3yorGSJw3PIjkSESitMD97",
+        "file": "OBJ/Pedestal2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pedestal2",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8d8b89"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1887,
+        "triangles": 1171,
+        "parts": 1,
+        "discardedDegenerate": 11
+      },
+      "bounds": {
+        "min": [
+          -0.871516,
+          0.015196,
+          -0.871516
+        ],
+        "max": [
+          0.871516,
+          2.329874,
+          0.871516
+        ],
+        "size": [
+          1.743032,
+          2.314678,
+          1.743032
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "skull",
+      "label": "Skull",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "skull/thumbnail.png",
+      "model": "skull/skull.ts",
+      "package": "skull",
+      "descriptor": "skull/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1uydDrr7uHQCbzrlEKYl2mQ83wen9my42",
+        "file": "OBJ/Skull.obj"
+      },
+      "category": "props",
+      "tags": [
+        "skull",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b9a68b"
+      ],
+      "colorNames": [
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2784,
+        "triangles": 1392,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.284041,
+          -0.031791,
+          -0.219165
+        ],
+        "max": [
+          0.316528,
+          0.429257,
+          0.219164
+        ],
+        "size": [
+          0.600569,
+          0.461048,
+          0.438329
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "spikes",
+      "label": "Spikes",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "spikes/thumbnail.png",
+      "model": "spikes/spikes.ts",
+      "package": "spikes",
+      "descriptor": "spikes/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1_kFdESax8vrcRCOfv5l1Kp10A_oEeoO6",
+        "file": "OBJ/Spikes.obj"
+      },
+      "category": "props",
+      "tags": [
+        "spikes",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#33303e"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1152,
+        "triangles": 504,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.882267,
+          -0.005569,
+          -0.882267
+        ],
+        "max": [
+          0.882267,
+          1.169882,
+          0.882267
+        ],
+        "size": [
+          1.764534,
+          1.175451,
+          1.764534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stairs-modular",
+      "label": "Stairs Modular",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "stairs-modular/thumbnail.png",
+      "model": "stairs-modular/stairs-modular.ts",
+      "package": "stairs-modular",
+      "descriptor": "stairs-modular/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1i7vC-2deqOyLZ1qQiLTvTa9WrjW_7tQb",
+        "file": "OBJ/Stairs_Modular.obj"
+      },
+      "category": "props",
+      "tags": [
+        "stairs",
+        "modular",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#454451"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2610,
+        "triangles": 1420,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.008183,
+          -1.012161,
+          -1.022156
+        ],
+        "max": [
+          1.004953,
+          1.007154,
+          1.029452
+        ],
+        "size": [
+          2.013136,
+          2.019315,
+          2.051608
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stairs-side-cover",
+      "label": "Stairs SideCover",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "stairs-side-cover/thumbnail.png",
+      "model": "stairs-side-cover/stairs-side-cover.ts",
+      "package": "stairs-side-cover",
+      "descriptor": "stairs-side-cover/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WnI4RUkSth2yTS4zoZWBq3mjZ1H6vj5i",
+        "file": "OBJ/Stairs_SideCover.obj"
+      },
+      "category": "props",
+      "tags": [
+        "stairs",
+        "side",
+        "cover",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#454451"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1632,
+        "triangles": 892,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          0.815515,
+          -1.012913,
+          -1.008794
+        ],
+        "max": [
+          1.258225,
+          1.01806,
+          1.050242
+        ],
+        "size": [
+          0.44271,
+          2.030973,
+          2.059036
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stairs-side-cover-wall",
+      "label": "Stairs SideCoverWall",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "stairs-side-cover-wall/thumbnail.png",
+      "model": "stairs-side-cover-wall/stairs-side-cover-wall.ts",
+      "package": "stairs-side-cover-wall",
+      "descriptor": "stairs-side-cover-wall/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CRX2-TibJEjdgH3CVuYXmMvAqSTuY0aZ",
+        "file": "OBJ/Stairs_SideCoverWall.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "stairs",
+        "side",
+        "cover",
+        "wall",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#454451"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2306,
+        "triangles": 1250,
+        "parts": 1,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          0.815515,
+          -1.012913,
+          -3.008794
+        ],
+        "max": [
+          1.258225,
+          1.019764,
+          -0.980031
+        ],
+        "size": [
+          0.44271,
+          2.032677,
+          2.028763
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sword-wall-mount",
+      "label": "Sword WallMount",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "sword-wall-mount/thumbnail.png",
+      "model": "sword-wall-mount/sword-wall-mount.ts",
+      "package": "sword-wall-mount",
+      "descriptor": "sword-wall-mount/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1kvPFvf4GEYu7eU-_9SjqzdpWzJlg-wUJ",
+        "file": "OBJ/Sword_WallMount.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "sword",
+        "wall",
+        "mount",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "cylinder",
+        "big",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#574039",
+        "#959aa0",
+        "#795239",
+        "#654430",
+        "#a4a8b0",
+        "#7f7f75"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3807,
+        "triangles": 2382,
+        "parts": 11,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.457801,
+          -0.40133,
+          -0.000945
+        ],
+        "max": [
+          0.608016,
+          0.445812,
+          0.21078
+        ],
+        "size": [
+          1.065817,
+          0.847142,
+          0.211725
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "table-big",
+      "label": "Table Big",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "table-big/thumbnail.png",
+      "model": "table-big/table-big.ts",
+      "package": "table-big",
+      "descriptor": "table-big/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1m9TCmrjBekreg2GNKEqMGcJmOXRlvcUr",
+        "file": "OBJ/Table_Big.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "table",
+        "big",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#574039",
+        "#33303e"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1614,
+        "triangles": 911,
+        "parts": 3,
+        "discardedDegenerate": 5
+      },
+      "bounds": {
+        "min": [
+          -0.794398,
+          -0.005145,
+          -1.699477
+        ],
+        "max": [
+          0.790068,
+          0.848879,
+          1.603855
+        ],
+        "size": [
+          1.584466,
+          0.854024,
+          3.303332
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "table-small",
+      "label": "Table Small",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "table-small/thumbnail.png",
+      "model": "table-small/table-small.ts",
+      "package": "table-small",
+      "descriptor": "table-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1SlUmvk7EH1kiVAFwiJS0kh38dhjHI_DE",
+        "file": "OBJ/Table_Small.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "table",
+        "small",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#574039",
+        "#33303e"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1407,
+        "triangles": 798,
+        "parts": 3,
+        "discardedDegenerate": 6
+      },
+      "bounds": {
+        "min": [
+          -0.666889,
+          -0.005145,
+          -1.101164
+        ],
+        "max": [
+          0.638038,
+          0.848879,
+          0.878032
+        ],
+        "size": [
+          1.304927,
+          0.854024,
+          1.979196
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "torch",
+      "label": "Torch",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "torch/thumbnail.png",
+      "model": "torch/torch.ts",
+      "package": "torch",
+      "descriptor": "torch/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=14Uo82ffWn2ghAdlunPpv_C0tGlrQLWBH",
+        "file": "OBJ/Torch.obj"
+      },
+      "category": "props",
+      "tags": [
+        "torch",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#33303e",
+        "#b46726"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 740,
+        "triangles": 386,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.139137,
+          -0.270785,
+          -0.293543
+        ],
+        "max": [
+          0.139137,
+          0.879863,
+          0.144104
+        ],
+        "size": [
+          0.278274,
+          1.150648,
+          0.437647
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "trap-empty",
+      "label": "Trap empty",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "trap-empty/thumbnail.png",
+      "model": "trap-empty/trap-empty.ts",
+      "package": "trap-empty",
+      "descriptor": "trap-empty/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1q_-SHGwYwbUk3VZu2_Z6fm7e_imcDgPw",
+        "file": "OBJ/Trap_empty.obj"
+      },
+      "category": "props",
+      "tags": [
+        "trap",
+        "empty",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#464255"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1970,
+        "triangles": 1456,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.994613,
+          -0.002956,
+          -0.994613
+        ],
+        "max": [
+          0.994613,
+          0.121858,
+          0.994613
+        ],
+        "size": [
+          1.989226,
+          0.124814,
+          1.989226
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "trap-spikes",
+      "label": "Trap spikes",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "trap-spikes/thumbnail.png",
+      "model": "trap-spikes/trap-spikes.ts",
+      "package": "trap-spikes",
+      "descriptor": "trap-spikes/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1XzleyxUAYHYnprczsyKkm70zwoFjDjb5",
+        "file": "OBJ/Trap_spikes.obj"
+      },
+      "category": "props",
+      "tags": [
+        "trap",
+        "spikes",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#464255",
+        "#33303e"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3086,
+        "triangles": 2032,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.994613,
+          -0.002956,
+          -0.994613
+        ],
+        "max": [
+          0.994613,
+          1.169882,
+          0.994613
+        ],
+        "size": [
+          1.989226,
+          1.172838,
+          1.989226
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "trapdoor",
+      "label": "Trapdoor",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "trapdoor/thumbnail.png",
+      "model": "trapdoor/trapdoor.ts",
+      "package": "trapdoor",
+      "descriptor": "trapdoor/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1FZnvJrNHfWYBIQyfYI4Iv-JUfXXJPlJY",
+        "file": "OBJ/Trapdoor.obj"
+      },
+      "category": "props",
+      "tags": [
+        "trapdoor",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#464255",
+        "#33303e",
+        "#705147",
+        "#574039"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1000,
+        "triangles": 504,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.868683,
+          -0.04884,
+          -0.850062
+        ],
+        "max": [
+          0.872589,
+          0.16631,
+          0.849947
+        ],
+        "size": [
+          1.741272,
+          0.21515,
+          1.700009
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "trapdoor-open",
+      "label": "Trapdoor open",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "trapdoor-open/thumbnail.png",
+      "model": "trapdoor-open/trapdoor-open.ts",
+      "package": "trapdoor-open",
+      "descriptor": "trapdoor-open/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1GoJaGjLUSHDeg1mticXxkj0R02fX8Mt8",
+        "file": "OBJ/Trapdoor_open.obj"
+      },
+      "category": "props",
+      "tags": [
+        "trapdoor",
+        "open",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#464255",
+        "#33303e",
+        "#705147",
+        "#574039"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1088,
+        "triangles": 564,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.868683,
+          -0.131211,
+          -1.813565
+        ],
+        "max": [
+          0.872589,
+          0.07258,
+          0.849947
+        ],
+        "size": [
+          1.741272,
+          0.203791,
+          2.663512
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "vase",
+      "label": "Vase",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "vase/thumbnail.png",
+      "model": "vase/vase.ts",
+      "package": "vase",
+      "descriptor": "vase/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1NkF6EZWumOb9VT0Mf5zJEinx13IH9Lup",
+        "file": "OBJ/Vase.obj"
+      },
+      "category": "props",
+      "tags": [
+        "vase",
+        "quaternius",
+        "modulardungeon",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e604e"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 432,
+        "triangles": 220,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.155488,
+          -0.002033,
+          -1.244274
+        ],
+        "max": [
+          0.155488,
+          0.359014,
+          -0.933298
+        ],
+        "size": [
+          0.310976,
+          0.361047,
+          0.310976
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "wall-cover-modular",
+      "label": "WallCover Modular",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "wall-cover-modular/thumbnail.png",
+      "model": "wall-cover-modular/wall-cover-modular.ts",
+      "package": "wall-cover-modular",
+      "descriptor": "wall-cover-modular/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1tLsNbIWttYJvDRYXOi3HqKm0JtI0hLcR",
+        "file": "OBJ/WallCover_Modular.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "wall",
+        "cover",
+        "modular",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#454451"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 496,
+        "triangles": 280,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.004349,
+          -1.009776,
+          -0.254594
+        ],
+        "max": [
+          1.005811,
+          -0.578127,
+          0.254594
+        ],
+        "size": [
+          2.01016,
+          0.431649,
+          0.509188
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "wall-modular",
+      "label": "Wall Modular",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "wall-modular/thumbnail.png",
+      "model": "wall-modular/wall-modular.ts",
+      "package": "wall-modular",
+      "descriptor": "wall-modular/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1YwJR8fY-QQEmDyq0Al9DJlR8zEHz8MoU",
+        "file": "OBJ/Wall_Modular.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "wall",
+        "modular",
+        "quaternius",
+        "modulardungeon",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e604e",
+        "#6b5946",
+        "#827563"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3168,
+        "triangles": 1654,
+        "parts": 3,
+        "discardedDegenerate": 18
+      },
+      "bounds": {
+        "min": [
+          -0.999808,
+          -1.002084,
+          -0.219036
+        ],
+        "max": [
+          1.00093,
+          1.00331,
+          0.219036
+        ],
+        "size": [
+          2.000738,
+          2.005394,
+          0.438072
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "woodfire",
+      "label": "Woodfire",
+      "description": "Modular Dungeons Pack by Quaternius.",
+      "thumbnail": "woodfire/thumbnail.png",
+      "model": "woodfire/woodfire.ts",
+      "package": "woodfire",
+      "descriptor": "woodfire/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modulardungeon.html",
+        "download": "https://drive.google.com/uc?export=download&id=1oyt-C-kQhhYTl07nFqWbnPu6KxmUpdjP",
+        "file": "OBJ/Woodfire.obj"
+      },
+      "category": "props",
+      "tags": [
+        "woodfire",
+        "quaternius",
+        "modulardungeon",
+        "wood",
+        "fire",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#705147",
+        "#574039",
+        "#b46726"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 492,
+        "triangles": 224,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.383806,
+          -0.053152,
+          -0.41478
+        ],
+        "max": [
+          0.391793,
+          0.774974,
+          0.411841
+        ],
+        "size": [
+          0.775599,
+          0.828126,
+          0.826621
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

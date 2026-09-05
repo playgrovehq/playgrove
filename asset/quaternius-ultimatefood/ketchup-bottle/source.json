@@ -1,0 +1,30 @@
+{
+  "id": "ketchup-bottle",
+  "label": "KetchupBottle",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1uWeSrrIl8s8EsCHe2Ag_cYueZj-eodWp",
+  "file": "OBJ/KetchupBottle.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e4d644b9e451d3494ddecb97dabcf80500abed1a8f862c9dd7303f3e20a1f6f2",
+  "originalInputSha256": "e4d644b9e451d3494ddecb97dabcf80500abed1a8f862c9dd7303f3e20a1f6f2",
+  "dependencies": [
+    {
+      "path": "OBJ/KetchupBottle.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1YQ7OeqcTbTyz1dpi9S9caMMkWaES8Nkw",
+      "sha256": "f034478aac6948be300a730b78c7b81e36a680c76ff358340cae7831ebde860c",
+      "bytes": 238
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "ketchup-bottle.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.499563992023468,1.5326950307935476,0.499563992023468]",
+  "convertedAt": "2026-09-05T13:51:31.505Z"
+}

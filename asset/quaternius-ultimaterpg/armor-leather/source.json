@@ -1,0 +1,30 @@
+{
+  "id": "armor-leather",
+  "label": "Armor Leather",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=19HJTDUbAd9Vhd98Phb1tiIsES4k4Ls81",
+  "file": "OBJ/Armor_Leather.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9d852ed5b2db2efb313957003e553893f17c4445b542c01fa1a64a3650bf75d7",
+  "originalInputSha256": "9d852ed5b2db2efb313957003e553893f17c4445b542c01fa1a64a3650bf75d7",
+  "dependencies": [
+    {
+      "path": "OBJ/Armor_Leather.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1VhPQ-YfnWN1OV-cL5-ZGmY2v3dn-wrXU",
+      "sha256": "f890c95d617194d7c2081130a71abe24e90ce6b4a24d51b5484b97b056e033f5",
+      "bytes": 240
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "armor-leather.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.9754220247268677,0.821628987789154,0.6704220175743103]",
+  "convertedAt": "2026-09-05T13:54:21.019Z"
+}

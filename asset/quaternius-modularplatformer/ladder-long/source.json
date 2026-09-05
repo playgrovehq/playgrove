@@ -1,0 +1,30 @@
+{
+  "id": "ladder-long",
+  "label": "Ladder long",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Sn_gXLvJa4Hen1YVNyv6ivtXZXgf8kFs",
+  "file": "OBJ/Ladder_long.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "242bf0bd6fd0f555b24329d0c66cd66a400caa7536de1e0312b24b139cb9ff4d",
+  "originalInputSha256": "242bf0bd6fd0f555b24329d0c66cd66a400caa7536de1e0312b24b139cb9ff4d",
+  "dependencies": [
+    {
+      "path": "OBJ/Ladder_long.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Xa26hdUp_oabLrZQ_1RdcmXbPXKnQ-aO",
+      "sha256": "87bde3bf811e86ec8eda561b193bccb7c415048ee2a537a1e6545f8da5664eda",
+      "bytes": 238
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "ladder-long.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.6330500245094299,7.30995277967304,0.21592600643634796]",
+  "convertedAt": "2026-09-05T14:03:42.904Z"
+}

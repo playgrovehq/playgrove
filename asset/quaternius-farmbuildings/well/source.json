@@ -1,0 +1,30 @@
+{
+  "id": "well",
+  "label": "Well",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "pack": "quaternius-farmbuildings",
+  "listing": "https://quaternius.com/packs/farmbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=19Ku-AHLDBuzkZgbPlThNkaqOrTzmSse7",
+  "file": "OBJ/Well.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3cc92e3bb00ac29d5979ec251d49ac03c83c7a0cbf8bbb85ad3f63baf0a60a97",
+  "originalInputSha256": "3cc92e3bb00ac29d5979ec251d49ac03c83c7a0cbf8bbb85ad3f63baf0a60a97",
+  "dependencies": [
+    {
+      "path": "OBJ/Well.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1mv3XGu6aMLfM3-zmYnXj-qVmuulwp_D3",
+      "sha256": "498559b98b70491524c61e1e50773684af7c98357e7445d97c40481e271d15ec",
+      "bytes": 948
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "well.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.27674400806427,2.145550937857479,1.4868829846382141]",
+  "convertedAt": "2026-09-05T14:04:13.084Z"
+}

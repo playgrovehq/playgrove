@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "assault-rifle-3",
+  "label": "AssaultRifle 3",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "assault",
+    "rifle",
+    "quaternius",
+    "ultimategun",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5c4c42",
+    "#28292a",
+    "#373736",
+    "#414241",
+    "#51443b"
+  ],
+  "colorNames": [
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "assault-rifle-3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2118,
+    "triangles": 1208,
+    "parts": 5,
+    "discardedDegenerate": 12
+  },
+  "bounds": {
+    "min": [
+      -0.183759,
+      -0.728524,
+      -0.09801
+    ],
+    "max": [
+      3.247396,
+      0.872838,
+      0.098011
+    ],
+    "size": [
+      3.431155,
+      1.601362,
+      0.196021
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "AssaultRifle_3_Cube.138"
+  ],
+  "materialNames": [
+    "Wood",
+    "Black",
+    "DarkMetal",
+    "Metal",
+    "DarkWood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimategun.html",
+    "download": "https://drive.google.com/uc?export=download&id=1jLx48QK_bmchzeBDzoAQWier3PGhciX3",
+    "file": "OBJ/AssaultRifle_3.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

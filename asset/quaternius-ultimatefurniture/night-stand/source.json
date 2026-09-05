@@ -1,0 +1,30 @@
+{
+  "id": "night-stand",
+  "label": "NightStand",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "pack": "quaternius-ultimatefurniture",
+  "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+  "download": "https://drive.google.com/uc?export=download&id=1aK3ZfsDvfLwABn5-CeXhLDgWQyetkjex",
+  "file": "OBJ/NightStand.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ba4e7c35daecef1e24ecbd853846f31a9f7e283b59ba6623f2c2b22af1556050",
+  "originalInputSha256": "ba4e7c35daecef1e24ecbd853846f31a9f7e283b59ba6623f2c2b22af1556050",
+  "dependencies": [
+    {
+      "path": "OBJ/NightStand.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1umLxjhNw7wJqa6pHV6epQ6LGbcsg6bpa",
+      "sha256": "61808d72957e7f21dd69434bcfc695a47633e87dac70ac9858694ed00d5fc303",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "night-stand.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=6 materials=6 bounds=[0.5877100229263306,0.5117389967199415,0.5066519975662231]",
+  "convertedAt": "2026-09-05T14:12:34.307Z"
+}

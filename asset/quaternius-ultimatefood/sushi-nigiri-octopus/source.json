@@ -1,0 +1,30 @@
+{
+  "id": "sushi-nigiri-octopus",
+  "label": "Sushi NigiriOctopus",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1u-h6nqz-ISRh3a4UhwRjD6KoKZXNfXXW",
+  "file": "OBJ/Sushi_NigiriOctopus.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "606319f129b1a360a5475005b9de8af27dc17d94b1ae2c518364d0c670b52faa",
+  "originalInputSha256": "606319f129b1a360a5475005b9de8af27dc17d94b1ae2c518364d0c670b52faa",
+  "dependencies": [
+    {
+      "path": "OBJ/Sushi_NigiriOctopus.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1pR8WZicAB6k3fvXHmXqfNWQCr0wQWeAT",
+      "sha256": "00a93bd0d88b05c50b026e38d890c7563d06548a40de00c5fb5f1656a662ed69",
+      "bytes": 609
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sushi-nigiri-octopus.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.7620159983634949,0.3504720099736005,0.2673110067844391]",
+  "convertedAt": "2026-09-05T13:51:32.149Z"
+}

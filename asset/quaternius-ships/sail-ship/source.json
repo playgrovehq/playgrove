@@ -1,0 +1,30 @@
+{
+  "id": "sail-ship",
+  "label": "Sail ship",
+  "description": "Ships Pack by Quaternius.",
+  "pack": "quaternius-ships",
+  "listing": "https://quaternius.com/packs/ships.html",
+  "download": "https://drive.google.com/uc?export=download&id=1M6Xvcb9_wgq6jeXw8zXDfOPJcipWOcNt",
+  "file": "OBJ/Sail ship.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ab99b61d6d782ca6966dd6d9a0655df4cdfda7fe5ebaa88eda83c5a82b3e8689",
+  "originalInputSha256": "ab99b61d6d782ca6966dd6d9a0655df4cdfda7fe5ebaa88eda83c5a82b3e8689",
+  "dependencies": [
+    {
+      "path": "OBJ/Sail ship.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1nAWEMalf5HLgBNyvzZJp3CFWPf1Rqcf5",
+      "sha256": "4fa94d4d16b0b18422f9d8acf4ae07969acadffb4e00448d7d301cc68ea737cc",
+      "bytes": 957
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sail-ship.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=12 materials=12 bounds=[1.695057988166809,3.8496789261698723,6.375427007675171]",
+  "convertedAt": "2026-09-05T14:06:25.107Z"
+}

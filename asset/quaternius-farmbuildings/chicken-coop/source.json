@@ -1,0 +1,30 @@
+{
+  "id": "chicken-coop",
+  "label": "ChickenCoop",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "pack": "quaternius-farmbuildings",
+  "listing": "https://quaternius.com/packs/farmbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ws9VQJWiBfO7Fn7OqacLuPUhMc_mD2zj",
+  "file": "OBJ/ChickenCoop.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2106fbf496148f63bef0c1d40f6d36b30926f2df8b5bbef2777836db274332e2",
+  "originalInputSha256": "2106fbf496148f63bef0c1d40f6d36b30926f2df8b5bbef2777836db274332e2",
+  "dependencies": [
+    {
+      "path": "OBJ/ChickenCoop.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=120sN8cICfopdALdgOPok9y6kBli5ZbO_",
+      "sha256": "0e1e88354e2afabc55e2a1b18b4beab2ef12d8425e6ce8c4b822b4be56ebe95a",
+      "bytes": 959
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chicken-coop.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[2.4072089195251465,1.8508589533157647,2.153995990753174]",
+  "convertedAt": "2026-09-05T14:04:12.908Z"
+}

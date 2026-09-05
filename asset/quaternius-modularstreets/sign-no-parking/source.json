@@ -1,0 +1,30 @@
+{
+  "id": "sign-no-parking",
+  "label": "Sign NoParking",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1lnv8cfYkdkiXHlCkm7a7UZ94NsnvbMBh",
+  "file": "OBJ/Sign_NoParking.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "73fdc0c3311865b2c8e639beb681102610cfd8a017b2551640693e8c8cab9e6c",
+  "originalInputSha256": "73fdc0c3311865b2c8e639beb681102610cfd8a017b2551640693e8c8cab9e6c",
+  "dependencies": [
+    {
+      "path": "OBJ/Sign_NoParking.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1UcHK5PioyVtlqWT6kJqJXEKm7NlwGnDb",
+      "sha256": "4d6200148c54b3208816e05122188eaea703a36d2298a1e11f5904989e8351b5",
+      "bytes": 784
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sign-no-parking.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.026884999591857195,0.5388359837888856,0.13939400017261505]",
+  "convertedAt": "2026-09-05T14:06:13.545Z"
+}

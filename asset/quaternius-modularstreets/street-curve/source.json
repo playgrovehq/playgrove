@@ -1,0 +1,30 @@
+{
+  "id": "street-curve",
+  "label": "Street Curve",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1OkmxXH5cXu5-_z4CHOp-GBWU3D-Lw2cL",
+  "file": "OBJ/Street_Curve.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "feda816843ed31e52f8a6cfa93b0ffaf3886bf98d2ca912198ae2e0e4e715e71",
+  "originalInputSha256": "feda816843ed31e52f8a6cfa93b0ffaf3886bf98d2ca912198ae2e0e4e715e71",
+  "dependencies": [
+    {
+      "path": "OBJ/Street_Curve.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1aikeOMrl7u25WRYq75cWzXqIYif5oGtn",
+      "sha256": "7749444a92d383168808f920afcf08d8e8c5cf7c50fdf2b25f1a9a499aa84acc",
+      "bytes": 595
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "street-curve.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.0000170469284058,0.2500000074505806,2]",
+  "convertedAt": "2026-09-05T14:06:13.721Z"
+}

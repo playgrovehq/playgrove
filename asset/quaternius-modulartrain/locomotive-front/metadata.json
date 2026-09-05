@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "id": "locomotive-front",
+  "label": "Locomotive Front",
+  "description": "Modular Train Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "locomotive",
+    "front",
+    "quaternius",
+    "modulartrain",
+    "big",
+    "wheels1",
+    "cylinder",
+    "wheels2",
+    "wheels3",
+    "cube",
+    "small",
+    "wheels",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#383838",
+    "#292929"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "locomotive-front.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 27460,
+    "triangles": 15613,
+    "parts": 10,
+    "discardedDegenerate": 1
+  },
+  "bounds": {
+    "min": [
+      -4.518266,
+      0.015109,
+      -1.433545
+    ],
+    "max": [
+      3.570839,
+      3.598582,
+      1.433545
+    ],
+    "size": [
+      8.089105,
+      3.583473,
+      2.86709
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "BigWheels1_Cylinder.004",
+    "BigWheels2_Cylinder.007",
+    "BigWheels3_Cylinder.006",
+    "Locomotive_Cube",
+    "SmallWheels1_Cylinder",
+    "SmallWheels_2_Cylinder.002"
+  ],
+  "materialNames": [
+    "Grey",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulartrain.html",
+    "download": "https://drive.google.com/uc?export=download&id=1PDhwVLm8R6--AGcVgYd6Kvg2aIUdIaWA",
+    "file": "OBJ/Locomotive_Front.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

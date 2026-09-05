@@ -1,0 +1,30 @@
+{
+  "id": "locomotive-wagon",
+  "label": "Locomotive Wagon",
+  "description": "Modular Train Pack by Quaternius.",
+  "pack": "quaternius-modulartrain",
+  "listing": "https://quaternius.com/packs/modulartrain.html",
+  "download": "https://drive.google.com/uc?export=download&id=114DmIuvdmeUjyfwSoiaN8bKEsR74P4lV",
+  "file": "OBJ/Locomotive_Wagon.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0f406726073ccfe857bcfa2c948c626a56ff244e69187546c6ea0ab65502c83d",
+  "originalInputSha256": "0f406726073ccfe857bcfa2c948c626a56ff244e69187546c6ea0ab65502c83d",
+  "dependencies": [
+    {
+      "path": "OBJ/Locomotive_Wagon.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1tj5Hx_QhfAe8r8y2InCbqBz79whDjP9x",
+      "sha256": "d8ac5e29a4620e77b2f52264cb483e93282609790475a2d3aef73d7893e60bca",
+      "bytes": 783
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "locomotive-wagon.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[8.062609672546387,2.947005972266197,2.0667219161987305]",
+  "convertedAt": "2026-09-05T14:01:37.181Z"
+}

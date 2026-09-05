@@ -1,0 +1,30 @@
+{
+  "id": "bow-wooden",
+  "label": "Bow Wooden",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=1j-p51HP06ZWBJ-XjwFXoNRWTfBRAdsR1",
+  "file": "OBJ/Bow_Wooden.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "788c9e72bdd839a86704113de4809a96cfedf09441bb3f98f383a7abfe751e6d",
+  "originalInputSha256": "788c9e72bdd839a86704113de4809a96cfedf09441bb3f98f383a7abfe751e6d",
+  "dependencies": [
+    {
+      "path": "OBJ/Bow_Wooden.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1YvEXe4fsGiDLGXjBdk64cr3Sc1Z14TgU",
+      "sha256": "545318d522d6ab3f0f4942cd5fc25001fcc9c1a722cef2d04555009721847a54",
+      "bytes": 600
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bow-wooden.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.467922031879425,5.436604022979736,0.24340999871492386]",
+  "convertedAt": "2026-09-05T14:04:47.769Z"
+}

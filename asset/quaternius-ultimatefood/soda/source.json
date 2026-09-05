@@ -1,0 +1,30 @@
+{
+  "id": "soda",
+  "label": "Soda",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1DKliHwEgG6fZOApEdZIYgBykXiZrYEjt",
+  "file": "OBJ/Soda.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a0a8bc4908bcd38a5be5e7e0ff91fcf6c6c9a0465f51ef7433a6c094f82acdeb",
+  "originalInputSha256": "a0a8bc4908bcd38a5be5e7e0ff91fcf6c6c9a0465f51ef7433a6c094f82acdeb",
+  "dependencies": [
+    {
+      "path": "OBJ/Soda.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1lYlnBTS5gacCcd27RMNJN-0kkhm_iWcr",
+      "sha256": "948cc98c9a85d1bb2d254039fb56127223df88d04976e94ff81c5c451d7d68c1",
+      "bytes": 407
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "soda.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.9117940068244934,1.9229209860786796,0.9117940068244934]",
+  "convertedAt": "2026-09-05T13:51:32.030Z"
+}

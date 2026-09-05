@@ -1,0 +1,30 @@
+{
+  "id": "sword-golden",
+  "label": "Sword Golden",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1TzymYllOcMRCyVpIniZpiEgFsZKui97l",
+  "file": "OBJ/Sword_Golden.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "006a890ce6b1c40bef833dfff73e81eda595492261a7f795524ad8cfe89a8464",
+  "originalInputSha256": "006a890ce6b1c40bef833dfff73e81eda595492261a7f795524ad8cfe89a8464",
+  "dependencies": [
+    {
+      "path": "OBJ/Sword_Golden.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1IEZjbRfeTynCWUZQJ39RsdKpXGlMF7VJ",
+      "sha256": "303b49c4a0ebfecb5fe1bd5c6af1254db8fe47355cdb9d5ba99dcfac26ceed04",
+      "bytes": 967
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sword-golden.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.5343559980392456,2.3020640313625336,0.1221499964594841]",
+  "convertedAt": "2026-09-05T13:54:22.841Z"
+}

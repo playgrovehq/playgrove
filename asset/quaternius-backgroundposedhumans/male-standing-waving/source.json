@@ -1,0 +1,30 @@
+{
+  "id": "male-standing-waving",
+  "label": "Male Standing Waving",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "pack": "quaternius-backgroundposedhumans",
+  "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hUF5EuBSqa5iVigsfhK3nkalybBuZsF7",
+  "file": "Male/Male Poses/OBJ/Male_Standing_Waving.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "86044386edfc7e950c6d325297195e61d6fdf38c43a3dfd084d78a703e422d1d",
+  "originalInputSha256": "86044386edfc7e950c6d325297195e61d6fdf38c43a3dfd084d78a703e422d1d",
+  "dependencies": [
+    {
+      "path": "Male/Male Poses/OBJ/Male_Standing_Waving.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1pww0eBJDHguEBCPOYIpSfAY9SzGRw64V",
+      "sha256": "58ba27f653aaaacba6ce9dd6fb64f76b909418e01eb1ffb22ba361f4aa68e3b0",
+      "bytes": 780
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "male-standing-waving.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.5656089782714844,4.46792296692729,0.7819499969482422]",
+  "convertedAt": "2026-09-05T14:05:33.022Z"
+}

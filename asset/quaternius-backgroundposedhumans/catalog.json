@@ -1,0 +1,2278 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T14:05:33.104Z",
+  "assets": [
+    {
+      "id": "female-hairstyle-1",
+      "label": "Female Hairstyle 1",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-hairstyle-1/thumbnail.png",
+      "model": "female-hairstyle-1/female-hairstyle-1.ts",
+      "package": "female-hairstyle-1",
+      "descriptor": "female-hairstyle-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1lLF_OUcoF3aBsEIXo9UYK8NMFANB5JXh",
+        "file": "Female/Female Hairstyles/OBJ/Female_Hairstyle_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "hairstyle",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 782,
+        "triangles": 376,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.26162,
+          -0.317388,
+          -0.279236
+        ],
+        "max": [
+          0.26162,
+          0.317388,
+          0.279236
+        ],
+        "size": [
+          0.52324,
+          0.634776,
+          0.558472
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-hairstyle-2",
+      "label": "Female Hairstyle 2",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-hairstyle-2/thumbnail.png",
+      "model": "female-hairstyle-2/female-hairstyle-2.ts",
+      "package": "female-hairstyle-2",
+      "descriptor": "female-hairstyle-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1DTsBUtMrOccNjRwvKrRduip3RlQgGPyC",
+        "file": "Female/Female Hairstyles/OBJ/Female_Hairstyle_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "hairstyle",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 782,
+        "triangles": 376,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.303628,
+          -0.510977,
+          -0.279236
+        ],
+        "max": [
+          0.313729,
+          0.317388,
+          0.279236
+        ],
+        "size": [
+          0.617357,
+          0.828365,
+          0.558472
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-hairstyle-3",
+      "label": "Female Hairstyle 3",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-hairstyle-3/thumbnail.png",
+      "model": "female-hairstyle-3/female-hairstyle-3.ts",
+      "package": "female-hairstyle-3",
+      "descriptor": "female-hairstyle-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1PHH3gNXkP_OhmwULVrJfLueR-MDveBf9",
+        "file": "Female/Female Hairstyles/OBJ/Female_Hairstyle_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "hairstyle",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 566,
+        "triangles": 268,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.26162,
+          -0.261674,
+          -0.279236
+        ],
+        "max": [
+          0.26162,
+          0.261674,
+          0.279236
+        ],
+        "size": [
+          0.52324,
+          0.523348,
+          0.558472
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-hairstyle-4",
+      "label": "Female Hairstyle 4",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-hairstyle-4/thumbnail.png",
+      "model": "female-hairstyle-4/female-hairstyle-4.ts",
+      "package": "female-hairstyle-4",
+      "descriptor": "female-hairstyle-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1oz8XIhZF5bVqxr7xkjyr8Ec41tjGnPmP",
+        "file": "Female/Female Hairstyles/OBJ/Female_Hairstyle_4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "hairstyle",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#4c3b29",
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "black",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 670,
+        "triangles": 316,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.26162,
+          -0.38131,
+          -0.39345
+        ],
+        "max": [
+          0.26162,
+          0.38131,
+          0.39345
+        ],
+        "size": [
+          0.52324,
+          0.76262,
+          0.7869
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-looking-up",
+      "label": "Female LookingUp",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-looking-up/thumbnail.png",
+      "model": "female-looking-up/female-looking-up.ts",
+      "package": "female-looking-up",
+      "descriptor": "female-looking-up/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1uwIvkv2ClvA3xqU3aknLtME_AZHSUGKm",
+        "file": "Female/Female Poses/OBJ/Female_LookingUp.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "looking",
+        "up",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2714,
+        "triangles": 1304,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.702435,
+          -0.012385,
+          -0.74805
+        ],
+        "max": [
+          0.662127,
+          3.578921,
+          0.317848
+        ],
+        "size": [
+          1.364562,
+          3.591306,
+          1.065898
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-picking-up",
+      "label": "Female PickingUp",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-picking-up/thumbnail.png",
+      "model": "female-picking-up/female-picking-up.ts",
+      "package": "female-picking-up",
+      "descriptor": "female-picking-up/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1FFp3bq5QHD7_OCKh-XGlhq9mb8G1p_Te",
+        "file": "Female/Female Poses/OBJ/Female_PickingUp.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "picking",
+        "up",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2824,
+        "triangles": 1356,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.404706,
+          -0.0177,
+          -0.333954
+        ],
+        "max": [
+          0.674198,
+          2.242362,
+          1.754134
+        ],
+        "size": [
+          1.078904,
+          2.260062,
+          2.088088
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-running",
+      "label": "Female Running",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-running/thumbnail.png",
+      "model": "female-running/female-running.ts",
+      "package": "female-running",
+      "descriptor": "female-running/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1unoHqbflXPZI_apmCTD2QBIqNYY23U8R",
+        "file": "Female/Female Poses/OBJ/Female_Running.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "running",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2768,
+        "triangles": 1330,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.396163,
+          -0.030239,
+          -1.042028
+        ],
+        "max": [
+          0.440474,
+          3.668496,
+          1.020517
+        ],
+        "size": [
+          0.836637,
+          3.698735,
+          2.062545
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-sitting",
+      "label": "Female Sitting",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-sitting/thumbnail.png",
+      "model": "female-sitting/female-sitting.ts",
+      "package": "female-sitting",
+      "descriptor": "female-sitting/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1tsH40mlqGXeI7igey4i_gMDKx2wvTGRn",
+        "file": "Female/Female Poses/OBJ/Female_Sitting.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "sitting",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2824,
+        "triangles": 1356,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.496543,
+          -0.011764,
+          -1.091218
+        ],
+        "max": [
+          0.522495,
+          2.957647,
+          0.317848
+        ],
+        "size": [
+          1.019038,
+          2.969411,
+          1.409066
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-sitting-cheering",
+      "label": "Female Sitting Cheering",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-sitting-cheering/thumbnail.png",
+      "model": "female-sitting-cheering/female-sitting-cheering.ts",
+      "package": "female-sitting-cheering",
+      "descriptor": "female-sitting-cheering/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1QV2hODdvt1Ta0kCwfd0Vw7Z6vt6Myhuk",
+        "file": "Female/Female Poses/OBJ/Female_Sitting_Cheering.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "sitting",
+        "cheering",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2824,
+        "triangles": 1356,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.522143,
+          -0.011764,
+          -1.150832
+        ],
+        "max": [
+          0.554473,
+          3.250823,
+          0.317848
+        ],
+        "size": [
+          1.076616,
+          3.262587,
+          1.46868
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-standing",
+      "label": "Female Standing",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-standing/thumbnail.png",
+      "model": "female-standing/female-standing.ts",
+      "package": "female-standing",
+      "descriptor": "female-standing/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=13oLeT8urbcq_6W2C1cQq49tqTLKuG69b",
+        "file": "Female/Female Poses/OBJ/Female_Standing.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "standing",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2820,
+        "triangles": 1356,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.504502,
+          -0.011923,
+          -0.381537
+        ],
+        "max": [
+          0.509052,
+          3.689682,
+          0.317848
+        ],
+        "size": [
+          1.013554,
+          3.701605,
+          0.699385
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-standing-covering-eyes",
+      "label": "Female Standing CoveringEyes",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-standing-covering-eyes/thumbnail.png",
+      "model": "female-standing-covering-eyes/female-standing-covering-eyes.ts",
+      "package": "female-standing-covering-eyes",
+      "descriptor": "female-standing-covering-eyes/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Ta4NtjZzYPmzC75DMUwbn-oWZdu0Eg3g",
+        "file": "Female/Female Poses/OBJ/Female_Standing_CoveringEyes.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "standing",
+        "covering",
+        "eyes",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2824,
+        "triangles": 1356,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.554981,
+          -0.011764,
+          -0.378113
+        ],
+        "max": [
+          0.465869,
+          3.755462,
+          0.562764
+        ],
+        "size": [
+          1.02085,
+          3.767226,
+          0.940877
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-standing-hips",
+      "label": "Female Standing Hips",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-standing-hips/thumbnail.png",
+      "model": "female-standing-hips/female-standing-hips.ts",
+      "package": "female-standing-hips",
+      "descriptor": "female-standing-hips/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1zWqorz5XIv6nEPY44dQuCSn62EhtKmg7",
+        "file": "Female/Female Poses/OBJ/Female_Standing_Hips.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "standing",
+        "hips",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2716,
+        "triangles": 1304,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.715893,
+          -0.011764,
+          -0.378113
+        ],
+        "max": [
+          0.725444,
+          3.712005,
+          0.319102
+        ],
+        "size": [
+          1.441337,
+          3.723769,
+          0.697215
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "female-walking",
+      "label": "Female Walking",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "female-walking/thumbnail.png",
+      "model": "female-walking/female-walking.ts",
+      "package": "female-walking",
+      "descriptor": "female-walking/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1w5mUsPxuXZ7r-nWLuS4615fGb-F2GZQv",
+        "file": "Female/Female Poses/OBJ/Female_Walking.obj"
+      },
+      "category": "props",
+      "tags": [
+        "female",
+        "walking",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2824,
+        "triangles": 1356,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.505031,
+          -0.043264,
+          -0.61448
+        ],
+        "max": [
+          0.553722,
+          3.66417,
+          0.738337
+        ],
+        "size": [
+          1.058753,
+          3.707434,
+          1.352817
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-hairstyle-1",
+      "label": "Male Hairstyle 1",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-hairstyle-1/thumbnail.png",
+      "model": "male-hairstyle-1/male-hairstyle-1.ts",
+      "package": "male-hairstyle-1",
+      "descriptor": "male-hairstyle-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ITsZj3OhCHyIx9va025Drd6USpYn7ZUp",
+        "file": "Male/Male Hairstyles/OBJ/Male_Hairstyle_1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "hairstyle",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#433a29"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 376,
+        "triangles": 172,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.251264,
+          -0.310132,
+          -0.255904
+        ],
+        "max": [
+          0.251264,
+          0.310132,
+          0.255904
+        ],
+        "size": [
+          0.502528,
+          0.620264,
+          0.511808
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-hairstyle-2",
+      "label": "Male Hairstyle 2",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-hairstyle-2/thumbnail.png",
+      "model": "male-hairstyle-2/male-hairstyle-2.ts",
+      "package": "male-hairstyle-2",
+      "descriptor": "male-hairstyle-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=14IMfxxeZ3ZeACgnFKwCDFzDxh0r6I1Hr",
+        "file": "Male/Male Hairstyles/OBJ/Male_Hairstyle_2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "hairstyle",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#433a29"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 406,
+        "triangles": 188,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.251264,
+          -0.262257,
+          -0.285981
+        ],
+        "max": [
+          0.251264,
+          0.262257,
+          0.285981
+        ],
+        "size": [
+          0.502528,
+          0.524514,
+          0.571962
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-hairstyle-3",
+      "label": "Male Hairstyle 3",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-hairstyle-3/thumbnail.png",
+      "model": "male-hairstyle-3/male-hairstyle-3.ts",
+      "package": "male-hairstyle-3",
+      "descriptor": "male-hairstyle-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1-kf_HYqtQooOZ3p7Sj1p9TNPOqbI3tXH",
+        "file": "Male/Male Hairstyles/OBJ/Male_Hairstyle_3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "hairstyle",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#433a29"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 476,
+        "triangles": 220,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.260196,
+          -0.315505,
+          -0.299174
+        ],
+        "max": [
+          0.260196,
+          0.315505,
+          0.299174
+        ],
+        "size": [
+          0.520392,
+          0.63101,
+          0.598348
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-hairstyle-4",
+      "label": "Male Hairstyle 4",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-hairstyle-4/thumbnail.png",
+      "model": "male-hairstyle-4/male-hairstyle-4.ts",
+      "package": "male-hairstyle-4",
+      "descriptor": "male-hairstyle-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=13vGhD_V_-YBkOXtepJIE2c9yHZBwiLcw",
+        "file": "Male/Male Hairstyles/OBJ/Male_Hairstyle_4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "hairstyle",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#433a29"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 392,
+        "triangles": 180,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.260943,
+          -0.204048,
+          -0.291201
+        ],
+        "max": [
+          0.24366,
+          0.202401,
+          0.291201
+        ],
+        "size": [
+          0.504603,
+          0.406449,
+          0.582402
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-looking-up",
+      "label": "Male LookingUp",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-looking-up/thumbnail.png",
+      "model": "male-looking-up/male-looking-up.ts",
+      "package": "male-looking-up",
+      "descriptor": "male-looking-up/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1V6pTUYjzt3cDD3XyexNvBRzW79HSkO8-",
+        "file": "Male/Male Poses/OBJ/Male_LookingUp.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "looking",
+        "up",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1908,
+        "triangles": 888,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.992591,
+          -0.041004,
+          -0.813728
+        ],
+        "max": [
+          0.993433,
+          3.644517,
+          0.369578
+        ],
+        "size": [
+          1.986024,
+          3.685521,
+          1.183306
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-picking-up",
+      "label": "Male PickingUp",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-picking-up/thumbnail.png",
+      "model": "male-picking-up/male-picking-up.ts",
+      "package": "male-picking-up",
+      "descriptor": "male-picking-up/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ZNwmeioSE1AXaVZY2ADuvTuCfSzXWZGy",
+        "file": "Male/Male Poses/OBJ/Male_PickingUp.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "picking",
+        "up",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1906,
+        "triangles": 888,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.630994,
+          -0.042302,
+          -0.304986
+        ],
+        "max": [
+          0.958827,
+          2.283188,
+          1.850788
+        ],
+        "size": [
+          1.589821,
+          2.32549,
+          2.155774
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-running",
+      "label": "Male Running",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-running/thumbnail.png",
+      "model": "male-running/male-running.ts",
+      "package": "male-running",
+      "descriptor": "male-running/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hKPPmWVxl-F0gg5AQYOBOZ6JOKWu7ksy",
+        "file": "Male/Male Poses/OBJ/Male_Running.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "running",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1908,
+        "triangles": 888,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.599834,
+          -0.075895,
+          -1.150551
+        ],
+        "max": [
+          0.614897,
+          3.769181,
+          1.064353
+        ],
+        "size": [
+          1.214731,
+          3.845076,
+          2.214904
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-sitting",
+      "label": "Male Sitting",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-sitting/thumbnail.png",
+      "model": "male-sitting/male-sitting.ts",
+      "package": "male-sitting",
+      "descriptor": "male-sitting/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=183uU-nqxzQJP1N1ykKOXVbjdHwdEaBs_",
+        "file": "Male/Male Poses/OBJ/Male_Sitting.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "sitting",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1908,
+        "triangles": 888,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.637282,
+          -0.040538,
+          -1.053115
+        ],
+        "max": [
+          0.615112,
+          3.058781,
+          0.369578
+        ],
+        "size": [
+          1.252394,
+          3.099319,
+          1.422693
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-sitting-cheering",
+      "label": "Male Sitting Cheering",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-sitting-cheering/thumbnail.png",
+      "model": "male-sitting-cheering/male-sitting-cheering.ts",
+      "package": "male-sitting-cheering",
+      "descriptor": "male-sitting-cheering/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1D_lhGqSOj9nxLJ4T3ksDvx20uBzXpoSl",
+        "file": "Male/Male Poses/OBJ/Male_Sitting_Cheering.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "sitting",
+        "cheering",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1908,
+        "triangles": 888,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.637282,
+          -0.040538,
+          -1.216472
+        ],
+        "max": [
+          0.809434,
+          3.570523,
+          0.369578
+        ],
+        "size": [
+          1.446716,
+          3.611061,
+          1.58605
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-standing",
+      "label": "Male Standing",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-standing/thumbnail.png",
+      "model": "male-standing/male-standing.ts",
+      "package": "male-standing",
+      "descriptor": "male-standing/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1sYxmvLuMH9CkwwLGyTAhZsN_-tFIhbHu",
+        "file": "Male/Male Poses/OBJ/Male_Standing.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "standing",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1908,
+        "triangles": 888,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.633595,
+          -0.040538,
+          -0.322732
+        ],
+        "max": [
+          0.605896,
+          3.791317,
+          0.369578
+        ],
+        "size": [
+          1.239491,
+          3.831855,
+          0.69231
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-standing-covering-eyes",
+      "label": "Male Standing CoveringEyes",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-standing-covering-eyes/thumbnail.png",
+      "model": "male-standing-covering-eyes/male-standing-covering-eyes.ts",
+      "package": "male-standing-covering-eyes",
+      "descriptor": "male-standing-covering-eyes/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1FF0qNA7cOEVWGM8XQzzKP7EC4nC1xH99",
+        "file": "Male/Male Poses/OBJ/Male_Standing_CoveringEyes.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "standing",
+        "covering",
+        "eyes",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1908,
+        "triangles": 888,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.82512,
+          -0.040538,
+          -0.298064
+        ],
+        "max": [
+          0.613184,
+          3.813138,
+          0.62967
+        ],
+        "size": [
+          1.438304,
+          3.853676,
+          0.927734
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-standing-hips",
+      "label": "Male Standing Hips",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-standing-hips/thumbnail.png",
+      "model": "male-standing-hips/male-standing-hips.ts",
+      "package": "male-standing-hips",
+      "descriptor": "male-standing-hips/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1QWmxUAwW2c0kBdvxxVkyYBn3gZOUY5_d",
+        "file": "Male/Male Poses/OBJ/Male_Standing_Hips.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "standing",
+        "hips",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1908,
+        "triangles": 888,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.985044,
+          -0.041333,
+          -0.351143
+        ],
+        "max": [
+          0.998872,
+          3.77895,
+          0.369578
+        ],
+        "size": [
+          1.983916,
+          3.820283,
+          0.720721
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-standing-waving",
+      "label": "Male Standing Waving",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-standing-waving/thumbnail.png",
+      "model": "male-standing-waving/male-standing-waving.ts",
+      "package": "male-standing-waving",
+      "descriptor": "male-standing-waving/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hUF5EuBSqa5iVigsfhK3nkalybBuZsF7",
+        "file": "Male/Male Poses/OBJ/Male_Standing_Waving.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "standing",
+        "waving",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1908,
+        "triangles": 888,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.781169,
+          -0.04263,
+          -0.412261
+        ],
+        "max": [
+          0.78444,
+          4.425293,
+          0.369689
+        ],
+        "size": [
+          1.565609,
+          4.467923,
+          0.78195
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "male-walking",
+      "label": "Male Walking",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "male-walking/thumbnail.png",
+      "model": "male-walking/male-walking.ts",
+      "package": "male-walking",
+      "descriptor": "male-walking/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1VAjoX0X9gFFx8F1L0F3TC2YjS40CNoi7",
+        "file": "Male/Male Poses/OBJ/Male_Walking.obj"
+      },
+      "category": "props",
+      "tags": [
+        "male",
+        "walking",
+        "quaternius",
+        "backgroundposedhumans",
+        "human",
+        "cylinder",
+        "mesh",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1908,
+        "triangles": 888,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.597794,
+          -0.078498,
+          -0.661221
+        ],
+        "max": [
+          0.619316,
+          3.764356,
+          0.797913
+        ],
+        "size": [
+          1.21711,
+          3.842854,
+          1.459134
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "woman-standing-waving",
+      "label": "Woman Standing Waving",
+      "description": "Background Posed Humans Pack by Quaternius.",
+      "thumbnail": "woman-standing-waving/thumbnail.png",
+      "model": "woman-standing-waving/woman-standing-waving.ts",
+      "package": "woman-standing-waving",
+      "descriptor": "woman-standing-waving/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+        "download": "https://drive.google.com/uc?export=download&id=1q3UmkWXYQTI33SybQvMfnNAyrp9rPRE3",
+        "file": "Female/Female Poses/OBJ/Woman_Standing_Waving.obj"
+      },
+      "category": "props",
+      "tags": [
+        "woman",
+        "standing",
+        "waving",
+        "quaternius",
+        "backgroundposedhumans",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbaa89",
+        "#81869a",
+        "#3e3c3d",
+        "#4c3b29"
+      ],
+      "colorNames": [
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2768,
+        "triangles": 1330,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.523021,
+          -0.011866,
+          -0.385772
+        ],
+        "max": [
+          0.539135,
+          4.195392,
+          0.317959
+        ],
+        "size": [
+          1.062156,
+          4.207258,
+          0.703731
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

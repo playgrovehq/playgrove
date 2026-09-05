@@ -1,0 +1,30 @@
+{
+  "id": "bullpup-1",
+  "label": "Bullpup 1",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1asgtwDsX9-Rm5GIhkA4BPn9QtYTVyEIn",
+  "file": "OBJ/Bullpup_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6ac189d35c1e7372f6350d8d16d6d1c2fedc3b323142f1aa8420a147f2b4d8cf",
+  "originalInputSha256": "6ac189d35c1e7372f6350d8d16d6d1c2fedc3b323142f1aa8420a147f2b4d8cf",
+  "dependencies": [
+    {
+      "path": "OBJ/Bullpup_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1BiNPIeiU4ZfgH9oLOxei4sjbGII-2mGu",
+      "sha256": "a4999ae6f9e82abaccc1fed4e79c0037cc43571c6b49b0c2af159c2482c8be23",
+      "bytes": 598
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bullpup-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[5.248059034347534,1.54088893532753,0.31028398871421814]",
+  "convertedAt": "2026-09-05T13:55:50.041Z"
+}

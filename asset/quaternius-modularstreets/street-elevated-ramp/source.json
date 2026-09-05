@@ -1,0 +1,30 @@
+{
+  "id": "street-elevated-ramp",
+  "label": "Street Elevated Ramp",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Qab232ObOv5amfmYnp_Ir_ZlrCtUNfAy",
+  "file": "OBJ/Street_Elevated_Ramp.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3538c0f41fd4d0418e2188a79710530969615fcfb51d72c081e780f48b3894d8",
+  "originalInputSha256": "3538c0f41fd4d0418e2188a79710530969615fcfb51d72c081e780f48b3894d8",
+  "dependencies": [
+    {
+      "path": "OBJ/Street_Elevated_Ramp.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1gLXx0cdJRvqFdCW5djL_tVxOZ4Q0Pvak",
+      "sha256": "9b4c481c1ff609e7ad6dc6b084aa23ee2f7b3513c8101a7d50ef7f414d6e5591",
+      "bytes": 602
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "street-elevated-ramp.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.0000240206718445,0.5819949954748154,2.001191020011902]",
+  "convertedAt": "2026-09-05T14:06:13.770Z"
+}

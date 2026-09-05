@@ -1,0 +1,30 @@
+{
+  "id": "street-bridge-ramp",
+  "label": "Street Bridge Ramp",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1tG7QfbGMboDBXhw_J1lB2BWQDWPOqQO8",
+  "file": "OBJ/Street_Bridge_Ramp.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b332365b15840b1922c07d794b56a01e60557afe7e45cea54a049c0122d5a07c",
+  "originalInputSha256": "b332365b15840b1922c07d794b56a01e60557afe7e45cea54a049c0122d5a07c",
+  "dependencies": [
+    {
+      "path": "OBJ/Street_Bridge_Ramp.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1I87gEGvJIInRHZACXOEgrf2EJbzuPFiT",
+      "sha256": "956f8e4623cc92bbf79a83b390f1d6a7b85800e132d9625ca8bd6adbcc3dac4b",
+      "bytes": 778
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "street-bridge-ramp.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.9999979734420776,0.7637820020318031,2]",
+  "convertedAt": "2026-09-05T14:06:13.654Z"
+}

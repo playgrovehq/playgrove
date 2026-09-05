@@ -1,0 +1,30 @@
+{
+  "id": "cactus-flowers-4",
+  "label": "CactusFlowers 4",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1CbOyBVg3sOfZdeWmu7koetctnoBqvwEn",
+  "file": "OBJ/CactusFlowers_4.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0d1610b5c22ad3aabda22ff2d25df5c1c8c3413ebea5374800e2c016179615a6",
+  "originalInputSha256": "0d1610b5c22ad3aabda22ff2d25df5c1c8c3413ebea5374800e2c016179615a6",
+  "dependencies": [
+    {
+      "path": "OBJ/CactusFlowers_4.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16L8-8ODVRWbTdnvzeQHkl2kI4nvwF6EK",
+      "sha256": "fef2a88c4d3d191eae4542cb462f143cc56e7b76f182bda7906bd9c76d2fdd5d",
+      "bytes": 419
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cactus-flowers-4.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.10997099801898003,1.3844870366156101,0.97195103764534]",
+  "convertedAt": "2026-09-05T13:59:41.668Z"
+}

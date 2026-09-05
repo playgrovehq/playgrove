@@ -1,0 +1,30 @@
+{
+  "id": "pistol-4",
+  "label": "Pistol 4",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=17pMfeGG_HD02vKdLhQJAcCpOe_qGrI67",
+  "file": "OBJ/Pistol_4.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d3da98ad51a63a8b6f8b698e4091fd7341f844d2cbdf70ce02578af5ef50440b",
+  "originalInputSha256": "d3da98ad51a63a8b6f8b698e4091fd7341f844d2cbdf70ce02578af5ef50440b",
+  "dependencies": [
+    {
+      "path": "OBJ/Pistol_4.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1tggAgzqYP-GF8s1Mh_aqWW2ME2wgoi-7",
+      "sha256": "31d361d9203b2e1985bd4168dac25ab1866b3d252d98dbc6146567c12b16357c",
+      "bytes": 596
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pistol-4.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.9755139648914337,1.6281729936599731,0.30093199014663696]",
+  "convertedAt": "2026-09-05T13:55:50.156Z"
+}

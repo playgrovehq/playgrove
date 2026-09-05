@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "trap-empty",
+  "label": "Trap empty",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "trap",
+    "empty",
+    "quaternius",
+    "modulardungeon",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#464255"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "trap-empty.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1970,
+    "triangles": 1456,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.994613,
+      -0.002956,
+      -0.994613
+    ],
+    "max": [
+      0.994613,
+      0.121858,
+      0.994613
+    ],
+    "size": [
+      1.989226,
+      0.124814,
+      1.989226
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Trap_empty_Cube.051"
+  ],
+  "materialNames": [
+    "Metal"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulardungeon.html",
+    "download": "https://drive.google.com/uc?export=download&id=1q_-SHGwYwbUk3VZu2_Z6fm7e_imcDgPw",
+    "file": "OBJ/Trap_empty.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

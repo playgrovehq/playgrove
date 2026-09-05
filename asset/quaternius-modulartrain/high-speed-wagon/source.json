@@ -1,0 +1,30 @@
+{
+  "id": "high-speed-wagon",
+  "label": "HighSpeed Wagon",
+  "description": "Modular Train Pack by Quaternius.",
+  "pack": "quaternius-modulartrain",
+  "listing": "https://quaternius.com/packs/modulartrain.html",
+  "download": "https://drive.google.com/uc?export=download&id=1tfj-AT-0Tx6pN_N7T3bq2FaGC7XP3SLF",
+  "file": "OBJ/HighSpeed_Wagon.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "61efcd385657c037304e63353104576c23da3295ed2c84b3d7ec6138264f7575",
+  "originalInputSha256": "61efcd385657c037304e63353104576c23da3295ed2c84b3d7ec6138264f7575",
+  "dependencies": [
+    {
+      "path": "OBJ/HighSpeed_Wagon.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1gbsUtGB1w0rQ1OJk_kT04sVFuYLzdjL3",
+      "sha256": "80aec047deac66a1ad3cf05a4dc5f454630637f235839ebb7c2255af31746dc2",
+      "bytes": 955
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "high-speed-wagon.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=9 materials=9 bounds=[11.1799898147583,1.9043819746002555,2.028062105178833]",
+  "convertedAt": "2026-09-05T14:01:37.086Z"
+}

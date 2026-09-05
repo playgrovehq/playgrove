@@ -1,0 +1,30 @@
+{
+  "id": "stool",
+  "label": "Stool",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "pack": "quaternius-ultimatefurniture",
+  "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ZRrirr4zTdCD9c_bGlDhUQcn5N0zJDYM",
+  "file": "OBJ/Stool.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "15600a1712bed639390855582caacd26bc140556c44ee11b4585245f9f99dde9",
+  "originalInputSha256": "15600a1712bed639390855582caacd26bc140556c44ee11b4585245f9f99dde9",
+  "dependencies": [
+    {
+      "path": "OBJ/Stool.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1LEFiWHhvp7bAXr4CdBmx701-o0ScqQmn",
+      "sha256": "f5305edc6e0c88e34052dd4689d189c9029d1605791d17832826549bb225f6aa",
+      "bytes": 411
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "stool.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.5072489976882935,0.5768139883875847,0.5333539843559265]",
+  "convertedAt": "2026-09-05T14:12:34.453Z"
+}

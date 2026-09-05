@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "id": "cloud4",
+  "label": "Cloud4",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "cloud4",
+    "quaternius",
+    "modularplatformer",
+    "icosphere",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "cloud4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 960,
+    "triangles": 480,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -4.083776,
+      -0.6626,
+      -0.921614
+    ],
+    "max": [
+      4.013469,
+      0.643287,
+      0.927921
+    ],
+    "size": [
+      8.097245,
+      1.305887,
+      1.849535
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Cloud4_Icosphere.006"
+  ],
+  "materialNames": [
+    "White"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modularplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Puo3FrlHJSbGsdy-x2RpJq8VC8NMsHjz",
+    "file": "OBJ/Cloud4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

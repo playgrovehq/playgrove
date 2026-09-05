@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "id": "bed-twin",
+  "label": "BedTwin",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "category": "furniture",
+  "tags": [
+    "bed",
+    "twin",
+    "quaternius",
+    "ultimatefurniture",
+    "pillow",
+    "cube",
+    "comforter",
+    "mattress",
+    "frame",
+    "furniture",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#353134",
+    "#411f31",
+    "#63364a",
+    "#474049",
+    "#6a5339",
+    "#5c4831"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bed-twin.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 7034,
+    "triangles": 3684,
+    "parts": 6,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.029211,
+      -0.011821,
+      -1.529476
+    ],
+    "max": [
+      1.031675,
+      1.54571,
+      2.729057
+    ],
+    "size": [
+      2.060886,
+      1.557531,
+      4.258533
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pillow_Cube.008",
+    "Comforter_Cube.005",
+    "Mattress_Cube.004",
+    "BedFrame_Cube.001"
+  ],
+  "materialNames": [
+    "PillowCover",
+    "Comforter",
+    "ComforterLight",
+    "Mattress",
+    "Wood",
+    "DarkWood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+    "download": "https://drive.google.com/uc?export=download&id=1bdWV6WvMlvCc8VHBxhHbP0hAwWBuwoVo",
+    "file": "OBJ/BedTwin.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

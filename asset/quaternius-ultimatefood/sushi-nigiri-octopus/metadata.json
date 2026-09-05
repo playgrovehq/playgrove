@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "sushi-nigiri-octopus",
+  "label": "Sushi NigiriOctopus",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "sushi",
+    "nigiri",
+    "octopus",
+    "quaternius",
+    "ultimatefood",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a3a3a3",
+    "#89548d",
+    "#ab6688"
+  ],
+  "colorNames": [
+    "gray",
+    "purple"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "sushi-nigiri-octopus.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1260,
+    "triangles": 648,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.421449,
+      0.000795,
+      -0.139511
+    ],
+    "max": [
+      0.340567,
+      0.351267,
+      0.1278
+    ],
+    "size": [
+      0.762016,
+      0.350472,
+      0.267311
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Sushi_NigiriOctopus_Cube.018"
+  ],
+  "materialNames": [
+    "White",
+    "PalePink2",
+    "PalePink"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefood.html",
+    "download": "https://drive.google.com/uc?export=download&id=1u-h6nqz-ISRh3a4UhwRjD6KoKZXNfXXW",
+    "file": "OBJ/Sushi_NigiriOctopus.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

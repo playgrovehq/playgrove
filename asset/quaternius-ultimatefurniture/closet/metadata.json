@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "closet",
+  "label": "Closet",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "closet",
+    "quaternius",
+    "ultimatefurniture",
+    "left",
+    "door",
+    "cube",
+    "right",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5c4831",
+    "#877948",
+    "#6a5339"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "closet.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 5446,
+    "triangles": 2986,
+    "parts": 6,
+    "discardedDegenerate": 2
+  },
+  "bounds": {
+    "min": [
+      -0.77694,
+      -0.007873,
+      -0.430209
+    ],
+    "max": [
+      0.775563,
+      2.969636,
+      0.439801
+    ],
+    "size": [
+      1.552503,
+      2.977509,
+      0.87001
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Closet_LeftDoor_Cube.007",
+    "Closet_RightDoor_Cube.006",
+    "Closet_Cube"
+  ],
+  "materialNames": [
+    "DarkWood",
+    "Metal",
+    "Wood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+    "download": "https://drive.google.com/uc?export=download&id=1BgfNvM6RO2mH3pIXmuBOicznxw5PRERj",
+    "file": "OBJ/Closet.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

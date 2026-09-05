@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "male-hairstyle-1",
+  "label": "Male Hairstyle 1",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "male",
+    "hairstyle",
+    "quaternius",
+    "backgroundposedhumans",
+    "human",
+    "cylinder",
+    "mesh",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#433a29"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "male-hairstyle-1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 376,
+    "triangles": 172,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.251264,
+      -0.310132,
+      -0.255904
+    ],
+    "max": [
+      0.251264,
+      0.310132,
+      0.255904
+    ],
+    "size": [
+      0.502528,
+      0.620264,
+      0.511808
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Male_Hairstyle_1_Human_CylinderMesh.002"
+  ],
+  "materialNames": [
+    "Hair"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ITsZj3OhCHyIx9va025Drd6USpYn7ZUp",
+    "file": "Male/Male Hairstyles/OBJ/Male_Hairstyle_1.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

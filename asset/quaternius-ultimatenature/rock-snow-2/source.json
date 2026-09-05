@@ -1,0 +1,30 @@
+{
+  "id": "rock-snow-2",
+  "label": "Rock Snow 2",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1WKoHaL3mHoeOCrVCd2cQCrzdfC79KyGO",
+  "file": "OBJ/Rock_Snow_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "288b541349c18628d1c7524c299f12283d3afe07f70c4c86ac09eaf09f24bb65",
+  "originalInputSha256": "288b541349c18628d1c7524c299f12283d3afe07f70c4c86ac09eaf09f24bb65",
+  "dependencies": [
+    {
+      "path": "OBJ/Rock_Snow_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1PoRnq0Deko6itLM0D0O8_ex_0_9hmNym",
+      "sha256": "9054889e7ce4c54499f3437c74d13b190c1f8463d2114b0f0f7a8ed3d6009a0b",
+      "bytes": 422
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "rock-snow-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6125459969043732,0.720471978187561,0.6504270136356354]",
+  "convertedAt": "2026-09-05T13:59:43.050Z"
+}

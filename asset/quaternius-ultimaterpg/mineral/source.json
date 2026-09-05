@@ -1,0 +1,30 @@
+{
+  "id": "mineral",
+  "label": "Mineral",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=195AxggeXXY3kepwX7WwNMATe8HVAkrrk",
+  "file": "OBJ/Mineral.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f5b08f65ab087628b2acb92c173158a5f31f5e89d4797e200f79d9b543d406d6",
+  "originalInputSha256": "f5b08f65ab087628b2acb92c173158a5f31f5e89d4797e200f79d9b543d406d6",
+  "dependencies": [
+    {
+      "path": "OBJ/Mineral.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1S8025mqKeNVahp3u3Q6VtZZzGztM5mcN",
+      "sha256": "3e713b30aae08fd0ceb7ac8cf4810e00d150daa4a7ce50baa121a89cd074aa31",
+      "bytes": 410
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "mineral.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.587583988904953,0.43671799451112747,0.5643739998340607]",
+  "convertedAt": "2026-09-05T13:54:22.035Z"
+}

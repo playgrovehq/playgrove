@@ -1,0 +1,30 @@
+{
+  "id": "rock-moss-2",
+  "label": "Rock Moss 2",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1cA8cIAwByqRFghfmb0ha8p1tew3sYJe3",
+  "file": "OBJ/Rock_Moss_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "157c7146fa7d65ac0d1608083e1a71605a4c4773d535be20377ad2fd356a322c",
+  "originalInputSha256": "157c7146fa7d65ac0d1608083e1a71605a4c4773d535be20377ad2fd356a322c",
+  "dependencies": [
+    {
+      "path": "OBJ/Rock_Moss_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1w9n56cNsJ-6KTbfBO8OcHYFCX3DKABAO",
+      "sha256": "9b8e1246e120bdcdadaa40835a3277e8de67b6d33bd29b80530874e486384d25",
+      "bytes": 415
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "rock-moss-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6125459969043732,0.6917530298233032,0.6504270136356354]",
+  "convertedAt": "2026-09-05T13:59:42.925Z"
+}

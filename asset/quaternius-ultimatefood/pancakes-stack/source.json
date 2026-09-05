@@ -1,0 +1,30 @@
+{
+  "id": "pancakes-stack",
+  "label": "Pancakes Stack",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1g3C7uaD2vfot0mwMY6bx6CdxusCbyuY7",
+  "file": "OBJ/Pancakes_Stack.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "31ce04c8b9b8d9c321fbcebe1d89683fd1d1f5d74eb4a8e0cd436cc1898e15a8",
+  "originalInputSha256": "31ce04c8b9b8d9c321fbcebe1d89683fd1d1f5d74eb4a8e0cd436cc1898e15a8",
+  "dependencies": [
+    {
+      "path": "OBJ/Pancakes_Stack.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1hQAUSzzGtle_HioaI6ZnUNu7as_DRbSu",
+      "sha256": "2af0baa42de4398848aba49e3c018af45222edb71e1e9c95bea5b915d62ba562",
+      "bytes": 781
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pancakes-stack.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.5806620121002197,0.6374329775571823,1.6205710172653198]",
+  "convertedAt": "2026-09-05T13:51:31.701Z"
+}

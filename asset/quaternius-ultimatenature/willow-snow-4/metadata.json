@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "willow-snow-4",
+  "label": "Willow Snow 4",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "willow",
+    "snow",
+    "quaternius",
+    "ultimatenature",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#62433e",
+    "#3a4c30",
+    "#aaa2ae"
+  ],
+  "colorNames": [
+    "brown",
+    "black",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "willow-snow-4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3274,
+    "triangles": 1636,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.941998,
+      -0.027099,
+      -2.048884
+    ],
+    "max": [
+      1.244391,
+      3.436126,
+      0.995852
+    ],
+    "size": [
+      2.186389,
+      3.463225,
+      3.044736
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Willow_Snow_4_Cube.142"
+  ],
+  "materialNames": [
+    "Wood",
+    "DarkGreen",
+    "Snow"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=1gPrIjkq-txBwoBB8q744VBa6AYibhRf6",
+    "file": "OBJ/Willow_Snow_4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "wood-log-snow",
+  "label": "WoodLog Snow",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ltMbVvVsd-MfTmsV72409Scf5IX67Gd1",
+  "file": "OBJ/WoodLog_Snow.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "65504e606ab4dbe121b3494f5365c1286a304148d42683063cbe971b3fcff249",
+  "originalInputSha256": "65504e606ab4dbe121b3494f5365c1286a304148d42683063cbe971b3fcff249",
+  "dependencies": [
+    {
+      "path": "OBJ/WoodLog_Snow.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Fz9Ncwoxyq7092x1zyBvKpwh7HRMxk_F",
+      "sha256": "a289d89d24cca8107ff648dc7c3344704879fea670a46e5f558344136a753768",
+      "bytes": 415
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "wood-log-snow.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6267139911651611,0.5841530077159405,2.4945149421691895]",
+  "convertedAt": "2026-09-05T13:59:43.731Z"
+}

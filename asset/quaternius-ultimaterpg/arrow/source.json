@@ -1,0 +1,30 @@
+{
+  "id": "arrow",
+  "label": "Arrow",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1eBuNqvSUiYrqK23vACOQN_G_ymjJ021q",
+  "file": "OBJ/Arrow.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2e62d7db7b51414eadfc02a2cb13a27a46f763c131bbdcac0a57cf88a4a73cae",
+  "originalInputSha256": "2e62d7db7b51414eadfc02a2cb13a27a46f763c131bbdcac0a57cf88a4a73cae",
+  "dependencies": [
+    {
+      "path": "OBJ/Arrow.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1vfCwzsLdfDcTN5QPtyd5rkJmHYj0DZSU",
+      "sha256": "7bf11fdb7a3a63b7ee9c47e306e281b1875a8b8d3a5258465fe5994cc367186a",
+      "bytes": 777
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "arrow.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.12689999863505363,1.4559839963912964,0.1460060030221939]",
+  "convertedAt": "2026-09-05T13:54:21.072Z"
+}

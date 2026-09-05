@@ -1,0 +1,30 @@
+{
+  "id": "bear-trap-closed",
+  "label": "BearTrap Closed",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Kgkye-jR971qiwGExfh752IpU2kiiIFA",
+  "file": "OBJ/BearTrap_Closed.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "980f5f54fdc55b4d75749c611fa51173b5c51e45b65e39bc6ace2b38ea146f16",
+  "originalInputSha256": "980f5f54fdc55b4d75749c611fa51173b5c51e45b65e39bc6ace2b38ea146f16",
+  "dependencies": [
+    {
+      "path": "OBJ/BearTrap_Closed.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1emmMY_JcA13rfSckeuU3bEgMO72m8ItI",
+      "sha256": "28a5ed6d3439ba1d96a1b5ee025f9cd2744efeb76b551761285f851686937259",
+      "bytes": 245
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bear-trap-closed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.1903420090675354,1.4251459578517824,1.9813590049743652]",
+  "convertedAt": "2026-09-05T14:03:42.592Z"
+}

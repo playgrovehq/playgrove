@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "id": "silo-house",
+  "label": "Silo House",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "silo",
+    "house",
+    "quaternius",
+    "farmbuildings",
+    "cylinder",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#8f433a",
+    "#a0a0a0",
+    "#7c3a32",
+    "#824e36",
+    "#d1d1d1",
+    "#747474",
+    "#313032"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "white",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "silo-house.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4340,
+    "triangles": 2880,
+    "parts": 7,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -3.421056,
+      -0.047664,
+      -1.664563
+    ],
+    "max": [
+      1.91729,
+      9.019186,
+      1.84543
+    ],
+    "size": [
+      5.338346,
+      9.06685,
+      3.509993
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Silo_House_Cylinder.003"
+  ],
+  "materialNames": [
+    "LightRed",
+    "Grey",
+    "DarkRed",
+    "Brown",
+    "White",
+    "DarkGrey",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/farmbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1UCyp7flVDLk7Gw44XynAuTv4maaD159W",
+    "file": "OBJ/Silo_House.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

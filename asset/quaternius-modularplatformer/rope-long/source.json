@@ -1,0 +1,30 @@
+{
+  "id": "rope-long",
+  "label": "Rope Long",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1izMf4Ks4GPDP6hiw6De0RmR0UT4yd3AR",
+  "file": "OBJ/Rope_Long.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7c27782cec6c02be36194a4e9871bdf2a2479ddabfd36e4e9e466cddc4426210",
+  "originalInputSha256": "7c27782cec6c02be36194a4e9871bdf2a2479ddabfd36e4e9e466cddc4426210",
+  "dependencies": [
+    {
+      "path": "OBJ/Rope_Long.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1pbLdcA1HadF0nVLT6yJz056lMiDdB0-f",
+      "sha256": "14f0e2ebd7d96b935d3588d8d44bcea3c383bf5c9782d83ba9d5ac27b5523b24",
+      "bytes": 416
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "rope-long.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.09865400195121765,6.213837135583162,0.10080800205469131]",
+  "convertedAt": "2026-09-05T14:03:43.256Z"
+}

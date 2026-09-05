@@ -1,0 +1,30 @@
+{
+  "id": "railway-track-straight",
+  "label": "RailwayTrack Straight",
+  "description": "Modular Train Pack by Quaternius.",
+  "pack": "quaternius-modulartrain",
+  "listing": "https://quaternius.com/packs/modulartrain.html",
+  "download": "https://drive.google.com/uc?export=download&id=1kU6tZGgZkuiDhnprCT4x_cLazqXId16K",
+  "file": "OBJ/RailwayTrack_Straight.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8704b2f032696773415348c1a7ef88f5d9f2435152630d33405acd1a05241e57",
+  "originalInputSha256": "8704b2f032696773415348c1a7ef88f5d9f2435152630d33405acd1a05241e57",
+  "dependencies": [
+    {
+      "path": "OBJ/RailwayTrack_Straight.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1VTVaHaDV48tBGqaCq5uBcPNqNGsrGtts",
+      "sha256": "80bf00b974430ade2b5d3f0eccdafb99d29d1048f7191374d6a8edb4b7b0bafc",
+      "bytes": 425
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "railway-track-straight.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[17.999906539916992,0.1429399996995926,1.2597860097885132]",
+  "convertedAt": "2026-09-05T14:01:37.216Z"
+}

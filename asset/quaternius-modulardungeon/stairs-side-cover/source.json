@@ -1,0 +1,30 @@
+{
+  "id": "stairs-side-cover",
+  "label": "Stairs SideCover",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1WnI4RUkSth2yTS4zoZWBq3mjZ1H6vj5i",
+  "file": "OBJ/Stairs_SideCover.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "178656bce33a0abf5f76c8730ddd8cc8d00b8fd26f5fe74a8cd40fa2ca8e1086",
+  "originalInputSha256": "178656bce33a0abf5f76c8730ddd8cc8d00b8fd26f5fe74a8cd40fa2ca8e1086",
+  "dependencies": [
+    {
+      "path": "OBJ/Stairs_SideCover.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1XgdS92H1H1rk2oU0TryQiKznxUEJ0fQ9",
+      "sha256": "1c3deb85c3e0e24429d7ae06de45175ece8264d4f90cb13e9a34f98039f06de6",
+      "bytes": 248
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "stairs-side-cover.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4427099823951721,2.030972957611084,2.059035897254944]",
+  "convertedAt": "2026-09-05T14:01:01.072Z"
+}

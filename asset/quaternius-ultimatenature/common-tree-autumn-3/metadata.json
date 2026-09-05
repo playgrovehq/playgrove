@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "common-tree-autumn-3",
+  "label": "CommonTree Autumn 3",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "common",
+    "tree",
+    "autumn",
+    "quaternius",
+    "ultimatenature",
+    "cube",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#62433e",
+    "#a96f45",
+    "#b18c52"
+  ],
+  "colorNames": [
+    "brown",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "common-tree-autumn-3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3168,
+    "triangles": 1584,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.704389,
+      -0.072028,
+      -0.791869
+    ],
+    "max": [
+      0.570648,
+      3.384342,
+      0.769755
+    ],
+    "size": [
+      1.275037,
+      3.45637,
+      1.561624
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "CommonTree_Autumn_3_Cube.091"
+  ],
+  "materialNames": [
+    "Wood",
+    "Orange",
+    "LightOrange"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=1FA5P8_4vtZ_g5CHzCU3oKFYmd9m35YnW",
+    "file": "OBJ/CommonTree_Autumn_3.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

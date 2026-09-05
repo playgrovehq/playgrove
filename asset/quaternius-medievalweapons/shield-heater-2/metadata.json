@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "shield-heater-2",
+  "label": "Shield Heater 2",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "shield",
+    "heater",
+    "quaternius",
+    "medievalweapons",
+    "cylinder",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#654430",
+    "#959aa0",
+    "#795239",
+    "#a4a8b0"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "shield-heater-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1962,
+    "triangles": 1212,
+    "parts": 4,
+    "discardedDegenerate": 80
+  },
+  "bounds": {
+    "min": [
+      -1.002508,
+      -1.499769,
+      -0.150709
+    ],
+    "max": [
+      1.002508,
+      1.063956,
+      0.44795
+    ],
+    "size": [
+      2.005016,
+      2.563725,
+      0.598659
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Shield_Heater_2_Cylinder.021"
+  ],
+  "materialNames": [
+    "DarkWood",
+    "Steel",
+    "LightWood",
+    "LightSteel"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalweapons.html",
+    "download": "https://drive.google.com/uc?export=download&id=1QXvctC-MDnK_hPSxaRizZibVwIyH1Dyg",
+    "file": "OBJ/Shield_Heater_2.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

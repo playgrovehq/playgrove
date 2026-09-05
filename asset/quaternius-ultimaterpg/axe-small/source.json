@@ -1,0 +1,30 @@
+{
+  "id": "axe-small",
+  "label": "Axe small",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1gPnCO4p6CcdVUBfYEe8dBckU7bxeWMcA",
+  "file": "OBJ/Axe_small.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1eb7b74b2ad837030c5b0cb5d18faf515188d082ddc8a16c52d8b03323d67639",
+  "originalInputSha256": "1eb7b74b2ad837030c5b0cb5d18faf515188d082ddc8a16c52d8b03323d67639",
+  "dependencies": [
+    {
+      "path": "OBJ/Axe_small.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1AEOJAFBCHL-KhaMpJikzhXjIdJxsAjLG",
+      "sha256": "31021ed1f64684c69449ed647d3f66c0ef54c4030138643a45e4eb4ca07b5c86",
+      "bytes": 782
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "axe-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.623553991317749,1.5745019912719727,0.13223600387573242]",
+  "convertedAt": "2026-09-05T13:54:21.149Z"
+}

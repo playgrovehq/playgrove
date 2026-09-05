@@ -1,0 +1,30 @@
+{
+  "id": "street-deadend",
+  "label": "Street Deadend",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1vv1gNO9Qe6icofkeWl6jnuMsuBaQlmj7",
+  "file": "OBJ/Street_Deadend.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "68e639d73c38df5265d614f63c0d7c6bca7b39caacbd97ac24c374f1cb5c96db",
+  "originalInputSha256": "68e639d73c38df5265d614f63c0d7c6bca7b39caacbd97ac24c374f1cb5c96db",
+  "dependencies": [
+    {
+      "path": "OBJ/Street_Deadend.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1dkAPZqp0D1AETFMX_vBSvcsGVM4dc2_F",
+      "sha256": "f0b3baf73ccb6577a01a2f054284add5b491d06ff28a2d8b8c71fb8d667575b1",
+      "bytes": 596
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "street-deadend.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2,0.2500000074505806,2]",
+  "convertedAt": "2026-09-05T14:06:13.737Z"
+}

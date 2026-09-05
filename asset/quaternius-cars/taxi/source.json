@@ -1,0 +1,30 @@
+{
+  "id": "taxi",
+  "label": "Taxi",
+  "description": "Cars Pack by Quaternius.",
+  "pack": "quaternius-cars",
+  "listing": "https://quaternius.com/packs/cars.html",
+  "download": "https://drive.google.com/uc?export=download&id=1UMriCC_JWsDfpTh5tBjQdhAj9_lJeuR2",
+  "file": "OBJ/Taxi.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "acd42602a7e4aada3efb35a54f835d4aa1a2ce2f30f956c641c6e228d582af0e",
+  "originalInputSha256": "acd42602a7e4aada3efb35a54f835d4aa1a2ce2f30f956c641c6e228d582af0e",
+  "dependencies": [
+    {
+      "path": "OBJ/Taxi.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1vnTRCYyHM_-IiE_XetjJMHdxD_yE4GZu",
+      "sha256": "6a783ff784413b21952eab1a62d79e92be2e196916bbb238cbf0864323fc53ef",
+      "bytes": 1133
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "taxi.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=12 materials=12 bounds=[1.8073599934577942,1.3104649977758527,4.220717191696167]",
+  "convertedAt": "2026-09-05T14:02:26.775Z"
+}

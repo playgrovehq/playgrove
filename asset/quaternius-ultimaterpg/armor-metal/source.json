@@ -1,0 +1,30 @@
+{
+  "id": "armor-metal",
+  "label": "Armor Metal",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1n3IC2lO0BG15NlIFm9ZD7liaMR49E1jO",
+  "file": "OBJ/Armor_Metal.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b59df33364943bdadc8760e6c24c91e4ad20d139cc9f24daad1bba041474673c",
+  "originalInputSha256": "b59df33364943bdadc8760e6c24c91e4ad20d139cc9f24daad1bba041474673c",
+  "dependencies": [
+    {
+      "path": "OBJ/Armor_Metal.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1NMXEOvSPGivT8h-WgtAjwg81M59Z8wEd",
+      "sha256": "f1a7f2dd10ff3d42d875c643e846db4280b7ecbbe5f5a97b6a42147e08536427",
+      "bytes": 242
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "armor-metal.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.4312419891357422,0.9425610303878784,0.7595340013504028]",
+  "convertedAt": "2026-09-05T13:54:21.036Z"
+}

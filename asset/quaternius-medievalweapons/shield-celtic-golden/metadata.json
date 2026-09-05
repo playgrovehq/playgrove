@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "shield-celtic-golden",
+  "label": "Shield Celtic Golden",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "shield",
+    "celtic",
+    "golden",
+    "quaternius",
+    "medievalweapons",
+    "cube",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#b4a564",
+    "#83adb4",
+    "#4fb46d",
+    "#d0be73"
+  ],
+  "colorNames": [
+    "gray",
+    "cyan",
+    "green",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "shield-celtic-golden.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1502,
+    "triangles": 832,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.04928,
+      -2.267177,
+      -0.706369
+    ],
+    "max": [
+      1.04928,
+      2.013,
+      0.706369
+    ],
+    "size": [
+      2.09856,
+      4.280177,
+      1.412738
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Shield_Celtic_Golden_Cube.002"
+  ],
+  "materialNames": [
+    "Gold",
+    "LightBlue",
+    "Green",
+    "LightGold"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalweapons.html",
+    "download": "https://drive.google.com/uc?export=download&id=1td95wRRuIKYonX-g0LmLS6MeDSHVix-z",
+    "file": "OBJ/Shield_Celtic_Golden.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

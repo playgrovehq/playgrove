@@ -1,0 +1,30 @@
+{
+  "id": "mushroom",
+  "label": "Mushroom",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1GEODrHGkD7LoOhscZtHSG3dzWxuV9Iv8",
+  "file": "OBJ/Mushroom.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "75590aca87930715140bf9be1a7fc8547795f25a1ab959f05d5cb4e33c298139",
+  "originalInputSha256": "75590aca87930715140bf9be1a7fc8547795f25a1ab959f05d5cb4e33c298139",
+  "dependencies": [
+    {
+      "path": "OBJ/Mushroom.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1J59V9W69fGaL_Cx5MgzBpVUIja_5ezNp",
+      "sha256": "04f601170692bc86da5d787af891118f71864b392c5b2fd5c50a98e01f787e09",
+      "bytes": 416
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "mushroom.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7056809961795807,0.7008059816434979,0.6879889965057373]",
+  "convertedAt": "2026-09-05T14:03:43.003Z"
+}

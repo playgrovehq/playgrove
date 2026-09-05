@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "rope-short",
+  "label": "Rope Short",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "rope",
+    "short",
+    "quaternius",
+    "modularplatformer",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "rope-short.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1552,
+    "triangles": 780,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.049327,
+      -3.438826,
+      -0.050404
+    ],
+    "max": [
+      0.049326,
+      0.054079,
+      0.050404
+    ],
+    "size": [
+      0.098653,
+      3.492905,
+      0.100808
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Rope_Short_Cylinder.006"
+  ],
+  "materialNames": [
+    "Rope",
+    "RopeDark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modularplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1AQKBXYm0bek2WFArH1VTyj4GY2LeEQKH",
+    "file": "OBJ/Rope_Short.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

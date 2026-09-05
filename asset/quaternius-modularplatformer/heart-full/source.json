@@ -1,0 +1,30 @@
+{
+  "id": "heart-full",
+  "label": "Heart Full",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1gWEWhbijtDE8o1XqEsn3aJeBf7h__ipQ",
+  "file": "OBJ/Heart_Full.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a100042f8df86a7d02537f2e5eb3a2127e8a7f5dfefbaa5b398ff1c7db146f26",
+  "originalInputSha256": "a100042f8df86a7d02537f2e5eb3a2127e8a7f5dfefbaa5b398ff1c7db146f26",
+  "dependencies": [
+    {
+      "path": "OBJ/Heart_Full.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1GLk1-9cWdq0MAM3GGqenCSdm_BXYgAxk",
+      "sha256": "b17e5b2a495564c6e6ae14e6dc7544d79a77ca257364565c016a268b1f553210",
+      "bytes": 235
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "heart-full.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.9713900089263916,0.8057039678096771,0.5728359818458557]",
+  "convertedAt": "2026-09-05T14:03:42.854Z"
+}

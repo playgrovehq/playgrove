@@ -1,0 +1,30 @@
+{
+  "id": "burger-patty-cooked",
+  "label": "BurgerPatty Cooked",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1WXtK7hRonRxJVE8S7zha5_u1QkNftcZU",
+  "file": "OBJ/BurgerPatty_Cooked.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9eec5a7e60fd7f569eb9850f398c02696c2eda4a8e5f774751a0d2d239bdcfbe",
+  "originalInputSha256": "9eec5a7e60fd7f569eb9850f398c02696c2eda4a8e5f774751a0d2d239bdcfbe",
+  "dependencies": [
+    {
+      "path": "OBJ/BurgerPatty_Cooked.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1rd4EbQSi21FluaWSQKOApYryjcp5b5Uj",
+      "sha256": "d9d27574206b63ed533f44103a37bd06bbcc8f80fb543d5053c3598657a1bb15",
+      "bytes": 245
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "burger-patty-cooked.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.4254659414291382,0.33636799454689026,1.4254659414291382]",
+  "convertedAt": "2026-09-05T13:51:30.782Z"
+}

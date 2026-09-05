@@ -1,0 +1,30 @@
+{
+  "id": "wall-modular",
+  "label": "Wall Modular",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1YwJR8fY-QQEmDyq0Al9DJlR8zEHz8MoU",
+  "file": "OBJ/Wall_Modular.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "116ada869f9b4dd68f990a462efb1d806480443fb4ac61090f535a5f090956d6",
+  "originalInputSha256": "116ada869f9b4dd68f990a462efb1d806480443fb4ac61090f535a5f090956d6",
+  "dependencies": [
+    {
+      "path": "OBJ/Wall_Modular.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1VqEaPlV-GUOdm6rkHpooWT9olyEcWkQR",
+      "sha256": "5c6ae9737ae4a8cd8cf0c127877586c300e20e156d29f2416f53e3c4992cfab7",
+      "bytes": 615
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "wall-modular.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.000737965106964,2.0053939819335938,0.43807199597358704]",
+  "convertedAt": "2026-09-05T14:01:01.272Z"
+}

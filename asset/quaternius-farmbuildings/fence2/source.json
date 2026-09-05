@@ -1,0 +1,30 @@
+{
+  "id": "fence2",
+  "label": "Fence2",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "pack": "quaternius-farmbuildings",
+  "listing": "https://quaternius.com/packs/farmbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1WdM8UaQWUqEUFAdaNIfojuD5-OrgLpuo",
+  "file": "OBJ/Fence2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "671b879e87f6105b43ce0834595e6191f32f32f7f53f8c4b0ee0eda564e45afa",
+  "originalInputSha256": "671b879e87f6105b43ce0834595e6191f32f32f7f53f8c4b0ee0eda564e45afa",
+  "dependencies": [
+    {
+      "path": "OBJ/Fence2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1D4xSTXeRrBeZmsMsefdbxX7XqYJBG5w_",
+      "sha256": "8d731f11bab0c942e54f6453a7ca140631dcbb2d175401e20da407a02b76cc95",
+      "bytes": 233
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "fence2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[5.8901262283325195,1.1733749629929662,0.1655060052871704]",
+  "convertedAt": "2026-09-05T14:04:12.942Z"
+}

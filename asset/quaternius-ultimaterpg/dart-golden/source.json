@@ -1,0 +1,30 @@
+{
+  "id": "dart-golden",
+  "label": "Dart Golden",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1wR9Pb6eEqNEZ7Bb_LEMbXEAr0ZFO4CZY",
+  "file": "OBJ/Dart_Golden.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7841e7b8e9b4225ef812e27021b61ad38b90f319741371d9cc259913f671077a",
+  "originalInputSha256": "7841e7b8e9b4225ef812e27021b61ad38b90f319741371d9cc259913f671077a",
+  "dependencies": [
+    {
+      "path": "OBJ/Dart_Golden.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=15MRSZcztkZh5rWekieEDhE9vT_9rex1R",
+      "sha256": "9a3616b762958032f7fdd119448bc878bd9fc8888fdc1e871f7bead2b5c72650",
+      "bytes": 421
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "dart-golden.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.12689999863505363,0.7191210091114044,0.1460060030221939]",
+  "convertedAt": "2026-09-05T13:54:21.799Z"
+}

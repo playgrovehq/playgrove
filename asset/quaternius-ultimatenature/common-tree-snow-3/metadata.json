@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "common-tree-snow-3",
+  "label": "CommonTree Snow 3",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "common",
+    "tree",
+    "snow",
+    "quaternius",
+    "ultimatenature",
+    "cube",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#62433e",
+    "#4b623e",
+    "#3a4c30",
+    "#aaa2ae"
+  ],
+  "colorNames": [
+    "brown",
+    "black",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "common-tree-snow-3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3352,
+    "triangles": 1672,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.704387,
+      -0.072028,
+      -0.791869
+    ],
+    "max": [
+      0.570648,
+      3.402334,
+      0.769751
+    ],
+    "size": [
+      1.275035,
+      3.474362,
+      1.56162
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "CommonTree_Snow_3_Cube.129"
+  ],
+  "materialNames": [
+    "Wood",
+    "Green",
+    "DarkGreen",
+    "Snow"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatenature.html",
+    "download": "https://drive.google.com/uc?export=download&id=15UL-q-v9f32v_xWG_72Ys9M_80uuJOQv",
+    "file": "OBJ/CommonTree_Snow_3.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

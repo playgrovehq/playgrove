@@ -1,0 +1,30 @@
+{
+  "id": "popsicle-strawberry",
+  "label": "Popsicle Strawberry",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Kv6Kt7ktk23g8n0SCEweM4oNYAxn78nB",
+  "file": "OBJ/Popsicle_Strawberry.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c1ff3ebc188e933962e55875c8d49161670c64e80e0df26cbb730b6a5ee7a950",
+  "originalInputSha256": "c1ff3ebc188e933962e55875c8d49161670c64e80e0df26cbb730b6a5ee7a950",
+  "dependencies": [
+    {
+      "path": "OBJ/Popsicle_Strawberry.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=15eRPlQ5fEexc_q0tB7z1bgJvyuBUHLFM",
+      "sha256": "a25ebbd98d1ea96f69661787b1173337aafcf8c341320fe0a701b58a9c4eba83",
+      "bytes": 427
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "popsicle-strawberry.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.29110199213027954,0.9900040030479431,0.07984399795532227]",
+  "convertedAt": "2026-09-05T13:51:31.929Z"
+}

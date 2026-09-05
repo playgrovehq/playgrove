@@ -1,0 +1,30 @@
+{
+  "id": "birch-tree-dead-snow-2",
+  "label": "BirchTree Dead Snow 2",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1IqjtGxaDJ-N2i_6FHPFl0qiqRELdjRUD",
+  "file": "OBJ/BirchTree_Dead_Snow_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5b8b435c81bd9fca9d42d5efcb0da10b3c2dd13790869961dae16ed78df59fec",
+  "originalInputSha256": "5b8b435c81bd9fca9d42d5efcb0da10b3c2dd13790869961dae16ed78df59fec",
+  "dependencies": [
+    {
+      "path": "OBJ/BirchTree_Dead_Snow_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1nG46wQxwWmW6BhKkSmf00SsH8qurjSBp",
+      "sha256": "24ff14ad3654ee3032501171f7168a20945ae8765575182a6496c59d8c045bb1",
+      "bytes": 603
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "birch-tree-dead-snow-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.6885310113430023,2.633302006870508,0.8810679763555527]",
+  "convertedAt": "2026-09-05T13:59:41.229Z"
+}

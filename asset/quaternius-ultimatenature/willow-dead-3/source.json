@@ -1,0 +1,30 @@
+{
+  "id": "willow-dead-3",
+  "label": "Willow Dead 3",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1vZT_EK_VoT9mFDecOPCkJf8dLx4y1nJ5",
+  "file": "OBJ/Willow_Dead_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "dfc3cdbddda0f2a3fff2b2d0635fcb6936a04ddd305f88c247bbcaa34997735b",
+  "originalInputSha256": "dfc3cdbddda0f2a3fff2b2d0635fcb6936a04ddd305f88c247bbcaa34997735b",
+  "dependencies": [
+    {
+      "path": "OBJ/Willow_Dead_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1S9RyOTpu8YEkMuCr_j4QWSngPNNeSwWG",
+      "sha256": "0bd6dedf0d15d42c1e08561d7031446315cbc81fcc9ae2befd2b83fb2888f3b3",
+      "bytes": 239
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "willow-dead-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.31090499460697174,1.9057809710502625,1.5778059661388397]",
+  "convertedAt": "2026-09-05T13:59:43.455Z"
+}

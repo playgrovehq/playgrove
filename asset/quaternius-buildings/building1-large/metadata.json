@@ -1,0 +1,100 @@
+{
+  "version": 2,
+  "id": "building1-large",
+  "label": "Building1 Large",
+  "description": "Buildings Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "building1",
+    "large",
+    "quaternius",
+    "buildings",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#aba997",
+    "#767676",
+    "#d1d1d1",
+    "#7e4242",
+    "#464646",
+    "#9d9b8a",
+    "#5a442a"
+  ],
+  "colorNames": [
+    "gray",
+    "white",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "building1-large.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 59010,
+    "triangles": 41764,
+    "parts": 7,
+    "discardedDegenerate": 24
+  },
+  "bounds": {
+    "min": [
+      -3.995712,
+      -0.01125,
+      -1.371792
+    ],
+    "max": [
+      3.995712,
+      4.660079,
+      1.371792
+    ],
+    "size": [
+      7.991424,
+      4.671329,
+      2.743584
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Building1_Large_Cube"
+  ],
+  "materialNames": [
+    "LightYellow",
+    "Grey",
+    "White",
+    "DarkRed",
+    "DarkGrey",
+    "Beige",
+    "Brown"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/buildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1wmaoDQdlheerdV1_AWzeLK_nwXQEitx5",
+    "file": "OBJ/Building1_Large.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

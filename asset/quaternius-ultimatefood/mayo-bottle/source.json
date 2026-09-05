@@ -1,0 +1,30 @@
+{
+  "id": "mayo-bottle",
+  "label": "MayoBottle",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1BFgJVs9XncywlhpcC0LGOvW1zNJEsBee",
+  "file": "OBJ/MayoBottle.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cd04503bca0307b23ae75d2001efa97633b09606e5f81bac129f50c7287259f0",
+  "originalInputSha256": "cd04503bca0307b23ae75d2001efa97633b09606e5f81bac129f50c7287259f0",
+  "dependencies": [
+    {
+      "path": "OBJ/MayoBottle.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1DErvVajR_oE_ZatQprEiFyocMOPxhvmY",
+      "sha256": "0b44467891172f4b24ad64a68762329da41f3e6c04736231aa38eff00fc0697e",
+      "bytes": 237
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "mayo-bottle.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.499563992023468,1.5326950307935476,0.499563992023468]",
+  "convertedAt": "2026-09-05T13:51:31.597Z"
+}

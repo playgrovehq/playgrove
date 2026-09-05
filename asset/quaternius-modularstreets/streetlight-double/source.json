@@ -1,0 +1,30 @@
+{
+  "id": "streetlight-double",
+  "label": "Streetlight Double",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1EV5A7Kj3KXikRb9tTIQXomAVsvGIBIw5",
+  "file": "OBJ/Streetlight_Double.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e21b4adc2fde5ff8f53b40fdb3859133054ee082ae6266f905f3f88b4b1ee6be",
+  "originalInputSha256": "e21b4adc2fde5ff8f53b40fdb3859133054ee082ae6266f905f3f88b4b1ee6be",
+  "dependencies": [
+    {
+      "path": "OBJ/Streetlight_Double.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1z5N2EmocninwCQH6FeUwnukPVR05V8v2",
+      "sha256": "e92bd19b49a90074c3ac7cbba76cfbd3e58688d750efd5bc3c0b403af1c9ddb8",
+      "bytes": 613
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "streetlight-double.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.13171200454235077,1.1002740193025602,0.3157320022583008]",
+  "convertedAt": "2026-09-05T14:06:13.842Z"
+}

@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "male-standing-waving",
+  "label": "Male Standing Waving",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "male",
+    "standing",
+    "waving",
+    "quaternius",
+    "backgroundposedhumans",
+    "human",
+    "cylinder",
+    "mesh",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#cbaa89",
+    "#81869a",
+    "#3e3c3d",
+    "#4c3b29"
+  ],
+  "colorNames": [
+    "beige",
+    "gray",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "male-standing-waving.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1908,
+    "triangles": 888,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.781169,
+      -0.04263,
+      -0.412261
+    ],
+    "max": [
+      0.78444,
+      4.425293,
+      0.369689
+    ],
+    "size": [
+      1.565609,
+      4.467923,
+      0.78195
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Male_Standing_Waving_Human_CylinderMesh.010"
+  ],
+  "materialNames": [
+    "Skin",
+    "Shirt",
+    "Pants",
+    "Shoes"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+    "download": "https://drive.google.com/uc?export=download&id=1hUF5EuBSqa5iVigsfhK3nkalybBuZsF7",
+    "file": "Male/Male Poses/OBJ/Male_Standing_Waving.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

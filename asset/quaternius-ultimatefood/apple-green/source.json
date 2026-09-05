@@ -1,0 +1,30 @@
+{
+  "id": "apple-green",
+  "label": "Apple Green",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=15I5rg7tkZa19kgenCZEmLRU4K1B7Uifc",
+  "file": "OBJ/Apple_Green.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a530e64f9a2e8c5a618413ca7f73d5244e4b854abd9720fc90cca21aec0fe89b",
+  "originalInputSha256": "a530e64f9a2e8c5a618413ca7f73d5244e4b854abd9720fc90cca21aec0fe89b",
+  "dependencies": [
+    {
+      "path": "OBJ/Apple_Green.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1AH0Odw1vIoop2q2tlVDWReEssp7zXv_K",
+      "sha256": "f72a0e0ad90d77f4562f61f51ec77ce38685e21e1eafc5ede3d19956e191ac04",
+      "bytes": 606
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "apple-green.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.8024519979953766,0.8517380058765411,0.7987040281295776]",
+  "convertedAt": "2026-09-05T13:51:30.508Z"
+}

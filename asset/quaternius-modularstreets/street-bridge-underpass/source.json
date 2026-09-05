@@ -1,0 +1,30 @@
+{
+  "id": "street-bridge-underpass",
+  "label": "Street Bridge Underpass",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_Kds3lmALPrIVkFPhm79TT7_HZMTG596",
+  "file": "OBJ/Street_Bridge_Underpass.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "efb5c1f75895ef8f9fe1bff1a953a26cb7bd7d15b3a0d8ab942ef1de241f3571",
+  "originalInputSha256": "efb5c1f75895ef8f9fe1bff1a953a26cb7bd7d15b3a0d8ab942ef1de241f3571",
+  "dependencies": [
+    {
+      "path": "OBJ/Street_Bridge_Underpass.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1zcryn99Ifz3R0usLVE3I8NYf9Zt8QwsR",
+      "sha256": "a55b0841afd2219f2ea8cb991f04a2ee7df04ee4ad886c79ea169e4817ab9a94",
+      "bytes": 783
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "street-bridge-underpass.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2.0000040531158447,0.7658869996666908,2.0000420212745667]",
+  "convertedAt": "2026-09-05T14:06:13.671Z"
+}

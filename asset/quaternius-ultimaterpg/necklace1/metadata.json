@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "necklace1",
+  "label": "Necklace1",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "necklace1",
+    "quaternius",
+    "ultimaterpg",
+    "plane",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#4f3b30",
+    "#a58e3d",
+    "#7a4ed1"
+  ],
+  "colorNames": [
+    "black",
+    "brown",
+    "purple"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "necklace1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1570,
+    "triangles": 792,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.468684,
+      -0.129926,
+      -0.856154
+    ],
+    "max": [
+      0.404709,
+      0.746778,
+      0.106793
+    ],
+    "size": [
+      0.873393,
+      0.876704,
+      0.962947
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Necklace1_Plane.001"
+  ],
+  "materialNames": [
+    "DarkBrown",
+    "Golden",
+    "Lilac"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimaterpg.html",
+    "download": "https://drive.google.com/uc?export=download&id=136oVlKzfpahSUUAUBRObqtFlvq2fstY0",
+    "file": "OBJ/Necklace1.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

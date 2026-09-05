@@ -1,0 +1,30 @@
+{
+  "id": "hammer-double",
+  "label": "Hammer Double",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Ip8drz0hXv9obu2sWgQZoaIh1VQ8u5hA",
+  "file": "OBJ/Hammer_Double.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c9242c2db065395a2612a353f3cbbb5dad16402b209ae733eb3a3bc55cf13365",
+  "originalInputSha256": "c9242c2db065395a2612a353f3cbbb5dad16402b209ae733eb3a3bc55cf13365",
+  "dependencies": [
+    {
+      "path": "OBJ/Hammer_Double.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1QbbGYynVlswTuV_HoTS8uSuh6ZtUWY90",
+      "sha256": "cf9bdf5486c58739a8ede192bd6c79bb45e29066407ceb40326b3ef48f47a3c7",
+      "bytes": 786
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "hammer-double.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.1807820200920105,2.527094006538391,0.4291059970855713]",
+  "convertedAt": "2026-09-05T13:54:21.868Z"
+}

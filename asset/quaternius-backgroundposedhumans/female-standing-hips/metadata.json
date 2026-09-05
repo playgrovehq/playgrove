@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "female-standing-hips",
+  "label": "Female Standing Hips",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "female",
+    "standing",
+    "hips",
+    "quaternius",
+    "backgroundposedhumans",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#cbaa89",
+    "#81869a",
+    "#3e3c3d",
+    "#4c3b29"
+  ],
+  "colorNames": [
+    "beige",
+    "gray",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "female-standing-hips.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2716,
+    "triangles": 1304,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.715893,
+      -0.011764,
+      -0.378113
+    ],
+    "max": [
+      0.725444,
+      3.712005,
+      0.319102
+    ],
+    "size": [
+      1.441337,
+      3.723769,
+      0.697215
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Female_Standing_Hips_Cylinder.009"
+  ],
+  "materialNames": [
+    "Skin",
+    "Shirt",
+    "Pants",
+    "Shoes"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+    "download": "https://drive.google.com/uc?export=download&id=1zWqorz5XIv6nEPY44dQuCSn62EhtKmg7",
+    "file": "Female/Female Poses/OBJ/Female_Standing_Hips.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

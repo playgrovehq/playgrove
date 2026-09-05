@@ -1,0 +1,30 @@
+{
+  "id": "orange",
+  "label": "Orange",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1-kPDqmGAtO-5P2uStClI9GoyUfMbR52h",
+  "file": "OBJ/Orange.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "38966fffc3deb83fce41d6fd97eaefc1aa7ceac20cf0f8e89f621d609244b6ab",
+  "originalInputSha256": "38966fffc3deb83fce41d6fd97eaefc1aa7ceac20cf0f8e89f621d609244b6ab",
+  "dependencies": [
+    {
+      "path": "OBJ/Orange.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1kORYT5o-We0s8PhO2DOn6fUW1Mb7X4li",
+      "sha256": "fc32fefc4820c03f2ea9b06ebc020e5e541566e33e7307f3c67bfb61d598d884",
+      "bytes": 234
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "orange.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.7449119985103607,0.7424450218677521,0.7449119985103607]",
+  "convertedAt": "2026-09-05T13:51:31.664Z"
+}

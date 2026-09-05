@@ -1,0 +1,30 @@
+{
+  "id": "chair",
+  "label": "Chair",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "pack": "quaternius-ultimatefurniture",
+  "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Iu2ZdiwXMVX6IL6uHAifcAAlC-pzcOoD",
+  "file": "OBJ/Chair.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5174e74436ddb7747c8ea8f3d77c9f4907169f6daebb6d9104904b1163c4aadc",
+  "originalInputSha256": "5174e74436ddb7747c8ea8f3d77c9f4907169f6daebb6d9104904b1163c4aadc",
+  "dependencies": [
+    {
+      "path": "OBJ/Chair.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1_kbsKtT6WKcKzwBFMT4quhk4EqpLrjFD",
+      "sha256": "0c19d4e5a4bf8032c3fabdac5b3c3228d7d6368fc7ea3d111c94f1fa8a890971",
+      "bytes": 411
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chair.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.5072489976882935,1.066328041255474,0.6321449875831604]",
+  "convertedAt": "2026-09-05T14:12:34.194Z"
+}

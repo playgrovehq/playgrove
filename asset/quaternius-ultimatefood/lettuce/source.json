@@ -1,0 +1,30 @@
+{
+  "id": "lettuce",
+  "label": "Lettuce",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1fN7XhDW6vSIWk9AuPevamK6ZWZ-ZNf4W",
+  "file": "OBJ/Lettuce.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7ed7d03210281c0d3446988d5e37b30af1ab9d32f7110f39a4820fb161170699",
+  "originalInputSha256": "7ed7d03210281c0d3446988d5e37b30af1ab9d32f7110f39a4820fb161170699",
+  "dependencies": [
+    {
+      "path": "OBJ/Lettuce.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16cNn-0OEsuy2TndbNahPAHfImm9eErVc",
+      "sha256": "8f79943c662bb060aeb4235fe7e456ceae9230c9df11741213604ea4ac1662e3",
+      "bytes": 239
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "lettuce.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.7880499958992004,0.23055700212717056,1.6828680038452148]",
+  "convertedAt": "2026-09-05T13:51:31.560Z"
+}

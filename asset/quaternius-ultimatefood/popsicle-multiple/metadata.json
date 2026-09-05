@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "popsicle-multiple",
+  "label": "Popsicle Multiple",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "popsicle",
+    "multiple",
+    "quaternius",
+    "ultimatefood",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#937f63",
+    "#ab6688",
+    "#89548d",
+    "#a3a3a3"
+  ],
+  "colorNames": [
+    "gray",
+    "purple"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "popsicle-multiple.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 206,
+    "triangles": 120,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.145551,
+      -0.263277,
+      -0.039922
+    ],
+    "max": [
+      0.145551,
+      0.726727,
+      0.039922
+    ],
+    "size": [
+      0.291102,
+      0.990004,
+      0.079844
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Popsicle_Multiple_Cube.031"
+  ],
+  "materialNames": [
+    "Light",
+    "PalePink",
+    "PalePink2",
+    "White"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefood.html",
+    "download": "https://drive.google.com/uc?export=download&id=17spv_1rsLO-sV_QnTvOWcp_6Hun2w7fr",
+    "file": "OBJ/Popsicle_Multiple.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

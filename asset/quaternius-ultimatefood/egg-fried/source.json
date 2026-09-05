@@ -1,0 +1,30 @@
+{
+  "id": "egg-fried",
+  "label": "Egg Fried",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1cB2w4xo--YTsicfD6gtA9CPcXzL-tpCX",
+  "file": "OBJ/Egg_Fried.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5eb2c242f47b973a6519b507d83e13eeb44f833208a9f46374334606335f29d9",
+  "originalInputSha256": "5eb2c242f47b973a6519b507d83e13eeb44f833208a9f46374334606335f29d9",
+  "dependencies": [
+    {
+      "path": "OBJ/Egg_Fried.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1A9g3oPmsWxqtORk5WwLUNQtqbdU_T0Dl",
+      "sha256": "6b661093f17f4e0022ec8b1af2d6fc26e17db6e4e841bf1f75af46a8d901e008",
+      "bytes": 415
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "egg-fried.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.1921330094337463,0.10713100153952837,1.1167190074920654]",
+  "convertedAt": "2026-09-05T13:51:31.174Z"
+}

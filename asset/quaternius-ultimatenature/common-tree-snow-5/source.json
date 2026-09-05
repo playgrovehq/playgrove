@@ -1,0 +1,30 @@
+{
+  "id": "common-tree-snow-5",
+  "label": "CommonTree Snow 5",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_myUUSnoX3fhjfwKWqaxghcQfqTIMkMw",
+  "file": "OBJ/CommonTree_Snow_5.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b8e9bdc5db0485637360778e402f1894a4e214855992459ee947a802bf110639",
+  "originalInputSha256": "b8e9bdc5db0485637360778e402f1894a4e214855992459ee947a802bf110639",
+  "dependencies": [
+    {
+      "path": "OBJ/CommonTree_Snow_5.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1kXzQ1CRXTVM4nbW6HZslHT9gNyNO_CMU",
+      "sha256": "aedddacd352620d4763638be81ab4c75730ad18c7230179e2bb60a64302a2613",
+      "bytes": 598
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "common-tree-snow-5.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.290686011314392,2.5673440024256706,2.246284067630768]",
+  "convertedAt": "2026-09-05T13:59:42.188Z"
+}

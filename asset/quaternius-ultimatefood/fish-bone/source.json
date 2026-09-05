@@ -1,0 +1,30 @@
+{
+  "id": "fish-bone",
+  "label": "FishBone",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1KS_V9kbwyaQVg4wbtJ0HUObFB2OWoGn2",
+  "file": "OBJ/FishBone.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b963c0c0a14df941c6b7eef3ae66d0a43d49c3a53e14b8f2b5ce98c2b86f9d52",
+  "originalInputSha256": "b963c0c0a14df941c6b7eef3ae66d0a43d49c3a53e14b8f2b5ce98c2b86f9d52",
+  "dependencies": [
+    {
+      "path": "OBJ/FishBone.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1g65Qkak4DRF1DCK1Vromz-XO8E_LhFkd",
+      "sha256": "2b75330a531ba1149a86cf247c6b862036db9de6a2b0eea4755ae52093f3adba",
+      "bytes": 235
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "fish-bone.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.9548409581184387,0.33242699690163136,0.8296079933643341]",
+  "convertedAt": "2026-09-05T13:51:31.265Z"
+}

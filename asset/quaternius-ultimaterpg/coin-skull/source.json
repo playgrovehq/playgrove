@@ -1,0 +1,30 @@
+{
+  "id": "coin-skull",
+  "label": "Coin Skull",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1r6PYHRMljrfDW8dNAMTNpM9iSIlnjhC-",
+  "file": "OBJ/Coin_Skull.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3dd096951a346879831d0e87b7486c7f0c32a75812eeddc7f5cd74394e913c3d",
+  "originalInputSha256": "3dd096951a346879831d0e87b7486c7f0c32a75812eeddc7f5cd74394e913c3d",
+  "dependencies": [
+    {
+      "path": "OBJ/Coin_Skull.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1RQfTDyOUGNdtFZ3lIvdSdD4wI7Tx3uVM",
+      "sha256": "0fcd650aeb2a481f433a884b40591596c39ef240caec51f2530080c83ae5c695",
+      "bytes": 236
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "coin-skull.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.7367219924926758,0.7376499772071838,0.18118999898433685]",
+  "convertedAt": "2026-09-05T13:54:21.533Z"
+}

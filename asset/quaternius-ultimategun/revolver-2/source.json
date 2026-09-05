@@ -1,0 +1,30 @@
+{
+  "id": "revolver-2",
+  "label": "Revolver 2",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1VEs-ZC_pgVsrUyPDTmgFfgQ8wTh0rDHK",
+  "file": "OBJ/Revolver_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "54b28916648ad8f4c577aab4167843ae36041deb07f46025f28745b6e612f95d",
+  "originalInputSha256": "54b28916648ad8f4c577aab4167843ae36041deb07f46025f28745b6e612f95d",
+  "dependencies": [
+    {
+      "path": "OBJ/Revolver_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1dpoDKYourhWUZkBJH0sQlbikT1Ivyams",
+      "sha256": "7cb1dd5c37aa2768baee9ca567f7f60185d075ac88e069becdb8c813a54434ee",
+      "bytes": 778
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "revolver-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.9818960279226303,0.94371098279953,0.2943570017814636]",
+  "convertedAt": "2026-09-05T13:55:50.229Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "tower-windmill",
+  "label": "TowerWindmill",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "pack": "quaternius-farmbuildings",
+  "listing": "https://quaternius.com/packs/farmbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1pAck0BU91yY6J7wb8J08oDnOqwHic0Ro",
+  "file": "OBJ/TowerWindmill.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1879831ef5abd671d94510559844c449ec1d94fd51820de8b1a20cacc37d2613",
+  "originalInputSha256": "1879831ef5abd671d94510559844c449ec1d94fd51820de8b1a20cacc37d2613",
+  "dependencies": [
+    {
+      "path": "OBJ/TowerWindmill.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=11589R78Oq5zX0eZ-H1-CEZNBYKF2zOcn",
+      "sha256": "b057932b813588500b1d5d44a7316e6df5596f3b219ff2e6b388762b492b010a",
+      "bytes": 1323
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tower-windmill.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=8 materials=8 bounds=[7.923669099807739,11.413266614079475,4.9905970096588135]",
+  "convertedAt": "2026-09-05T14:04:13.044Z"
+}

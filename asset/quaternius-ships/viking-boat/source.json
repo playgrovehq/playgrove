@@ -1,0 +1,30 @@
+{
+  "id": "viking-boat",
+  "label": "Viking boat",
+  "description": "Ships Pack by Quaternius.",
+  "pack": "quaternius-ships",
+  "listing": "https://quaternius.com/packs/ships.html",
+  "download": "https://drive.google.com/uc?export=download&id=1e6rAw94HQv0d6JrqJZ_LR5h59vsZEBCf",
+  "file": "OBJ/Viking boat.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "082f664175023acf3a385bcddc25e9b06753fc4492d7c8bc827535fb3710f983",
+  "originalInputSha256": "082f664175023acf3a385bcddc25e9b06753fc4492d7c8bc827535fb3710f983",
+  "dependencies": [
+    {
+      "path": "OBJ/Viking boat.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=15f_5iniyuSbDubTeH-dKQyt7vi7XLyEP",
+      "sha256": "203ee3d49a0bf6ba9402551a1f9384fa072b2af7ce8301ac5e66669489493385",
+      "bytes": 954
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "viking-boat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=6 materials=6 bounds=[1.5672079920768738,2.5091460859403014,4.201464056968689]",
+  "convertedAt": "2026-09-05T14:06:25.125Z"
+}

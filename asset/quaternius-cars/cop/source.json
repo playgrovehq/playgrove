@@ -1,0 +1,30 @@
+{
+  "id": "cop",
+  "label": "Cop",
+  "description": "Cars Pack by Quaternius.",
+  "pack": "quaternius-cars",
+  "listing": "https://quaternius.com/packs/cars.html",
+  "download": "https://drive.google.com/uc?export=download&id=1acEdJqBQMZn0z3yBGPHbbqtk4Kk4UhNT",
+  "file": "OBJ/Cop.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "37cee9ccfa0d463a245dddf46a918f16d6dea694fa49881cf235908aa98f1787",
+  "originalInputSha256": "37cee9ccfa0d463a245dddf46a918f16d6dea694fa49881cf235908aa98f1787",
+  "dependencies": [
+    {
+      "path": "OBJ/Cop.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1njOt3T2iDdyWvyknxPhqyrEQElxXstiA",
+      "sha256": "7103153ab096b28120954a40227c70b31427a7f544e35173bcf2fe0c9a17e6ea",
+      "bytes": 1498
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cop.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=14 materials=14 bounds=[1.7776260375976562,1.2387499995529652,3.73048996925354]",
+  "convertedAt": "2026-09-05T14:02:26.650Z"
+}

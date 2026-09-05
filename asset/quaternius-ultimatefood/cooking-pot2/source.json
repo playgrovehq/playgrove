@@ -1,0 +1,30 @@
+{
+  "id": "cooking-pot2",
+  "label": "CookingPot2",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=17jO390ydDBZjwtC3zDm3rXc1yWqvESJS",
+  "file": "OBJ/CookingPot2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "79bfa632c3429439985b66dc86462254176f7612a3d9937edd87763001a13ba5",
+  "originalInputSha256": "79bfa632c3429439985b66dc86462254176f7612a3d9937edd87763001a13ba5",
+  "dependencies": [
+    {
+      "path": "OBJ/CookingPot2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1LgBHFYJjcz362tBBkEsjGc7u50akGsGE",
+      "sha256": "74e414cf872a9a6467f89054b89044c99808eeed18198a876499ff1d0fa7cd39",
+      "bytes": 237
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cooking-pot2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.2905681133270264,0.6224199831485748,1.9921619892120361]",
+  "convertedAt": "2026-09-05T13:51:30.963Z"
+}

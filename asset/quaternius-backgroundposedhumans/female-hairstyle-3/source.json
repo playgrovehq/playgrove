@@ -1,0 +1,30 @@
+{
+  "id": "female-hairstyle-3",
+  "label": "Female Hairstyle 3",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "pack": "quaternius-backgroundposedhumans",
+  "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+  "download": "https://drive.google.com/uc?export=download&id=1PHH3gNXkP_OhmwULVrJfLueR-MDveBf9",
+  "file": "Female/Female Hairstyles/OBJ/Female_Hairstyle_3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a8c072ce051a71e3d9e6a5704107581cd2f193e0d2eb80facaf818acc87961b6",
+  "originalInputSha256": "a8c072ce051a71e3d9e6a5704107581cd2f193e0d2eb80facaf818acc87961b6",
+  "dependencies": [
+    {
+      "path": "Female/Female Hairstyles/OBJ/Female_Hairstyle_3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1RBr0UVOAa6lEXJs-PSynP19a_jHbZoUN",
+      "sha256": "2db363199dd8da041f3759f1040167c57627bae5d251645700d82e7be06900a7",
+      "bytes": 244
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "female-hairstyle-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.5232399702072144,0.5233479738235474,0.5584719777107239]",
+  "convertedAt": "2026-09-05T14:05:32.575Z"
+}

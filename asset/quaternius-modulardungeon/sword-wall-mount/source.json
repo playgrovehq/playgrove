@@ -1,0 +1,30 @@
+{
+  "id": "sword-wall-mount",
+  "label": "Sword WallMount",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1kvPFvf4GEYu7eU-_9SjqzdpWzJlg-wUJ",
+  "file": "OBJ/Sword_WallMount.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "612bd300cc53d8eb5e3d36dca719337223a746a9541ddd8abd0ec91f8f405fe1",
+  "originalInputSha256": "612bd300cc53d8eb5e3d36dca719337223a746a9541ddd8abd0ec91f8f405fe1",
+  "dependencies": [
+    {
+      "path": "OBJ/Sword_WallMount.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1JH0H0cqn_8_WVMpMIVtQpvfhNkQlGJtT",
+      "sha256": "b948ef751c9577a5bee5fc3605c0893c290e627f4787eea6d4ccf6c33d8a1449",
+      "bytes": 1155
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sword-wall-mount.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=11 materials=11 bounds=[1.0658170282840729,0.8471419811248779,0.2117249947041273]",
+  "convertedAt": "2026-09-05T14:01:01.111Z"
+}

@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "boat",
+  "label": "Boat",
+  "description": "Ships Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "boat",
+    "quaternius",
+    "ships",
+    "cube",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#78543b",
+    "#8d6446"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "boat.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 320,
+    "triangles": 172,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.182269,
+      -0.002203,
+      -0.341333
+    ],
+    "max": [
+      0.182269,
+      0.154712,
+      0.327068
+    ],
+    "size": [
+      0.364538,
+      0.156915,
+      0.668401
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Boat_Cube"
+  ],
+  "materialNames": [
+    "DarkWood",
+    "Wood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ships.html",
+    "download": "https://drive.google.com/uc?export=download&id=1hiE2ccUMRL9zfOs5NoWjad9GojG5WhVF",
+    "file": "OBJ/Boat.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

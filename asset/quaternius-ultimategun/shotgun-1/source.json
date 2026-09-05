@@ -1,0 +1,30 @@
+{
+  "id": "shotgun-1",
+  "label": "Shotgun 1",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1BoldIbNoFgvddaVvBXzhG06WhsZBCkz8",
+  "file": "OBJ/Shotgun_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5a4bddb00e00dd101bfcba0466ee4b8b46b95076cb5da1f7fecdb3065d499cc2",
+  "originalInputSha256": "5a4bddb00e00dd101bfcba0466ee4b8b46b95076cb5da1f7fecdb3065d499cc2",
+  "dependencies": [
+    {
+      "path": "OBJ/Shotgun_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1w6ffxvaY0LXhlfB7DigpD41Qvog8YAqG",
+      "sha256": "5495c9abbff06b9a6da8fbaf8f7eabdb20702487105ba41d596fc26dcb3cfc3d",
+      "bytes": 779
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "shotgun-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[5.214977979660034,0.9426810145378113,0.24653400480747223]",
+  "convertedAt": "2026-09-05T13:55:50.305Z"
+}

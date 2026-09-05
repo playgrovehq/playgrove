@@ -1,0 +1,30 @@
+{
+  "id": "cloud2",
+  "label": "Cloud2",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1cehEXkpX8VJznYsfo8BcLVqTLioN9cjD",
+  "file": "OBJ/Cloud2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b520f57fd1f9789728817c461eaa81695f9aac91cfcfa99fbe74c9c848203069",
+  "originalInputSha256": "b520f57fd1f9789728817c461eaa81695f9aac91cfcfa99fbe74c9c848203069",
+  "dependencies": [
+    {
+      "path": "OBJ/Cloud2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1dlFzg2h8m9sfFIdWVfn-ycXYUIdErUGM",
+      "sha256": "5b83e5b57a265be2078ae690d8399e692cd94375db0224bfb348d05cddd6aa91",
+      "bytes": 233
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cloud2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[4.264143943786621,2.06701397895813,1.747040033340454]",
+  "convertedAt": "2026-09-05T14:03:42.661Z"
+}

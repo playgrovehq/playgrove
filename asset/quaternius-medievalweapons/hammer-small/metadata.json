@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "hammer-small",
+  "label": "Hammer Small",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "hammer",
+    "small",
+    "quaternius",
+    "medievalweapons",
+    "cylinder",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#959aa0",
+    "#795239",
+    "#654430",
+    "#a4a8b0"
+  ],
+  "colorNames": [
+    "gray",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "hammer-small.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2793,
+    "triangles": 1474,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.378088,
+      -1.179391,
+      -0.402435
+    ],
+    "max": [
+      1.108546,
+      3.150333,
+      0.403273
+    ],
+    "size": [
+      1.486634,
+      4.329724,
+      0.805708
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Hammer_small_Cylinder.013"
+  ],
+  "materialNames": [
+    "Steel",
+    "LightWood",
+    "DarkWood",
+    "LightSteel"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalweapons.html",
+    "download": "https://drive.google.com/uc?export=download&id=1_USpUK_y4OGZFV8cqzgg4Qs6Br9K40nk",
+    "file": "OBJ/Hammer_Small.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

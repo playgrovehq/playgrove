@@ -1,0 +1,30 @@
+{
+  "id": "table-small",
+  "label": "Table Small",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1SlUmvk7EH1kiVAFwiJS0kh38dhjHI_DE",
+  "file": "OBJ/Table_Small.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "681864c34af68a1e585502d3f33c8b42d3c46506e7533b0ff0f76cb6b713b471",
+  "originalInputSha256": "681864c34af68a1e585502d3f33c8b42d3c46506e7533b0ff0f76cb6b713b471",
+  "dependencies": [
+    {
+      "path": "OBJ/Table_Small.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1SXIK7zzgJYCqWXeH8g_n2_HmGoQ0zAtJ",
+      "sha256": "fd7f05a1d71b41c32aa234313a15db613dab77c29ba956f681769b49ad28ec0a",
+      "bytes": 600
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "table-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.3049269914627075,0.854023979511112,1.979196012020111]",
+  "convertedAt": "2026-09-05T14:01:01.145Z"
+}

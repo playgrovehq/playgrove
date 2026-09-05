@@ -1,0 +1,30 @@
+{
+  "id": "street-bridge",
+  "label": "Street Bridge",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1by8F-c9O55doEXvmSKVkICVc88J8hxAf",
+  "file": "OBJ/Street_Bridge.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1a4bd417ef4b496ac61058e71833ccb4fc2c1e0c2cdbe709378c83ca22bc7e2c",
+  "originalInputSha256": "1a4bd417ef4b496ac61058e71833ccb4fc2c1e0c2cdbe709378c83ca22bc7e2c",
+  "dependencies": [
+    {
+      "path": "OBJ/Street_Bridge.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1hRvDZ6dY2_04-FTXg5w2kMNFxl7zAME4",
+      "sha256": "86eb6ddc501b32465f1ab4f99c4376a69db322e2e5fa9a5d0cacad3794302bab",
+      "bytes": 773
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "street-bridge.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2,0.7658869996666908,1.9999999403953552]",
+  "convertedAt": "2026-09-05T14:06:13.637Z"
+}

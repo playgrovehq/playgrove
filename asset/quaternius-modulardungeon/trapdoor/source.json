@@ -1,0 +1,30 @@
+{
+  "id": "trapdoor",
+  "label": "Trapdoor",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FZnvJrNHfWYBIQyfYI4Iv-JUfXXJPlJY",
+  "file": "OBJ/Trapdoor.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "90a32a9b9b6e2226b34ae41e58e65761cc7e26db583976b568581d96269981b0",
+  "originalInputSha256": "90a32a9b9b6e2226b34ae41e58e65761cc7e26db583976b568581d96269981b0",
+  "dependencies": [
+    {
+      "path": "OBJ/Trapdoor.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1C-4PwVS69ny_0PXslyCzcuImz3I1AYDG",
+      "sha256": "8c8c3d7e56ffdf885a8f96efa4a3b77784eff6f8a6b10b0387200e7ae22844bf",
+      "bytes": 775
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "trapdoor.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.74127197265625,0.21514999866485596,1.7000089883804321]",
+  "convertedAt": "2026-09-05T14:01:01.216Z"
+}

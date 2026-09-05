@@ -1,0 +1,30 @@
+{
+  "id": "chocolate-bar",
+  "label": "ChocolateBar",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1qopbErnhrpy0DxnY51isK-Dy0GPlKvF8",
+  "file": "OBJ/ChocolateBar.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9fdf8e166cff808a346f7544cdd3990e6d1b0c1b2be528fb8f0da36068152e74",
+  "originalInputSha256": "9fdf8e166cff808a346f7544cdd3990e6d1b0c1b2be528fb8f0da36068152e74",
+  "dependencies": [
+    {
+      "path": "OBJ/ChocolateBar.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1a8V7a6hIA3pp_O4ctbUDm_0D1nWS4K0F",
+      "sha256": "f5412d089543d188c3bd3628c898ab665b9787e1d6cff6d51e4657a2def3f50d",
+      "bytes": 243
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chocolate-bar.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.5752099752426147,0.06831199675798416,0.8742020130157471]",
+  "convertedAt": "2026-09-05T13:51:30.880Z"
+}

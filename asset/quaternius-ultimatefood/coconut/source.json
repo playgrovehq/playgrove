@@ -1,0 +1,30 @@
+{
+  "id": "coconut",
+  "label": "Coconut",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1W6cCFUqK8Pe-v_HpbvPNkPmAO2s79pch",
+  "file": "OBJ/Coconut.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7ad33f6561d5ab63639651b879357fa8f22b20c5c0994305aeecab29368436ce",
+  "originalInputSha256": "7ad33f6561d5ab63639651b879357fa8f22b20c5c0994305aeecab29368436ce",
+  "dependencies": [
+    {
+      "path": "OBJ/Coconut.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1c5LJYI-5cZph0L0tq3r4eQ0B3mhdqE26",
+      "sha256": "e4d4e3a766a3bd855f7b410b01709335cdd5667938c93c733b67fef467f61511",
+      "bytes": 238
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "coconut.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.7776679992675781,0.7769230008125305,0.7834379971027374]",
+  "convertedAt": "2026-09-05T13:51:30.913Z"
+}

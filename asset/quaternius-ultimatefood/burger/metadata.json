@@ -1,0 +1,98 @@
+{
+  "version": 2,
+  "id": "burger",
+  "label": "Burger",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "category": "food",
+  "tags": [
+    "burger",
+    "quaternius",
+    "ultimatefood",
+    "icosphere",
+    "food",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a38b67",
+    "#a3a3a3",
+    "#aeac3c",
+    "#655236",
+    "#a34a3b",
+    "#5d9142"
+  ],
+  "colorNames": [
+    "gray",
+    "yellow",
+    "brown",
+    "green"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "burger.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1879,
+    "triangles": 847,
+    "parts": 6,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.846228,
+      -0.420013,
+      -0.840429
+    ],
+    "max": [
+      0.805708,
+      0.645209,
+      0.859638
+    ],
+    "size": [
+      1.651936,
+      1.065222,
+      1.700067
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Burger_Icosphere"
+  ],
+  "materialNames": [
+    "LightYellow",
+    "White",
+    "Cheese",
+    "Brown",
+    "Red",
+    "LightGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefood.html",
+    "download": "https://drive.google.com/uc?export=download&id=1d1vXoS-2PmdgbCecamJIYeGz-zoFCWuX",
+    "file": "OBJ/Burger.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

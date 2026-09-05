@@ -1,0 +1,30 @@
+{
+  "id": "peanut-butter",
+  "label": "PeanutButter",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1h8Gb1GfYQSW1JtmcKaMcvaTTC2Mo2_dx",
+  "file": "OBJ/PeanutButter.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0d66aa6a1821875cd88446867dd675e0e15372411de84d404673996b9d9b8a18",
+  "originalInputSha256": "0d66aa6a1821875cd88446867dd675e0e15372411de84d404673996b9d9b8a18",
+  "dependencies": [
+    {
+      "path": "OBJ/PeanutButter.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1cv2SH1BV-s5dEtJ6d-fV9AgcCemMCHft",
+      "sha256": "7b44a3f36416566b6f2088952bc132d45616d8931f1988ce8d7134a47e52e389",
+      "bytes": 603
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "peanut-butter.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.47460800409317017,0.724257976282388,0.4513779878616333]",
+  "convertedAt": "2026-09-05T13:51:31.718Z"
+}

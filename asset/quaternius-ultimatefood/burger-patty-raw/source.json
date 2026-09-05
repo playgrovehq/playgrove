@@ -1,0 +1,30 @@
+{
+  "id": "burger-patty-raw",
+  "label": "BurgerPatty Raw",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1k6ayr-ckIoT5pRWiF7h3qtKJXhm4FPX2",
+  "file": "OBJ/BurgerPatty_Raw.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "79163bcda9ee916ad96a2c2464a3e83ca31d144e99132aace5db3205d4531209",
+  "originalInputSha256": "79163bcda9ee916ad96a2c2464a3e83ca31d144e99132aace5db3205d4531209",
+  "dependencies": [
+    {
+      "path": "OBJ/BurgerPatty_Raw.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1IvhqNIGtJ1C_dcr2ThLywiSeoPae4MZX",
+      "sha256": "ba0ad0d1aa1714cc7f5357fda9076c9beb477205d59acb97b52f7e305f0e3903",
+      "bytes": 244
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "burger-patty-raw.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.4254659414291382,0.33636799454689026,1.4254659414291382]",
+  "convertedAt": "2026-09-05T13:51:30.798Z"
+}

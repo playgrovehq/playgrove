@@ -1,0 +1,30 @@
+{
+  "id": "sausage-cooked",
+  "label": "Sausage Cooked",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1-MQvuDbbqFLj8yWWtNhcqZEhdwveYbZS",
+  "file": "OBJ/Sausage_Cooked.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9d6c787b407ba84f02f2e6a6d005cf35639d80585d0f18844a2167ccc9dbcb55",
+  "originalInputSha256": "9d6c787b407ba84f02f2e6a6d005cf35639d80585d0f18844a2167ccc9dbcb55",
+  "dependencies": [
+    {
+      "path": "OBJ/Sausage_Cooked.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Yt3XYReA-cL_LSlJ9zE7iasTJUY6u_wD",
+      "sha256": "0af61daa18b484b978e9479540e7c7dafcc14b13c8c177f8bd074d7df7a2e8e9",
+      "bytes": 245
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sausage-cooked.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.2395700067281723,0.24132399260997772,1.656134009361267]",
+  "convertedAt": "2026-09-05T13:51:31.996Z"
+}

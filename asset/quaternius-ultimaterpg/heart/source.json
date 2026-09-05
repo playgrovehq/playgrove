@@ -1,0 +1,30 @@
+{
+  "id": "heart",
+  "label": "Heart",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1dxc9nOCSTGu2YPzYXC2OI4OwpIuyEYuQ",
+  "file": "OBJ/Heart.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8a05524fcbf16299f28b93c9c2c6fdd5bc1732741414ec295ef13a1050152a10",
+  "originalInputSha256": "8a05524fcbf16299f28b93c9c2c6fdd5bc1732741414ec295ef13a1050152a10",
+  "dependencies": [
+    {
+      "path": "OBJ/Heart.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1K72S9RJjd_eugoqHT1R2OWqJlCX5FUKv",
+      "sha256": "2f130050a2734d26f22bb3076b77e69ac7c2cbffa945003e8169fc8da7f52609",
+      "bytes": 230
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "heart.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.8019400238990784,0.6521929800510406,0.39274799823760986]",
+  "convertedAt": "2026-09-05T13:54:21.906Z"
+}

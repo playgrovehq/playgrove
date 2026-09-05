@@ -1,0 +1,30 @@
+{
+  "id": "normal-car2",
+  "label": "NormalCar2",
+  "description": "Cars Pack by Quaternius.",
+  "pack": "quaternius-cars",
+  "listing": "https://quaternius.com/packs/cars.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Msv8m0vli0YGLLEHIx_ojM6grpmD_ygz",
+  "file": "OBJ/NormalCar2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e845d737c7ff467c55910d68b8fd853578e5de23a2f7f978e1bede3417d95d7e",
+  "originalInputSha256": "e845d737c7ff467c55910d68b8fd853578e5de23a2f7f978e1bede3417d95d7e",
+  "dependencies": [
+    {
+      "path": "OBJ/NormalCar2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=11tdwW7kn3WvZ6SaUo92QBN_IXyh86KDZ",
+      "sha256": "a3561392d9b7cc4e1f59ed489f5e2f136bf7c4a93ed011f55fbe6b69e16772f6",
+      "bytes": 1327
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "normal-car2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=13 materials=13 bounds=[1.6384479999542236,1.1456159725785255,3.3096230030059814]",
+  "convertedAt": "2026-09-05T14:02:26.690Z"
+}

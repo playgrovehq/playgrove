@@ -1,0 +1,30 @@
+{
+  "id": "grip",
+  "label": "Grip",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1aH2HBzm3Q3nJvtBb2cwbxkH9uGsB4JyB",
+  "file": "OBJ/Accessories/Grip.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9deb75ccc00b78c1bc43abdd14114542c9888bf16c4911694866691cf4110cf2",
+  "originalInputSha256": "9deb75ccc00b78c1bc43abdd14114542c9888bf16c4911694866691cf4110cf2",
+  "dependencies": [
+    {
+      "path": "OBJ/Accessories/Grip.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1NwrP87GpUDm13RjPrmRur_97xXOeJgR9",
+      "sha256": "94c204b230b107d841f86093419d6a0f4e9687f39955564efc55bdc9590f6405",
+      "bytes": 230
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "grip.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.26339200139045715,0.6668670028448105,0.2769460082054138]",
+  "convertedAt": "2026-09-05T13:55:49.686Z"
+}

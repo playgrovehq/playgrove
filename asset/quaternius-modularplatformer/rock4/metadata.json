@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "id": "rock4",
+  "label": "Rock4",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "rock4",
+    "quaternius",
+    "modularplatformer",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#908682"
+  ],
+  "colorNames": [
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "rock4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 89,
+    "triangles": 56,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.175294,
+      -0.014628,
+      -0.229879
+    ],
+    "max": [
+      0.175294,
+      0.752669,
+      0.229879
+    ],
+    "size": [
+      0.350588,
+      0.767297,
+      0.459758
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Rock4_Cube.009"
+  ],
+  "materialNames": [
+    "Grey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modularplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1P7HvPY-T4Mm1G5kywwB7t13za1_bv8CN",
+    "file": "OBJ/Rock4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

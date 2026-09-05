@@ -1,0 +1,30 @@
+{
+  "id": "fence-90-modular",
+  "label": "Fence 90 Modular",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=16mMcytDXVz7ikOPND-C_KKxovC8IrP8D",
+  "file": "OBJ/Fence_90_Modular.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "39e52a96460da8e1d2065d36e99b9362ad3eab9151cd6061bc4ce4a5a49a49b7",
+  "originalInputSha256": "39e52a96460da8e1d2065d36e99b9362ad3eab9151cd6061bc4ce4a5a49a49b7",
+  "dependencies": [
+    {
+      "path": "OBJ/Fence_90_Modular.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1-P6kwwaGGArzrrQlVAR2UFn9MMEUXohC",
+      "sha256": "69bedc6ba3adbac2d46c11eb7f891b0d998723b4c159104fdd241da8e7298bca",
+      "bytes": 435
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "fence-90-modular.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.3905979990959167,1.293929010629654,1.3905979990959167]",
+  "convertedAt": "2026-09-05T14:01:00.879Z"
+}

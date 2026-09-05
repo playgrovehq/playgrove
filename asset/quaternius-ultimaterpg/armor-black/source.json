@@ -1,0 +1,30 @@
+{
+  "id": "armor-black",
+  "label": "Armor Black",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1kaRgcMDHho8C79OiDt8zVwkJGxS6ai_H",
+  "file": "OBJ/Armor_Black.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1c5c13e5182672008ad688b2b3b7e8f8e2f9b8441424c475257a6c5772deae05",
+  "originalInputSha256": "1c5c13e5182672008ad688b2b3b7e8f8e2f9b8441424c475257a6c5772deae05",
+  "dependencies": [
+    {
+      "path": "OBJ/Armor_Black.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16EaMHh-Ikq0AtqNcoHUIePfsr4tiESga",
+      "sha256": "3e616dafdaaf27b2ba892c2efb22a64e13acbf1eba3236b75d6e80197bd8d658",
+      "bytes": 418
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "armor-black.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.5398919582366943,1.2017229795455933,0.7595340013504028]",
+  "convertedAt": "2026-09-05T13:54:20.984Z"
+}

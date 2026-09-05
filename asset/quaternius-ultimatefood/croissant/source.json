@@ -1,0 +1,30 @@
+{
+  "id": "croissant",
+  "label": "Croissant",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1XC7LpXypE64eoIoNILBI-HeoVSGD85Pv",
+  "file": "OBJ/Croissant.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d2df59719224c2d83f91e572d7cd81873014e599a11d2a337abe981edeca7af8",
+  "originalInputSha256": "d2df59719224c2d83f91e572d7cd81873014e599a11d2a337abe981edeca7af8",
+  "dependencies": [
+    {
+      "path": "OBJ/Croissant.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1IC-rr1M6MzSdoft8jJWNtf5MVqsXxvUZ",
+      "sha256": "f5cf05312fdd0f1f22d7e7cc0e85f5d27426b60144d41519442c97c42eb696ad",
+      "bytes": 242
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "croissant.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.3044739961624146,0.5497840046882629,0.7304899990558624]",
+  "convertedAt": "2026-09-05T13:51:31.028Z"
+}

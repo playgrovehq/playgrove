@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "axe-double",
+  "label": "Axe Double",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "axe",
+    "double",
+    "quaternius",
+    "ultimaterpg",
+    "cylinder",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5d6476",
+    "#63474a",
+    "#402d39",
+    "#919092"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "axe-double.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2356,
+    "triangles": 1550,
+    "parts": 4,
+    "discardedDegenerate": 6
+  },
+  "bounds": {
+    "min": [
+      -0.422927,
+      -0.664176,
+      -0.067743
+    ],
+    "max": [
+      0.448271,
+      1.48728,
+      0.067743
+    ],
+    "size": [
+      0.871198,
+      2.151456,
+      0.135486
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Axe_Double_Cylinder.032"
+  ],
+  "materialNames": [
+    "Steel",
+    "LightWood",
+    "DarkWood",
+    "LightSteel"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimaterpg.html",
+    "download": "https://drive.google.com/uc?export=download&id=1L1sJiT3ydWl_fvZ3I_8tejgL9ve5fHKv",
+    "file": "OBJ/Axe_Double.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

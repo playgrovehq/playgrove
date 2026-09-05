@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "railway-track-straight",
+  "label": "RailwayTrack Straight",
+  "description": "Modular Train Pack by Quaternius.",
+  "category": "roads",
+  "tags": [
+    "railway",
+    "track",
+    "straight",
+    "quaternius",
+    "modulartrain",
+    "cube",
+    "roads",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "railway-track-straight.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2580,
+    "triangles": 1420,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -8.999953,
+      -0.07147,
+      -0.629893
+    ],
+    "max": [
+      8.999953,
+      0.07147,
+      0.629893
+    ],
+    "size": [
+      17.999906,
+      0.14294,
+      1.259786
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "RailwayTrack_Straight_Cube.022"
+  ],
+  "materialNames": [
+    "Steel",
+    "Wood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulartrain.html",
+    "download": "https://drive.google.com/uc?export=download&id=1kU6tZGgZkuiDhnprCT4x_cLazqXId16K",
+    "file": "OBJ/RailwayTrack_Straight.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

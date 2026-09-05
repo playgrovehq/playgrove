@@ -1,0 +1,30 @@
+{
+  "id": "cruise-ship",
+  "label": "CruiseShip",
+  "description": "Ships Pack by Quaternius.",
+  "pack": "quaternius-ships",
+  "listing": "https://quaternius.com/packs/ships.html",
+  "download": "https://drive.google.com/uc?export=download&id=1lgUg8ChFHTwJPOeEpgO95-T6kzHIIOgP",
+  "file": "OBJ/CruiseShip.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3428feeb935f454f5e7f5a03100a9e49df8cd7c30b279cf62c029582b2dfc9f8",
+  "originalInputSha256": "3428feeb935f454f5e7f5a03100a9e49df8cd7c30b279cf62c029582b2dfc9f8",
+  "dependencies": [
+    {
+      "path": "OBJ/CruiseShip.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1y6VLHLxPNrCHRrxhjnAXZeYqYjhSE7g0",
+      "sha256": "295ec9832713a046b42388743ad78afc902dc256a32152494779df315e4084cb",
+      "bytes": 772
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cruise-ship.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[4,6.596594977192581,18.046452522277832]",
+  "convertedAt": "2026-09-05T14:06:25.087Z"
+}

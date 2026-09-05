@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "id": "book4-open",
+  "label": "Book4 Open",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "book4",
+    "open",
+    "quaternius",
+    "ultimaterpg",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#552d28",
+    "#8f8672",
+    "#134c55"
+  ],
+  "colorNames": [
+    "black",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "book4-open.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 686,
+    "triangles": 468,
+    "parts": 3,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -0.458795,
+      -0.088193,
+      -0.376031
+    ],
+    "max": [
+      0.458795,
+      0.088193,
+      0.376031
+    ],
+    "size": [
+      0.91759,
+      0.176386,
+      0.752062
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Book4_Open_Cube.119"
+  ],
+  "materialNames": [
+    "DarkRed",
+    "Beige",
+    "Teal"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimaterpg.html",
+    "download": "https://drive.google.com/uc?export=download&id=13Uzg5pnWAQ_OA8HYYwLRYNF8f11MhJVN",
+    "file": "OBJ/Book4_Open.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

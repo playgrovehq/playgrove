@@ -1,0 +1,30 @@
+{
+  "id": "crate",
+  "label": "Crate",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1CMEkS5hNSnchU7Z7bqvZpIAh0rDkpifT",
+  "file": "OBJ/Crate.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "724f3f21af0556c161fbd606b8a28bd0f1591ce599cab9c4d2cee617199b911c",
+  "originalInputSha256": "724f3f21af0556c161fbd606b8a28bd0f1591ce599cab9c4d2cee617199b911c",
+  "dependencies": [
+    {
+      "path": "OBJ/Crate.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1I-JXn7W-ju6BlejWokoLftecDITc1RNP",
+      "sha256": "c8f53168fc3e4d571d47b5f977f242e9b2e8e3e9c8d3b83527c159f63806e4df",
+      "bytes": 412
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "crate.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.3797659873962402,1.3076250501908362,1.3108929991722107]",
+  "convertedAt": "2026-09-05T14:01:00.846Z"
+}

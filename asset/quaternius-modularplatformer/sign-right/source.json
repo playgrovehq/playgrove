@@ -1,0 +1,30 @@
+{
+  "id": "sign-right",
+  "label": "Sign Right",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=12CkdAYvqKiqmeaqPVW5htxSsRkMayW3b",
+  "file": "OBJ/Sign_Right.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "74cb1850c3b77e29dae33dbd8beae01f9df78d2f4c95a120df21ddd9e3bafb1c",
+  "originalInputSha256": "74cb1850c3b77e29dae33dbd8beae01f9df78d2f4c95a120df21ddd9e3bafb1c",
+  "dependencies": [
+    {
+      "path": "OBJ/Sign_Right.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1mdMEnSNJOb386zaQfGafij5oOYm3ZEG1",
+      "sha256": "15c67af9a7e6fd710d82671922a7ca449f1b8012969b55bc4477c6080dc8c267",
+      "bytes": 237
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sign-right.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.1102299690246582,1.272386030294001,0.27459799498319626]",
+  "convertedAt": "2026-09-05T14:03:43.328Z"
+}

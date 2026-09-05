@@ -1,0 +1,30 @@
+{
+  "id": "frying-pan",
+  "label": "FryingPan",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1t-INXH9Nx91PJtjjUw4juX3rdda71KU1",
+  "file": "OBJ/FryingPan.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4d102fc0ecd1a11e22af6f6378c3cda84e11ea88cb3277d2cad00b4b8779a9fe",
+  "originalInputSha256": "4d102fc0ecd1a11e22af6f6378c3cda84e11ea88cb3277d2cad00b4b8779a9fe",
+  "dependencies": [
+    {
+      "path": "OBJ/FryingPan.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1zK2LU0LeReYz2gAzB_LcdeJQbbnT0Vx2",
+      "sha256": "1442d90736822f5f0478a93222d1b2055011f81ebd825a02816c9afcb78d2278",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "frying-pan.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.7373180389404297,0.25302400067448616,2.7883790731430054]",
+  "convertedAt": "2026-09-05T13:51:31.317Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "female-picking-up",
+  "label": "Female PickingUp",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "pack": "quaternius-backgroundposedhumans",
+  "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FFp3bq5QHD7_OCKh-XGlhq9mb8G1p_Te",
+  "file": "Female/Female Poses/OBJ/Female_PickingUp.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a9766ca31ba8036c8c7219405016795261d3ea9e98ad1229bcc0d41b054eb583",
+  "originalInputSha256": "a9766ca31ba8036c8c7219405016795261d3ea9e98ad1229bcc0d41b054eb583",
+  "dependencies": [
+    {
+      "path": "Female/Female Poses/OBJ/Female_PickingUp.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=15l18X3lWABrEeueCdQ3IG6sKBoBd3AE_",
+      "sha256": "f0329fc8382670f64b5e32fccd18b0a4cc912aa0b821c380e47c059ec8523a0c",
+      "bytes": 776
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "female-picking-up.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.0789039731025696,2.2600620221346617,2.0880880653858185]",
+  "convertedAt": "2026-09-05T14:05:32.628Z"
+}

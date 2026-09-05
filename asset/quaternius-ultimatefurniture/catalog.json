@@ -1,0 +1,1537 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T14:12:34.545Z",
+  "assets": [
+    {
+      "id": "bed-double",
+      "label": "BedDouble",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "bed-double/thumbnail.png",
+      "model": "bed-double/bed-double.ts",
+      "package": "bed-double",
+      "descriptor": "bed-double/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1j6efGSRHEFDrLoLYuH1Iyjd31hdbqHTh",
+        "file": "OBJ/BedDouble.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "bed",
+        "double",
+        "quaternius",
+        "ultimatefurniture",
+        "pillow2",
+        "cube",
+        "pillow",
+        "comforter",
+        "mattress",
+        "frame",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#353134",
+        "#411f31",
+        "#63364a",
+        "#474049",
+        "#6a5339",
+        "#5c4831"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 8880,
+        "triangles": 4712,
+        "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.125114,
+          -0.011821,
+          -1.425123
+        ],
+        "max": [
+          0.700751,
+          1.54571,
+          2.833411
+        ],
+        "size": [
+          2.825865,
+          1.557531,
+          4.258534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bed-twin",
+      "label": "BedTwin",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "bed-twin/thumbnail.png",
+      "model": "bed-twin/bed-twin.ts",
+      "package": "bed-twin",
+      "descriptor": "bed-twin/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1bdWV6WvMlvCc8VHBxhHbP0hAwWBuwoVo",
+        "file": "OBJ/BedTwin.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "bed",
+        "twin",
+        "quaternius",
+        "ultimatefurniture",
+        "pillow",
+        "cube",
+        "comforter",
+        "mattress",
+        "frame",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#353134",
+        "#411f31",
+        "#63364a",
+        "#474049",
+        "#6a5339",
+        "#5c4831"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 7034,
+        "triangles": 3684,
+        "parts": 6,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.029211,
+          -0.011821,
+          -1.529476
+        ],
+        "max": [
+          1.031675,
+          1.54571,
+          2.729057
+        ],
+        "size": [
+          2.060886,
+          1.557531,
+          4.258533
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bookcase",
+      "label": "Bookcase",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "bookcase/thumbnail.png",
+      "model": "bookcase/bookcase.ts",
+      "package": "bookcase",
+      "descriptor": "bookcase/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1AjpVxl1Ov-vXe9fB7YTxLCxwyJUJhfLc",
+        "file": "OBJ/Bookcase.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "bookcase",
+        "quaternius",
+        "ultimatefurniture",
+        "book",
+        "case",
+        "single",
+        "cube",
+        "right",
+        "door",
+        "left",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e5941",
+        "#6a5339",
+        "#604e39",
+        "#877948"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4732,
+        "triangles": 2928,
+        "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.916734,
+          -0.018219,
+          -0.286549
+        ],
+        "max": [
+          0.925202,
+          3.353085,
+          0.377856
+        ],
+        "size": [
+          1.841936,
+          3.371304,
+          0.664405
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "chair",
+      "label": "Chair",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "chair/thumbnail.png",
+      "model": "chair/chair.ts",
+      "package": "chair",
+      "descriptor": "chair/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Iu2ZdiwXMVX6IL6uHAifcAAlC-pzcOoD",
+        "file": "OBJ/Chair.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "chair",
+        "quaternius",
+        "ultimatefurniture",
+        "cylinder",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e5941",
+        "#a39c93"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1396,
+        "triangles": 736,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.253624,
+          -0.006554,
+          -0.365468
+        ],
+        "max": [
+          0.253625,
+          1.059774,
+          0.266677
+        ],
+        "size": [
+          0.507249,
+          1.066328,
+          0.632145
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "closet",
+      "label": "Closet",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "closet/thumbnail.png",
+      "model": "closet/closet.ts",
+      "package": "closet",
+      "descriptor": "closet/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1BgfNvM6RO2mH3pIXmuBOicznxw5PRERj",
+        "file": "OBJ/Closet.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "closet",
+        "quaternius",
+        "ultimatefurniture",
+        "left",
+        "door",
+        "cube",
+        "right",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4831",
+        "#877948",
+        "#6a5339"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 5446,
+        "triangles": 2986,
+        "parts": 6,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.77694,
+          -0.007873,
+          -0.430209
+        ],
+        "max": [
+          0.775563,
+          2.969636,
+          0.439801
+        ],
+        "size": [
+          1.552503,
+          2.977509,
+          0.87001
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "desk",
+      "label": "Desk",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "desk/thumbnail.png",
+      "model": "desk/desk.ts",
+      "package": "desk",
+      "descriptor": "desk/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1HPJNsymf8OgAvYF_3sN0RsSS-yGjHpSt",
+        "file": "OBJ/Desk.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "desk",
+        "quaternius",
+        "ultimatefurniture",
+        "drawer3",
+        "cube",
+        "drawer4",
+        "drawer2",
+        "drawer1",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#7b6348",
+        "#65513b"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3793,
+        "triangles": 2634,
+        "parts": 10,
+        "discardedDegenerate": 6
+      },
+      "bounds": {
+        "min": [
+          -0.911151,
+          -0.000702,
+          -0.452409
+        ],
+        "max": [
+          0.911151,
+          0.921797,
+          0.394218
+        ],
+        "size": [
+          1.822302,
+          0.922499,
+          0.846627
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "door1",
+      "label": "Door1",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "door1/thumbnail.png",
+      "model": "door1/door1.ts",
+      "package": "door1",
+      "descriptor": "door1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pRXr2Bqzhs6tPCgmvYYTJug-rwOmlxz0",
+        "file": "OBJ/Door1.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "door1",
+        "quaternius",
+        "ultimatefurniture",
+        "door",
+        "frame",
+        "cube",
+        "handle",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#513325",
+        "#877948",
+        "#85a3d1"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "cyan"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2808,
+        "triangles": 2216,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.811693,
+          0.015182,
+          -0.153995
+        ],
+        "max": [
+          0.782608,
+          3.096575,
+          0.165937
+        ],
+        "size": [
+          1.594301,
+          3.081393,
+          0.319932
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "door2",
+      "label": "Door2",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "door2/thumbnail.png",
+      "model": "door2/door2.ts",
+      "package": "door2",
+      "descriptor": "door2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ycUOQUMxKMExBSntfOtk06N_flIxpFxX",
+        "file": "OBJ/Door2.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "door2",
+        "quaternius",
+        "ultimatefurniture",
+        "door",
+        "frame",
+        "cube",
+        "handle",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#513325",
+        "#877948",
+        "#85a3d1"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "cyan"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1554,
+        "triangles": 1028,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.877841,
+          0.015183,
+          -0.153995
+        ],
+        "max": [
+          0.870774,
+          3.154989,
+          0.165937
+        ],
+        "size": [
+          1.748615,
+          3.139806,
+          0.319932
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "door3",
+      "label": "Door3",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "door3/thumbnail.png",
+      "model": "door3/door3.ts",
+      "package": "door3",
+      "descriptor": "door3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1JSuoZQrbiE0CcL20qNZZO-BTPdKaVuyR",
+        "file": "OBJ/Door3.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "door3",
+        "quaternius",
+        "ultimatefurniture",
+        "door",
+        "frame",
+        "cube",
+        "handle",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#513325",
+        "#877948"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1384,
+        "triangles": 848,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.877841,
+          0.015183,
+          -0.155308
+        ],
+        "max": [
+          0.870774,
+          3.154989,
+          0.171861
+        ],
+        "size": [
+          1.748615,
+          3.139806,
+          0.327169
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "night-stand",
+      "label": "NightStand",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "night-stand/thumbnail.png",
+      "model": "night-stand/night-stand.ts",
+      "package": "night-stand",
+      "descriptor": "night-stand/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1aK3ZfsDvfLwABn5-CeXhLDgWQyetkjex",
+        "file": "OBJ/NightStand.obj"
+      },
+      "category": "props",
+      "tags": [
+        "night",
+        "stand",
+        "quaternius",
+        "ultimatefurniture",
+        "bottom",
+        "drawer",
+        "cube",
+        "top",
+        "nightstand",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#7b6348",
+        "#65513b"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3276,
+        "triangles": 2014,
+        "parts": 6,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.293855,
+          -0.00234,
+          -0.253326
+        ],
+        "max": [
+          0.293855,
+          0.509399,
+          0.253326
+        ],
+        "size": [
+          0.58771,
+          0.511739,
+          0.506652
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "office-chair",
+      "label": "OfficeChair",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "office-chair/thumbnail.png",
+      "model": "office-chair/office-chair.ts",
+      "package": "office-chair",
+      "descriptor": "office-chair/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=11-clpp1mS8UFAHtW4eAEhYkDnZLdKKx2",
+        "file": "OBJ/OfficeChair.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "office",
+        "chair",
+        "quaternius",
+        "ultimatefurniture",
+        "cylinder",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#909090",
+        "#323232",
+        "#3a6a9d"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "blue"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3930,
+        "triangles": 2116,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.361205,
+          0.000091,
+          -0.441877
+        ],
+        "max": [
+          0.360465,
+          1.127653,
+          0.365328
+        ],
+        "size": [
+          0.72167,
+          1.127562,
+          0.807205
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "short-closet",
+      "label": "ShortCloset",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "short-closet/thumbnail.png",
+      "model": "short-closet/short-closet.ts",
+      "package": "short-closet",
+      "descriptor": "short-closet/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1o0Q0XJ3zGzHWXdyKl86HwZolshe4oj2z",
+        "file": "OBJ/ShortCloset.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "short",
+        "closet",
+        "quaternius",
+        "ultimatefurniture",
+        "left",
+        "door",
+        "cube",
+        "right",
+        "bottom",
+        "drawer",
+        "top",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4831",
+        "#877948",
+        "#6a5339"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 7411,
+        "triangles": 4035,
+        "parts": 10,
+        "discardedDegenerate": 5
+      },
+      "bounds": {
+        "min": [
+          -0.775957,
+          -0.007873,
+          -0.430164
+        ],
+        "max": [
+          0.776546,
+          2.258823,
+          0.476592
+        ],
+        "size": [
+          1.552503,
+          2.266696,
+          0.906756
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sofa",
+      "label": "Sofa",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "sofa/thumbnail.png",
+      "model": "sofa/sofa.ts",
+      "package": "sofa",
+      "descriptor": "sofa/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Hju6oL6uFkl6VRzEMcYvlnGoRLFOT6Af",
+        "file": "OBJ/Sofa.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "sofa",
+        "quaternius",
+        "ultimatefurniture",
+        "cube",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2a2043",
+        "#433b37"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4233,
+        "triangles": 2392,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.12052,
+          -0.00757,
+          -0.901035
+        ],
+        "max": [
+          2.12052,
+          1.500214,
+          0.88263
+        ],
+        "size": [
+          4.24104,
+          1.507784,
+          1.783665
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sofa-individual",
+      "label": "Sofa individual",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "sofa-individual/thumbnail.png",
+      "model": "sofa-individual/sofa-individual.ts",
+      "package": "sofa-individual",
+      "descriptor": "sofa-individual/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1l4vnjqcGSu-b83rs7844KnjDtJWdyi0g",
+        "file": "OBJ/Sofa_individual.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "sofa",
+        "individual",
+        "quaternius",
+        "ultimatefurniture",
+        "cube",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#433b37",
+        "#272727"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4650,
+        "triangles": 2596,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.816593,
+          -0.008801,
+          -0.694361
+        ],
+        "max": [
+          0.821361,
+          1.351346,
+          0.743952
+        ],
+        "size": [
+          1.637954,
+          1.360147,
+          1.438313
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sofa2",
+      "label": "Sofa2",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "sofa2/thumbnail.png",
+      "model": "sofa2/sofa2.ts",
+      "package": "sofa2",
+      "descriptor": "sofa2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=175G_awYQmNFrkrBYn0QbLnTnPJc02FWX",
+        "file": "OBJ/Sofa2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sofa2",
+        "quaternius",
+        "ultimatefurniture",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#513525",
+        "#433b37"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 7049,
+        "triangles": 3688,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.015837,
+          -0.038693,
+          -0.669427
+        ],
+        "max": [
+          1.98681,
+          1.413732,
+          0.871391
+        ],
+        "size": [
+          4.002647,
+          1.452425,
+          1.540818
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sofa3",
+      "label": "Sofa3",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "sofa3/thumbnail.png",
+      "model": "sofa3/sofa3.ts",
+      "package": "sofa3",
+      "descriptor": "sofa3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1F6WGPLLSmw1T_xZmFablGPECP49rJmMI",
+        "file": "OBJ/Sofa3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sofa3",
+        "quaternius",
+        "ultimatefurniture",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#292929",
+        "#433b37"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 7431,
+        "triangles": 3886,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.020191,
+          -0.017612,
+          -0.648845
+        ],
+        "max": [
+          1.982456,
+          1.434814,
+          2.152345
+        ],
+        "size": [
+          4.002647,
+          1.452426,
+          2.80119
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stool",
+      "label": "Stool",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "stool/thumbnail.png",
+      "model": "stool/stool.ts",
+      "package": "stool",
+      "descriptor": "stool/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ZRrirr4zTdCD9c_bGlDhUQcn5N0zJDYM",
+        "file": "OBJ/Stool.obj"
+      },
+      "category": "props",
+      "tags": [
+        "stool",
+        "quaternius",
+        "ultimatefurniture",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e5941",
+        "#a39c93"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 968,
+        "triangles": 524,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.253624,
+          -0.006554,
+          -0.266677
+        ],
+        "max": [
+          0.253625,
+          0.57026,
+          0.266677
+        ],
+        "size": [
+          0.507249,
+          0.576814,
+          0.533354
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "table",
+      "label": "Table",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "table/thumbnail.png",
+      "model": "table/table.ts",
+      "package": "table",
+      "descriptor": "table/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1n3cLxGPX_v8L9kZekQONoiAaoZmzlHXB",
+        "file": "OBJ/Table.obj"
+      },
+      "category": "furniture",
+      "tags": [
+        "table",
+        "quaternius",
+        "ultimatefurniture",
+        "cube",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4831",
+        "#6a5339"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1548,
+        "triangles": 1108,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.709151,
+          0.000858,
+          -1.390113
+        ],
+        "max": [
+          0.709151,
+          0.825287,
+          1.390113
+        ],
+        "size": [
+          1.418302,
+          0.824429,
+          2.780226
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "table2",
+      "label": "Table2",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "table2/thumbnail.png",
+      "model": "table2/table2.ts",
+      "package": "table2",
+      "descriptor": "table2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=11IyDp-MXOe4ohhqu5Tz9Fhx-fFhg8fJi",
+        "file": "OBJ/Table2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "table2",
+        "quaternius",
+        "ultimatefurniture",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c4831",
+        "#6a5339"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2418,
+        "triangles": 1500,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.709151,
+          0.000858,
+          -1.390113
+        ],
+        "max": [
+          0.709151,
+          0.825287,
+          1.390113
+        ],
+        "size": [
+          1.418302,
+          0.824429,
+          2.780226
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

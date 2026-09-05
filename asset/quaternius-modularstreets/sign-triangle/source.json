@@ -1,0 +1,30 @@
+{
+  "id": "sign-triangle",
+  "label": "Sign Triangle",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1af-FHKALqyVGl9gTTQbfixpwGJxkGvHn",
+  "file": "OBJ/Sign_Triangle.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c5798b10203d73855b0cc1775fbe29df07135fe21f6484ff4d76542bc1d8f16d",
+  "originalInputSha256": "c5798b10203d73855b0cc1775fbe29df07135fe21f6484ff4d76542bc1d8f16d",
+  "dependencies": [
+    {
+      "path": "OBJ/Sign_Triangle.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1v7KlP4wRKAS2nCIUexh-9lZg_MjM5WAS",
+      "sha256": "13700b6fa3268912348a47703d8420b8101f834d2e1e73bb47cd3db13b5be709",
+      "bytes": 604
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sign-triangle.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.034534000325948,0.53442702821485,0.1549380049109459]",
+  "convertedAt": "2026-09-05T14:06:13.583Z"
+}

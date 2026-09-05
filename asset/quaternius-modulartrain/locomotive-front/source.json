@@ -1,0 +1,30 @@
+{
+  "id": "locomotive-front",
+  "label": "Locomotive Front",
+  "description": "Modular Train Pack by Quaternius.",
+  "pack": "quaternius-modulartrain",
+  "listing": "https://quaternius.com/packs/modulartrain.html",
+  "download": "https://drive.google.com/uc?export=download&id=1PDhwVLm8R6--AGcVgYd6Kvg2aIUdIaWA",
+  "file": "OBJ/Locomotive_Front.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b3ae784bf6cde988efc838bbc882a53f6ed591d2b56469d086dc17241669a04d",
+  "originalInputSha256": "b3ae784bf6cde988efc838bbc882a53f6ed591d2b56469d086dc17241669a04d",
+  "dependencies": [
+    {
+      "path": "OBJ/Locomotive_Front.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1n7j3EbGYP0Q2kVUZGHIvGAaUjMWljmGM",
+      "sha256": "47627a400db8d8566b5094c466cc17c1c120aeb6decbadd8bcfec1adb8e707d0",
+      "bytes": 420
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "locomotive-front.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=10 materials=10 bounds=[8.089105129241943,3.5834730295464396,2.8670899868011475]",
+  "convertedAt": "2026-09-05T14:01:37.140Z"
+}

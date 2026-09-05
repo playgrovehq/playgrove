@@ -1,0 +1,30 @@
+{
+  "id": "willow-5",
+  "label": "Willow 5",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=18s4pCeAejs66lSW88_wRMsfCbiPuS02J",
+  "file": "OBJ/Willow_5.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "70244f809e924fd18ec8dceb61f4c6bd5364ca8980959163f63488facd6073a6",
+  "originalInputSha256": "70244f809e924fd18ec8dceb61f4c6bd5364ca8980959163f63488facd6073a6",
+  "dependencies": [
+    {
+      "path": "OBJ/Willow_5.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1b5OotBQjFhbdvmeJMRciMYyKIHfZngpM",
+      "sha256": "ccf8527cd094c25fb0468c94f4aa94f77a5d2bf5426681d8b9230708a834ad0e",
+      "bytes": 416
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "willow-5.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.0099390149116516,2.415219974704087,2.4902320504188538]",
+  "convertedAt": "2026-09-05T13:59:43.301Z"
+}

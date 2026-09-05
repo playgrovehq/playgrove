@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "female-hairstyle-4",
+  "label": "Female Hairstyle 4",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "female",
+    "hairstyle",
+    "quaternius",
+    "backgroundposedhumans",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#4c3b29",
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "black",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "female-hairstyle-4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 670,
+    "triangles": 316,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.26162,
+      -0.38131,
+      -0.39345
+    ],
+    "max": [
+      0.26162,
+      0.38131,
+      0.39345
+    ],
+    "size": [
+      0.52324,
+      0.76262,
+      0.7869
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Female_Hairstyle_4_Cylinder.007"
+  ],
+  "materialNames": [
+    "Hair",
+    "HairTie"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+    "download": "https://drive.google.com/uc?export=download&id=1oz8XIhZF5bVqxr7xkjyr8Ec41tjGnPmP",
+    "file": "Female/Female Hairstyles/OBJ/Female_Hairstyle_4.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

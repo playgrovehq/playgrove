@@ -1,0 +1,30 @@
+{
+  "id": "suv",
+  "label": "SUV",
+  "description": "Cars Pack by Quaternius.",
+  "pack": "quaternius-cars",
+  "listing": "https://quaternius.com/packs/cars.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_26j_0vooPFidwFSlHRWlF1ifphQZemK",
+  "file": "OBJ/SUV.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "411a23e66d905b861c3d9957ae364fa2711fe9a4ac0c1e9f77920d800fbbf4dd",
+  "originalInputSha256": "411a23e66d905b861c3d9957ae364fa2711fe9a4ac0c1e9f77920d800fbbf4dd",
+  "dependencies": [
+    {
+      "path": "OBJ/SUV.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=12V4PUvyNhfAPA9VejWYFsbniXd9Twsnt",
+      "sha256": "fc6f72a057c881856377eca8d7888e9566397b52e457266d55ed631171edc7fa",
+      "bytes": 1131
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "suv.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=12 materials=12 bounds=[2.1111021041870117,1.5278509762138128,4.209349155426025]",
+  "convertedAt": "2026-09-05T14:02:26.753Z"
+}

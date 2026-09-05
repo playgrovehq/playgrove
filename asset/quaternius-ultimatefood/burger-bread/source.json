@@ -1,0 +1,30 @@
+{
+  "id": "burger-bread",
+  "label": "Burger Bread",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=13XTC5dTuJQ5mzdyaM22hy_zWS8_8Abaj",
+  "file": "OBJ/Burger_Bread.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "adf2b4c9e16ec748d25b934aa2c503ae3a115a77ad9fb09c9931d1f63119f310",
+  "originalInputSha256": "adf2b4c9e16ec748d25b934aa2c503ae3a115a77ad9fb09c9931d1f63119f310",
+  "dependencies": [
+    {
+      "path": "OBJ/Burger_Bread.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1UGFBY5U7YB_Z9H-Eeu0gBpRgLZT9EOun",
+      "sha256": "18cd74ce3adc7f91cf592f753960b4aa57f3a65f7bcee380d3fee2be5394ee0f",
+      "bytes": 423
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "burger-bread.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.4774280190467834,0.4046820029616356,1.5785250067710876]",
+  "convertedAt": "2026-09-05T13:51:30.730Z"
+}

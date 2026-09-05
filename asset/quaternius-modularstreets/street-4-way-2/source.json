@@ -1,0 +1,30 @@
+{
+  "id": "street-4-way-2",
+  "label": "Street 4Way 2",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1DSDt87Oi-287R5ob8W6BtGxAkxETqRpW",
+  "file": "OBJ/Street_4Way_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a5e55649dca5249125a1326c3d95683937e2f387d2341925354f0423275f165a",
+  "originalInputSha256": "a5e55649dca5249125a1326c3d95683937e2f387d2341925354f0423275f165a",
+  "dependencies": [
+    {
+      "path": "OBJ/Street_4Way_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1WKos1pnWaT4tlGJvUXW6cJh0pj54gN6C",
+      "sha256": "97d5829efb9b66b40575fa2c3eefd1739a7429e22e9c5d875929596d1157f6fc",
+      "bytes": 595
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "street-4-way-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2,0.2500000074505806,2.000063896179199]",
+  "convertedAt": "2026-09-05T14:06:13.620Z"
+}

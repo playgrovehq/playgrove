@@ -1,0 +1,30 @@
+{
+  "id": "big-barn",
+  "label": "BigBarn",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "pack": "quaternius-farmbuildings",
+  "listing": "https://quaternius.com/packs/farmbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1-pDoMboAo2NOSwfVi05o45g_WpI8p3Eq",
+  "file": "OBJ/BigBarn.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bd194855390475c301ad4dfffa38a5bdcce887fef19e2e95b858b47720e36934",
+  "originalInputSha256": "bd194855390475c301ad4dfffa38a5bdcce887fef19e2e95b858b47720e36934",
+  "dependencies": [
+    {
+      "path": "OBJ/BigBarn.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1GTM3qVnqpfoLdAUlLwh5t3Nl5nWzuedw",
+      "sha256": "32008aadddfd79027e03b50e224ddc35315c5ee26eee34e8f0f7379c71088fac",
+      "bytes": 777
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "big-barn.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=14 materials=14 bounds=[7.72689414024353,7.886772154364735,8.222446918487549]",
+  "convertedAt": "2026-09-05T14:04:12.890Z"
+}

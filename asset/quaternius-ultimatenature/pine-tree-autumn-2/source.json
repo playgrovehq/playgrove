@@ -1,0 +1,30 @@
+{
+  "id": "pine-tree-autumn-2",
+  "label": "PineTree Autumn 2",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Z_r9i0apA4zqe3LHrREsaD7_TcCzxbCb",
+  "file": "OBJ/PineTree_Autumn_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "29a6e4d5de1f39098c4c9282c89baa7ca6caa133bc9a4b020e7383fcb68b1cf3",
+  "originalInputSha256": "29a6e4d5de1f39098c4c9282c89baa7ca6caa133bc9a4b020e7383fcb68b1cf3",
+  "dependencies": [
+    {
+      "path": "OBJ/PineTree_Autumn_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1KOE7AbLF7zCx367WTwlbnPWRb1OxVZ_l",
+      "sha256": "aa41a20d6cf4dfadd63f47d8dafe435340b8a83485c30d5d2257de1cddf29775",
+      "bytes": 604
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pine-tree-autumn-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.7971680164337158,3.5646869875490665,1.9575050473213196]",
+  "convertedAt": "2026-09-05T13:59:42.531Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "chair",
+  "label": "Chair",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1jbV7swpALCT-JXqG_Hvime_eJIT5JVAm",
+  "file": "OBJ/Chair.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a2b0f4ce531298afdad892adafb11e14a477f8ee31c44c639d4f3f5587c4bf2e",
+  "originalInputSha256": "a2b0f4ce531298afdad892adafb11e14a477f8ee31c44c639d4f3f5587c4bf2e",
+  "dependencies": [
+    {
+      "path": "OBJ/Chair.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1uxkgvovpZNcXd9t3_HsVl3yZb5k_GQSM",
+      "sha256": "6e4acd97adc88cc73ac2d5b2d17884e4940c352429bf9c32cf9be411c21bff92",
+      "bytes": 589
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chair.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.6269980072975159,1.158944021211937,0.7024389803409576]",
+  "convertedAt": "2026-09-05T14:01:00.683Z"
+}

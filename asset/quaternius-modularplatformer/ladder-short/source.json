@@ -1,0 +1,30 @@
+{
+  "id": "ladder-short",
+  "label": "Ladder short",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1dD0qug5KU00v0tpMf9AgoylFK2liSoJG",
+  "file": "OBJ/Ladder_short.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3b76a8136ca3046776beccecd83515c91d877238a38dcfb48a78389452008ead",
+  "originalInputSha256": "3b76a8136ca3046776beccecd83515c91d877238a38dcfb48a78389452008ead",
+  "dependencies": [
+    {
+      "path": "OBJ/Ladder_short.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1yyvHOaOahW530nD27w52eUL3GCqj3WTA",
+      "sha256": "0773772906c54be6222f2de425448013eca0d8988ee8aff794fd4616aa8b9c34",
+      "bytes": 239
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "ladder-short.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.6330519914627075,2.2671679351478815,0.1511559933423996]",
+  "convertedAt": "2026-09-05T14:03:42.937Z"
+}

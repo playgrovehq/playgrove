@@ -1,0 +1,30 @@
+{
+  "id": "turnip",
+  "label": "Turnip",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1KPNf7rR0XMhseU2c5iZ7vDy-4UBnwq5D",
+  "file": "OBJ/Turnip.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7707279868427963a57383fd3e86eac9b47fc0fff056202f3e7d294248018ca6",
+  "originalInputSha256": "7707279868427963a57383fd3e86eac9b47fc0fff056202f3e7d294248018ca6",
+  "dependencies": [
+    {
+      "path": "OBJ/Turnip.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1s8y3ydAcR4TnyhP5_d7RQJQygEwn1rPk",
+      "sha256": "5e108250ce11db7e328a3356ca4e3d962662e81ea5fbd7fbaa71e3820f2961b9",
+      "bytes": 597
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "turnip.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.2482659816741943,2.391473948955536,1.233684003353119]",
+  "convertedAt": "2026-09-05T13:51:32.260Z"
+}

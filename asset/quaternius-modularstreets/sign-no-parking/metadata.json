@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "sign-no-parking",
+  "label": "Sign NoParking",
+  "description": "Modular Streets Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "sign",
+    "no",
+    "parking",
+    "quaternius",
+    "modularstreets",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#989898",
+    "#d1d1d1",
+    "#d13328",
+    "#2c2c2c"
+  ],
+  "colorNames": [
+    "gray",
+    "white",
+    "red",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "sign-no-parking.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 364,
+    "triangles": 244,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.007605,
+      0.000039,
+      -0.069893
+    ],
+    "max": [
+      0.01928,
+      0.538875,
+      0.069501
+    ],
+    "size": [
+      0.026885,
+      0.538836,
+      0.139394
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Parking_Cylinder.002"
+  ],
+  "materialNames": [
+    "Pole.002",
+    "White.002",
+    "Red.001",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modularstreets.html",
+    "download": "https://drive.google.com/uc?export=download&id=1lnv8cfYkdkiXHlCkm7a7UZ94NsnvbMBh",
+    "file": "OBJ/Sign_NoParking.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

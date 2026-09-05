@@ -1,0 +1,30 @@
+{
+  "id": "street-bridge-water",
+  "label": "Street Bridge Water",
+  "description": "Modular Streets Pack by Quaternius.",
+  "pack": "quaternius-modularstreets",
+  "listing": "https://quaternius.com/packs/modularstreets.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Fx2sAGnHhAXs-X8zhXbdCuNjq7eGwo6J",
+  "file": "OBJ/Street_Bridge_Water.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "86e6574a77db64423fffc59d504c3166a0b52fd46bfcb6626c33fe34eb677b30",
+  "originalInputSha256": "86e6574a77db64423fffc59d504c3166a0b52fd46bfcb6626c33fe34eb677b30",
+  "dependencies": [
+    {
+      "path": "OBJ/Street_Bridge_Water.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1tYGinz-VZ2FqAU_0EE0EoCHQXHWu2-mJ",
+      "sha256": "b94dfbc8a4abc6bca0344bda0b48b8fbb0b8e538933dbcbf3539b716261a586f",
+      "bytes": 957
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "street-bridge-water.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[2,0.7658869996666908,1.9999999403953552]",
+  "convertedAt": "2026-09-05T14:06:13.687Z"
+}

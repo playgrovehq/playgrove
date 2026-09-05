@@ -1,0 +1,30 @@
+{
+  "id": "fish-bone",
+  "label": "FishBone",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1IcKcfDcQcsMxnplKMNaxvYo15Ta73zV4",
+  "file": "OBJ/FishBone.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f4149a6cad9cbf9ef30040b172e22ebbc6be7c112ed577370a24080ade6a16ad",
+  "originalInputSha256": "f4149a6cad9cbf9ef30040b172e22ebbc6be7c112ed577370a24080ade6a16ad",
+  "dependencies": [
+    {
+      "path": "OBJ/FishBone.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=19wkTX_LT5MHrVgFxCWvqeBrI65w4t3Q1",
+      "sha256": "2b75330a531ba1149a86cf247c6b862036db9de6a2b0eea4755ae52093f3adba",
+      "bytes": 235
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "fish-bone.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.9219390153884888,0.1567790023982525,0.39125899970531464]",
+  "convertedAt": "2026-09-05T13:54:21.816Z"
+}

@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "id": "big-barn",
+  "label": "BigBarn",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "big",
+    "barn",
+    "quaternius",
+    "farmbuildings",
+    "cube",
+    "door",
+    "door2",
+    "window",
+    "window2",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#7c3a32",
+    "#d1d1d1",
+    "#8f433a",
+    "#4f4f4f"
+  ],
+  "colorNames": [
+    "brown",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "big-barn.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 6276,
+    "triangles": 4214,
+    "parts": 14,
+    "discardedDegenerate": 10
+  },
+  "bounds": {
+    "min": [
+      -3.863445,
+      -0.004004,
+      -4.062554
+    ],
+    "max": [
+      3.863449,
+      7.882768,
+      4.159893
+    ],
+    "size": [
+      7.726894,
+      7.886772,
+      8.222447
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "BigBarn_Cube.034",
+    "BigBarn_Door_Cube.009",
+    "BigBarn_Door2_Cube.012",
+    "BigBarn_Window_Cube.017",
+    "BigBarn_Window2_Cube.016"
+  ],
+  "materialNames": [
+    "DarkRed",
+    "White",
+    "LightRed",
+    "RoofBlack"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/farmbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=1-pDoMboAo2NOSwfVi05o45g_WpI8p3Eq",
+    "file": "OBJ/BigBarn.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bookcase",
+  "label": "Bookcase",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "pack": "quaternius-ultimatefurniture",
+  "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+  "download": "https://drive.google.com/uc?export=download&id=1AjpVxl1Ov-vXe9fB7YTxLCxwyJUJhfLc",
+  "file": "OBJ/Bookcase.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d639c355670d246936d0c3c6b6c7da4955580d1a42997101e81c21a4f619acb3",
+  "originalInputSha256": "d639c355670d246936d0c3c6b6c7da4955580d1a42997101e81c21a4f619acb3",
+  "dependencies": [
+    {
+      "path": "OBJ/Bookcase.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1JZJiSiEGJ82Yh4ByNteailmluEw0B2Sj",
+      "sha256": "39c049986862bfb3cdebd62339425da47d41bc45eeaea67bcda232cfbea3ffcb",
+      "bytes": 772
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bookcase.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[1.8419359922409058,3.371304040774703,0.6644049882888794]",
+  "convertedAt": "2026-09-05T14:12:34.175Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "chalice",
+  "label": "Chalice",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ckl-yKYnTFkONqOpAj1gqoZ2KNRexclm",
+  "file": "OBJ/Chalice.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f4999d469483581ab627b2dff2ce5f395e5c1f7ed836fde282ab5a41d83b0258",
+  "originalInputSha256": "f4999d469483581ab627b2dff2ce5f395e5c1f7ed836fde282ab5a41d83b0258",
+  "dependencies": [
+    {
+      "path": "OBJ/Chalice.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1AAWAgsS3FkUKhHKhTCe12EyIMw8Xet23",
+      "sha256": "864b608dab2f65d9c9f2072cd93b36cc5be73553ee2a5f34e02d3ec3c817511b",
+      "bytes": 233
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chalice.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4856860041618347,0.7468289723619819,0.4856880009174347]",
+  "convertedAt": "2026-09-05T13:54:21.417Z"
+}

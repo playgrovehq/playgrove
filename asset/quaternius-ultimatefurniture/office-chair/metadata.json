@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "office-chair",
+  "label": "OfficeChair",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "category": "furniture",
+  "tags": [
+    "office",
+    "chair",
+    "quaternius",
+    "ultimatefurniture",
+    "cylinder",
+    "furniture",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#909090",
+    "#323232",
+    "#3a6a9d"
+  ],
+  "colorNames": [
+    "gray",
+    "black",
+    "blue"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "office-chair.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3930,
+    "triangles": 2116,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.361205,
+      0.000091,
+      -0.441877
+    ],
+    "max": [
+      0.360465,
+      1.127653,
+      0.365328
+    ],
+    "size": [
+      0.72167,
+      1.127562,
+      0.807205
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "OfficeChair_Cylinder.002"
+  ],
+  "materialNames": [
+    "Grey",
+    "Black",
+    "Chair"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+    "download": "https://drive.google.com/uc?export=download&id=11-clpp1mS8UFAHtW4eAEhYkDnZLdKKx2",
+    "file": "OBJ/OfficeChair.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

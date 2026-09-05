@@ -1,0 +1,30 @@
+{
+  "id": "trap-spikes",
+  "label": "Trap spikes",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1XzleyxUAYHYnprczsyKkm70zwoFjDjb5",
+  "file": "OBJ/Trap_spikes.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "97845ebaaa3a1f4bcadf83085beb0c6c5eef773133317ba11a57ba3f89fe9865",
+  "originalInputSha256": "97845ebaaa3a1f4bcadf83085beb0c6c5eef773133317ba11a57ba3f89fe9865",
+  "dependencies": [
+    {
+      "path": "OBJ/Trap_spikes.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=17Y0Q_XBV27OuJC3VfP272Y7N8tNcc7ot",
+      "sha256": "475a2760c77b1a9976c413da03eb07b07336737254dfdd7db8b818db8aabeb7c",
+      "bytes": 420
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "trap-spikes.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.98922598361969,1.17283805902116,1.98922598361969]",
+  "convertedAt": "2026-09-05T14:01:01.198Z"
+}

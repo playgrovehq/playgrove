@@ -1,0 +1,30 @@
+{
+  "id": "cargo-train-container",
+  "label": "CargoTrain Container",
+  "description": "Modular Train Pack by Quaternius.",
+  "pack": "quaternius-modulartrain",
+  "listing": "https://quaternius.com/packs/modulartrain.html",
+  "download": "https://drive.google.com/uc?export=download&id=1TRneX0yYUFyvNUeTwelFPMAQbqThcGPU",
+  "file": "OBJ/CargoTrain_Container.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7d96e6bff777ab817da6583e6b529f9e6c0a43811438a806940fcfc1e77bf422",
+  "originalInputSha256": "7d96e6bff777ab817da6583e6b529f9e6c0a43811438a806940fcfc1e77bf422",
+  "dependencies": [
+    {
+      "path": "OBJ/CargoTrain_Container.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1PFkeD_vkNvql6oZ6G1ijVYO3V4FAO6CB",
+      "sha256": "161d69f8d41e8a73cf550035c6c98a51b615f2a87e3befd5fbbdb3982b03c1b4",
+      "bytes": 783
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "cargo-train-container.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[9.260592937469482,2.5792620023712516,2.062894105911255]",
+  "convertedAt": "2026-09-05T14:01:36.962Z"
+}

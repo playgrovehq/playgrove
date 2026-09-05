@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "desk",
+  "label": "Desk",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "category": "furniture",
+  "tags": [
+    "desk",
+    "quaternius",
+    "ultimatefurniture",
+    "drawer3",
+    "cube",
+    "drawer4",
+    "drawer2",
+    "drawer1",
+    "furniture",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#7b6348",
+    "#65513b"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "desk.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3793,
+    "triangles": 2634,
+    "parts": 10,
+    "discardedDegenerate": 6
+  },
+  "bounds": {
+    "min": [
+      -0.911151,
+      -0.000702,
+      -0.452409
+    ],
+    "max": [
+      0.911151,
+      0.921797,
+      0.394218
+    ],
+    "size": [
+      1.822302,
+      0.922499,
+      0.846627
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Desk_Drawer3_Cube.007",
+    "Desk_Drawer4_Cube.006",
+    "Desk_Drawer2_Cube.005",
+    "Desk_Drawer1_Cube.002",
+    "Desk_Cube.004"
+  ],
+  "materialNames": [
+    "Wood",
+    "DarkWood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+    "download": "https://drive.google.com/uc?export=download&id=1HPJNsymf8OgAvYF_3sN0RsSS-yGjHpSt",
+    "file": "OBJ/Desk.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

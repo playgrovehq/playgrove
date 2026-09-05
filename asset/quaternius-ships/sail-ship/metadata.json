@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "id": "sail-ship",
+  "label": "Sail ship",
+  "description": "Ships Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "sail",
+    "ship",
+    "quaternius",
+    "ships",
+    "back",
+    "cylinder",
+    "front",
+    "midle",
+    "big",
+    "rudder",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a17250",
+    "#d1c6ac",
+    "#815c40",
+    "#c88e63",
+    "#a6393f"
+  ],
+  "colorNames": [
+    "brown",
+    "beige",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "sail-ship.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 6260,
+    "triangles": 3934,
+    "parts": 12,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -0.847529,
+      -0.111952,
+      -2.604487
+    ],
+    "max": [
+      0.847529,
+      3.737727,
+      3.77094
+    ],
+    "size": [
+      1.695058,
+      3.849679,
+      6.375427
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "BackSail_Cylinder.005",
+    "Front_Sail_Cylinder.004",
+    "MidleSail_Cylinder.001",
+    "BigShip_Cylinder",
+    "Rudder_Cylinder.007"
+  ],
+  "materialNames": [
+    "Wood",
+    "Fabric",
+    "DarkWood",
+    "LightWood",
+    "DarkRed"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ships.html",
+    "download": "https://drive.google.com/uc?export=download&id=1M6Xvcb9_wgq6jeXw8zXDfOPJcipWOcNt",
+    "file": "OBJ/Sail ship.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

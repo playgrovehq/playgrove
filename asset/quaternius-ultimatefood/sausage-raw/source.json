@@ -1,0 +1,30 @@
+{
+  "id": "sausage-raw",
+  "label": "Sausage Raw",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1wcHFSqGZ80rinDouBE0wB-IfR0Kdl3wG",
+  "file": "OBJ/Sausage_Raw.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ee0680453d61c6ab31b1c28a3f7a1d02351a30b8308f80c5134e2577d484cb27",
+  "originalInputSha256": "ee0680453d61c6ab31b1c28a3f7a1d02351a30b8308f80c5134e2577d484cb27",
+  "dependencies": [
+    {
+      "path": "OBJ/Sausage_Raw.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1yjWTZErY9quoKuB_lqdeopJfMOt6gZya",
+      "sha256": "59a93ae17024c1ea3bc640cb390422d224f991142e143464189d36fafc973d35",
+      "bytes": 239
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sausage-raw.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.2395700067281723,0.24132399260997772,1.656134009361267]",
+  "convertedAt": "2026-09-05T13:51:32.013Z"
+}

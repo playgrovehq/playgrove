@@ -1,0 +1,30 @@
+{
+  "id": "sword",
+  "label": "Sword",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=10LrG7xhXSZGhx03OuQjpNKo3-LDBlJKQ",
+  "file": "OBJ/Sword.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c5f220e6a9789cb9817f42244aba39d1cbc00c12ac0ccdaf76020a8e28099de1",
+  "originalInputSha256": "c5f220e6a9789cb9817f42244aba39d1cbc00c12ac0ccdaf76020a8e28099de1",
+  "dependencies": [
+    {
+      "path": "OBJ/Sword.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1djcbNn4H1TbrsM7DNkxwUj4DGWyFPlFn",
+      "sha256": "85ce3fdeb7fa7986021ce67a1854d96028826aa6a02767f8484341b46ae74a7b",
+      "bytes": 960
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "sword.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.1423959732055664,5.452775001525879,0.2611440122127533]",
+  "convertedAt": "2026-09-05T14:04:48.028Z"
+}

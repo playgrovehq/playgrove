@@ -1,0 +1,30 @@
+{
+  "id": "jar-large",
+  "label": "Jar Large",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1sJxT3AcpjanfCOLlbrn7RS6IFtPiHQcX",
+  "file": "OBJ/Jar_Large.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d2d472b7c3edd8f9669dba0c15f40a1a8db94d474b02061eb56ce9412bdf3f46",
+  "originalInputSha256": "d2d472b7c3edd8f9669dba0c15f40a1a8db94d474b02061eb56ce9412bdf3f46",
+  "dependencies": [
+    {
+      "path": "OBJ/Jar_Large.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1uaRWhRkm62tdPk_RxVUY3QyE44OBJEy1",
+      "sha256": "60f123d0439cccb4291aee920c6e23e41e2772fb83f3967e4898f8e12bd02d27",
+      "bytes": 600
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "jar-large.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.6332399845123291,0.6384089873172343,0.6022480130195618]",
+  "convertedAt": "2026-09-05T13:51:31.487Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bipod",
+  "label": "Bipod",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ISacotpZLaFCG7y4ygxrrcReVfVuSXyP",
+  "file": "OBJ/Accessories/Bipod.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a4ae3a744e1b62dab61431668d349dc2abead53856ab12c73e294863764ae738",
+  "originalInputSha256": "a4ae3a744e1b62dab61431668d349dc2abead53856ab12c73e294863764ae738",
+  "dependencies": [
+    {
+      "path": "OBJ/Accessories/Bipod.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1kunhGIAmu2hPFipwLQioTrXFWp-07t_C",
+      "sha256": "776168c3dd6907e492956a651355e75d23478422644aa5c3c7e25931809bf64b",
+      "bytes": 414
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bipod.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.1452760025858879,1.331473022699356,1.2162220478057861]",
+  "convertedAt": "2026-09-05T13:55:49.654Z"
+}

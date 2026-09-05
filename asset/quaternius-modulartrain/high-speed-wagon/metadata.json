@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "id": "high-speed-wagon",
+  "label": "HighSpeed Wagon",
+  "description": "Modular Train Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "high",
+    "speed",
+    "wagon",
+    "quaternius",
+    "modulartrain",
+    "highspeed",
+    "train",
+    "cube",
+    "wheels1",
+    "cylinder",
+    "wheels2",
+    "wheels3",
+    "wheels4",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#acacac",
+    "#2d2d2d",
+    "#38474f",
+    "#3e3e3e",
+    "#537d8c"
+  ],
+  "colorNames": [
+    "beige",
+    "black",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "high-speed-wagon.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 5196,
+    "triangles": 4988,
+    "parts": 9,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -5.589995,
+      -0.001065,
+      -1.014031
+    ],
+    "max": [
+      5.589995,
+      1.903317,
+      1.014031
+    ],
+    "size": [
+      11.17999,
+      1.904382,
+      2.028062
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "HighspeedTrain_Wagon_Cube",
+    "Wheels1_Cylinder.000",
+    "Wheels2_Cylinder.001",
+    "Wheels3_Cylinder.003",
+    "Wheels4_Cylinder.004"
+  ],
+  "materialNames": [
+    "White",
+    "Black",
+    "DarkBlue",
+    "Grey",
+    "Blue"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulartrain.html",
+    "download": "https://drive.google.com/uc?export=download&id=1tfj-AT-0Tx6pN_N7T3bq2FaGC7XP3SLF",
+    "file": "OBJ/HighSpeed_Wagon.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

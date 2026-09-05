@@ -1,0 +1,4057 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T14:03:43.607Z",
+  "assets": [
+    {
+      "id": "bear-trap-closed",
+      "label": "BearTrap Closed",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "bear-trap-closed/thumbnail.png",
+      "model": "bear-trap-closed/bear-trap-closed.ts",
+      "package": "bear-trap-closed",
+      "descriptor": "bear-trap-closed/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Kgkye-jR971qiwGExfh752IpU2kiiIFA",
+        "file": "OBJ/BearTrap_Closed.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bear",
+        "trap",
+        "closed",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#908682"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 675,
+        "triangles": 370,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.588491,
+          -0.003144,
+          -0.991332
+        ],
+        "max": [
+          0.601851,
+          1.422002,
+          0.990027
+        ],
+        "size": [
+          1.190342,
+          1.425146,
+          1.981359
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bear-trap-open",
+      "label": "BearTrap Open",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "bear-trap-open/thumbnail.png",
+      "model": "bear-trap-open/bear-trap-open.ts",
+      "package": "bear-trap-open",
+      "descriptor": "bear-trap-open/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1XN-O_VOYk6asYBdbjbSjLMlT_60Q2TUk",
+        "file": "OBJ/BearTrap_Open.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bear",
+        "trap",
+        "open",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#908682"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 546,
+        "triangles": 294,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.232542,
+          -0.022888,
+          -0.990027
+        ],
+        "max": [
+          1.24222,
+          0.487356,
+          0.990027
+        ],
+        "size": [
+          2.474762,
+          0.510244,
+          1.980054
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bomb",
+      "label": "Bomb",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "bomb/thumbnail.png",
+      "model": "bomb/bomb.ts",
+      "package": "bomb",
+      "descriptor": "bomb/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CApLXbqFcOZ37XYYkpEhEIBtdnvqTVuG",
+        "file": "OBJ/Bomb.obj"
+      },
+      "category": "props",
+      "tags": [
+        "bomb",
+        "quaternius",
+        "modularplatformer",
+        "icosphere",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#252322",
+        "#908682"
+      ],
+      "colorNames": [
+        "black",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 392,
+        "triangles": 166,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.506565,
+          -0.331594,
+          -0.331594
+        ],
+        "max": [
+          0.315365,
+          0.409549,
+          0.331594
+        ],
+        "size": [
+          0.82193,
+          0.741143,
+          0.663188
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cloud1",
+      "label": "Cloud1",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "cloud1/thumbnail.png",
+      "model": "cloud1/cloud1.ts",
+      "package": "cloud1",
+      "descriptor": "cloud1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1xA62F5FMzLT9OdMgU3NeYkDRXnkEE-lR",
+        "file": "OBJ/Cloud1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "cloud1",
+        "quaternius",
+        "modularplatformer",
+        "icosphere",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 960,
+        "triangles": 480,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.49886,
+          -0.828037,
+          -0.921614
+        ],
+        "max": [
+          1.473055,
+          0.803902,
+          0.927921
+        ],
+        "size": [
+          2.971915,
+          1.631939,
+          1.849535
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cloud2",
+      "label": "Cloud2",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "cloud2/thumbnail.png",
+      "model": "cloud2/cloud2.ts",
+      "package": "cloud2",
+      "descriptor": "cloud2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1cehEXkpX8VJznYsfo8BcLVqTLioN9cjD",
+        "file": "OBJ/Cloud2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "cloud2",
+        "quaternius",
+        "modularplatformer",
+        "icosphere",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 960,
+        "triangles": 480,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.132072,
+          -1.033507,
+          -0.87352
+        ],
+        "max": [
+          2.132072,
+          1.033507,
+          0.87352
+        ],
+        "size": [
+          4.264144,
+          2.067014,
+          1.74704
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cloud3",
+      "label": "Cloud3",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "cloud3/thumbnail.png",
+      "model": "cloud3/cloud3.ts",
+      "package": "cloud3",
+      "descriptor": "cloud3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1spQI3o4mPB7j4l4bbiwy4AubrdFfmRrD",
+        "file": "OBJ/Cloud3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "cloud3",
+        "quaternius",
+        "modularplatformer",
+        "icosphere",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1104,
+        "triangles": 552,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.814819,
+          -1.504985,
+          -0.918058
+        ],
+        "max": [
+          1.814819,
+          1.504985,
+          0.918058
+        ],
+        "size": [
+          3.629638,
+          3.00997,
+          1.836116
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cloud4",
+      "label": "Cloud4",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "cloud4/thumbnail.png",
+      "model": "cloud4/cloud4.ts",
+      "package": "cloud4",
+      "descriptor": "cloud4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Puo3FrlHJSbGsdy-x2RpJq8VC8NMsHjz",
+        "file": "OBJ/Cloud4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "cloud4",
+        "quaternius",
+        "modularplatformer",
+        "icosphere",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 960,
+        "triangles": 480,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4.083776,
+          -0.6626,
+          -0.921614
+        ],
+        "max": [
+          4.013469,
+          0.643287,
+          0.927921
+        ],
+        "size": [
+          8.097245,
+          1.305887,
+          1.849535
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cloud5",
+      "label": "Cloud5",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "cloud5/thumbnail.png",
+      "model": "cloud5/cloud5.ts",
+      "package": "cloud5",
+      "descriptor": "cloud5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=15Ss9TrtPgxJV1SBknp21qF6fG44P5LMb",
+        "file": "OBJ/Cloud5.obj"
+      },
+      "category": "props",
+      "tags": [
+        "cloud5",
+        "quaternius",
+        "modularplatformer",
+        "icosphere",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1696,
+        "triangles": 846,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.445222,
+          -1.934501,
+          -0.924768
+        ],
+        "max": [
+          3.445223,
+          1.934501,
+          0.924768
+        ],
+        "size": [
+          6.890445,
+          3.869002,
+          1.849536
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "coin",
+      "label": "Coin",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "coin/thumbnail.png",
+      "model": "coin/coin.ts",
+      "package": "coin",
+      "descriptor": "coin/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1H3gYHng-RYOv5Y7DR8JFcqq96xuWqUjf",
+        "file": "OBJ/Coin.obj"
+      },
+      "category": "props",
+      "tags": [
+        "coin",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#bda23a",
+        "#957f2e"
+      ],
+      "colorNames": [
+        "orange",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 370,
+        "triangles": 206,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.372513,
+          -0.391683,
+          -0.1172
+        ],
+        "max": [
+          0.372513,
+          0.391683,
+          0.1172
+        ],
+        "size": [
+          0.745026,
+          0.783366,
+          0.2344
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "crate",
+      "label": "Crate",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "crate/thumbnail.png",
+      "model": "crate/crate.ts",
+      "package": "crate",
+      "descriptor": "crate/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1G6WtPSDKtjclwCb8VAmomy4R_j08oGQi",
+        "file": "OBJ/Crate.obj"
+      },
+      "category": "props",
+      "tags": [
+        "crate",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8d5b3b",
+        "#976743"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1206,
+        "triangles": 732,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          -0.5,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.5,
+          0.500263
+        ],
+        "size": [
+          1,
+          1,
+          1.000263
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "fence",
+      "label": "Fence",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "fence/thumbnail.png",
+      "model": "fence/fence.ts",
+      "package": "fence",
+      "descriptor": "fence/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1JhY-CpIk_glywnYevSv5foKaWDRxj6bM",
+        "file": "OBJ/Fence.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "fence",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 384,
+        "triangles": 212,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.602227,
+          -0.010823,
+          -0.071412
+        ],
+        "max": [
+          1.674833,
+          1.08624,
+          0.07141
+        ],
+        "size": [
+          3.27706,
+          1.097063,
+          0.142822
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "flag",
+      "label": "Flag",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "flag/thumbnail.png",
+      "model": "flag/flag.ts",
+      "package": "flag",
+      "descriptor": "flag/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1eGKmeQBSgKTSVx7IuzdKNEKe6qimivll",
+        "file": "OBJ/Flag.obj"
+      },
+      "category": "props",
+      "tags": [
+        "flag",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743",
+        "#8f433a"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 420,
+        "triangles": 216,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.092635,
+          -0.057859,
+          -0.140066
+        ],
+        "max": [
+          1.9598,
+          4.006978,
+          0.137719
+        ],
+        "size": [
+          2.052435,
+          4.064837,
+          0.277785
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grass",
+      "label": "Grass",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "grass/thumbnail.png",
+      "model": "grass/grass.ts",
+      "package": "grass",
+      "descriptor": "grass/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1C3_uf_LQU8Pe-WlbDLJMC2etQCfrC2wP",
+        "file": "OBJ/Grass.obj"
+      },
+      "category": "vegetation",
+      "tags": [
+        "grass",
+        "quaternius",
+        "modularplatformer",
+        "plane",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6da668"
+      ],
+      "colorNames": [
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 672,
+        "triangles": 336,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.334046,
+          -0.010103,
+          -0.082036
+        ],
+        "max": [
+          0.391549,
+          0.531446,
+          0.082036
+        ],
+        "size": [
+          0.725595,
+          0.541549,
+          0.164072
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grass1",
+      "label": "Grass1",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "grass1/thumbnail.png",
+      "model": "grass1/grass1.ts",
+      "package": "grass1",
+      "descriptor": "grass1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1rFG7o6snuj5K9wAH-5Fke2meSntRMYvW",
+        "file": "OBJ/Grass1.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "grass1",
+        "quaternius",
+        "modularplatformer",
+        "plane",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6da668"
+      ],
+      "colorNames": [
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 368,
+        "triangles": 184,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.222697,
+          -0.010103,
+          0.025161
+        ],
+        "max": [
+          0.163816,
+          0.52253,
+          0.082036
+        ],
+        "size": [
+          0.386513,
+          0.532633,
+          0.056875
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grass2",
+      "label": "Grass2",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "grass2/thumbnail.png",
+      "model": "grass2/grass2.ts",
+      "package": "grass2",
+      "descriptor": "grass2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=14lEp8PPy340rILuBLxI4wL9H4D6iNpAa",
+        "file": "OBJ/Grass2.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "grass2",
+        "quaternius",
+        "modularplatformer",
+        "plane",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6da668"
+      ],
+      "colorNames": [
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 456,
+        "triangles": 228,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.225815,
+          -0.010103,
+          -0.084741
+        ],
+        "max": [
+          0.181453,
+          0.423973,
+          0.072459
+        ],
+        "size": [
+          0.407268,
+          0.434076,
+          0.1572
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "heart-full",
+      "label": "Heart Full",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "heart-full/thumbnail.png",
+      "model": "heart-full/heart-full.ts",
+      "package": "heart-full",
+      "descriptor": "heart-full/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1gWEWhbijtDE8o1XqEsn3aJeBf7h__ipQ",
+        "file": "OBJ/Heart_Full.obj"
+      },
+      "category": "props",
+      "tags": [
+        "heart",
+        "full",
+        "quaternius",
+        "modularplatformer",
+        "icosphere",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#952f42"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 472,
+        "triangles": 160,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.485695,
+          -0.519286,
+          -0.286418
+        ],
+        "max": [
+          0.485695,
+          0.286418,
+          0.286418
+        ],
+        "size": [
+          0.97139,
+          0.805704,
+          0.572836
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "heart-half",
+      "label": "Heart Half",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "heart-half/thumbnail.png",
+      "model": "heart-half/heart-half.ts",
+      "package": "heart-half",
+      "descriptor": "heart-half/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1orgG7T4QdEkOy70rythbHcCVQ8GoxAMF",
+        "file": "OBJ/Heart_Half.obj"
+      },
+      "category": "props",
+      "tags": [
+        "heart",
+        "half",
+        "quaternius",
+        "modularplatformer",
+        "icosphere",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#952f42"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 292,
+        "triangles": 106,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.056794,
+          -0.519137,
+          -0.286418
+        ],
+        "max": [
+          0.485805,
+          0.286566,
+          0.286418
+        ],
+        "size": [
+          0.542599,
+          0.805703,
+          0.572836
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "key",
+      "label": "Key",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "key/thumbnail.png",
+      "model": "key/key.ts",
+      "package": "key",
+      "descriptor": "key/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hlD3sVGlYt4lSoy-nu6ChBmor5RRQa0W",
+        "file": "OBJ/Key.obj"
+      },
+      "category": "props",
+      "tags": [
+        "key",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#bda23a"
+      ],
+      "colorNames": [
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 934,
+        "triangles": 672,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.464701,
+          -0.230449,
+          -0.027509
+        ],
+        "max": [
+          0.558185,
+          0.230356,
+          0.027509
+        ],
+        "size": [
+          1.022886,
+          0.460805,
+          0.055018
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "ladder-long",
+      "label": "Ladder long",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "ladder-long/thumbnail.png",
+      "model": "ladder-long/ladder-long.ts",
+      "package": "ladder-long",
+      "descriptor": "ladder-long/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Sn_gXLvJa4Hen1YVNyv6ivtXZXgf8kFs",
+        "file": "OBJ/Ladder_long.obj"
+      },
+      "category": "props",
+      "tags": [
+        "ladder",
+        "long",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 856,
+        "triangles": 608,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.316525,
+          -0.015101,
+          -0.107963
+        ],
+        "max": [
+          0.316525,
+          7.294852,
+          0.107963
+        ],
+        "size": [
+          0.63305,
+          7.309953,
+          0.215926
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "ladder-medium",
+      "label": "Ladder medium",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "ladder-medium/thumbnail.png",
+      "model": "ladder-medium/ladder-medium.ts",
+      "package": "ladder-medium",
+      "descriptor": "ladder-medium/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1zvw2k1aJOqKlx_fxCb4S8JPXeIpLFyC-",
+        "file": "OBJ/Ladder_medium.obj"
+      },
+      "category": "props",
+      "tags": [
+        "ladder",
+        "medium",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 494,
+        "triangles": 356,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.316525,
+          -0.01193,
+          -0.071823
+        ],
+        "max": [
+          0.316525,
+          4.484296,
+          0.107963
+        ],
+        "size": [
+          0.63305,
+          4.496226,
+          0.179786
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "ladder-short",
+      "label": "Ladder short",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "ladder-short/thumbnail.png",
+      "model": "ladder-short/ladder-short.ts",
+      "package": "ladder-short",
+      "descriptor": "ladder-short/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1dD0qug5KU00v0tpMf9AgoylFK2liSoJG",
+        "file": "OBJ/Ladder_short.obj"
+      },
+      "category": "props",
+      "tags": [
+        "ladder",
+        "short",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 232,
+        "triangles": 164,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.316526,
+          -0.016549,
+          -0.075578
+        ],
+        "max": [
+          0.316526,
+          2.250619,
+          0.075578
+        ],
+        "size": [
+          0.633052,
+          2.267168,
+          0.151156
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "lever",
+      "label": "Lever",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "lever/thumbnail.png",
+      "model": "lever/lever.ts",
+      "package": "lever",
+      "descriptor": "lever/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1vkYXFQ9aFuL5-RrqvrPNYInN6jaFXBSF",
+        "file": "OBJ/Lever.obj"
+      },
+      "category": "props",
+      "tags": [
+        "lever",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "base",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#908682",
+        "#b6a9a4"
+      ],
+      "colorNames": [
+        "gray",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 178,
+        "triangles": 108,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.420392,
+          -0.086972,
+          -0.131973
+        ],
+        "max": [
+          0.420392,
+          1.103301,
+          0.131973
+        ],
+        "size": [
+          0.840784,
+          1.190273,
+          0.263946
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "moving-platform",
+      "label": "MovingPlatform",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "moving-platform/thumbnail.png",
+      "model": "moving-platform/moving-platform.ts",
+      "package": "moving-platform",
+      "descriptor": "moving-platform/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WgNGPTdeZ9Yvg2E78WHv92KzEsW-9aZd",
+        "file": "OBJ/MovingPlatform.obj"
+      },
+      "category": "props",
+      "tags": [
+        "moving",
+        "platform",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#bda23a",
+        "#957f2e"
+      ],
+      "colorNames": [
+        "orange",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 880,
+        "triangles": 508,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.133795,
+          -0.66151,
+          -1.634544
+        ],
+        "max": [
+          2.133795,
+          0.66151,
+          1.634544
+        ],
+        "size": [
+          4.26759,
+          1.32302,
+          3.269088
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "moving-platform-long",
+      "label": "MovingPlatform Long",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "moving-platform-long/thumbnail.png",
+      "model": "moving-platform-long/moving-platform-long.ts",
+      "package": "moving-platform-long",
+      "descriptor": "moving-platform-long/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Wb3o7kM6J33iD77BrGLirhvraaR-rOeC",
+        "file": "OBJ/MovingPlatform_Long.obj"
+      },
+      "category": "props",
+      "tags": [
+        "moving",
+        "platform",
+        "long",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#bda23a",
+        "#957f2e"
+      ],
+      "colorNames": [
+        "orange",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 880,
+        "triangles": 508,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.644862,
+          -0.66151,
+          -1.634544
+        ],
+        "max": [
+          3.644861,
+          0.66151,
+          1.634544
+        ],
+        "size": [
+          7.289723,
+          1.32302,
+          3.269088
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "mushroom",
+      "label": "Mushroom",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "mushroom/thumbnail.png",
+      "model": "mushroom/mushroom.ts",
+      "package": "mushroom",
+      "descriptor": "mushroom/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1GEODrHGkD7LoOhscZtHSG3dzWxuV9Iv8",
+        "file": "OBJ/Mushroom.obj"
+      },
+      "category": "props",
+      "tags": [
+        "mushroom",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1",
+        "#8f433a"
+      ],
+      "colorNames": [
+        "white",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 266,
+        "triangles": 138,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.352112,
+          -0.013249,
+          -0.347787
+        ],
+        "max": [
+          0.353569,
+          0.687557,
+          0.340202
+        ],
+        "size": [
+          0.705681,
+          0.700806,
+          0.687989
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pipe",
+      "label": "Pipe",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "pipe/thumbnail.png",
+      "model": "pipe/pipe.ts",
+      "package": "pipe",
+      "descriptor": "pipe/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=14alqXwOgXw1rsmd4R8OaW4j2mhDaD665",
+        "file": "OBJ/Pipe.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pipe",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6da668"
+      ],
+      "colorNames": [
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1000,
+        "triangles": 556,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.919891,
+          -0.014369,
+          -0.921049
+        ],
+        "max": [
+          0.919891,
+          1.97086,
+          0.921049
+        ],
+        "size": [
+          1.839782,
+          1.985229,
+          1.842098
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "platform-bottom-left",
+      "label": "Platform BottomLeft",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "platform-bottom-left/thumbnail.png",
+      "model": "platform-bottom-left/platform-bottom-left.ts",
+      "package": "platform-bottom-left",
+      "descriptor": "platform-bottom-left/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=19Ut8TCBDwpjFZpSbBl4Ct6PQ0_LvLzZN",
+        "file": "OBJ/Platform_BottomLeft.obj"
+      },
+      "category": "props",
+      "tags": [
+        "platform",
+        "bottom",
+        "left",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#93714b"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 198,
+        "triangles": 114,
+        "parts": 1,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.800284,
+          -0.999998,
+          -1.562632
+        ],
+        "max": [
+          0.999999,
+          0.999998,
+          1.562631
+        ],
+        "size": [
+          1.800283,
+          1.999996,
+          3.125263
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "platform-bottom-middle",
+      "label": "Platform BottomMiddle",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "platform-bottom-middle/thumbnail.png",
+      "model": "platform-bottom-middle/platform-bottom-middle.ts",
+      "package": "platform-bottom-middle",
+      "descriptor": "platform-bottom-middle/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=17s4bfADkZsPXjL1eWuB7uzgqbHFJ9TXA",
+        "file": "OBJ/Platform_BottomMiddle.obj"
+      },
+      "category": "props",
+      "tags": [
+        "platform",
+        "bottom",
+        "middle",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#93714b"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 108,
+        "triangles": 86,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.999999,
+          -1.562633
+        ],
+        "max": [
+          0.999999,
+          0.999999,
+          1.562632
+        ],
+        "size": [
+          1.999999,
+          1.999998,
+          3.125265
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "platform-bottom-right",
+      "label": "Platform BottomRight",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "platform-bottom-right/thumbnail.png",
+      "model": "platform-bottom-right/platform-bottom-right.ts",
+      "package": "platform-bottom-right",
+      "descriptor": "platform-bottom-right/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1UPW_R45ga-H_j4M89YTRm7_7gDTWJF0G",
+        "file": "OBJ/Platform_BottomRight.obj"
+      },
+      "category": "props",
+      "tags": [
+        "platform",
+        "bottom",
+        "right",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#93714b"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 198,
+        "triangles": 114,
+        "parts": 1,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.999999,
+          -0.999998,
+          -1.562632
+        ],
+        "max": [
+          0.800284,
+          0.999998,
+          1.562631
+        ],
+        "size": [
+          1.800283,
+          1.999996,
+          3.125263
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "platform-center-left",
+      "label": "Platform CenterLeft",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "platform-center-left/thumbnail.png",
+      "model": "platform-center-left/platform-center-left.ts",
+      "package": "platform-center-left",
+      "descriptor": "platform-center-left/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1qn0Nu5I5exheN0DbgyRfcbe5xzfVaf5q",
+        "file": "OBJ/Platform_CenterLeft.obj"
+      },
+      "category": "props",
+      "tags": [
+        "platform",
+        "center",
+        "left",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#93714b"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 82,
+        "triangles": 56,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.800284,
+          -0.999998,
+          -1.562632
+        ],
+        "max": [
+          1,
+          0.999998,
+          1.562631
+        ],
+        "size": [
+          1.800284,
+          1.999996,
+          3.125263
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "platform-center-middle",
+      "label": "Platform CenterMiddle",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "platform-center-middle/thumbnail.png",
+      "model": "platform-center-middle/platform-center-middle.ts",
+      "package": "platform-center-middle",
+      "descriptor": "platform-center-middle/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1e1aK4JMlkEyiSRqeRRD6IPqqJd3ENPVj",
+        "file": "OBJ/Platform_CenterMiddle.obj"
+      },
+      "category": "props",
+      "tags": [
+        "platform",
+        "center",
+        "middle",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#93714b"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 48,
+        "triangles": 36,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.999999,
+          -0.999998,
+          -1.562632
+        ],
+        "max": [
+          0.999999,
+          0.999998,
+          1.562632
+        ],
+        "size": [
+          1.999998,
+          1.999996,
+          3.125264
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "platform-center-right",
+      "label": "Platform CenterRight",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "platform-center-right/thumbnail.png",
+      "model": "platform-center-right/platform-center-right.ts",
+      "package": "platform-center-right",
+      "descriptor": "platform-center-right/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=11_YqfuDnc7rPC-yl-3RmovIr6v3fvtH3",
+        "file": "OBJ/Platform_CenterRight.obj"
+      },
+      "category": "props",
+      "tags": [
+        "platform",
+        "center",
+        "right",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#93714b"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 82,
+        "triangles": 56,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          -0.999998,
+          -1.562632
+        ],
+        "max": [
+          0.800284,
+          0.999998,
+          1.562631
+        ],
+        "size": [
+          1.800284,
+          1.999996,
+          3.125263
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "platform-top-left",
+      "label": "Platform TopLeft",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "platform-top-left/thumbnail.png",
+      "model": "platform-top-left/platform-top-left.ts",
+      "package": "platform-top-left",
+      "descriptor": "platform-top-left/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1iD__J-QtVQVZMMWeSBWY9iaw_K2L8pog",
+        "file": "OBJ/Platform_TopLeft.obj"
+      },
+      "category": "props",
+      "tags": [
+        "platform",
+        "top",
+        "left",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#93714b",
+        "#6da668"
+      ],
+      "colorNames": [
+        "brown",
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 553,
+        "triangles": 295,
+        "parts": 2,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.896605,
+          -0.999998,
+          -1.745874
+        ],
+        "max": [
+          0.999999,
+          0.999998,
+          1.745874
+        ],
+        "size": [
+          1.896604,
+          1.999996,
+          3.491748
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "platform-top-middle",
+      "label": "Platform TopMiddle",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "platform-top-middle/thumbnail.png",
+      "model": "platform-top-middle/platform-top-middle.ts",
+      "package": "platform-top-middle",
+      "descriptor": "platform-top-middle/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=19aApvi0FxbQx365k7YqUV0oeljszqssV",
+        "file": "OBJ/Platform_TopMiddle.obj"
+      },
+      "category": "props",
+      "tags": [
+        "platform",
+        "top",
+        "middle",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#93714b",
+        "#6da668"
+      ],
+      "colorNames": [
+        "brown",
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 338,
+        "triangles": 204,
+        "parts": 2,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.999999,
+          -0.999998,
+          -1.745875
+        ],
+        "max": [
+          0.999999,
+          0.999998,
+          1.745875
+        ],
+        "size": [
+          1.999998,
+          1.999996,
+          3.49175
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "platform-top-right",
+      "label": "Platform TopRight",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "platform-top-right/thumbnail.png",
+      "model": "platform-top-right/platform-top-right.ts",
+      "package": "platform-top-right",
+      "descriptor": "platform-top-right/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1-andIaG-HeqhVwBahmIVxDysiRjPCRV3",
+        "file": "OBJ/Platform_TopRight.obj"
+      },
+      "category": "props",
+      "tags": [
+        "platform",
+        "top",
+        "right",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#93714b",
+        "#6da668"
+      ],
+      "colorNames": [
+        "brown",
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 553,
+        "triangles": 295,
+        "parts": 2,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.999999,
+          -0.999998,
+          -1.745874
+        ],
+        "max": [
+          0.896605,
+          0.999998,
+          1.745874
+        ],
+        "size": [
+          1.896604,
+          1.999996,
+          3.491748
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rock1",
+      "label": "Rock1",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "rock1/thumbnail.png",
+      "model": "rock1/rock1.ts",
+      "package": "rock1",
+      "descriptor": "rock1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1zrO4fvSAwZHVyDV1BsMAwp8wozBaiIAW",
+        "file": "OBJ/Rock1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "rock1",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#908682"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 72,
+        "triangles": 40,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.457281,
+          -0.009055,
+          -0.232028
+        ],
+        "max": [
+          0.457281,
+          0.554882,
+          0.232028
+        ],
+        "size": [
+          0.914562,
+          0.563937,
+          0.464056
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rock2",
+      "label": "Rock2",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "rock2/thumbnail.png",
+      "model": "rock2/rock2.ts",
+      "package": "rock2",
+      "descriptor": "rock2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1URlg4NduOqDKXBk1SL3182bGu1aFiBAG",
+        "file": "OBJ/Rock2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "rock2",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#908682"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 104,
+        "triangles": 60,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.488592,
+          -0.030772,
+          -0.247324
+        ],
+        "max": [
+          0.457281,
+          0.426582,
+          0.232028
+        ],
+        "size": [
+          0.945873,
+          0.457354,
+          0.479352
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rock3",
+      "label": "Rock3",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "rock3/thumbnail.png",
+      "model": "rock3/rock3.ts",
+      "package": "rock3",
+      "descriptor": "rock3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1g3VeAYPuUt9A3jwYwZVjuMEe47_Wwi86",
+        "file": "OBJ/Rock3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "rock3",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#908682"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 48,
+        "triangles": 24,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.256391,
+          -0.004975,
+          -0.176411
+        ],
+        "max": [
+          0.387689,
+          0.261241,
+          0.176411
+        ],
+        "size": [
+          0.64408,
+          0.266216,
+          0.352822
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rock4",
+      "label": "Rock4",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "rock4/thumbnail.png",
+      "model": "rock4/rock4.ts",
+      "package": "rock4",
+      "descriptor": "rock4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1P7HvPY-T4Mm1G5kywwB7t13za1_bv8CN",
+        "file": "OBJ/Rock4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "rock4",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#908682"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 89,
+        "triangles": 56,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.175294,
+          -0.014628,
+          -0.229879
+        ],
+        "max": [
+          0.175294,
+          0.752669,
+          0.229879
+        ],
+        "size": [
+          0.350588,
+          0.767297,
+          0.459758
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rope-long",
+      "label": "Rope Long",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "rope-long/thumbnail.png",
+      "model": "rope-long/rope-long.ts",
+      "package": "rope-long",
+      "descriptor": "rope-long/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1izMf4Ks4GPDP6hiw6De0RmR0UT4yd3AR",
+        "file": "OBJ/Rope_Long.obj"
+      },
+      "category": "props",
+      "tags": [
+        "rope",
+        "long",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2832,
+        "triangles": 1420,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.049327,
+          -6.172922,
+          -0.050404
+        ],
+        "max": [
+          0.049327,
+          0.040915,
+          0.050404
+        ],
+        "size": [
+          0.098654,
+          6.213837,
+          0.100808
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rope-short",
+      "label": "Rope Short",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "rope-short/thumbnail.png",
+      "model": "rope-short/rope-short.ts",
+      "package": "rope-short",
+      "descriptor": "rope-short/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1AQKBXYm0bek2WFArH1VTyj4GY2LeEQKH",
+        "file": "OBJ/Rope_Short.obj"
+      },
+      "category": "props",
+      "tags": [
+        "rope",
+        "short",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1"
+      ],
+      "colorNames": [
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1552,
+        "triangles": 780,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.049327,
+          -3.438826,
+          -0.050404
+        ],
+        "max": [
+          0.049326,
+          0.054079,
+          0.050404
+        ],
+        "size": [
+          0.098653,
+          3.492905,
+          0.100808
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sign-left",
+      "label": "Sign Left",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "sign-left/thumbnail.png",
+      "model": "sign-left/sign-left.ts",
+      "package": "sign-left",
+      "descriptor": "sign-left/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=19EoPj3cw3rJvj_FFTzXEKJz6vcP9tJSP",
+        "file": "OBJ/Sign_Left.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sign",
+        "left",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 174,
+        "triangles": 116,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.720518,
+          -0.004746,
+          -0.120539
+        ],
+        "max": [
+          0.380102,
+          1.295274,
+          0.154059
+        ],
+        "size": [
+          1.10062,
+          1.30002,
+          0.274598
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sign-left-right",
+      "label": "Sign LeftRight",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "sign-left-right/thumbnail.png",
+      "model": "sign-left-right/sign-left-right.ts",
+      "package": "sign-left-right",
+      "descriptor": "sign-left-right/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1DeVyzHrhW6Nn_mIyEqrXw7K3dhyPL55v",
+        "file": "OBJ/Sign_LeftRight.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sign",
+        "left",
+        "right",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 334,
+        "triangles": 228,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.643628,
+          -0.012325,
+          -0.100515
+        ],
+        "max": [
+          0.658987,
+          2.998913,
+          0.174083
+        ],
+        "size": [
+          1.302615,
+          3.011238,
+          0.274598
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sign-right",
+      "label": "Sign Right",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "sign-right/thumbnail.png",
+      "model": "sign-right/sign-right.ts",
+      "package": "sign-right",
+      "descriptor": "sign-right/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=12CkdAYvqKiqmeaqPVW5htxSsRkMayW3b",
+        "file": "OBJ/Sign_Right.obj"
+      },
+      "category": "props",
+      "tags": [
+        "sign",
+        "right",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 174,
+        "triangles": 116,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.447469,
+          -0.008617,
+          -0.106845
+        ],
+        "max": [
+          0.662761,
+          1.263769,
+          0.167753
+        ],
+        "size": [
+          1.11023,
+          1.272386,
+          0.274598
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "spike-group",
+      "label": "Spike Group",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "spike-group/thumbnail.png",
+      "model": "spike-group/spike-group.ts",
+      "package": "spike-group",
+      "descriptor": "spike-group/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Osig-NMbTbIMDkt5x_1vUFEAZDYNMGMS",
+        "file": "OBJ/Spike_Group.obj"
+      },
+      "category": "props",
+      "tags": [
+        "spike",
+        "group",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#908682"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 192,
+        "triangles": 80,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.01008,
+          -0.002078,
+          -0.633283
+        ],
+        "max": [
+          1.04637,
+          2.470325,
+          1.125817
+        ],
+        "size": [
+          2.05645,
+          2.472403,
+          1.7591
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "spike-single",
+      "label": "Spike Single",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "spike-single/thumbnail.png",
+      "model": "spike-single/spike-single.ts",
+      "package": "spike-single",
+      "descriptor": "spike-single/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1oDoWeFfaUD_HmkCq1Ckqyl5wF-xl4Kgg",
+        "file": "OBJ/Spike_Single.obj"
+      },
+      "category": "props",
+      "tags": [
+        "spike",
+        "single",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#908682"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 24,
+        "triangles": 10,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.191188,
+          -0.002078,
+          -0.220765
+        ],
+        "max": [
+          0.191188,
+          1.989968,
+          0.220765
+        ],
+        "size": [
+          0.382376,
+          1.992046,
+          0.44153
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "spikes-platform",
+      "label": "Spikes Platform",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "spikes-platform/thumbnail.png",
+      "model": "spikes-platform/spikes-platform.ts",
+      "package": "spikes-platform",
+      "descriptor": "spikes-platform/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hzS2rRf5GNnGaZRGUNittHMcBlmuDF31",
+        "file": "OBJ/Spikes_Platform.obj"
+      },
+      "category": "props",
+      "tags": [
+        "spikes",
+        "platform",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#908682",
+        "#6d5f61"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 628,
+        "triangles": 502,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.851209,
+          -0.004703,
+          -0.851209
+        ],
+        "max": [
+          0.851209,
+          1.266608,
+          0.851209
+        ],
+        "size": [
+          1.702418,
+          1.271311,
+          1.702418
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "star",
+      "label": "Star",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "star/thumbnail.png",
+      "model": "star/star.ts",
+      "package": "star",
+      "descriptor": "star/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Dx_Qhuo8RDANewqOj0QEkxRuiH8rgbU5",
+        "file": "OBJ/Star.obj"
+      },
+      "category": "props",
+      "tags": [
+        "star",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#bda23a"
+      ],
+      "colorNames": [
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 160,
+        "triangles": 90,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.42581,
+          -0.372705,
+          -0.168345
+        ],
+        "max": [
+          0.425809,
+          0.437233,
+          0.168345
+        ],
+        "size": [
+          0.851619,
+          0.809938,
+          0.33669
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree1",
+      "label": "Tree1",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "tree1/thumbnail.png",
+      "model": "tree1/tree1.ts",
+      "package": "tree1",
+      "descriptor": "tree1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=10pJ05GFMDUVvYU8aZZwPnAWd-igEqRgk",
+        "file": "OBJ/Tree1.obj"
+      },
+      "category": "props",
+      "tags": [
+        "tree1",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743",
+        "#6da668"
+      ],
+      "colorNames": [
+        "brown",
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1358,
+        "triangles": 690,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.387271,
+          0.001691,
+          -1.098217
+        ],
+        "max": [
+          1.914469,
+          5.309652,
+          1.036998
+        ],
+        "size": [
+          3.30174,
+          5.307961,
+          2.135215
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree2",
+      "label": "Tree2",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "tree2/thumbnail.png",
+      "model": "tree2/tree2.ts",
+      "package": "tree2",
+      "descriptor": "tree2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1sQqG3MlpoKaMNJNnfMkt9d7E0dFmMnLe",
+        "file": "OBJ/Tree2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "tree2",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743",
+        "#6da668"
+      ],
+      "colorNames": [
+        "brown",
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3614,
+        "triangles": 1810,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.307117,
+          0.001691,
+          -1.163615
+        ],
+        "max": [
+          1.420504,
+          5.569763,
+          1.100374
+        ],
+        "size": [
+          3.727621,
+          5.568072,
+          2.263989
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree3",
+      "label": "Tree3",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "tree3/thumbnail.png",
+      "model": "tree3/tree3.ts",
+      "package": "tree3",
+      "descriptor": "tree3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1i50CMnUq12TlmAjxrag_fiLMigfHPRIO",
+        "file": "OBJ/Tree3.obj"
+      },
+      "category": "props",
+      "tags": [
+        "tree3",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1114,
+        "triangles": 560,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.292028,
+          0.001691,
+          -0.173807
+        ],
+        "max": [
+          0.862205,
+          4.739791,
+          0.171956
+        ],
+        "size": [
+          2.154233,
+          4.7381,
+          0.345763
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tree4",
+      "label": "Tree4",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "tree4/thumbnail.png",
+      "model": "tree4/tree4.ts",
+      "package": "tree4",
+      "descriptor": "tree4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1-XHFWnSmGSGUJUu6WMtdLmOnIGflEcNZ",
+        "file": "OBJ/Tree4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "tree4",
+        "quaternius",
+        "modularplatformer",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976743",
+        "#6da668"
+      ],
+      "colorNames": [
+        "brown",
+        "green"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2732,
+        "triangles": 1366,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.788958,
+          -0.023719,
+          -1.08459
+        ],
+        "max": [
+          2.013168,
+          5.218406,
+          0.966609
+        ],
+        "size": [
+          3.802126,
+          5.242125,
+          2.051199
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "yellow-box",
+      "label": "YellowBox",
+      "description": "Modular Platformer Pack by Quaternius.",
+      "thumbnail": "yellow-box/thumbnail.png",
+      "model": "yellow-box/yellow-box.ts",
+      "package": "yellow-box",
+      "descriptor": "yellow-box/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/modularplatformer.html",
+        "download": "https://drive.google.com/uc?export=download&id=1rZQ4rKI_ZQf48FFq3xmTeRU_vYZPTEnG",
+        "file": "OBJ/YellowBox.obj"
+      },
+      "category": "props",
+      "tags": [
+        "yellow",
+        "box",
+        "quaternius",
+        "modularplatformer",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#bda23a",
+        "#957f2e"
+      ],
+      "colorNames": [
+        "orange",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1057,
+        "triangles": 717,
+        "parts": 2,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.517778,
+          -0.517778,
+          -0.517778
+        ],
+        "max": [
+          0.517778,
+          0.517778,
+          0.517778
+        ],
+        "size": [
+          1.035556,
+          1.035556,
+          1.035556
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

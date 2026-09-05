@@ -1,0 +1,30 @@
+{
+  "id": "assault-rifle2-2",
+  "label": "AssaultRifle2 2",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1kTfwBn5KsXlG-SCAVnwlpVyKuOaVo8bJ",
+  "file": "OBJ/AssaultRifle2_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ea405c7c3de98e255bc7c8ca3876ff5e2f2c8bd67e1a0984e185354bbab6c7f2",
+  "originalInputSha256": "ea405c7c3de98e255bc7c8ca3876ff5e2f2c8bd67e1a0984e185354bbab6c7f2",
+  "dependencies": [
+    {
+      "path": "OBJ/AssaultRifle2_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1r8S-LYc5ceswIrBnCwvTxgWNbOhyyPhB",
+      "sha256": "eaded1ea765a58c84e6b1402b474cf9b373472b59b82d2b5cad7e3f7f3741797",
+      "bytes": 604
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "assault-rifle2-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[4.8264230489730835,1.7904820442199707,0.269323006272316]",
+  "convertedAt": "2026-09-05T13:55:49.889Z"
+}

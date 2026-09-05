@@ -1,0 +1,30 @@
+{
+  "id": "chest-ingots",
+  "label": "Chest Ingots",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1C6ebhQSe9y5WWQ9l7aDIfBse6LDZfqfX",
+  "file": "OBJ/Chest_Ingots.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "99dabd077d165c4a83e6462e0bd314881e3671134dc4b20d8f93732b09bb64f9",
+  "originalInputSha256": "99dabd077d165c4a83e6462e0bd314881e3671134dc4b20d8f93732b09bb64f9",
+  "dependencies": [
+    {
+      "path": "OBJ/Chest_Ingots.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1IbGux3O8Mg1-gabuzf6sVOtAz5ZZxwk5",
+      "sha256": "dbb46915e06ee7f59e38560fb6644664f883bec2de54623e929eb7f8ca30362c",
+      "bytes": 775
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chest-ingots.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.9495660066604614,1.1474399724975228,0.9962470233440399]",
+  "convertedAt": "2026-09-05T13:54:21.458Z"
+}

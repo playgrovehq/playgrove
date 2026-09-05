@@ -1,0 +1,30 @@
+{
+  "id": "skull",
+  "label": "Skull",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1nUMdxRvVn5xoNTHp4OceI5oGW1aQxhq8",
+  "file": "OBJ/Skull.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "43980510843ca63d17689876e3ffd7066bb6b32bbef2d5ff48d43ba52761204b",
+  "originalInputSha256": "43980510843ca63d17689876e3ffd7066bb6b32bbef2d5ff48d43ba52761204b",
+  "dependencies": [
+    {
+      "path": "OBJ/Skull.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Ld3hzdRmUQV9WxwYO2kEzKuXdyTcIoXm",
+      "sha256": "aceb41b54e1d2eeb95a9deb0e92c87de0a95df9133c47d39f83a2bb2f377e12a",
+      "bytes": 231
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "skull.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.583001971244812,0.7595900297164917,0.5799800157546997]",
+  "convertedAt": "2026-09-05T13:54:22.683Z"
+}

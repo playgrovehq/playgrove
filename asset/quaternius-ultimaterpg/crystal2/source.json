@@ -1,0 +1,30 @@
+{
+  "id": "crystal2",
+  "label": "Crystal2",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1CtzsQVKISLJd4jCaGw0a_uSBYVC4Ou9P",
+  "file": "OBJ/Crystal2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cb68361d06b6972b0d2b6f06552cb03cbfcc7db16271561fb11294dd535033eb",
+  "originalInputSha256": "cb68361d06b6972b0d2b6f06552cb03cbfcc7db16271561fb11294dd535033eb",
+  "dependencies": [
+    {
+      "path": "OBJ/Crystal2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1w8oD7CBVy2LIzNgxmp0LOgF1MlFJzS1f",
+      "sha256": "90c7ba94d85a683271c1205c7a1a0991bd1c96dd1adb028ffa2d0b10a9f84cb0",
+      "bytes": 234
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "crystal2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.32873401045799255,0.8957020044326782,0.2895820140838623]",
+  "convertedAt": "2026-09-05T13:54:21.634Z"
+}

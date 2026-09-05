@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "axe-small-golden",
+  "label": "Axe small Golden",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "axe",
+    "small",
+    "golden",
+    "quaternius",
+    "ultimaterpg",
+    "cylinder",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a58e3d",
+    "#63474a",
+    "#402d39",
+    "#d0c26d"
+  ],
+  "colorNames": [
+    "brown",
+    "black",
+    "yellow"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "axe-small-golden.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1651,
+    "triangles": 965,
+    "parts": 4,
+    "discardedDegenerate": 1
+  },
+  "bounds": {
+    "min": [
+      -0.072815,
+      -0.655531,
+      -0.066118
+    ],
+    "max": [
+      0.550739,
+      0.918971,
+      0.066118
+    ],
+    "size": [
+      0.623554,
+      1.574502,
+      0.132236
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Axe_small_Golden_Cylinder.028"
+  ],
+  "materialNames": [
+    "Golden",
+    "LightWood",
+    "DarkWood",
+    "LightGold"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimaterpg.html",
+    "download": "https://drive.google.com/uc?export=download&id=1-9qk3m8Rbqn3f0FzQ5BdsInlzXtvD6Y7",
+    "file": "OBJ/Axe_small_Golden.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bow-wooden",
+  "label": "Bow Wooden",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Uio6Wxh1erD0KV0O0lsiu31yBIRQqt01",
+  "file": "OBJ/Bow_Wooden.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6cd3eb966cb7e33fb9c83bede898d95f6177f0592efd87599006baed6695f3fd",
+  "originalInputSha256": "6cd3eb966cb7e33fb9c83bede898d95f6177f0592efd87599006baed6695f3fd",
+  "dependencies": [
+    {
+      "path": "OBJ/Bow_Wooden.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=187yq0QQAslrkeV3ZxU9PKBLN6HBXAXpd",
+      "sha256": "800a2058011b60517b7eba472cdc68abd9b764f4685285c20bed9bdb2088ed8d",
+      "bytes": 600
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bow-wooden.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.532914012670517,1.9737039804458618,0.08836700022220612]",
+  "convertedAt": "2026-09-05T13:54:21.401Z"
+}

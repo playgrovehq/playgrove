@@ -1,0 +1,30 @@
+{
+  "id": "dagger",
+  "label": "Dagger",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Q7MelQfjK62ZXcZXXx_UHFGkDu4gE5w3",
+  "file": "OBJ/Dagger.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "04eeb45090e71c2f3ff5fe9b0d6c9cbb82a2106f24fed8ee3c6be19260e29cd6",
+  "originalInputSha256": "04eeb45090e71c2f3ff5fe9b0d6c9cbb82a2106f24fed8ee3c6be19260e29cd6",
+  "dependencies": [
+    {
+      "path": "OBJ/Dagger.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1ed1QCuEek21kHgIZH60XmGRLkXT6appe",
+      "sha256": "ca52613b922818e0da22e848cbf86577c5a336bfb6a36028dbfef1d3dedde24a",
+      "bytes": 961
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "dagger.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.2971709966659546,1.389199048280716,0.1109279990196228]",
+  "convertedAt": "2026-09-05T13:54:21.750Z"
+}

@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "locomotive-coal-tender",
+  "label": "Locomotive CoalTender",
+  "description": "Modular Train Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "locomotive",
+    "coal",
+    "tender",
+    "quaternius",
+    "modulartrain",
+    "cube",
+    "front",
+    "wheels",
+    "cylinder",
+    "back",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#353535",
+    "#292929"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "locomotive-coal-tender.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4724,
+    "triangles": 2892,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -2.745386,
+      0.050936,
+      -1.00933
+    ],
+    "max": [
+      2.466245,
+      2.397632,
+      1.00933
+    ],
+    "size": [
+      5.211631,
+      2.346696,
+      2.01866
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "CoalTender_Cube",
+    "FrontWheels_Cylinder.008",
+    "BackWheels_Cylinder.005"
+  ],
+  "materialNames": [
+    "Grey",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulartrain.html",
+    "download": "https://drive.google.com/uc?export=download&id=1m72AenEGRDb0AtV298qjbpSDZNQ84AsH",
+    "file": "OBJ/Locomotive_CoalTender.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "id": "locomotive-passenger-wagon",
+  "label": "Locomotive PassengerWagon",
+  "description": "Modular Train Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "locomotive",
+    "passenger",
+    "wagon",
+    "quaternius",
+    "modulartrain",
+    "front",
+    "wheels",
+    "cylinder",
+    "back",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#292929",
+    "#716150",
+    "#63322c",
+    "#56594b",
+    "#272325",
+    "#494b3f",
+    "#656565"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "locomotive-passenger-wagon.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 5232,
+    "triangles": 3440,
+    "parts": 8,
+    "discardedDegenerate": 12
+  },
+  "bounds": {
+    "min": [
+      -4.031305,
+      0.050936,
+      -1.05094
+    ],
+    "max": [
+      4.031305,
+      2.997942,
+      1.05094
+    ],
+    "size": [
+      8.06261,
+      2.947006,
+      2.10188
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "FrontWheels_Cylinder.008",
+    "BackWheels_Cylinder.005",
+    "Locomotive_PassengerWagon_Cube.012"
+  ],
+  "materialNames": [
+    "Black",
+    "LightWood",
+    "Red",
+    "Green",
+    "Windows",
+    "DarkGreen",
+    "Grey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulartrain.html",
+    "download": "https://drive.google.com/uc?export=download&id=1oy3NseobWmt2nTvQ-d14iOIMS0NS6hh2",
+    "file": "OBJ/Locomotive_PassengerWagon.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

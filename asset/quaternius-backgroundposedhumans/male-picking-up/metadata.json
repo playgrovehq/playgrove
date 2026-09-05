@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "male-picking-up",
+  "label": "Male PickingUp",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "male",
+    "picking",
+    "up",
+    "quaternius",
+    "backgroundposedhumans",
+    "human",
+    "cylinder",
+    "mesh",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#cbaa89",
+    "#81869a",
+    "#3e3c3d",
+    "#4c3b29"
+  ],
+  "colorNames": [
+    "beige",
+    "gray",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "male-picking-up.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1906,
+    "triangles": 888,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.630994,
+      -0.042302,
+      -0.304986
+    ],
+    "max": [
+      0.958827,
+      2.283188,
+      1.850788
+    ],
+    "size": [
+      1.589821,
+      2.32549,
+      2.155774
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Male_PickingUp_Human_CylinderMesh.001"
+  ],
+  "materialNames": [
+    "Skin",
+    "Shirt",
+    "Pants",
+    "Shoes"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ZNwmeioSE1AXaVZY2ADuvTuCfSzXWZGy",
+    "file": "Male/Male Poses/OBJ/Male_PickingUp.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

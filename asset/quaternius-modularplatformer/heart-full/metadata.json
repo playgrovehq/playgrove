@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "heart-full",
+  "label": "Heart Full",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "heart",
+    "full",
+    "quaternius",
+    "modularplatformer",
+    "icosphere",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#952f42"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "heart-full.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 472,
+    "triangles": 160,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.485695,
+      -0.519286,
+      -0.286418
+    ],
+    "max": [
+      0.485695,
+      0.286418,
+      0.286418
+    ],
+    "size": [
+      0.97139,
+      0.805704,
+      0.572836
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Heart_Full_Icosphere"
+  ],
+  "materialNames": [
+    "Red"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modularplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1gWEWhbijtDE8o1XqEsn3aJeBf7h__ipQ",
+    "file": "OBJ/Heart_Full.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

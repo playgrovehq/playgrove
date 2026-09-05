@@ -1,0 +1,30 @@
+{
+  "id": "building1-small",
+  "label": "Building1 Small",
+  "description": "Buildings Pack by Quaternius.",
+  "pack": "quaternius-buildings",
+  "listing": "https://quaternius.com/packs/buildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1fcivNaZ-1IhLTZRjnXxPQqYSkUUKh42G",
+  "file": "OBJ/Building1_Small.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f5ba27c0d8ee1eda2c8a6fc1afd2a9a8b1af6e04d64d5a0557e9cf9e26226053",
+  "originalInputSha256": "f5ba27c0d8ee1eda2c8a6fc1afd2a9a8b1af6e04d64d5a0557e9cf9e26226053",
+  "dependencies": [
+    {
+      "path": "OBJ/Building1_Small.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1_wHX_oaUVCgAEfLhLTbUDXJo0K53VOnZ",
+      "sha256": "c2341fc046ad57e45d7888ee34a6013715b7ac5e8801cc24d2d583d71d748883",
+      "bytes": 1320
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "building1-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[3.7474939823150635,4.663284846232273,2.743583917617798]",
+  "convertedAt": "2026-09-05T14:02:14.830Z"
+}

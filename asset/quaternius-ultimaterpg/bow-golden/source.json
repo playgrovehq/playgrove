@@ -1,0 +1,30 @@
+{
+  "id": "bow-golden",
+  "label": "Bow Golden",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1aNlgjq_k-qeer9hq9VYmfiuRgvr095mz",
+  "file": "OBJ/Bow_Golden.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7103ebe53b61b9154040e7b2bf2cf0a79544cae10629c3dabed699d6ae020359",
+  "originalInputSha256": "7103ebe53b61b9154040e7b2bf2cf0a79544cae10629c3dabed699d6ae020359",
+  "dependencies": [
+    {
+      "path": "OBJ/Bow_Golden.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1iEfsplSRygmQCQlfDPjiOWOsBp1tOWDT",
+      "sha256": "7b023d66106135bde702e73cd5139e84fbee098b27d55dc8cc36725fa5af70fd",
+      "bytes": 598
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bow-golden.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.6319279968738556,2.174269914627075,0.09734699875116348]",
+  "convertedAt": "2026-09-05T13:54:21.384Z"
+}

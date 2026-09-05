@@ -1,0 +1,30 @@
+{
+  "id": "scope-1",
+  "label": "Scope 1",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ECK7CGna-FXVYqVqJjYfVboH7NQZyhaL",
+  "file": "OBJ/Accessories/Scope_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a395e84a87ffad10df5ca2ac4785baa87a4bbe3ebcb4a8f44642e7e88665c7b0",
+  "originalInputSha256": "a395e84a87ffad10df5ca2ac4785baa87a4bbe3ebcb4a8f44642e7e88665c7b0",
+  "dependencies": [
+    {
+      "path": "OBJ/Accessories/Scope_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1W-j4uJRhjOp6DPQgKlV8Cj8IP9DSHMaE",
+      "sha256": "c95c07849afa9805fb25b5410f0eca8acdd247bc93523201262f9d12eac77691",
+      "bytes": 594
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "scope-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.1045650243759155,0.3843730092048645,0.3099159896373749]",
+  "convertedAt": "2026-09-05T13:55:49.703Z"
+}

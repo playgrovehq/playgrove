@@ -1,0 +1,30 @@
+{
+  "id": "book1-open",
+  "label": "Book1 Open",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1qt--zjrgugI6RlM-FFJeIvbp9qLvcBBv",
+  "file": "OBJ/Book1_Open.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "28e55748742404e341ceb0300070a661419041d56ce5bbf8664afc90e9287a40",
+  "originalInputSha256": "28e55748742404e341ceb0300070a661419041d56ce5bbf8664afc90e9287a40",
+  "dependencies": [
+    {
+      "path": "OBJ/Book1_Open.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1hUbxUtG8Vrrv2rha1QN1XGBJAO-EXp4L",
+      "sha256": "c8d635b8be07279fe85d3d1dbbc609c6f798bdc49a1177ece43e91d3fc65d3b8",
+      "bytes": 417
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "book1-open.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.8730000257492065,0.12629400193691254,0.7401260137557983]",
+  "convertedAt": "2026-09-05T13:54:21.265Z"
+}

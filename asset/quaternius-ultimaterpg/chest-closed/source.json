@@ -1,0 +1,30 @@
+{
+  "id": "chest-closed",
+  "label": "Chest Closed",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1R4UBPFdtm4_CFxzb7mFSVX3XCl0-hgns",
+  "file": "OBJ/Chest_Closed.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ea4f754776211ae500c26037e460713c8a7e0355fa794e6dde8d161378669450",
+  "originalInputSha256": "ea4f754776211ae500c26037e460713c8a7e0355fa794e6dde8d161378669450",
+  "dependencies": [
+    {
+      "path": "OBJ/Chest_Closed.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=14bD1BKFqo1DJxIV5PtLLGtmaItBA7Xg7",
+      "sha256": "affbd7a5fbdede658595565cdbbe15dc222e450df59ce408c2db8b49d6ebd87f",
+      "bytes": 598
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "chest-closed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.9495660066604614,0.8185399803332984,0.8237699866294861]",
+  "convertedAt": "2026-09-05T13:54:21.437Z"
+}

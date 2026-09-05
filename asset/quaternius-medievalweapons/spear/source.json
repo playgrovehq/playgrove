@@ -1,0 +1,30 @@
+{
+  "id": "spear",
+  "label": "Spear",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=1tsk7YkGm9Odagd00bPsNYH0lhwm10o_y",
+  "file": "OBJ/Spear.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "83050a0fca3ad32e5d279f59435ce5f83e3e53697309d59aa0e28ad51ed8d3f4",
+  "originalInputSha256": "83050a0fca3ad32e5d279f59435ce5f83e3e53697309d59aa0e28ad51ed8d3f4",
+  "dependencies": [
+    {
+      "path": "OBJ/Spear.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1ViXK1nY_N6VGaFG8Ue1PAWc8XeUxEirw",
+      "sha256": "10f03891a467b9d560bd0de0efc0c78ba6db83e71bdd56e9a278b2a1e79523d0",
+      "bytes": 778
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "spear.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.5301149934530258,9.717076063156128,0.32488399744033813]",
+  "convertedAt": "2026-09-05T14:04:48.009Z"
+}

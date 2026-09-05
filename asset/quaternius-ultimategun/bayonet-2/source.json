@@ -1,0 +1,30 @@
+{
+  "id": "bayonet-2",
+  "label": "Bayonet 2",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "pack": "quaternius-ultimategun",
+  "listing": "https://quaternius.com/packs/ultimategun.html",
+  "download": "https://drive.google.com/uc?export=download&id=1bShASLAITyhXPzzSA87HmjDreecJFaGj",
+  "file": "OBJ/Accessories/Bayonet_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "32a938d94f59470fd1053d6971ffda78d3f6e8f5b621913f466d15b2912deaed",
+  "originalInputSha256": "32a938d94f59470fd1053d6971ffda78d3f6e8f5b621913f466d15b2912deaed",
+  "dependencies": [
+    {
+      "path": "OBJ/Accessories/Bayonet_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1PSgB36JvtMQ1QwZetyRPPG4GDlCia8Zq",
+      "sha256": "4708ce29d66333b41b14acb44e919ff429be6a73043e0ee6030843d45b7ce656",
+      "bytes": 781
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bayonet-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.1675499826669693,0.23441999405622482,0.1322540044784546]",
+  "convertedAt": "2026-09-05T13:55:49.637Z"
+}

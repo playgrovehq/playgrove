@@ -1,0 +1,30 @@
+{
+  "id": "tentacle",
+  "label": "Tentacle",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1X-hhtTUpF0U9FivGJolRy9a_sMpKUWCx",
+  "file": "OBJ/Tentacle.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "56678fc943e5cb511368c2dea2edada23fb431de4a32bd74ba30f209877febee",
+  "originalInputSha256": "56678fc943e5cb511368c2dea2edada23fb431de4a32bd74ba30f209877febee",
+  "dependencies": [
+    {
+      "path": "OBJ/Tentacle.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1HGWd7koLblROrXNl3kfiKyqjv8Z-_U1K",
+      "sha256": "2ddeaca1087a0a19ad4e35b7a1014734d86c605d152905a188a4f29c4d0ead7a",
+      "bytes": 420
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "tentacle.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7620159983634949,0.2756679952144623,0.2673100084066391]",
+  "convertedAt": "2026-09-05T13:51:32.204Z"
+}

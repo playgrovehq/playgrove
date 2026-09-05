@@ -1,0 +1,30 @@
+{
+  "id": "avocado",
+  "label": "Avocado",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1x52r0sEIPFgmiM-QmL9pwEXlBWthBbqD",
+  "file": "OBJ/Avocado.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "77a98ac45bde7d9860fa01c875b5bc369252f7446a75c52afdc59c25488f7cc6",
+  "originalInputSha256": "77a98ac45bde7d9860fa01c875b5bc369252f7446a75c52afdc59c25488f7cc6",
+  "dependencies": [
+    {
+      "path": "OBJ/Avocado.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1enMos93JP6sjj_ZA3V4gAFG8Cb2_mA0B",
+      "sha256": "6db945ebe2388f51e5d425b71107b5713359cf8e4fcf3b751d25ae0f11ed47f1",
+      "bytes": 602
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "avocado.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.7531419992446899,1.0939050018787384,0.539753008633852]",
+  "convertedAt": "2026-09-05T13:51:30.527Z"
+}

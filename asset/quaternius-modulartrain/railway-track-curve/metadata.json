@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "railway-track-curve",
+  "label": "RailwayTrack Curve",
+  "description": "Modular Train Pack by Quaternius.",
+  "category": "roads",
+  "tags": [
+    "railway",
+    "track",
+    "curve",
+    "quaternius",
+    "modulartrain",
+    "cube",
+    "roads",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d1d1d1"
+  ],
+  "colorNames": [
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "railway-track-curve.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4484,
+    "triangles": 2294,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.631905,
+      -0.071459,
+      -18.000143
+    ],
+    "max": [
+      17.999998,
+      0.071481,
+      0.63946
+    ],
+    "size": [
+      18.631903,
+      0.14294,
+      18.639603
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "RailwayTrack_Curve_Cube.005"
+  ],
+  "materialNames": [
+    "Steel",
+    "Wood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulartrain.html",
+    "download": "https://drive.google.com/uc?export=download&id=1VhfMspDp3ETnLuo2qP9SlX6PSJgaKfzS",
+    "file": "OBJ/RailwayTrack_Curve.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

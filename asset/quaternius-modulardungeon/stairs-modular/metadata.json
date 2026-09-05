@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "stairs-modular",
+  "label": "Stairs Modular",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "stairs",
+    "modular",
+    "quaternius",
+    "modulardungeon",
+    "cube",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#454451"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "stairs-modular.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2610,
+    "triangles": 1420,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.008183,
+      -1.012161,
+      -1.022156
+    ],
+    "max": [
+      1.004953,
+      1.007154,
+      1.029452
+    ],
+    "size": [
+      2.013136,
+      2.019315,
+      2.051608
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Stairs_Modular_Cube.031"
+  ],
+  "materialNames": [
+    "Grey_Floor"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/modulardungeon.html",
+    "download": "https://drive.google.com/uc?export=download&id=1i7vC-2deqOyLZ1qQiLTvTa9WrjW_7tQb",
+    "file": "OBJ/Stairs_Modular.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

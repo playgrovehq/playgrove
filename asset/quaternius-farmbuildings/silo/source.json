@@ -1,0 +1,30 @@
+{
+  "id": "silo",
+  "label": "Silo",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "pack": "quaternius-farmbuildings",
+  "listing": "https://quaternius.com/packs/farmbuildings.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ymV-FNVd3YOUVEg40wrE2rHhdsl4x_z6",
+  "file": "OBJ/Silo.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4000950ff1478f53aed39e91dc8c163fae1d8dbe29d7e2475741980ff4683a78",
+  "originalInputSha256": "4000950ff1478f53aed39e91dc8c163fae1d8dbe29d7e2475741980ff4683a78",
+  "dependencies": [
+    {
+      "path": "OBJ/Silo.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=19ySIiVmR1FiYKeyvfyWAkXKF80shvmHd",
+      "sha256": "b1cbc4725a334fb089e514226195c09aff10d5191236b3548d8506cdcd5d10d6",
+      "bytes": 947
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "silo.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[3.66751492023468,9.068632021546364,3.5099929571151733]",
+  "convertedAt": "2026-09-05T14:04:12.979Z"
+}

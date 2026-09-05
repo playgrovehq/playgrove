@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "female-standing",
+  "label": "Female Standing",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "female",
+    "standing",
+    "quaternius",
+    "backgroundposedhumans",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#cbaa89",
+    "#81869a",
+    "#3e3c3d",
+    "#4c3b29"
+  ],
+  "colorNames": [
+    "beige",
+    "gray",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "female-standing.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2820,
+    "triangles": 1356,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.504502,
+      -0.011923,
+      -0.381537
+    ],
+    "max": [
+      0.509052,
+      3.689682,
+      0.317848
+    ],
+    "size": [
+      1.013554,
+      3.701605,
+      0.699385
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Female_Standing_Cylinder.007"
+  ],
+  "materialNames": [
+    "Skin",
+    "Shirt",
+    "Pants",
+    "Shoes"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+    "download": "https://drive.google.com/uc?export=download&id=13oLeT8urbcq_6W2C1cQq49tqTLKuG69b",
+    "file": "Female/Female Poses/OBJ/Female_Standing.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

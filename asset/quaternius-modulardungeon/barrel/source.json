@@ -1,0 +1,30 @@
+{
+  "id": "barrel",
+  "label": "Barrel",
+  "description": "Modular Dungeons Pack by Quaternius.",
+  "pack": "quaternius-modulardungeon",
+  "listing": "https://quaternius.com/packs/modulardungeon.html",
+  "download": "https://drive.google.com/uc?export=download&id=1kfJ7ObO-DKFtx45IrwS8Mk8kF2b5N7Sg",
+  "file": "OBJ/Barrel.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "dc80c799b4882b6468b77f34157ddeb8085dce09eaece2d5d66d0963ed1536e3",
+  "originalInputSha256": "dc80c799b4882b6468b77f34157ddeb8085dce09eaece2d5d66d0963ed1536e3",
+  "dependencies": [
+    {
+      "path": "OBJ/Barrel.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1KZC5f7tCqeV9WztDF94Km9QduRSep6TH",
+      "sha256": "9a1fb328b3f3cf55e50f0d36d7860bb7936e6c31635a59504d3ac15fd3d84b71",
+      "bytes": 591
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "barrel.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.0426239967346191,1.3466109768487513,1.0335599780082703]",
+  "convertedAt": "2026-09-05T14:01:00.613Z"
+}

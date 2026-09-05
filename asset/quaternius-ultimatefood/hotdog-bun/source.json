@@ -1,0 +1,30 @@
+{
+  "id": "hotdog-bun",
+  "label": "Hotdog Bun",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=15j9dTaNUdbXAvlojQtgkZMHbAlsLONy2",
+  "file": "OBJ/Hotdog_Bun.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b3cff934492c2f5415413c9e006edea593c5da7f82fd5ebe5958847bbba4c5f8",
+  "originalInputSha256": "b3cff934492c2f5415413c9e006edea593c5da7f82fd5ebe5958847bbba4c5f8",
+  "dependencies": [
+    {
+      "path": "OBJ/Hotdog_Bun.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1OphcaJUidP9_K3gCfNx9ql7GGWp2jlQw",
+      "sha256": "f7d4fd7a25bc704c63ac8ed0e966337500cdde6335f18929096de5c27a43f881",
+      "bytes": 243
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "hotdog-bun.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.7852920293807983,0.4093710035085678,1.6434380412101746]",
+  "convertedAt": "2026-09-05T13:51:31.353Z"
+}

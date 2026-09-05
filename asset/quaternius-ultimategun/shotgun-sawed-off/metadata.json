@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "shotgun-sawed-off",
+  "label": "Shotgun SawedOff",
+  "description": "Ultimate Guns Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "shotgun",
+    "sawed",
+    "off",
+    "quaternius",
+    "ultimategun",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#373736",
+    "#28292a",
+    "#5c4c42",
+    "#414241",
+    "#51443b"
+  ],
+  "colorNames": [
+    "black",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "shotgun-sawed-off.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1675,
+    "triangles": 955,
+    "parts": 5,
+    "discardedDegenerate": 1
+  },
+  "bounds": {
+    "min": [
+      -0.402993,
+      -0.455389,
+      -0.211228
+    ],
+    "max": [
+      3.285208,
+      0.564741,
+      0.211224
+    ],
+    "size": [
+      3.688201,
+      1.02013,
+      0.422452
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Shotgun_SawedOff_Cylinder.004"
+  ],
+  "materialNames": [
+    "DarkMetal",
+    "Black",
+    "Wood",
+    "Metal",
+    "DarkWood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimategun.html",
+    "download": "https://drive.google.com/uc?export=download&id=1j54Tht6TyOx3GNrFsQtSJeY9FpHbaCMP",
+    "file": "OBJ/Shotgun_SawedOff.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

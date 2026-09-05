@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "cruise-ship",
+  "label": "CruiseShip",
+  "description": "Ships Pack by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "cruise",
+    "ship",
+    "quaternius",
+    "ships",
+    "cube",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#dbdbdb",
+    "#d1d1d1",
+    "#d1373a",
+    "#444444"
+  ],
+  "colorNames": [
+    "white",
+    "red",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "cruise-ship.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1416,
+    "triangles": 854,
+    "parts": 4,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -2,
+      -0.001352,
+      -8.859712
+    ],
+    "max": [
+      2,
+      6.595243,
+      9.186741
+    ],
+    "size": [
+      4,
+      6.596595,
+      18.046453
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "CruiseShip_Cube"
+  ],
+  "materialNames": [
+    "F2F2F2",
+    "Texture",
+    "Red",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ships.html",
+    "download": "https://drive.google.com/uc?export=download&id=1lgUg8ChFHTwJPOeEpgO95-T6kzHIIOgP",
+    "file": "OBJ/CruiseShip.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

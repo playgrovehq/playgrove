@@ -1,0 +1,1065 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T14:04:13.132Z",
+  "assets": [
+    {
+      "id": "barn",
+      "label": "Barn",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "barn/thumbnail.png",
+      "model": "barn/barn.ts",
+      "package": "barn",
+      "descriptor": "barn/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1c18wNK6jsQNnLlOtbHsQE2ZU025jOJZC",
+        "file": "OBJ/Barn.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "barn",
+        "quaternius",
+        "farmbuildings",
+        "cube",
+        "door",
+        "door2",
+        "window",
+        "window2",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#7c3a32",
+        "#d1d1d1",
+        "#8f433a",
+        "#4f4f4f"
+      ],
+      "colorNames": [
+        "brown",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4175,
+        "triangles": 2910,
+        "parts": 14,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.862378,
+          0.001977,
+          -3.989264
+        ],
+        "max": [
+          3.864516,
+          6.010615,
+          4.233183
+        ],
+        "size": [
+          7.726894,
+          6.008638,
+          8.222447
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "big-barn",
+      "label": "BigBarn",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "big-barn/thumbnail.png",
+      "model": "big-barn/big-barn.ts",
+      "package": "big-barn",
+      "descriptor": "big-barn/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1-pDoMboAo2NOSwfVi05o45g_WpI8p3Eq",
+        "file": "OBJ/BigBarn.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "big",
+        "barn",
+        "quaternius",
+        "farmbuildings",
+        "cube",
+        "door",
+        "door2",
+        "window",
+        "window2",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#7c3a32",
+        "#d1d1d1",
+        "#8f433a",
+        "#4f4f4f"
+      ],
+      "colorNames": [
+        "brown",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 6276,
+        "triangles": 4214,
+        "parts": 14,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -3.863445,
+          -0.004004,
+          -4.062554
+        ],
+        "max": [
+          3.863449,
+          7.882768,
+          4.159893
+        ],
+        "size": [
+          7.726894,
+          7.886772,
+          8.222447
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "chicken-coop",
+      "label": "ChickenCoop",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "chicken-coop/thumbnail.png",
+      "model": "chicken-coop/chicken-coop.ts",
+      "package": "chicken-coop",
+      "descriptor": "chicken-coop/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ws9VQJWiBfO7Fn7OqacLuPUhMc_mD2zj",
+        "file": "OBJ/ChickenCoop.obj"
+      },
+      "category": "props",
+      "tags": [
+        "chicken",
+        "coop",
+        "quaternius",
+        "farmbuildings",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#d1d1d1",
+        "#8f433a",
+        "#824e36",
+        "#7c3a32",
+        "#4f4f4f"
+      ],
+      "colorNames": [
+        "white",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1552,
+        "triangles": 948,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.202562,
+          -0.002965,
+          -0.947922
+        ],
+        "max": [
+          1.204647,
+          1.847894,
+          1.206074
+        ],
+        "size": [
+          2.407209,
+          1.850859,
+          2.153996
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "fence",
+      "label": "Fence",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "fence/thumbnail.png",
+      "model": "fence/fence.ts",
+      "package": "fence",
+      "descriptor": "fence/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1c67vRQU0fq_BFkQvbPLnrSs9jMOhxLMq",
+        "file": "OBJ/Fence.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "fence",
+        "quaternius",
+        "farmbuildings",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#824e36"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 336,
+        "triangles": 188,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.945063,
+          -0.010823,
+          -0.082754
+        ],
+        "max": [
+          2.945063,
+          1.08624,
+          0.082754
+        ],
+        "size": [
+          5.890126,
+          1.097063,
+          0.165508
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "fence2",
+      "label": "Fence2",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "fence2/thumbnail.png",
+      "model": "fence2/fence2.ts",
+      "package": "fence2",
+      "descriptor": "fence2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WdM8UaQWUqEUFAdaNIfojuD5-OrgLpuo",
+        "file": "OBJ/Fence2.obj"
+      },
+      "category": "props",
+      "tags": [
+        "fence2",
+        "quaternius",
+        "farmbuildings",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#824e36"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 560,
+        "triangles": 324,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.945063,
+          -0.00934,
+          -0.082753
+        ],
+        "max": [
+          2.945063,
+          1.164035,
+          0.082753
+        ],
+        "size": [
+          5.890126,
+          1.173375,
+          0.165506
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "open-barn",
+      "label": "OpenBarn",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "open-barn/thumbnail.png",
+      "model": "open-barn/open-barn.ts",
+      "package": "open-barn",
+      "descriptor": "open-barn/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1jH7mW0J8yLQFJ2meQ665UgM6qCZO7txg",
+        "file": "OBJ/OpenBarn.obj"
+      },
+      "category": "props",
+      "tags": [
+        "open",
+        "barn",
+        "quaternius",
+        "farmbuildings",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#7c3a32",
+        "#d1d1d1",
+        "#8f433a",
+        "#824e36",
+        "#4f4f4f"
+      ],
+      "colorNames": [
+        "brown",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2534,
+        "triangles": 1606,
+        "parts": 5,
+        "discardedDegenerate": 6
+      },
+      "bounds": {
+        "min": [
+          -2.839323,
+          0.000953,
+          -3.09102
+        ],
+        "max": [
+          2.904433,
+          4.744408,
+          3.09102
+        ],
+        "size": [
+          5.743756,
+          4.743455,
+          6.18204
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "silo",
+      "label": "Silo",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "silo/thumbnail.png",
+      "model": "silo/silo.ts",
+      "package": "silo",
+      "descriptor": "silo/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ymV-FNVd3YOUVEg40wrE2rHhdsl4x_z6",
+        "file": "OBJ/Silo.obj"
+      },
+      "category": "props",
+      "tags": [
+        "silo",
+        "quaternius",
+        "farmbuildings",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8f433a",
+        "#d1d1d1",
+        "#7c3a32",
+        "#824e36",
+        "#a0a0a0"
+      ],
+      "colorNames": [
+        "brown",
+        "white",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2274,
+        "triangles": 1592,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.750225,
+          -0.049446,
+          -1.664563
+        ],
+        "max": [
+          1.91729,
+          9.019186,
+          1.84543
+        ],
+        "size": [
+          3.667515,
+          9.068632,
+          3.509993
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "silo-house",
+      "label": "Silo House",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "silo-house/thumbnail.png",
+      "model": "silo-house/silo-house.ts",
+      "package": "silo-house",
+      "descriptor": "silo-house/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1UCyp7flVDLk7Gw44XynAuTv4maaD159W",
+        "file": "OBJ/Silo_House.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "silo",
+        "house",
+        "quaternius",
+        "farmbuildings",
+        "cylinder",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8f433a",
+        "#a0a0a0",
+        "#7c3a32",
+        "#824e36",
+        "#d1d1d1",
+        "#747474",
+        "#313032"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "white",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4340,
+        "triangles": 2880,
+        "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.421056,
+          -0.047664,
+          -1.664563
+        ],
+        "max": [
+          1.91729,
+          9.019186,
+          1.84543
+        ],
+        "size": [
+          5.338346,
+          9.06685,
+          3.509993
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "small-barn",
+      "label": "SmallBarn",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "small-barn/thumbnail.png",
+      "model": "small-barn/small-barn.ts",
+      "package": "small-barn",
+      "descriptor": "small-barn/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1JziZu1iGnyIcn8MyZy6oYML06_4EGsn1",
+        "file": "OBJ/SmallBarn.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "small",
+        "barn",
+        "quaternius",
+        "farmbuildings",
+        "cube",
+        "door",
+        "window",
+        "window2",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#7c3a32",
+        "#d1d1d1",
+        "#8f433a",
+        "#4f4f4f"
+      ],
+      "colorNames": [
+        "brown",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3104,
+        "triangles": 2174,
+        "parts": 11,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -3.09099,
+          0.000162,
+          -3.112063
+        ],
+        "max": [
+          2.987729,
+          4.961273,
+          3.161823
+        ],
+        "size": [
+          6.078719,
+          4.961111,
+          6.273886
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tower-windmill",
+      "label": "TowerWindmill",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "tower-windmill/thumbnail.png",
+      "model": "tower-windmill/tower-windmill.ts",
+      "package": "tower-windmill",
+      "descriptor": "tower-windmill/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pAck0BU91yY6J7wb8J08oDnOqwHic0Ro",
+        "file": "OBJ/TowerWindmill.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "tower",
+        "windmill",
+        "quaternius",
+        "farmbuildings",
+        "cylinder",
+        "blades",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#747474",
+        "#4f4f4f",
+        "#9b805c",
+        "#d1d1d1",
+        "#313032",
+        "#a0a0a0",
+        "#6a573f"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "white",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 11401,
+        "triangles": 7827,
+        "parts": 8,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -3.947709,
+          -0.033565,
+          -2.585704
+        ],
+        "max": [
+          3.97596,
+          11.379702,
+          2.404893
+        ],
+        "size": [
+          7.923669,
+          11.413267,
+          4.990597
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "water-tower",
+      "label": "WaterTower",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "water-tower/thumbnail.png",
+      "model": "water-tower/water-tower.ts",
+      "package": "water-tower",
+      "descriptor": "water-tower/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=17UrBt3T5Sq9FUfhsojfWmm_FylEHDXfo",
+        "file": "OBJ/WaterTower.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "water",
+        "tower",
+        "quaternius",
+        "farmbuildings",
+        "cube",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#824e36",
+        "#a0a0a0",
+        "#747474"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3597,
+        "triangles": 2507,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.19311,
+          -0.071568,
+          -1.244743
+        ],
+        "max": [
+          1.339141,
+          8.357031,
+          1.244743
+        ],
+        "size": [
+          2.532251,
+          8.428599,
+          2.489486
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "well",
+      "label": "Well",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "well/thumbnail.png",
+      "model": "well/well.ts",
+      "package": "well",
+      "descriptor": "well/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=19Ku-AHLDBuzkZgbPlThNkaqOrTzmSse7",
+        "file": "OBJ/Well.obj"
+      },
+      "category": "props",
+      "tags": [
+        "well",
+        "quaternius",
+        "farmbuildings",
+        "cylinder",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a0a0",
+        "#824e36",
+        "#8f433a",
+        "#d9d1d1",
+        "#606060"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 5404,
+        "triangles": 2868,
+        "parts": 5,
+        "discardedDegenerate": 12
+      },
+      "bounds": {
+        "min": [
+          -0.638372,
+          -0.007184,
+          -0.686588
+        ],
+        "max": [
+          0.638372,
+          2.138367,
+          0.800295
+        ],
+        "size": [
+          1.276744,
+          2.145551,
+          1.486883
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "windmill",
+      "label": "Windmill",
+      "description": "Farm Buildings Pack by Quaternius.",
+      "thumbnail": "windmill/thumbnail.png",
+      "model": "windmill/windmill.ts",
+      "package": "windmill",
+      "descriptor": "windmill/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/farmbuildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1nGFuPQaYpTPNJh0F9rAGxvJ49DowUVz5",
+        "file": "OBJ/Windmill.obj"
+      },
+      "category": "props",
+      "tags": [
+        "windmill",
+        "quaternius",
+        "farmbuildings",
+        "cube",
+        "blades",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#824e36",
+        "#a0a0a0"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2559,
+        "triangles": 1440,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.259304,
+          0.002446,
+          -0.948926
+        ],
+        "max": [
+          4.248364,
+          11.198605,
+          0.948926
+        ],
+        "size": [
+          6.507668,
+          11.196159,
+          1.897852
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

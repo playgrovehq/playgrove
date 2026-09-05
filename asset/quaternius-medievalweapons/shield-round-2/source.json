@@ -1,0 +1,30 @@
+{
+  "id": "shield-round-2",
+  "label": "Shield Round 2",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=1RWFi_UibDrDf1ZLY0u27Q4mwSKM6fYsL",
+  "file": "OBJ/Shield_Round_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2312372789caf017ff23f3ba419446e194751fe18f90c35f405eb24298636252",
+  "originalInputSha256": "2312372789caf017ff23f3ba419446e194751fe18f90c35f405eb24298636252",
+  "dependencies": [
+    {
+      "path": "OBJ/Shield_Round_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=174Y3jrWymveRCAv7lYmCJHuYyeIRI0pc",
+      "sha256": "feaf168f6bd8fc84b9c6a69e4bef3c0caca5c0465f3b0cc1422368036725ef43",
+      "bytes": 965
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "shield-round-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[2,2,0.6036770045757294]",
+  "convertedAt": "2026-09-05T14:04:47.989Z"
+}

@@ -1,0 +1,760 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T14:02:15.048Z",
+  "assets": [
+    {
+      "id": "building1-large",
+      "label": "Building1 Large",
+      "description": "Buildings Pack by Quaternius.",
+      "thumbnail": "building1-large/thumbnail.png",
+      "model": "building1-large/building1-large.ts",
+      "package": "building1-large",
+      "descriptor": "building1-large/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/buildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1wmaoDQdlheerdV1_AWzeLK_nwXQEitx5",
+        "file": "OBJ/Building1_Large.obj"
+      },
+      "category": "props",
+      "tags": [
+        "building1",
+        "large",
+        "quaternius",
+        "buildings",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#aba997",
+        "#767676",
+        "#d1d1d1",
+        "#7e4242",
+        "#464646",
+        "#9d9b8a",
+        "#5a442a"
+      ],
+      "colorNames": [
+        "gray",
+        "white",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 59010,
+        "triangles": 41764,
+        "parts": 7,
+        "discardedDegenerate": 24
+      },
+      "bounds": {
+        "min": [
+          -3.995712,
+          -0.01125,
+          -1.371792
+        ],
+        "max": [
+          3.995712,
+          4.660079,
+          1.371792
+        ],
+        "size": [
+          7.991424,
+          4.671329,
+          2.743584
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "building1-small",
+      "label": "Building1 Small",
+      "description": "Buildings Pack by Quaternius.",
+      "thumbnail": "building1-small/thumbnail.png",
+      "model": "building1-small/building1-small.ts",
+      "package": "building1-small",
+      "descriptor": "building1-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/buildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1fcivNaZ-1IhLTZRjnXxPQqYSkUUKh42G",
+        "file": "OBJ/Building1_Small.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "building1",
+        "small",
+        "quaternius",
+        "buildings",
+        "plane",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#7e4242",
+        "#5a442a",
+        "#aba997",
+        "#767676",
+        "#d1d1d1",
+        "#464646",
+        "#9d9b8a"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "white",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 23608,
+        "triangles": 16596,
+        "parts": 7,
+        "discardedDegenerate": 24
+      },
+      "bounds": {
+        "min": [
+          -1.873747,
+          -0.001144,
+          -1.371792
+        ],
+        "max": [
+          1.873747,
+          4.662141,
+          1.371792
+        ],
+        "size": [
+          3.747494,
+          4.663285,
+          2.743584
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "building2-large",
+      "label": "Building2 Large",
+      "description": "Buildings Pack by Quaternius.",
+      "thumbnail": "building2-large/thumbnail.png",
+      "model": "building2-large/building2-large.ts",
+      "package": "building2-large",
+      "descriptor": "building2-large/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/buildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=12XsE3-T35aanWpSz4slzAKCooOJF4h6K",
+        "file": "OBJ/Building2_Large.obj"
+      },
+      "category": "props",
+      "tags": [
+        "building2",
+        "large",
+        "quaternius",
+        "buildings",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#929b9d",
+        "#9d9b8a",
+        "#5a442a",
+        "#767676",
+        "#d1d1d1",
+        "#464646",
+        "#7b8284"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "white",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 19759,
+        "triangles": 15068,
+        "parts": 7,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -2.858231,
+          -0.012899,
+          -1.10974
+        ],
+        "max": [
+          2.858231,
+          5.904671,
+          1.10974
+        ],
+        "size": [
+          5.716462,
+          5.91757,
+          2.21948
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "building2-small",
+      "label": "Building2 Small",
+      "description": "Buildings Pack by Quaternius.",
+      "thumbnail": "building2-small/thumbnail.png",
+      "model": "building2-small/building2-small.ts",
+      "package": "building2-small",
+      "descriptor": "building2-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/buildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1dAzxVkePTuGIQ0KKwREFRjpGQrQr_n4i",
+        "file": "OBJ/Building2_Small.obj"
+      },
+      "category": "props",
+      "tags": [
+        "building2",
+        "small",
+        "quaternius",
+        "buildings",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#929b9d",
+        "#9d9b8a",
+        "#5a442a",
+        "#767676",
+        "#d1d1d1",
+        "#464646",
+        "#7b8284"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "white",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 7172,
+        "triangles": 5160,
+        "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.791933,
+          -0.022055,
+          -1.24308
+        ],
+        "max": [
+          1.791933,
+          4.945555,
+          1.24308
+        ],
+        "size": [
+          3.583866,
+          4.96761,
+          2.48616
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "building3-big",
+      "label": "Building3 Big",
+      "description": "Buildings Pack by Quaternius.",
+      "thumbnail": "building3-big/thumbnail.png",
+      "model": "building3-big/building3-big.ts",
+      "package": "building3-big",
+      "descriptor": "building3-big/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/buildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1zhsH9me8nmNi47IKCgVgINSHqxcq-ra9",
+        "file": "OBJ/Building3_Big.obj"
+      },
+      "category": "props",
+      "tags": [
+        "building3",
+        "big",
+        "quaternius",
+        "buildings",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#7e594a",
+        "#aba997",
+        "#9d9b8a",
+        "#464646",
+        "#5a442a",
+        "#767676"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 12147,
+        "triangles": 7002,
+        "parts": 6,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -2.352599,
+          -0.013387,
+          -2.195308
+        ],
+        "max": [
+          2.352599,
+          5.663982,
+          2.195308
+        ],
+        "size": [
+          4.705198,
+          5.677369,
+          4.390616
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "building3-small",
+      "label": "Building3 Small",
+      "description": "Buildings Pack by Quaternius.",
+      "thumbnail": "building3-small/thumbnail.png",
+      "model": "building3-small/building3-small.ts",
+      "package": "building3-small",
+      "descriptor": "building3-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/buildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1OU8ANTHUxI-uqP7kIH7dGjrKlsVqlphE",
+        "file": "OBJ/Building3_Small.obj"
+      },
+      "category": "props",
+      "tags": [
+        "building3",
+        "small",
+        "quaternius",
+        "buildings",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#7e594a",
+        "#aaaaaa",
+        "#464646",
+        "#5a442a",
+        "#767676"
+      ],
+      "colorNames": [
+        "brown",
+        "beige",
+        "black",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 9846,
+        "triangles": 5240,
+        "parts": 5,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -1.526102,
+          -0.013387,
+          -2.200655
+        ],
+        "max": [
+          1.526102,
+          5.663982,
+          2.195308
+        ],
+        "size": [
+          3.052204,
+          5.677369,
+          4.395963
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "building4",
+      "label": "Building4",
+      "description": "Buildings Pack by Quaternius.",
+      "thumbnail": "building4/thumbnail.png",
+      "model": "building4/building4.ts",
+      "package": "building4",
+      "descriptor": "building4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/buildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1SDFxiHFqhzQbBu_2ZtR4oqiIuhapxhr_",
+        "file": "OBJ/Building4.obj"
+      },
+      "category": "props",
+      "tags": [
+        "building4",
+        "quaternius",
+        "buildings",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a6a6a6",
+        "#b8b8b8",
+        "#949494",
+        "#6f6f6f",
+        "#e1d6c9",
+        "#5a442a",
+        "#464646"
+      ],
+      "colorNames": [
+        "gray",
+        "beige",
+        "white",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 12983,
+        "triangles": 9672,
+        "parts": 7,
+        "discardedDegenerate": 68
+      },
+      "bounds": {
+        "min": [
+          -2.321896,
+          -0.014585,
+          -1.927896
+        ],
+        "max": [
+          2.321896,
+          5.471933,
+          1.927896
+        ],
+        "size": [
+          4.643792,
+          5.486518,
+          3.855792
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "house1",
+      "label": "House1",
+      "description": "Buildings Pack by Quaternius.",
+      "thumbnail": "house1/thumbnail.png",
+      "model": "house1/house1.ts",
+      "package": "house1",
+      "descriptor": "house1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/buildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=1o0q6Q0C2z9Id_OTRpV8dD8CM9uINWouY",
+        "file": "OBJ/House1.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "house1",
+        "quaternius",
+        "buildings",
+        "plane",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#535657",
+        "#2d2d2d",
+        "#6d624c",
+        "#aaaaaa"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 42876,
+        "triangles": 28354,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.276729,
+          -0.01223,
+          -1.772074
+        ],
+        "max": [
+          1.280149,
+          3.167212,
+          2.09754
+        ],
+        "size": [
+          2.556878,
+          3.179442,
+          3.869614
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "house2",
+      "label": "House2",
+      "description": "Buildings Pack by Quaternius.",
+      "thumbnail": "house2/thumbnail.png",
+      "model": "house2/house2.ts",
+      "package": "house2",
+      "descriptor": "house2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/buildings.html",
+        "download": "https://drive.google.com/uc?export=download&id=17uRWzj1iHKrz7BjNeQC6xI7WeP5rLeM6",
+        "file": "OBJ/House2.obj"
+      },
+      "category": "vehicles",
+      "tags": [
+        "house2",
+        "quaternius",
+        "buildings",
+        "plane",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#535657",
+        "#2d2d2d",
+        "#6d624c",
+        "#aaaaaa"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 29828,
+        "triangles": 19714,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.650054,
+          -0.013759,
+          -1.436296
+        ],
+        "max": [
+          1.993549,
+          2.912271,
+          1.648043
+        ],
+        "size": [
+          3.643603,
+          2.92603,
+          3.084339
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

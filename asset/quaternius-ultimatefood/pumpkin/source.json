@@ -1,0 +1,30 @@
+{
+  "id": "pumpkin",
+  "label": "Pumpkin",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1E3D8gtDOg3H83xux0eFwhXnBOg5-u1Lh",
+  "file": "OBJ/Pumpkin.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5a61cf0d8a4ce6bb52e2529d87814e6d56fde053e5e1a44ff7d0dcc9456e3806",
+  "originalInputSha256": "5a61cf0d8a4ce6bb52e2529d87814e6d56fde053e5e1a44ff7d0dcc9456e3806",
+  "dependencies": [
+    {
+      "path": "OBJ/Pumpkin.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1LhrvdT7REQW2ntn7dXqg84ZeTq2OEABw",
+      "sha256": "f77b917ee38ccfdc2d2c5a8a3b95a1380ed777d12ea3ada2371755fa71bacf4c",
+      "bytes": 413
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pumpkin.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.4972639679908752,0.930944986641407,1.5123120546340942]",
+  "convertedAt": "2026-09-05T13:51:31.946Z"
+}

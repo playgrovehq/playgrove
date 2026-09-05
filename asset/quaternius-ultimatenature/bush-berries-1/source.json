@@ -1,0 +1,30 @@
+{
+  "id": "bush-berries-1",
+  "label": "BushBerries 1",
+  "description": "Ultimate Nature Pack by Quaternius.",
+  "pack": "quaternius-ultimatenature",
+  "listing": "https://quaternius.com/packs/ultimatenature.html",
+  "download": "https://drive.google.com/uc?export=download&id=1QEO1Ej1OuqXjjjhJ0fgW8aTEvk1-tYWa",
+  "file": "OBJ/BushBerries_1.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0c71ca411304b0a2240df649b470a5d171dd5a821a2b6bf3096e4d5d76496028",
+  "originalInputSha256": "0c71ca411304b0a2240df649b470a5d171dd5a821a2b6bf3096e4d5d76496028",
+  "dependencies": [
+    {
+      "path": "OBJ/BushBerries_1.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1m0DM8E9FRioR2rYrC8XC7tykIuHVzAOO",
+      "sha256": "35c656dbada60349e6def68d939a36c036eb02dec4b38f600720d30b5e29f112",
+      "bytes": 418
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bush-berries-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.3923850059509277,1.2759970463812351,1.7188889980316162]",
+  "convertedAt": "2026-09-05T13:59:41.481Z"
+}

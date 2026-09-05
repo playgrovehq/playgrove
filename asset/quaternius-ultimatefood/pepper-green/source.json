@@ -1,0 +1,30 @@
+{
+  "id": "pepper-green",
+  "label": "Pepper Green",
+  "description": "Ultimate Food Pack by Quaternius.",
+  "pack": "quaternius-ultimatefood",
+  "listing": "https://quaternius.com/packs/ultimatefood.html",
+  "download": "https://drive.google.com/uc?export=download&id=1-Xsq9JF6acWCHhCLmLLEdNLnYCzGC0eF",
+  "file": "OBJ/Pepper_Green.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9d1ee88a37c41d48d6fa61376cf951370812c9dcd7ad89aba1a143ddeeaf2cbd",
+  "originalInputSha256": "9d1ee88a37c41d48d6fa61376cf951370812c9dcd7ad89aba1a143ddeeaf2cbd",
+  "dependencies": [
+    {
+      "path": "OBJ/Pepper_Green.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Pui5w9ZDY9dJsa3_3Pc-9RaC9n6pp4CV",
+      "sha256": "fa4977ad93f309d52c8ff1334a9ea8d81136aa1919ee801b46f51de0b17e6b1f",
+      "bytes": 421
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pepper-green.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6740089952945709,1.116581967100501,0.7117879986763]",
+  "convertedAt": "2026-09-05T13:51:31.754Z"
+}

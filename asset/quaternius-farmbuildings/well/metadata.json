@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "well",
+  "label": "Well",
+  "description": "Farm Buildings Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "well",
+    "quaternius",
+    "farmbuildings",
+    "cylinder",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a0a0a0",
+    "#824e36",
+    "#8f433a",
+    "#d9d1d1",
+    "#606060"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "well.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 5404,
+    "triangles": 2868,
+    "parts": 5,
+    "discardedDegenerate": 12
+  },
+  "bounds": {
+    "min": [
+      -0.638372,
+      -0.007184,
+      -0.686588
+    ],
+    "max": [
+      0.638372,
+      2.138367,
+      0.800295
+    ],
+    "size": [
+      1.276744,
+      2.145551,
+      1.486883
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Well_Cylinder.002"
+  ],
+  "materialNames": [
+    "Grey",
+    "Brown",
+    "LightRed",
+    "White",
+    "DarkGrey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/farmbuildings.html",
+    "download": "https://drive.google.com/uc?export=download&id=19Ku-AHLDBuzkZgbPlThNkaqOrTzmSse7",
+    "file": "OBJ/Well.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

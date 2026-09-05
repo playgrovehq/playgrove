@@ -1,0 +1,30 @@
+{
+  "id": "platform-center-middle",
+  "label": "Platform CenterMiddle",
+  "description": "Modular Platformer Pack by Quaternius.",
+  "pack": "quaternius-modularplatformer",
+  "listing": "https://quaternius.com/packs/modularplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1e1aK4JMlkEyiSRqeRRD6IPqqJd3ENPVj",
+  "file": "OBJ/Platform_CenterMiddle.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "052b9f40e3e3a416fd0f99c7573e78279e43d82fa3d00b0441a6ac13c7b7ccd6",
+  "originalInputSha256": "052b9f40e3e3a416fd0f99c7573e78279e43d82fa3d00b0441a6ac13c7b7ccd6",
+  "dependencies": [
+    {
+      "path": "OBJ/Platform_CenterMiddle.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=18MzxHQ9dDFhxIQOwiUz0n4TtI8Mj40IJ",
+      "sha256": "ec629d2ba0a28ea1c0da4a99f6aecd3ac00ab0f8a50be3315688a1439604192d",
+      "bytes": 253
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "platform-center-middle.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.9999979734420776,1.9999959468841553,3.1252639293670654]",
+  "convertedAt": "2026-09-05T14:03:43.103Z"
+}

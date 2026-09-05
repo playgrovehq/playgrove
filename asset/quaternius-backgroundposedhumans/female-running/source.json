@@ -1,0 +1,30 @@
+{
+  "id": "female-running",
+  "label": "Female Running",
+  "description": "Background Posed Humans Pack by Quaternius.",
+  "pack": "quaternius-backgroundposedhumans",
+  "listing": "https://quaternius.com/packs/backgroundposedhumans.html",
+  "download": "https://drive.google.com/uc?export=download&id=1unoHqbflXPZI_apmCTD2QBIqNYY23U8R",
+  "file": "Female/Female Poses/OBJ/Female_Running.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9fb194b161a40d8260cf93ab44b57eaae0ab9e81b60e6b44c44f75402580bbe8",
+  "originalInputSha256": "9fb194b161a40d8260cf93ab44b57eaae0ab9e81b60e6b44c44f75402580bbe8",
+  "dependencies": [
+    {
+      "path": "Female/Female Poses/OBJ/Female_Running.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=16KSr_eWKNQ_FHd4F1prWAygXpVdcK9FH",
+      "sha256": "05c23d736ab66535ad27b35076dc8fa09da58d4c54a22f787883d6b223d42f9c",
+      "bytes": 774
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "female-running.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.8366369903087616,3.6987348943948746,2.0625449419021606]",
+  "convertedAt": "2026-09-05T14:05:32.646Z"
+}

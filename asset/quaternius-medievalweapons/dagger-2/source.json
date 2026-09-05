@@ -1,0 +1,30 @@
+{
+  "id": "dagger-2",
+  "label": "Dagger 2",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "pack": "quaternius-medievalweapons",
+  "listing": "https://quaternius.com/packs/medievalweapons.html",
+  "download": "https://drive.google.com/uc?export=download&id=1XYMHxVdB44qkheXnJ-ilEre-Dl9vNe5V",
+  "file": "OBJ/Dagger_2.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "87939b47c934f8cc6ec5f0c70b01859c202d1f3a4c7ced49cf822e92070c0a2b",
+  "originalInputSha256": "87939b47c934f8cc6ec5f0c70b01859c202d1f3a4c7ced49cf822e92070c0a2b",
+  "dependencies": [
+    {
+      "path": "OBJ/Dagger_2.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1pmKrE3eqrBJrulkCEbrOVlLSgUlg0tpU",
+      "sha256": "91f81cc8e54c0b8c98566b0f7deec2d9fa45889c2681ad0318102d07146f7dee",
+      "bytes": 958
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "dagger-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.6439999938011169,3.1055250763893127,0.2563660144805908]",
+  "convertedAt": "2026-09-05T14:04:47.836Z"
+}

@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "sword-golden",
+  "label": "Sword Golden",
+  "description": "Modular Weapons Pack by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "sword",
+    "golden",
+    "quaternius",
+    "medievalweapons",
+    "cylinder",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#b4a564",
+    "#795239",
+    "#654430",
+    "#7f7f75",
+    "#d0be73"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "sword-golden.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1536,
+    "triangles": 1006,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.607357,
+      -0.620152,
+      -0.119291
+    ],
+    "max": [
+      0.607357,
+      5.346097,
+      0.119291
+    ],
+    "size": [
+      1.214714,
+      5.966249,
+      0.238582
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Sword_Golden_Cylinder.007"
+  ],
+  "materialNames": [
+    "Gold",
+    "LightWood",
+    "DarkWood",
+    "DarkSteel",
+    "LightGold"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/medievalweapons.html",
+    "download": "https://drive.google.com/uc?export=download&id=190v7rI6D8CjhTEgZH1dVG298crQA6N2T",
+    "file": "OBJ/Sword_Golden.obj",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

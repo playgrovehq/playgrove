@@ -1,0 +1,30 @@
+{
+  "id": "necklace3",
+  "label": "Necklace3",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1VzKgq-imGM-_wRfZZHRy4TR2n5WcPm67",
+  "file": "OBJ/Necklace3.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b70f65d04e485ac3c1508f62d9716b2ebd2b965d9b7a6f43253b320501a8cb63",
+  "originalInputSha256": "b70f65d04e485ac3c1508f62d9716b2ebd2b965d9b7a6f43253b320501a8cb63",
+  "dependencies": [
+    {
+      "path": "OBJ/Necklace3.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1mOjLlI05jjkZnLhtItU1qgNZ_brERq-O",
+      "sha256": "16c028636ba7b73b4a25eaffd2800d37f4aa12dd944631a27a647c371b1801e1",
+      "bytes": 596
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "necklace3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.8537200093269348,1.0141409933567047,0.9992499798536301]",
+  "convertedAt": "2026-09-05T13:54:22.088Z"
+}
