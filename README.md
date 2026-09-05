@@ -13,6 +13,15 @@ The first target is a responsive 2D game for iPad and iPhone, built with Godot 4
 - Shared asset versions are immutable and carry licensing, provenance, compatibility, and preview metadata.
 - Engine code and artwork use separate licenses.
 
+## CLI
+
+The initial public package establishes the `playgrove` package and `grove` executable identities:
+
+```sh
+npm install --global playgrove
+grove --help
+```
+
 ## Current status
 
 PlayGrove is in its initial design and foundation stage. The first real game will seed the asset library and prove the complete create, package, publish, download, verify, and run workflow.
