@@ -30,6 +30,7 @@ The initial asset ecosystem study is available at [`studies/2026-08-31_asset-eco
 
 ## Operational records
 
+- [Current project state and NEXT](0_08_TRACKER.md#next--read-this-first)
 - [GitHub identity, repository, and verification](github/README.md)
 - [npm identity, release, authentication lessons, and verification](npm/README.md)
 
