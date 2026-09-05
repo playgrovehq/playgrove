@@ -11,6 +11,7 @@ const help = `PlayGrove CLI ${packageJson.version}
 Usage:
   grove --help
   grove --version
+  grove assets add <exact-pack/asset-id> --into <project-asset-directory> [--catalog path-or-official-GitHub-url]
   grove assets run <graph.json>
   grove assets view <asset.ts> [...]
   grove assets verify <asset.ts> [...]
@@ -18,7 +19,7 @@ Usage:
                       [--source kenney|quaternius|poly-haven|playgrove] [--type model|texture|hdri]
                       [--availability ready|source|all]
 
-Installed search reads the public GitHub catalog. In a full checkout it uses local assets.
+Installed search/add use the public GitHub catalog. In a full checkout they use local assets.
 The run, view and verify commands require the converter/viewer source checkout.
 
 PlayGrove is an open-source, AI-native game creation platform and universal asset library.
@@ -35,6 +36,9 @@ if (args.length === 0 || (args.length === 1 && ["--help", "-h"].includes(args[0]
   if (args[1] === "search") {
     const { searchCommand } = await import("../src/search.js");
     process.exitCode = await searchCommand(args.slice(2));
+  } else if (args[1] === "add") {
+    const { addCommand } = await import("../src/add.js");
+    process.exitCode = await addCommand(args.slice(2));
   } else if (args[1] === "view") {
     if (!existsSync(new URL("../../../viewer/view.js",import.meta.url))) {
       process.stderr.write("Asset viewing requires the full PlayGrove viewer checkout. Search works with this installed package.\n");

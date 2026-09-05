@@ -20,7 +20,7 @@ Conversion saves locally. Use `node converter/kenney.js import` for the approved
 Install the standalone CLI from GitHub:
 
 ```sh
-npm install --global https://github.com/playgrovehq/playgrove/releases/download/search-2026-09-05/playgrove-0.0.3.tgz
+npm install --global https://github.com/playgrovehq/playgrove/releases/download/search-2026-09-05/playgrove-0.0.4.tgz
 grove assets search "oak tree" --source kenney --type model --limit 5
 ```
 
@@ -51,3 +51,19 @@ Source browsing reads `source-catalog.json` beside the chosen ready catalog. Whe
 This is a CLI tool that coding agents can run. It is not an installed MCP server. GitHub release publication does not update the npm registry.
 
 Prior-art choice: reuse the existing pack catalogs and plain JSON. At this collection size, a separate database or semantic-search service is unnecessary for name/description search. Actual-catalog tests cover ranking, image/model path existence, pack filters, pagination and invalid input.
+
+## Install a selected asset
+
+Use the exact ID returned by search:
+
+```sh
+grove assets add kenney-nature-kit/tree-oak --into ./assets
+grove assets add quaternius-ultimaterpg/pouch --catalog https://raw.githubusercontent.com/playgrovehq/playgrove/main/asset/catalog.json --into ./assets
+grove assets add kenney-nature-kit/tree-oak --catalog /path/to/store/asset/catalog.json --into ./assets
+```
+
+The command copies or downloads the TypeScript model, metadata, thumbnail, source record and pack license into `<into>/<pack>/<asset>/`. It prints a local import and the minimum game version. Adjust the printed relative import for your game file. Import the asset into your game's asset table through the existing trusted TypeScript authoring path. Installation never executes downloaded TypeScript or modifies the game.
+
+Remote installation accepts only the official PlayGrove raw GitHub catalog URL, using either main or a full commit hash. It resolves main once, then downloads every file from that same commit. `installation.json` records the catalog hash, commit, original locations and SHA-256 of each installed file. Local installation records paths and hashes with no Git dependency. A receipt records acquired bytes; it is not a signature or a new renderer compatibility test.
+
+Only complete admitted CC0 native packages are installable. Source-only Poly Haven listings remain discovery results. Existing destinations are refused; move or remove an old installation explicitly before replacing it. Failed acquisition leaves an existing package untouched.

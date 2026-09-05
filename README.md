@@ -41,3 +41,5 @@ The code and first-party artwork licenses have not yet been selected. No license
 ## Searchable asset store
 
 The [asset store](asset/README.md) contains 2,929 ready native geometry assets from Kenney and Quaternius, plus 2,370 separately marked Poly Haven source listings. Search includes previews, creator and type filters, and explicit ready/source availability. Install the [GitHub search release](https://github.com/playgrovehq/playgrove/releases/tag/search-2026-09-05).
+
+Install a searched model into your game with `grove assets add kenney-nature-kit/tree-oak --into ./assets`. This saves its TypeScript, metadata, thumbnail, source history and license locally. GitHub downloads are pinned to one commit; the command prints the local import and records file hashes. See the [CLI installation instructions](packages/cli/README.md#install-a-selected-asset).
