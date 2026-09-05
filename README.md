@@ -28,6 +28,11 @@ PlayGrove is in its initial design and foundation stage. The first real game wil
 
 The initial asset ecosystem study is available at [`studies/2026-08-31_asset-ecosystem/0_01_STUDY.md`](studies/2026-08-31_asset-ecosystem/0_01_STUDY.md).
 
+## Operational records
+
+- [GitHub identity, repository, and verification](github/README.md)
+- [npm identity, release, authentication lessons, and verification](npm/README.md)
+
 ## Licensing
 
 The code and first-party artwork licenses have not yet been selected. No license should be inferred until the corresponding license files are published.
