@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "resource-pine-tree",
+  "label": "Resource PineTree",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "resource",
+    "pine",
+    "tree",
+    "quaternius",
+    "ultimatefantasyrts",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#886a42",
+    "#56751d"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "resource-pine-tree.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 301,
+    "triangles": 345,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.180396,
+      0.002623,
+      -0.176563
+    ],
+    "max": [
+      0.172204,
+      0.640084,
+      0.174393
+    ],
+    "size": [
+      0.3526,
+      0.637461,
+      0.350956
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Resource_PineTree"
+  ],
+  "materialNames": [
+    "Wood",
+    "Green"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=1IW57vtM6VcJgJVrKp-disHmyzo7S9tYx",
+    "file": "glTF/Resource_PineTree.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

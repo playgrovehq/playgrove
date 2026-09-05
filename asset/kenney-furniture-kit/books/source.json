@@ -1,0 +1,23 @@
+{
+  "id": "books",
+  "label": "books",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/books.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7ddc6ddcab58c324fed03132fef8ed50ae95abb4cd57b664009e28ee0adecdec",
+  "originalInputSha256": "b8dc56e5d29f6fc1f4727fccb1b9642627fee9942c48060a00034e98df02701c",
+  "descriptor": "metadata.json",
+  "model": "books.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.1504479944705963,0.10390199720859528,0.09449999779462814]",
+  "convertedAt": "2026-09-05T10:30:14.197Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "wall-towers-door-closed-first-age",
+  "label": "WallTowers DoorClosed FirstAge",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1wVBn7fRYfo4L5zHKJS3OwcV_-O17Epaa",
+  "file": "glTF/WallTowers_DoorClosed_FirstAge.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6660a79f17b28ccc597d559143860a1cbc44c2959caa4b97a343bf5a3929c9f6",
+  "originalInputSha256": "6660a79f17b28ccc597d559143860a1cbc44c2959caa4b97a343bf5a3929c9f6",
+  "descriptor": "metadata.json",
+  "model": "wall-towers-door-closed-first-age.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.9421160221099854,0.6724999770522118,0.3134929984807968]",
+  "convertedAt": "2026-09-05T12:03:25.563Z"
+}

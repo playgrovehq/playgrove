@@ -1,0 +1,22 @@
+{
+  "id": "cable-thick",
+  "label": "Cable Thick",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=16FGePhoKYTYEoWFvpZJXfwZhSX1arUfa",
+  "file": "Platforms/Cable_Thick.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6234f9b3bdf7417989ce66bee1d35eaf049b419eaf0fa7d3017cec77f389cc4e",
+  "originalInputSha256": "6234f9b3bdf7417989ce66bee1d35eaf049b419eaf0fa7d3017cec77f389cc4e",
+  "descriptor": "metadata.json",
+  "model": "cable-thick.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.5461980104446411,1.6395559795200825,0.3857329934835434]",
+  "convertedAt": "2026-09-05T12:03:55.856Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "indicator-square-b",
+  "label": "indicator-square-b",
+  "description": "Prototype Kit by Kenney.",
+  "pack": "kenney-prototype-kit",
+  "listing": "https://kenney.nl/assets/prototype-kit",
+  "download": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+  "archiveSha256": "213b522fb12bcc9b9ac66c4f7581f7c74623293272212e40a70c39936ad3da95",
+  "file": "Models/GLB format/indicator-square-b.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c0e4787797d8a58e67bf20db72679377ba0e53d44fbe0207f95d54622b17af2a",
+  "originalInputSha256": "032b9826660670f2b445bd81c8acc12307e4ec2e48e45caa0916b41a64dea138",
+  "descriptor": "metadata.json",
+  "model": "indicator-square-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0,1]",
+  "convertedAt": "2026-09-05T10:30:35.959Z"
+}

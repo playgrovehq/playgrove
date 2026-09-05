@@ -1,0 +1,2559 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T12:03:56.162Z",
+  "assets": [
+    {
+      "id": "ac",
+      "label": "AC",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "ac/thumbnail.png",
+      "model": "ac/ac.ts",
+      "package": "ac",
+      "descriptor": "ac/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=14h_AVm3rBQDIQSb_QGirPiRcFoDTzk_g",
+        "file": "Platforms/AC.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "ac",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#747474",
+        "#2e2e2e",
+        "#976735"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 864,
+        "triangles": 946,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.394557,
+          -0.281015,
+          -0.505881
+        ],
+        "max": [
+          0.643547,
+          0.404594,
+          0.265052
+        ],
+        "size": [
+          1.038104,
+          0.685609,
+          0.770933
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "ac-side",
+      "label": "AC Side",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "ac-side/thumbnail.png",
+      "model": "ac-side/ac-side.ts",
+      "package": "ac-side",
+      "descriptor": "ac-side/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1y9XdBi2Es3blllLD6kEpeyGrCAX-u-dT",
+        "file": "Platforms/AC_Side.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "ac",
+        "side",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#747474",
+        "#2e2e2e",
+        "#976735"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 924,
+        "triangles": 924,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.912479,
+          -0.281015,
+          -0.505881
+        ],
+        "max": [
+          0.702802,
+          0.569602,
+          0.265052
+        ],
+        "size": [
+          1.615281,
+          0.850617,
+          0.770933
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "antenna-1",
+      "label": "Antenna 1",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "antenna-1/thumbnail.png",
+      "model": "antenna-1/antenna-1.ts",
+      "package": "antenna-1",
+      "descriptor": "antenna-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1YhIftWvLIeHwCosQCuG7zFbiVXNetERr",
+        "file": "Platforms/Antenna_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "antenna",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#adadad"
+      ],
+      "colorNames": [
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 170,
+        "triangles": 88,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.101766,
+          -0.001047,
+          -0.031599
+        ],
+        "max": [
+          0.300141,
+          1.654549,
+          0.031599
+        ],
+        "size": [
+          0.401907,
+          1.655596,
+          0.063198
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "antenna-2",
+      "label": "Antenna 2",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "antenna-2/thumbnail.png",
+      "model": "antenna-2/antenna-2.ts",
+      "package": "antenna-2",
+      "descriptor": "antenna-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1BSBjqi4yRPrPeIG1iJ6gRizillq1BqG8",
+        "file": "Platforms/Antenna_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "antenna",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#747474",
+        "#8b8b8b",
+        "#494949"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 380,
+        "triangles": 412,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.484465,
+          -0.357522,
+          -0.300444
+        ],
+        "max": [
+          0.132931,
+          0.373092,
+          0.356226
+        ],
+        "size": [
+          0.617396,
+          0.730614,
+          0.65667
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cable-long",
+      "label": "Cable Long",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "cable-long/thumbnail.png",
+      "model": "cable-long/cable-long.ts",
+      "package": "cable-long",
+      "descriptor": "cable-long/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1JBYAq0geA8lB6uvuOrbwsN7Iyqn8HC0h",
+        "file": "Platforms/Cable_Long.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "cable",
+        "long",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2e2e2e"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 400,
+        "triangles": 768,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.141892,
+          -2.505201,
+          -0.045103
+        ],
+        "max": [
+          0.14571,
+          0.00074,
+          0.086757
+        ],
+        "size": [
+          0.287602,
+          2.505941,
+          0.13186
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cable-small",
+      "label": "Cable Small",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "cable-small/thumbnail.png",
+      "model": "cable-small/cable-small.ts",
+      "package": "cable-small",
+      "descriptor": "cable-small/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1h2H2L2UChQtxyMwJNVZawIaPR0xUsveE",
+        "file": "Platforms/Cable_Small.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "cable",
+        "small",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2e2e2e"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 200,
+        "triangles": 384,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.086081,
+          -0.945904,
+          -0.060787
+        ],
+        "max": [
+          0.086076,
+          0.003976,
+          0.060792
+        ],
+        "size": [
+          0.172157,
+          0.94988,
+          0.121579
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cable-thick",
+      "label": "Cable Thick",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "cable-thick/thumbnail.png",
+      "model": "cable-thick/cable-thick.ts",
+      "package": "cable-thick",
+      "descriptor": "cable-thick/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=16FGePhoKYTYEoWFvpZJXfwZhSX1arUfa",
+        "file": "Platforms/Cable_Thick.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "cable",
+        "thick",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2e2e2e"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 200,
+        "triangles": 384,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.273101,
+          -1.632692,
+          -0.192859
+        ],
+        "max": [
+          0.273097,
+          0.006864,
+          0.192874
+        ],
+        "size": [
+          0.546198,
+          1.639556,
+          0.385733
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "collectible-board",
+      "label": "Collectible Board",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "collectible-board/thumbnail.png",
+      "model": "collectible-board/collectible-board.ts",
+      "package": "collectible-board",
+      "descriptor": "collectible-board/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1mt6m6u3de2zJ7Y7t-3v9aeVCodmn3gD2",
+        "file": "Pickups and Objects/Collectible_Board.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "collectible",
+        "board",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#494949",
+        "#394c10",
+        "#747474",
+        "#857319"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 500,
+        "triangles": 280,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.189467,
+          -0.134757,
+          -0.02339
+        ],
+        "max": [
+          0.164504,
+          0.187781,
+          0.02339
+        ],
+        "size": [
+          0.353971,
+          0.322538,
+          0.04678
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "collectible-gear",
+      "label": "Collectible Gear",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "collectible-gear/thumbnail.png",
+      "model": "collectible-gear/collectible-gear.ts",
+      "package": "collectible-gear",
+      "descriptor": "collectible-gear/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1-D-6gopuWex69-rcgWyxYb7Oiac_h2sF",
+        "file": "Pickups and Objects/Collectible_Gear.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "collectible",
+        "gear",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976735"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 500,
+        "triangles": 440,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.17555,
+          -0.198346,
+          -0.159104
+        ],
+        "max": [
+          0.17555,
+          0.198346,
+          0.159104
+        ],
+        "size": [
+          0.3511,
+          0.396692,
+          0.318208
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "computer",
+      "label": "Computer",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "computer/thumbnail.png",
+      "model": "computer/computer.ts",
+      "package": "computer",
+      "descriptor": "computer/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1l8LhvW6D3rqgW68wdZTgNIZSXt6y1hRb",
+        "file": "Platforms/Computer.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "computer",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#976735",
+        "#56747a",
+        "#747474"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1045,
+        "triangles": 998,
+        "parts": 4,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -0.234838,
+          -0.002464,
+          -0.224041
+        ],
+        "max": [
+          0.234838,
+          1.005338,
+          0.405241
+        ],
+        "size": [
+          0.469676,
+          1.007802,
+          0.629282
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "door",
+      "label": "Door",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "door/thumbnail.png",
+      "model": "door/door.ts",
+      "package": "door",
+      "descriptor": "door/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1rAwx2URbuX9DeqNXOQMiBn-ArTtopaRI",
+        "file": "Platforms/Door.gltf"
+      },
+      "category": "buildings",
+      "tags": [
+        "door",
+        "quaternius",
+        "cyberpunkgamekit",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#747474",
+        "#8b8b8b",
+        "#976735",
+        "#56747a"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 442,
+        "triangles": 324,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.344822,
+          -0.003857,
+          -0.051043
+        ],
+        "max": [
+          0.344822,
+          1.158531,
+          0.051043
+        ],
+        "size": [
+          0.689644,
+          1.162388,
+          0.102086
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "fence",
+      "label": "Fence",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "fence/thumbnail.png",
+      "model": "fence/fence.ts",
+      "package": "fence",
+      "descriptor": "fence/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=119DaF8fbqJzXgzhjUqJSOdYQll_dlTSE",
+        "file": "Platforms/Fence.gltf"
+      },
+      "category": "buildings",
+      "tags": [
+        "fence",
+        "quaternius",
+        "cyberpunkgamekit",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#747474",
+        "#494949"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 288,
+        "triangles": 160,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.345906,
+          0,
+          -0.025552
+        ],
+        "max": [
+          0.345906,
+          1.255553,
+          0.025552
+        ],
+        "size": [
+          0.691812,
+          1.255553,
+          0.051104
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "lever",
+      "label": "Lever",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "lever/thumbnail.png",
+      "model": "lever/lever.ts",
+      "package": "lever",
+      "descriptor": "lever/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1i_Zojm_oJ4T40aD8OqMbz-Ud6mNeAUbB",
+        "file": "Pickups and Objects/Lever.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "lever",
+        "quaternius",
+        "cyberpunkgamekit",
+        "base",
+        "top",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#2e2e2e",
+        "#747474"
+      ],
+      "colorNames": [
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 414,
+        "triangles": 328,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.198988,
+          -0.014738,
+          -0.39093
+        ],
+        "max": [
+          0.199002,
+          0.430952,
+          0.271501
+        ],
+        "size": [
+          0.39799,
+          0.44569,
+          0.662431
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "lootbox",
+      "label": "Lootbox",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "lootbox/thumbnail.png",
+      "model": "lootbox/lootbox.ts",
+      "package": "lootbox",
+      "descriptor": "lootbox/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=18AyD-zFoZYuln2KkAu1DA1UKkBStkU6N",
+        "file": "Pickups and Objects/Lootbox.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "lootbox",
+        "quaternius",
+        "cyberpunkgamekit",
+        "base",
+        "top",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#494949",
+        "#747474",
+        "#976735"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1448,
+        "triangles": 940,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.295968,
+          -0.000473,
+          -0.313101
+        ],
+        "max": [
+          0.295968,
+          0.511585,
+          0.295034
+        ],
+        "size": [
+          0.591936,
+          0.512058,
+          0.608135
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pickup-health",
+      "label": "Pickup Health",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "pickup-health/thumbnail.png",
+      "model": "pickup-health/pickup-health.ts",
+      "package": "pickup-health",
+      "descriptor": "pickup-health/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ydF8JxRyum4hBdI7aq4iUim-gM2GYM5m",
+        "file": "Pickups and Objects/Pickup_Health.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pickup",
+        "health",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#bfff36",
+        "#8b8b8b"
+      ],
+      "colorNames": [
+        "yellow",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1192,
+        "triangles": 752,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.120636,
+          -0.120636,
+          -0.120636
+        ],
+        "max": [
+          0.120636,
+          0.120636,
+          0.120636
+        ],
+        "size": [
+          0.241272,
+          0.241272,
+          0.241272
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pickup-heart",
+      "label": "Pickup Heart",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "pickup-heart/thumbnail.png",
+      "model": "pickup-heart/pickup-heart.ts",
+      "package": "pickup-heart",
+      "descriptor": "pickup-heart/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ogPotkBxdeOpOcYz3b0wHNWPZbGzeKJ7",
+        "file": "Pickups and Objects/Pickup_Heart.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pickup",
+        "heart",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ff3225",
+        "#8b8b8b"
+      ],
+      "colorNames": [
+        "red",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1144,
+        "triangles": 784,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.123221,
+          -0.120636,
+          -0.123221
+        ],
+        "max": [
+          0.123221,
+          0.120636,
+          0.123221
+        ],
+        "size": [
+          0.246442,
+          0.241272,
+          0.246442
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pickup-tank",
+      "label": "Pickup Tank",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "pickup-tank/thumbnail.png",
+      "model": "pickup-tank/pickup-tank.ts",
+      "package": "pickup-tank",
+      "descriptor": "pickup-tank/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1N_oYHZlfVp_0G9uIrBk-LbtOnBDrm9Uu",
+        "file": "Pickups and Objects/Pickup_Tank.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pickup",
+        "tank",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#976735",
+        "#bfff36",
+        "#747474"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 794,
+        "triangles": 654,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.100332,
+          -0.000266,
+          -0.100332
+        ],
+        "max": [
+          0.100332,
+          0.264421,
+          0.100332
+        ],
+        "size": [
+          0.200664,
+          0.264687,
+          0.200664
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pipe-1",
+      "label": "Pipe 1",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "pipe-1/thumbnail.png",
+      "model": "pipe-1/pipe-1.ts",
+      "package": "pipe-1",
+      "descriptor": "pipe-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1-hhtKUwroDLlY_17kR2HwR4iczYR42DW",
+        "file": "Platforms/Pipe_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pipe",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976735"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 120,
+        "triangles": 224,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.220914,
+          -0.106055,
+          -0.324312
+        ],
+        "max": [
+          1.220914,
+          0.106055,
+          0.232072
+        ],
+        "size": [
+          2.441828,
+          0.21211,
+          0.556384
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pipe-2",
+      "label": "Pipe 2",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "pipe-2/thumbnail.png",
+      "model": "pipe-2/pipe-2.ts",
+      "package": "pipe-2",
+      "descriptor": "pipe-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1PocBST1UPFchcD62OfgP5kB2KE3w-93r",
+        "file": "Platforms/Pipe_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pipe",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976735"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 104,
+        "triangles": 192,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.448539,
+          -0.106055,
+          -0.304888
+        ],
+        "max": [
+          2.175999,
+          0.106055,
+          0.247233
+        ],
+        "size": [
+          4.624538,
+          0.21211,
+          0.552121
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pipe-corner",
+      "label": "Pipe Corner",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "pipe-corner/thumbnail.png",
+      "model": "pipe-corner/pipe-corner.ts",
+      "package": "pipe-corner",
+      "descriptor": "pipe-corner/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1stVoDPtUdYE3-vvuKZvMwDE9DEAHItPc",
+        "file": "Platforms/Pipe_Corner.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pipe",
+        "corner",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976735"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 160,
+        "triangles": 304,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.290129,
+          -0.106055,
+          -1.418376
+        ],
+        "max": [
+          0.710088,
+          0.106055,
+          0.908077
+        ],
+        "size": [
+          2.000217,
+          0.21211,
+          2.326453
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pipe-corner-2",
+      "label": "Pipe Corner 2",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "pipe-corner-2/thumbnail.png",
+      "model": "pipe-corner-2/pipe-corner-2.ts",
+      "package": "pipe-corner-2",
+      "descriptor": "pipe-corner-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=16z_qGGmtOHuvcVuSlEKUYLwRxTtye9rl",
+        "file": "Platforms/Pipe_Corner_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pipe",
+        "corner",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#976735"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 160,
+        "triangles": 304,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.697796,
+          -0.106055,
+          -2.469185
+        ],
+        "max": [
+          0.456231,
+          0.106055,
+          1.473898
+        ],
+        "size": [
+          1.154027,
+          0.21211,
+          3.943083
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rail-corner",
+      "label": "Rail Corner",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "rail-corner/thumbnail.png",
+      "model": "rail-corner/rail-corner.ts",
+      "package": "rail-corner",
+      "descriptor": "rail-corner/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1rp963qaqQ-YIwJaX93kfcoHPAX62X69m",
+        "file": "Platforms/Rail_Corner.gltf"
+      },
+      "category": "roads",
+      "tags": [
+        "rail",
+        "corner",
+        "quaternius",
+        "cyberpunkgamekit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2e2e2e"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 212,
+        "triangles": 368,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.412066,
+          -0.005537,
+          -0.44852
+        ],
+        "max": [
+          0.182232,
+          0.231275,
+          0.233055
+        ],
+        "size": [
+          0.594298,
+          0.236812,
+          0.681575
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rail-corner-2",
+      "label": "Rail Corner 2",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "rail-corner-2/thumbnail.png",
+      "model": "rail-corner-2/rail-corner-2.ts",
+      "package": "rail-corner-2",
+      "descriptor": "rail-corner-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hIPbyMVlollFrwQky13nePrNrw7ot16D",
+        "file": "Platforms/Rail_Corner_2.gltf"
+      },
+      "category": "roads",
+      "tags": [
+        "rail",
+        "corner",
+        "quaternius",
+        "cyberpunkgamekit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2e2e2e"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 212,
+        "triangles": 368,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.540003,
+          -0.005452,
+          -0.44852
+        ],
+        "max": [
+          0.182232,
+          0.23136,
+          0.233055
+        ],
+        "size": [
+          1.722235,
+          0.236812,
+          0.681575
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rail-long",
+      "label": "Rail Long",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "rail-long/thumbnail.png",
+      "model": "rail-long/rail-long.ts",
+      "package": "rail-long",
+      "descriptor": "rail-long/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1_PzgYzuvizzrgc1XACR8gOv2fBwrVN1p",
+        "file": "Platforms/Rail_Long.gltf"
+      },
+      "category": "roads",
+      "tags": [
+        "rail",
+        "long",
+        "quaternius",
+        "cyberpunkgamekit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2e2e2e"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 144,
+        "triangles": 256,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.146327,
+          -0.008277,
+          -0.030198
+        ],
+        "max": [
+          1.146327,
+          0.228236,
+          0.030321
+        ],
+        "size": [
+          2.292654,
+          0.236513,
+          0.060519
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rail-short",
+      "label": "Rail Short",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "rail-short/thumbnail.png",
+      "model": "rail-short/rail-short.ts",
+      "package": "rail-short",
+      "descriptor": "rail-short/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1fn5hdMenihsyIpdlvA9cEUHT40owqtUL",
+        "file": "Platforms/Rail_Short.gltf"
+      },
+      "category": "roads",
+      "tags": [
+        "rail",
+        "short",
+        "quaternius",
+        "cyberpunkgamekit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2e2e2e"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 144,
+        "triangles": 256,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.627242,
+          -0.007305,
+          -0.030198
+        ],
+        "max": [
+          0.627242,
+          0.229209,
+          0.030321
+        ],
+        "size": [
+          1.254484,
+          0.236514,
+          0.060519
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "support",
+      "label": "Support",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "support/thumbnail.png",
+      "model": "support/support.ts",
+      "package": "support",
+      "descriptor": "support/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=12d_k4ck11RfsK0IvzRBMgpKD1fVtuIWA",
+        "file": "Platforms/Support.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "support",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#747474",
+        "#adadad"
+      ],
+      "colorNames": [
+        "gray",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 120,
+        "triangles": 60,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.347917,
+          -0.196079,
+          -0.135356
+        ],
+        "max": [
+          0.33857,
+          0.205098,
+          0.156851
+        ],
+        "size": [
+          0.686487,
+          0.401177,
+          0.292207
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "support-long",
+      "label": "Support Long",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "support-long/thumbnail.png",
+      "model": "support-long/support-long.ts",
+      "package": "support-long",
+      "descriptor": "support-long/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1fRQScptvXGv0yWLgvEKiuKIFIKatub2X",
+        "file": "Platforms/Support_Long.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "support",
+        "long",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#747474"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 774,
+        "triangles": 524,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.000001,
+          -1.780492,
+          -0.043919
+        ],
+        "max": [
+          1.109833,
+          1.780492,
+          0.043919
+        ],
+        "size": [
+          1.109834,
+          3.560984,
+          0.087838
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "support-short",
+      "label": "Support Short",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "support-short/thumbnail.png",
+      "model": "support-short/support-short.ts",
+      "package": "support-short",
+      "descriptor": "support-short/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1K9Ldh1xj5-nE2wd9lDhONTb64nh3PYVD",
+        "file": "Platforms/Support_Short.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "support",
+        "short",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#747474"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 458,
+        "triangles": 288,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.000001,
+          -1.107016,
+          -0.043919
+        ],
+        "max": [
+          1.109833,
+          1.107016,
+          0.043919
+        ],
+        "size": [
+          1.109834,
+          2.214032,
+          0.087838
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tank",
+      "label": "Tank",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "tank/thumbnail.png",
+      "model": "tank/tank.ts",
+      "package": "tank",
+      "descriptor": "tank/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1NF8KVe4xTH_u2HK00Hqqn74YSvSPcdEC",
+        "file": "Pickups and Objects/Tank.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "tank",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#976735",
+        "#2e2e2e"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1480,
+        "triangles": 1392,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.28449,
+          -0.415475,
+          0
+        ],
+        "max": [
+          0.284487,
+          0.415475,
+          0.618976
+        ],
+        "size": [
+          0.568977,
+          0.83095,
+          0.618976
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "turret-cannon",
+      "label": "Turret Cannon",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "turret-cannon/thumbnail.png",
+      "model": "turret-cannon/turret-cannon.ts",
+      "package": "turret-cannon",
+      "descriptor": "turret-cannon/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1G43vBl-E89ECP7h-pcPCIdcMFMsGpRVN",
+        "file": "Enemies/Turret_Cannon.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "turret",
+        "cannon",
+        "quaternius",
+        "cyberpunkgamekit",
+        "base",
+        "top",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#2e2e2e",
+        "#976735",
+        "#747474"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2435,
+        "triangles": 1318,
+        "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.579179,
+          -0.008336,
+          -0.557264
+        ],
+        "max": [
+          0.579179,
+          0.638858,
+          0.557264
+        ],
+        "size": [
+          1.158358,
+          0.647194,
+          1.114528
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "turret-gun",
+      "label": "Turret Gun",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "turret-gun/thumbnail.png",
+      "model": "turret-gun/turret-gun.ts",
+      "package": "turret-gun",
+      "descriptor": "turret-gun/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1XEf6ml8K_pgjKcVKEM6br8HhxYc6fKZa",
+        "file": "Enemies/Turret_Gun.gltf"
+      },
+      "category": "equipment",
+      "tags": [
+        "turret",
+        "gun",
+        "quaternius",
+        "cyberpunkgamekit",
+        "base",
+        "top",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#2e2e2e",
+        "#976735",
+        "#747474"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2252,
+        "triangles": 1182,
+        "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.579179,
+          -0.008336,
+          -0.557264
+        ],
+        "max": [
+          0.579179,
+          0.578628,
+          0.607175
+        ],
+        "size": [
+          1.158358,
+          0.586964,
+          1.164439
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "turret-gun-double",
+      "label": "Turret GunDouble",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "turret-gun-double/thumbnail.png",
+      "model": "turret-gun-double/turret-gun-double.ts",
+      "package": "turret-gun-double",
+      "descriptor": "turret-gun-double/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ozkZdw_bM2_jiCIy8kpvUEdQHOPGE9oT",
+        "file": "Enemies/Turret_GunDouble.gltf"
+      },
+      "category": "equipment",
+      "tags": [
+        "turret",
+        "gun",
+        "double",
+        "quaternius",
+        "cyberpunkgamekit",
+        "base",
+        "top",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#2e2e2e",
+        "#976735",
+        "#747474"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2790,
+        "triangles": 1504,
+        "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.579179,
+          -0.008336,
+          -0.557264
+        ],
+        "max": [
+          0.579179,
+          0.578628,
+          0.607175
+        ],
+        "size": [
+          1.158358,
+          0.586964,
+          1.164439
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "turret-teleporter",
+      "label": "Turret Teleporter",
+      "description": "Cyberpunk Game Kit by Quaternius.",
+      "thumbnail": "turret-teleporter/thumbnail.png",
+      "model": "turret-teleporter/turret-teleporter.ts",
+      "package": "turret-teleporter",
+      "descriptor": "turret-teleporter/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1nKP6d_6slu0bQfi6E_q3WxMIW82Ojmdm",
+        "file": "Enemies/Turret_Teleporter.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "turret",
+        "teleporter",
+        "quaternius",
+        "cyberpunkgamekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8b8b",
+        "#2e2e2e",
+        "#976735",
+        "#747474"
+      ],
+      "colorNames": [
+        "gray",
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2204,
+        "triangles": 1136,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.579179,
+          -0.008336,
+          -0.557264
+        ],
+        "max": [
+          0.579179,
+          0.224172,
+          0.557264
+        ],
+        "size": [
+          1.158358,
+          0.232508,
+          1.114528
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

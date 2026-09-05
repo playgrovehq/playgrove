@@ -1,0 +1,23 @@
+{
+  "id": "slant-solid-long-b",
+  "label": "slant-solid-long-b",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/slant-solid-long-b.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "92693083335b0b7a038335a5f6eee613f1a7e1a77ff99c3e1b86e8a23a5ef1b0",
+  "originalInputSha256": "7710c5b177f0eb2f50e5311536515dfbd383d1bb682800ea8e7f5f42239900fe",
+  "descriptor": "metadata.json",
+  "model": "slant-solid-long-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,1,2]",
+  "convertedAt": "2026-09-05T10:30:20.715Z"
+}

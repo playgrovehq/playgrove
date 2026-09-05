@@ -1,0 +1,23 @@
+{
+  "id": "bathroom-cabinet",
+  "label": "bathroomCabinet",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/bathroomCabinet.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b47c04eebbe1859f36396e982cc8163814e7852ec8075a63e741dc616978a203",
+  "originalInputSha256": "9db540227acaaedbbadc6a085f4a00460b73944e608afaad4770e53238a3b7f8",
+  "descriptor": "metadata.json",
+  "model": "bathroom-cabinet.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.23000000417232513,0.38999998569488525,0.12999999523162842]",
+  "convertedAt": "2026-09-05T10:30:12.754Z"
+}

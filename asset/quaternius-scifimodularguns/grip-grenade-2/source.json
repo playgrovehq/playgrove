@@ -1,0 +1,22 @@
+{
+  "id": "grip-grenade-2",
+  "label": "Grip Grenade 2",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1oJZDPvNsntCbNEZLPu9JpkDbewSQJ2yq",
+  "file": "Modular Parts/glTF/Grip_Grenade_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a9be177a1654c2cfef905957845593fca31d5a950ab8c71ba6663be1cf6f827c",
+  "originalInputSha256": "a9be177a1654c2cfef905957845593fca31d5a950ab8c71ba6663be1cf6f827c",
+  "descriptor": "metadata.json",
+  "model": "grip-grenade-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.9747699946165085,0.4144499897956848,0.136135995388031]",
+  "convertedAt": "2026-09-05T12:05:32.475Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "goal-flag",
+  "label": "Goal Flag",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1jjyk9TvChkcDTKRI9oh9bkI9nJYUbiIi",
+  "file": "Level and Mechanics/glTF/Goal_Flag.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "283c3eeda571ea7920aa9dbd8f601a99e33c6f757a81eed4231eb7140023475e",
+  "originalInputSha256": "283c3eeda571ea7920aa9dbd8f601a99e33c6f757a81eed4231eb7140023475e",
+  "descriptor": "metadata.json",
+  "model": "goal-flag.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.410804033279419,2.3316520755179226,0.38040998578071594]",
+  "convertedAt": "2026-09-05T11:48:28.621Z"
+}

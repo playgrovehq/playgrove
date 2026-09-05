@@ -1,0 +1,22 @@
+{
+  "id": "rock-group",
+  "label": "Rock Group",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1erZTsUPUmzENBP10xQN2ozsIyweOw8aF",
+  "file": "glTF/Rock_Group.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4c9ce5cd22188c79dcc5fee33e426ac37d0f8ee14f4b6bf77678b4712d2b9676",
+  "originalInputSha256": "4c9ce5cd22188c79dcc5fee33e426ac37d0f8ee14f4b6bf77678b4712d2b9676",
+  "descriptor": "metadata.json",
+  "model": "rock-group.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.3014989495277405,0.11980400048196316,1.545710027217865]",
+  "convertedAt": "2026-09-05T12:03:25.043Z"
+}

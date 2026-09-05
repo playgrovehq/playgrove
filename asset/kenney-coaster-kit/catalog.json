@@ -1,0 +1,162 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T10:30:09.511Z",
+  "assets": [
+    {
+      "id": "support-large-horizontal",
+      "label": "support-large-horizontal",
+      "description": "Coaster Kit by Kenney.",
+      "thumbnail": "support-large-horizontal/thumbnail.png",
+      "model": "support-large-horizontal/support-large-horizontal.ts",
+      "package": "support-large-horizontal",
+      "descriptor": "support-large-horizontal/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/coaster-kit",
+        "download": "https://kenney.nl/media/pages/assets/coaster-kit/546fdc554f-1731487890/kenney_coaster-kit.zip",
+        "archiveSha256": "7723d02e3ea822371e12e14722e72d572fdb0384c1379c1469e0598a371f5c7a",
+        "file": "Models/GLB format/support-large-horizontal.glb"
+      },
+      "category": "props",
+      "tags": [
+        "support",
+        "large",
+        "horizontal",
+        "kenney",
+        "coaster",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6794d9"
+      ],
+      "colorNames": [
+        "blue"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 32,
+        "triangles": 28,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.143821,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.143821,
+          0.287641,
+          0.5
+        ],
+        "size": [
+          0.287642,
+          0.287641,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "support-small-horizontal",
+      "label": "support-small-horizontal",
+      "description": "Coaster Kit by Kenney.",
+      "thumbnail": "support-small-horizontal/thumbnail.png",
+      "model": "support-small-horizontal/support-small-horizontal.ts",
+      "package": "support-small-horizontal",
+      "descriptor": "support-small-horizontal/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/coaster-kit",
+        "download": "https://kenney.nl/media/pages/assets/coaster-kit/546fdc554f-1731487890/kenney_coaster-kit.zip",
+        "archiveSha256": "7723d02e3ea822371e12e14722e72d572fdb0384c1379c1469e0598a371f5c7a",
+        "file": "Models/GLB format/support-small-horizontal.glb"
+      },
+      "category": "props",
+      "tags": [
+        "support",
+        "small",
+        "horizontal",
+        "kenney",
+        "coaster",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cf534f"
+      ],
+      "colorNames": [
+        "red"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 32,
+        "triangles": 28,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.107865,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.107865,
+          0.215731,
+          0.5
+        ],
+        "size": [
+          0.21573,
+          0.215731,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

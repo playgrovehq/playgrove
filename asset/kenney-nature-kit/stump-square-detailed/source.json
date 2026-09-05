@@ -1,0 +1,23 @@
+{
+  "id": "stump-square-detailed",
+  "label": "stump squareDetailed",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/stump_squareDetailed.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "23e7d84d1734db6d7a4d3a9b2a49153080188ef383f1be5fcbb2279c30af2fd5",
+  "originalInputSha256": "d84fa1d9c2e57d07669b9e0072f61fb12f83dc8a20786caf9e75818cd4dcbfcc",
+  "descriptor": "metadata.json",
+  "model": "stump-square-detailed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.4399999976158142,0.20000000670552254,0.4399999976158142]",
+  "convertedAt": "2026-09-05T10:30:32.596Z"
+}

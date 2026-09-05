@@ -1,0 +1,23 @@
+{
+  "id": "trashcan",
+  "label": "trashcan",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/trashcan.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4ca365a630ea8f6087858ecf39b7d2241b925dab76ce4697331c6193b1b3f4d8",
+  "originalInputSha256": "e0ccc1fe50cbd05386477fdff527171d1cf7c0de2ba7ff3233f8d9561feb2561",
+  "descriptor": "metadata.json",
+  "model": "trashcan.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.20769399404525757,0.42786601185798645,0.23412399739027023]",
+  "convertedAt": "2026-09-05T10:30:15.831Z"
+}

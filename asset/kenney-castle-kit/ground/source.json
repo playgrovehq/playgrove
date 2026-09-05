@@ -1,0 +1,23 @@
+{
+  "id": "ground",
+  "label": "ground",
+  "description": "Castle Kit by Kenney.",
+  "pack": "kenney-castle-kit",
+  "listing": "https://kenney.nl/assets/castle-kit",
+  "download": "https://kenney.nl/media/pages/assets/castle-kit/a395102d20-1711543616/kenney_castle-kit.zip",
+  "archiveSha256": "921f3f73927bb23106cae34bc21d5ab4b033a9fc120475e96f714a406e3169df",
+  "file": "Models/GLB format/ground.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "31949f276ab3a96392539688e022639c9600aa3c8dc6847ae8fba9a845f8562c",
+  "originalInputSha256": "470e9637694bba581e7a67a07399920c9785d8fa9a01a688c80dfc6a0c06ff77",
+  "descriptor": "metadata.json",
+  "model": "ground.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0,1]",
+  "convertedAt": "2026-09-05T10:30:07.009Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cardboard-box-closed",
+  "label": "cardboardBoxClosed",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/cardboardBoxClosed.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "96bcf60248203f93306ba2ead70fed1a6ea95e66dd44e6cce07df961b7af1277",
+  "originalInputSha256": "4af079dca52960912764574950f0549ff2ae1224b3db1528718629473a2d5d81",
+  "descriptor": "metadata.json",
+  "model": "cardboard-box-closed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.21250000596046448,0.2809999883174896,0.21250000596046448]",
+  "convertedAt": "2026-09-05T10:30:14.297Z"
+}

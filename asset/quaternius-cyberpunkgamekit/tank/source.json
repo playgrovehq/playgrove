@@ -1,0 +1,22 @@
+{
+  "id": "tank",
+  "label": "Tank",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1NF8KVe4xTH_u2HK00Hqqn74YSvSPcdEC",
+  "file": "Pickups and Objects/Tank.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bcb8d17ebe7f37fd7bed50819a377f3d32ca7c26e3089878f7ce7942f9b19ebc",
+  "originalInputSha256": "bcb8d17ebe7f37fd7bed50819a377f3d32ca7c26e3089878f7ce7942f9b19ebc",
+  "descriptor": "metadata.json",
+  "model": "tank.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.5689769983291626,0.8309500217437744,0.6189759969711304]",
+  "convertedAt": "2026-09-05T12:03:55.747Z"
+}

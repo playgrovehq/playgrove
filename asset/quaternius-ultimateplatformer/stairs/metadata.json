@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "stairs",
+  "label": "Stairs",
+  "description": "Platformer Game Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "stairs",
+    "quaternius",
+    "ultimateplatformer",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a57c45",
+    "#c29853"
+  ],
+  "colorNames": [
+    "brown",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "stairs.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 292,
+    "triangles": 440,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.882883,
+      -1,
+      -0.128745
+    ],
+    "max": [
+      0.882883,
+      1,
+      0.128745
+    ],
+    "size": [
+      1.765766,
+      2,
+      0.25749
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Stairs"
+  ],
+  "materialNames": [
+    "Wood",
+    "Wood_Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1H14dYoIDRucqOGWWaUrz8Vx0EfPvu8X8",
+    "file": "Level and Mechanics/glTF/Stairs.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

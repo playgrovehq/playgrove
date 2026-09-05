@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "patch-grass",
+  "label": "patch-grass",
+  "description": "Survival Kit by Kenney.",
+  "category": "vegetation",
+  "tags": [
+    "patch",
+    "grass",
+    "kenney",
+    "survival",
+    "kit",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#20896b"
+  ],
+  "colorNames": [
+    "green"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "patch-grass.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 35,
+    "triangles": 33,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.6,
+      0,
+      -0.6
+    ],
+    "max": [
+      0.6,
+      0,
+      0.6
+    ],
+    "size": [
+      1.2,
+      0,
+      1.2
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "patch-grass"
+  ],
+  "materialNames": [
+    "colormap"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/survival-kit",
+    "download": "https://kenney.nl/media/pages/assets/survival-kit/4065a8185b-1712149243/kenney_survival-kit.zip",
+    "archiveSha256": "c3586341b5932c87eb43d75d915434f47daed168b17ed36a03e8ca9977c7443e",
+    "file": "Models/GLB format/patch-grass.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

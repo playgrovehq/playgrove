@@ -1,0 +1,23 @@
+{
+  "id": "support-color-single-middle",
+  "label": "support-color-single-middle",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/support-color-single-middle.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "11a378fa6399628ae62644d2159bb90e2837f4d72919b65750bec3ab062da15c",
+  "originalInputSha256": "6f7d0449c46afffa1aee094f90b8c6473fc7c996e45bd6f1e9f935c11a4ce882",
+  "descriptor": "metadata.json",
+  "model": "support-color-single-middle.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4000000059604645,0.5,0.4000000059604645]",
+  "convertedAt": "2026-09-05T10:30:21.631Z"
+}

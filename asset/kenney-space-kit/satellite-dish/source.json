@@ -1,0 +1,23 @@
+{
+  "id": "satellite-dish",
+  "label": "satelliteDish",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/satelliteDish.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d31553db26c6da465504283dbe26e226f8343cb5d0d4981a6d2de483c0570972",
+  "originalInputSha256": "db27a561b66fabda45a6ce2bcf41d650852e89e15bb9f63b68133ad1293aed8b",
+  "descriptor": "metadata.json",
+  "model": "satellite-dish.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.6883779764175415,0.6164649724960327,0.5664650201797485]",
+  "convertedAt": "2026-09-05T10:30:42.311Z"
+}

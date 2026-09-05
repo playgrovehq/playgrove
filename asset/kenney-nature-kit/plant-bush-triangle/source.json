@@ -1,0 +1,23 @@
+{
+  "id": "plant-bush-triangle",
+  "label": "plant bushTriangle",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/plant_bushTriangle.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "50c94fbeee4fcc9e9d15d79c545232417afe03a2374c546d8cb386f9593b70d2",
+  "originalInputSha256": "e944e19adda28436fdc63d77019aa490e6591358659a14abea8aa654181fc417",
+  "descriptor": "metadata.json",
+  "model": "plant-bush-triangle.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.3644329905509949,0.29553699865937233,0.41359201073646545]",
+  "convertedAt": "2026-09-05T10:30:30.112Z"
+}

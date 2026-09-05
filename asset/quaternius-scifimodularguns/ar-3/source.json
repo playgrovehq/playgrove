@@ -1,0 +1,22 @@
+{
+  "id": "ar-3",
+  "label": "AR 3",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1tssGZl1ZoQefUapqx4_sdF1Ht0Vvb1Jq",
+  "file": "Guns/glTF/AR_3.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "219a9518274fe96505ea33aa7c4cbadcbbcf6acfcc19d5b4ecc811d5383802c3",
+  "originalInputSha256": "219a9518274fe96505ea33aa7c4cbadcbbcf6acfcc19d5b4ecc811d5383802c3",
+  "descriptor": "metadata.json",
+  "model": "ar-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.5491049885749817,0.7451879978179932,0.130964994430542]",
+  "convertedAt": "2026-09-05T12:05:31.586Z"
+}

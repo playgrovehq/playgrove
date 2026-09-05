@@ -1,0 +1,22 @@
+{
+  "id": "market-first-age-level1",
+  "label": "Market FirstAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1alq0Zr4qJs7Qmz1be5ow3qvnjBZ0bCMH",
+  "file": "glTF/Market_FirstAge_Level1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "920868a92d5430271fd3e270dd5b4179e62f61b64fa6fbe6a92226b1fdf5a7ca",
+  "originalInputSha256": "920868a92d5430271fd3e270dd5b4179e62f61b64fa6fbe6a92226b1fdf5a7ca",
+  "descriptor": "metadata.json",
+  "model": "market-first-age-level1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.6212159991264343,0.5515089961700141,1.2182379961013794]",
+  "convertedAt": "2026-09-05T12:03:24.437Z"
+}

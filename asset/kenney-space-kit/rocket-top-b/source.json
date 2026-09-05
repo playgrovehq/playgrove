@@ -1,0 +1,23 @@
+{
+  "id": "rocket-top-b",
+  "label": "rocket topB",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/rocket_topB.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b55b6c2760bd04c943d1d93141ebe89d783d3cbcf6d73275df32ffbfbbc3101a",
+  "originalInputSha256": "341ef05f146cf0dc0fd8749b63334ebe4cedb8fbb442e816a4a5c5a6f0586169",
+  "descriptor": "metadata.json",
+  "model": "rocket-top-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1,1.100000023841858,1]",
+  "convertedAt": "2026-09-05T10:30:42.247Z"
+}

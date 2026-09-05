@@ -1,0 +1,23 @@
+{
+  "id": "road-corner-bridge-small",
+  "label": "roadCornerBridgeSmall",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadCornerBridgeSmall.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e1e3a55284c7202d1de15c8bb195cd76db26a338ec7125de0b63d70653bbb675",
+  "originalInputSha256": "7417915daac34dc54c40d132ad96850b33876039a56b8fab832ebfeb3b25c87d",
+  "descriptor": "metadata.json",
+  "model": "road-corner-bridge-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.9999999701976776,0.12662100233137608,1]",
+  "convertedAt": "2026-09-05T10:30:37.480Z"
+}

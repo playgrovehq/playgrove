@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "grand-stand-round",
+  "label": "grandStandRound",
+  "description": "Racing Kit by Kenney.",
+  "category": "props",
+  "tags": [
+    "grand",
+    "stand",
+    "round",
+    "kenney",
+    "racing",
+    "kit",
+    "clone",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#f9f9fb",
+    "#f59c9b",
+    "#8d8d8d",
+    "#ffffff"
+  ],
+  "colorNames": [
+    "white",
+    "pink",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "grand-stand-round.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1091,
+    "triangles": 1022,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.35,
+      -0.01,
+      -1.65
+    ],
+    "max": [
+      1.28662,
+      0.886263,
+      -0.01338
+    ],
+    "size": [
+      1.63662,
+      0.896263,
+      1.63662
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "grandStandRound(Clone)"
+  ],
+  "materialNames": [
+    "grey",
+    "red",
+    "road",
+    "_defaultMat"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/racing-kit",
+    "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+    "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+    "file": "Models/GLTF format/grandStandRound.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

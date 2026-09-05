@@ -1,0 +1,23 @@
+{
+  "id": "bacon-raw",
+  "label": "bacon-raw",
+  "description": "Food Kit by Kenney.",
+  "pack": "kenney-food-kit",
+  "listing": "https://kenney.nl/assets/food-kit",
+  "download": "https://kenney.nl/media/pages/assets/food-kit/83086fa91c-1719418518/kenney_food-kit.zip",
+  "archiveSha256": "cdad90853682499b94c9fda2f87678b24bfd8f3264e0ed323f6b6a27fd7c6f6f",
+  "file": "Models/GLB format/bacon-raw.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5b308a3197e1d75b96086b1915647170e5eb3b096fc376f89faf861412bcbba8",
+  "originalInputSha256": "89b389bc0318d0243d83097dea5258828933ef9cd99323d4f618b84e9bfb521d",
+  "descriptor": "metadata.json",
+  "model": "bacon-raw.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.12999999523162842,0.029999999329447746,0.5199999809265137]",
+  "convertedAt": "2026-09-05T10:30:11.968Z"
+}

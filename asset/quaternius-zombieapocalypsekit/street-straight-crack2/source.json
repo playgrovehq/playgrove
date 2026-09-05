@@ -1,0 +1,22 @@
+{
+  "id": "street-straight-crack2",
+  "label": "Street Straight Crack2",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1NV8aaJjQj2U8anVd7JxaOotQGourae55",
+  "file": "Environment/glTF/Street_Straight_Crack2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cc22573418c05711b2f5092e4906a3b560d953c4a7952811f725aae0a284622d",
+  "originalInputSha256": "cc22573418c05711b2f5092e4906a3b560d953c4a7952811f725aae0a284622d",
+  "descriptor": "metadata.json",
+  "model": "street-straight-crack2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[7.999999046325684,0.5802320092916489,8]",
+  "convertedAt": "2026-09-05T11:49:49.495Z"
+}

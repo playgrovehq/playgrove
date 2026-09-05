@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "farm-first-age-level2",
+  "label": "Farm FirstAge Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "props",
+  "tags": [
+    "farm",
+    "first",
+    "age",
+    "level2",
+    "quaternius",
+    "ultimatefantasyrts",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#574d2f"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "farm-first-age-level2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 380,
+    "triangles": 640,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.891834,
+      -0.00508,
+      -0.675514
+    ],
+    "max": [
+      0.897333,
+      0.051195,
+      0.41719
+    ],
+    "size": [
+      1.789167,
+      0.056275,
+      1.092704
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Farm_FirstAge_Level2"
+  ],
+  "materialNames": [
+    "Dirt"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=1_44Rfhwhco91LsMUrq-rDylAy9JTgbIY",
+    "file": "glTF/Farm_FirstAge_Level2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

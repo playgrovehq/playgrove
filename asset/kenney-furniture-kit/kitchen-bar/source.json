@@ -1,0 +1,23 @@
+{
+  "id": "kitchen-bar",
+  "label": "kitchenBar",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/kitchenBar.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b6323b0e20afa27706a1d8fd8999415b43aa7ac60c251c3218dbbdb4ccb1a699",
+  "originalInputSha256": "792c3d31e60c8a8d8c7a28cf7d1efe004c5a601adc1b163a8799dde32c1b559d",
+  "descriptor": "metadata.json",
+  "model": "kitchen-bar.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.4300000071525574,0.41999998688697815,0.20999999344348907]",
+  "convertedAt": "2026-09-05T10:30:14.713Z"
+}

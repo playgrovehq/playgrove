@@ -1,0 +1,23 @@
+{
+  "id": "lamp-square-ceiling",
+  "label": "lampSquareCeiling",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/lampSquareCeiling.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cb24b863a1649383b929791b02eaaa6b4a74012f01c7690ec94da1b667501143",
+  "originalInputSha256": "57066be51583d83ae60071e8179af275189cb2911ecb9fc24953bb930c8bf118",
+  "descriptor": "metadata.json",
+  "model": "lamp-square-ceiling.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.11999999731779099,0.23000000417232513,0.11999999731779099]",
+  "convertedAt": "2026-09-05T10:30:14.964Z"
+}

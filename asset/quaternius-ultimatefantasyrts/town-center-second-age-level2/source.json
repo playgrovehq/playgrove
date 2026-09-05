@@ -1,0 +1,22 @@
+{
+  "id": "town-center-second-age-level2",
+  "label": "TownCenter SecondAge Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1TgBKLkcTGxP7joZmGlxXE8N-s-XsYbMI",
+  "file": "glTF/TownCenter_SecondAge_Level2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "eace1f8771322805fc33080b760dc4f0829387f48723e37beb427e18ea5184a3",
+  "originalInputSha256": "eace1f8771322805fc33080b760dc4f0829387f48723e37beb427e18ea5184a3",
+  "descriptor": "metadata.json",
+  "model": "town-center-second-age-level2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.8559319972991943,1.2770950268022716,1.8559319972991943]",
+  "convertedAt": "2026-09-05T12:03:25.451Z"
+}

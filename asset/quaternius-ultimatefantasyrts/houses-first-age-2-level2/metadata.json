@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "houses-first-age-2-level2",
+  "label": "Houses FirstAge 2 Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "props",
+  "tags": [
+    "houses",
+    "first",
+    "age",
+    "level2",
+    "quaternius",
+    "ultimatefantasyrts",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#888880",
+    "#886a42",
+    "#a58758"
+  ],
+  "colorNames": [
+    "gray",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "houses-first-age-2-level2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1944,
+    "triangles": 1048,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.434655,
+      -0.002423,
+      -0.587404
+    ],
+    "max": [
+      1.029195,
+      0.766077,
+      0.587404
+    ],
+    "size": [
+      1.46385,
+      0.7685,
+      1.174808
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Houses_FirstAge_2_Level2"
+  ],
+  "materialNames": [
+    "Stone",
+    "Wood",
+    "Wood_Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=1QI2k-qfJYTC4MhiMKLT7BTORC9P-iRPu",
+    "file": "glTF/Houses_FirstAge_2_Level2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

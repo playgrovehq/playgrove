@@ -1,0 +1,22 @@
+{
+  "id": "body-front-sniper-1",
+  "label": "Body Front Sniper 1",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1oQrmwxN9D84s2gwtfTW5G8vMepZXIHm8",
+  "file": "Modular Parts/glTF/Body_Front_Sniper_1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d0410907827504f5af589c8855c9197d42aa595314c562760e707cf59f8c0937",
+  "originalInputSha256": "d0410907827504f5af589c8855c9197d42aa595314c562760e707cf59f8c0937",
+  "descriptor": "metadata.json",
+  "model": "body-front-sniper-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.2385680079460144,0.28908099234104156,0.10284800082445145]",
+  "convertedAt": "2026-09-05T12:05:32.189Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tree-oak",
+  "label": "Oak Tree",
+  "description": "Stylised oak tree with a rounded canopy.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_oak.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e2e8bf37523245a2f46efa03414aa602cca7f659984ab3e7366e9d14e063e2d5",
+  "originalInputSha256": "d7fd8773674928c50c11b66d12c636d49bdcc15a8b1c7fbb98e6f63a3439a3f3",
+  "descriptor": "metadata.json",
+  "model": "tree-oak.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6405540108680725,1.2262399680912495,0.7396479845046997]",
+  "convertedAt": "2026-09-05T10:30:32.947Z"
+}

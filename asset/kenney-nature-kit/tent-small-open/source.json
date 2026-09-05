@@ -1,0 +1,23 @@
+{
+  "id": "tent-small-open",
+  "label": "tent smallOpen",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tent_smallOpen.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c4dfa078c673048906d85c8f3912cb5bfdcf1d68c1ec0c523a834844613f5e6e",
+  "originalInputSha256": "d32c3f7a5926de03521a012774316d38e09c27bd6dbae7cefdb01debe003ecdd",
+  "descriptor": "metadata.json",
+  "model": "tent-small-open.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.5475999712944031,0.5611309893429279,0.6663999855518341]",
+  "convertedAt": "2026-09-05T10:30:32.681Z"
+}

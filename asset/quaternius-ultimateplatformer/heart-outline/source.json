@@ -1,0 +1,22 @@
+{
+  "id": "heart-outline",
+  "label": "Heart Outline",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1gpo42pB1Q5xpf3LxIpuo563NdiDaDNOr",
+  "file": "Powerups and Pickups/glTF/Heart_Outline.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e8043870ead94387a0d7ac97c8f7921e195d59a38ffbca7b76081aea21a79d74",
+  "originalInputSha256": "e8043870ead94387a0d7ac97c8f7921e195d59a38ffbca7b76081aea21a79d74",
+  "descriptor": "metadata.json",
+  "model": "heart-outline.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.4801219701766968,1.2420650124549866,0.06070199981331825]",
+  "convertedAt": "2026-09-05T11:48:29.854Z"
+}

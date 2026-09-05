@@ -1,0 +1,22 @@
+{
+  "id": "vehicle-pickup-armored",
+  "label": "Vehicle Pickup Armored",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Vj0LYG7osEColDl4BxVV6EC2mOBW-1ND",
+  "file": "Vehicles/glTF/Vehicle_Pickup_Armored.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9fad404d0c2e15851f876c4873bff569bfa2730b5b369649e821d6ed28bf4d59",
+  "originalInputSha256": "9fad404d0c2e15851f876c4873bff569bfa2730b5b369649e821d6ed28bf4d59",
+  "descriptor": "metadata.json",
+  "model": "vehicle-pickup-armored.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=21 materials=21 bounds=[2.6500409841537476,1.9972610208205879,5.5054709911346436]",
+  "convertedAt": "2026-09-05T11:49:50.160Z"
+}

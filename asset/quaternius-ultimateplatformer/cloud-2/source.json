@@ -1,0 +1,22 @@
+{
+  "id": "cloud-2",
+  "label": "Cloud 2",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FU0qs6X1y2BHEHEKd1ZaKp1K7BMKRzOq",
+  "file": "Nature/glTF/Cloud_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3b67cdbd76315a41f7199ff761500975dfde8b54ede5780cbde2044d34d77e58",
+  "originalInputSha256": "3b67cdbd76315a41f7199ff761500975dfde8b54ede5780cbde2044d34d77e58",
+  "descriptor": "metadata.json",
+  "model": "cloud-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[4.00613808631897,2.4016020447015762,2.4474918842315674]",
+  "convertedAt": "2026-09-05T11:48:29.507Z"
+}

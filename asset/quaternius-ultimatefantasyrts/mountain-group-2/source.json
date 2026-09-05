@@ -1,0 +1,22 @@
+{
+  "id": "mountain-group-2",
+  "label": "Mountain Group 2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1EiPrZGay_vMby1UtbCcgDU4Tlqv5aWyP",
+  "file": "glTF/Mountain_Group_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "60fd93b73b908cbe7df9afe78b043e9fe6dcdf591e43b3b3976f3959a3143607",
+  "originalInputSha256": "60fd93b73b908cbe7df9afe78b043e9fe6dcdf591e43b3b3976f3959a3143607",
+  "descriptor": "metadata.json",
+  "model": "mountain-group-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.575379967689514,2.4448170475661755,2.462930977344513]",
+  "convertedAt": "2026-09-05T12:03:24.622Z"
+}

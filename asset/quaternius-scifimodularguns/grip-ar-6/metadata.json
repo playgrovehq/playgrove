@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "grip-ar-6",
+  "label": "Grip AR 6",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "grip",
+    "ar",
+    "quaternius",
+    "scifimodularguns",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#303030",
+    "#5a5a5a",
+    "#b4b4b4",
+    "#ce7f2f"
+  ],
+  "colorNames": [
+    "black",
+    "brown",
+    "beige",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "grip-ar-6.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1706,
+    "triangles": 2537,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.565715,
+      -0.152254,
+      -0.041354
+    ],
+    "max": [
+      0.569688,
+      0.192119,
+      0.041559
+    ],
+    "size": [
+      1.135403,
+      0.344373,
+      0.082913
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Grip_AR_6"
+  ],
+  "materialNames": [
+    "Black",
+    "Grey",
+    "White",
+    "Main"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/scifimodularguns.html",
+    "download": "https://drive.google.com/uc?export=download&id=1TtwqSRI-vlBMO0EUF7kTXBYMrUqT09dQ",
+    "file": "Modular Parts/glTF/Grip_AR_6.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

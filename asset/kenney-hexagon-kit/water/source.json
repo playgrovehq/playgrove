@@ -1,0 +1,23 @@
+{
+  "id": "water",
+  "label": "water",
+  "description": "Hexagon Kit by Kenney.",
+  "pack": "kenney-hexagon-kit",
+  "listing": "https://kenney.nl/assets/hexagon-kit",
+  "download": "https://kenney.nl/media/pages/assets/hexagon-kit/fd3b63101b-1706007730/kenney_hexagon-kit.zip",
+  "archiveSha256": "d14f7643852c4dd854c7530de8514c9eb77314fe9963636077f0de1da8901236",
+  "file": "Models/GLB format/water.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1d29b510b85e32fa22501e277ba33cff2bec3e686964f57cc2656258e5182f4b",
+  "originalInputSha256": "f5ed8094f91b1b8b80e2c32b6bc16a444de85574de9bc11efb4e07d8a062fced",
+  "descriptor": "metadata.json",
+  "model": "water.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0.10000000149011612,1.1547000408172607]",
+  "convertedAt": "2026-09-05T10:30:16.927Z"
+}

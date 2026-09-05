@@ -1,0 +1,22 @@
+{
+  "id": "fence-middle",
+  "label": "Fence Middle",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=14ZZ5nyoYTjQHRgQNn5piAe9doj2zaAQM",
+  "file": "Level and Mechanics/glTF/Fence_Middle.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2d771c3c1292c92421470a080b20d4df4c2a2917b3b9adddd0b3bbc144b1117a",
+  "originalInputSha256": "2d771c3c1292c92421470a080b20d4df4c2a2917b3b9adddd0b3bbc144b1117a",
+  "descriptor": "metadata.json",
+  "model": "fence-middle.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2,1.251127004623413,0.26435399055480957]",
+  "convertedAt": "2026-09-05T11:48:28.604Z"
+}

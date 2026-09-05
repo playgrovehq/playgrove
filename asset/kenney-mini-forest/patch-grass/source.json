@@ -1,0 +1,23 @@
+{
+  "id": "patch-grass",
+  "label": "patch-grass",
+  "description": "Mini Forest by Kenney.",
+  "pack": "kenney-mini-forest",
+  "listing": "https://kenney.nl/assets/mini-forest",
+  "download": "https://kenney.nl/media/pages/assets/mini-forest/44a89aed7f-1784024079/kenney_mini-forest_1.0.zip",
+  "archiveSha256": "8691614018075a66458e35915b8c358c2e6178648aedadafcdf313b924aa6581",
+  "file": "Models/GLB format/patch-grass.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1bc4e67c0faef4555fdfd956ea1206e49c62e08e0dd59ad820d86730a0ac6d7b",
+  "originalInputSha256": "bfec799fb5ee7d57baa444982378a917d40868d88773e1fec43656f9d754ebca",
+  "descriptor": "metadata.json",
+  "model": "patch-grass.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0.17101900279521942,1]",
+  "convertedAt": "2026-09-05T10:30:22.532Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pipe-straight",
+  "label": "pipe straight",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/pipe_straight.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5cd7aaf744366e145b4e9e286f798c5b70daf3cfc72e6034cc1a8f065d5771a6",
+  "originalInputSha256": "3386146dbfa9a9f2c7bcc5a6599a3c9d43a9e029c26f61b345ff6b16df80e6a1",
+  "descriptor": "metadata.json",
+  "model": "pipe-straight.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.6928200721740723,0.6000000238418579,1]",
+  "convertedAt": "2026-09-05T10:30:41.663Z"
+}

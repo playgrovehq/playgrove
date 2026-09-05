@@ -1,0 +1,23 @@
+{
+  "id": "meteor-half",
+  "label": "meteor half",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/meteor_half.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "75fd9cdda260e102c86841fcc9fe098930ca820652ee16e703d9e95b60659594",
+  "originalInputSha256": "ef611f9d1de4196023686a9977ea32cd15858f626d0d7dbb1240450edb92c4c2",
+  "descriptor": "metadata.json",
+  "model": "meteor-half.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.8660259246826172,0.3675000071525574,0.75]",
+  "convertedAt": "2026-09-05T10:30:41.196Z"
+}

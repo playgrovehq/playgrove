@@ -1,0 +1,23 @@
+{
+  "id": "meteor-detailed",
+  "label": "meteor detailed",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/meteor_detailed.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5eafcd7c17075ba2614b17d1f49d15a79a5b0881a9173ad879f8df52cf85d2fa",
+  "originalInputSha256": "f30379abd7d772a2fdc52ebb72ad2b5fc94768343cb8f6788614820f632c5e63",
+  "descriptor": "metadata.json",
+  "model": "meteor-detailed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.8660259246826172,0.7350000143051147,0.8250000476837158]",
+  "convertedAt": "2026-09-05T10:30:41.179Z"
+}

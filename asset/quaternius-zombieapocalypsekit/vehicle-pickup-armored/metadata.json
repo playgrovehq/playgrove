@@ -1,0 +1,118 @@
+{
+  "version": 2,
+  "id": "vehicle-pickup-armored",
+  "label": "Vehicle Pickup Armored",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "vehicle",
+    "pickup",
+    "armored",
+    "quaternius",
+    "zombieapocalypsekit",
+    "back",
+    "wheels",
+    "front",
+    "wheel",
+    "r",
+    "l",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#585858",
+    "#8b755e",
+    "#4e8aac",
+    "#444444",
+    "#adadad",
+    "#5a4b3e",
+    "#9e731d",
+    "#caa507",
+    "#aa8736",
+    "#5c5c5c",
+    "#8b8786",
+    "#b89651",
+    "#cbc3bd",
+    "#9e4408",
+    "#ffffff",
+    "#1f1f1f",
+    "#7a7a7a"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "blue",
+    "black",
+    "beige",
+    "orange",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "vehicle-pickup-armored.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 15991,
+    "triangles": 13160,
+    "parts": 21,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.325021,
+      -0.005936,
+      -2.597126
+    ],
+    "max": [
+      1.32502,
+      1.991325,
+      2.908345
+    ],
+    "size": [
+      2.650041,
+      1.997261,
+      5.505471
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pickup_Armored",
+    "BackWheels",
+    "FrontWheel_R",
+    "FrontWheel_L"
+  ],
+  "materialNames": [
+    "Atlas",
+    "Headlights"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Vj0LYG7osEColDl4BxVV6EC2mOBW-1ND",
+    "file": "Vehicles/glTF/Vehicle_Pickup_Armored.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

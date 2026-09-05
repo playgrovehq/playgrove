@@ -1,0 +1,23 @@
+{
+  "id": "light-post-exclusive",
+  "label": "lightPost exclusive",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/lightPost_exclusive.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "12d784f60d63bd28e0487f2316457f0362a7f93e19b37dacd280d48e4014cee4",
+  "originalInputSha256": "0de5b91a96f6875f2a2382ac74b0ddee050bc448dad2b81c5f8f55c2211df3bd",
+  "descriptor": "metadata.json",
+  "model": "light-post-exclusive.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.19999998807907104,0.795655021443963,0.09706300497055054]",
+  "convertedAt": "2026-09-05T10:30:37.062Z"
+}

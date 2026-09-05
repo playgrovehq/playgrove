@@ -1,0 +1,22 @@
+{
+  "id": "bomb",
+  "label": "Bomb",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1BT57a49c9xSvFV88LuN9Bl9QIjSokmvn",
+  "file": "Level and Mechanics/glTF/Bomb.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e3ea6385b783bb58c74d547570177ee9c404a5a1f6a39ea398b38e11d617fda9",
+  "originalInputSha256": "e3ea6385b783bb58c74d547570177ee9c404a5a1f6a39ea398b38e11d617fda9",
+  "descriptor": "metadata.json",
+  "model": "bomb.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.1253739595413208,1.752665936946869,1.1323070526123047]",
+  "convertedAt": "2026-09-05T11:48:28.453Z"
+}

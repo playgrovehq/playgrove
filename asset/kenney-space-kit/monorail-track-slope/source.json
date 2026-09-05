@@ -1,0 +1,23 @@
+{
+  "id": "monorail-track-slope",
+  "label": "monorail trackSlope",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/monorail_trackSlope.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0a670452402f9600b42c671468a2ec810db984797cb378020a6474b51e6b1326",
+  "originalInputSha256": "f6e10b5621c9caf2cc7b04d8b7d822a5e92e0d0bf0f25e417b38a3cd6498dbcb",
+  "descriptor": "metadata.json",
+  "model": "monorail-track-slope.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.19999992847442627,0.6299999952316284,1]",
+  "convertedAt": "2026-09-05T10:30:41.246Z"
+}

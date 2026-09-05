@@ -1,0 +1,22 @@
+{
+  "id": "grass-2",
+  "label": "Grass 2",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1r2l4HRGlR6JD6GPBV6RnTw6wEYJStTJ6",
+  "file": "Nature/glTF/Grass_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "45e7103b5c5f0ec4ca5db5fecacb61f9cf8c685529c4fc9d51f0b6e5c255dd25",
+  "originalInputSha256": "45e7103b5c5f0ec4ca5db5fecacb61f9cf8c685529c4fc9d51f0b6e5c255dd25",
+  "descriptor": "metadata.json",
+  "model": "grass-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.0710189938545227,0.47456997632980347,0.6323550045490265]",
+  "convertedAt": "2026-09-05T11:48:29.574Z"
+}

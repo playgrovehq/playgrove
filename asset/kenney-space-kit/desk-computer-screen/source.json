@@ -1,0 +1,23 @@
+{
+  "id": "desk-computer-screen",
+  "label": "desk computerScreen",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/desk_computerScreen.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9c3f6c0babaa0e614a2fa4e0394d1f8f02225667b6c8d0d550c36b0caa64f819",
+  "originalInputSha256": "3a7526fff69a29bd1c793cea34c2bf9d6a96dcc7ef0c7b3c1286f691b8835074",
+  "descriptor": "metadata.json",
+  "model": "desk-computer-screen.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.5250000953674316,0.637499988079071,0.22499990463256836]",
+  "convertedAt": "2026-09-05T10:30:40.895Z"
+}

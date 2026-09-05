@@ -1,0 +1,23 @@
+{
+  "id": "floor-corner-round",
+  "label": "floorCornerRound",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/floorCornerRound.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a558a817fbe2d974c5c5635c88fc8f5b751603f9ae7bbf0a495f57566961f838",
+  "originalInputSha256": "d9d5392ecff520a263dd7e5b77e733da125f866002311ea65572731d90fb8990",
+  "descriptor": "metadata.json",
+  "model": "floor-corner-round.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.550000011920929,0.05000000074505806,0.550000011920929]",
+  "convertedAt": "2026-09-05T10:30:14.631Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "race-car-orange",
+  "label": "raceCarOrange",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/raceCarOrange.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "aa6de8bd7c6facba0779fc0be36053768305eefa241a4aad221259c309968fe0",
+  "originalInputSha256": "3f7d799e54e0f64c846db3764f04ccfcddfbfe48d7d59f366495d4585a35a980",
+  "descriptor": "metadata.json",
+  "model": "race-car-orange.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=11 materials=11 bounds=[0.7288320269435644,0.3970140069723129,1.3459370229393244]",
+  "convertedAt": "2026-09-05T10:30:37.315Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "terrain-ramp",
+  "label": "terrain ramp",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/terrain_ramp.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ae81920fcc68269b6d4fb72ff2612f026604e84393aeb46fbd3680813cc98a1b",
+  "originalInputSha256": "9171061212ee5aa9a74393c9f657a89a5b19d675766a43c88d5d91df6e507dea",
+  "descriptor": "metadata.json",
+  "model": "terrain-ramp.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.5,1]",
+  "convertedAt": "2026-09-05T10:30:42.529Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fence",
+  "label": "Fence",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=119DaF8fbqJzXgzhjUqJSOdYQll_dlTSE",
+  "file": "Platforms/Fence.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "493dc5a559a0806c337fc0ff0757a5f7bcfee40facd14e91055e65b4380d5e24",
+  "originalInputSha256": "493dc5a559a0806c337fc0ff0757a5f7bcfee40facd14e91055e65b4380d5e24",
+  "descriptor": "metadata.json",
+  "model": "fence.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6918119788169861,1.2555530071258545,0.05110400170087814]",
+  "convertedAt": "2026-09-05T12:03:55.907Z"
+}

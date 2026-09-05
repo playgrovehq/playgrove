@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "temple-second-age-level2",
+  "label": "Temple SecondAge Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "props",
+  "tags": [
+    "temple",
+    "second",
+    "age",
+    "level2",
+    "quaternius",
+    "ultimatefantasyrts",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#888880",
+    "#b0b1a6",
+    "#b15945"
+  ],
+  "colorNames": [
+    "gray",
+    "beige",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "temple-second-age-level2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 4272,
+    "triangles": 2292,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.095648,
+      -0.001793,
+      -1.095648
+    ],
+    "max": [
+      1.095648,
+      3.928468,
+      1.095648
+    ],
+    "size": [
+      2.191296,
+      3.930261,
+      2.191296
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Temple_SecondAge_Level2"
+  ],
+  "materialNames": [
+    "Stone",
+    "Walls",
+    "Main"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=1euyxNfR_KvltDTfEkLpNBy64X3KQw8_D",
+    "file": "glTF/Temple_SecondAge_Level2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

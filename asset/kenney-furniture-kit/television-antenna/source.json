@@ -1,0 +1,23 @@
+{
+  "id": "television-antenna",
+  "label": "televisionAntenna",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/televisionAntenna.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b619e61af2a88bdb257544a6544d413da655476f9d3dd5d6f58acbaeb9b25acc",
+  "originalInputSha256": "00eea4123b3efc7f8050fd3eaac0a83de3053c9e6cead18dc739260a429b2bb7",
+  "descriptor": "metadata.json",
+  "model": "television-antenna.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.2645280063152313,0.10273399949073792,0.07999999821186066]",
+  "convertedAt": "2026-09-05T10:30:15.731Z"
+}

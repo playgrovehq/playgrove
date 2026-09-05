@@ -1,0 +1,22 @@
+{
+  "id": "fence-1",
+  "label": "Fence 1",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1m12b87g-psITuHoOUZymPAM_9mQw5SO7",
+  "file": "Level and Mechanics/glTF/Fence_1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "82ad9ce07d3a3259c0b9088658b581783ef0acda9b3cc69c19b0dc587490b7af",
+  "originalInputSha256": "82ad9ce07d3a3259c0b9088658b581783ef0acda9b3cc69c19b0dc587490b7af",
+  "descriptor": "metadata.json",
+  "model": "fence-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7481549978256226,1.251127004623413,0.26435399055480957]",
+  "convertedAt": "2026-09-05T11:48:28.571Z"
+}

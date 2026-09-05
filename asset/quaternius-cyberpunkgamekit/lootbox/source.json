@@ -1,0 +1,22 @@
+{
+  "id": "lootbox",
+  "label": "Lootbox",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=18AyD-zFoZYuln2KkAu1DA1UKkBStkU6N",
+  "file": "Pickups and Objects/Lootbox.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "50b6b64c3b092c3819ef1a95e75cce5503f4aea70935d8c4e1444822003c9045",
+  "originalInputSha256": "50b6b64c3b092c3819ef1a95e75cce5503f4aea70935d8c4e1444822003c9045",
+  "descriptor": "metadata.json",
+  "model": "lootbox.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.5919359922409058,0.5120579971699044,0.6081349849700928]",
+  "convertedAt": "2026-09-05T12:03:55.681Z"
+}

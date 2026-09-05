@@ -1,0 +1,102 @@
+{
+  "version": 2,
+  "id": "market-second-age-level1",
+  "label": "Market SecondAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "props",
+  "tags": [
+    "market",
+    "second",
+    "age",
+    "level1",
+    "quaternius",
+    "ultimatefantasyrts",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a58758",
+    "#886a42",
+    "#797979",
+    "#56751d",
+    "#888880",
+    "#a78240",
+    "#a7a21c",
+    "#901107"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "market-second-age-level1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 9440,
+    "triangles": 4864,
+    "parts": 8,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.998959,
+      -0.006129,
+      -0.331938
+    ],
+    "max": [
+      0.917137,
+      0.585933,
+      0.900017
+    ],
+    "size": [
+      1.916096,
+      0.592062,
+      1.231955
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Market_SecondAge_Level1"
+  ],
+  "materialNames": [
+    "Wood_Light",
+    "Wood",
+    "Metal_Light",
+    "Green",
+    "Stone",
+    "Gold",
+    "Yellow",
+    "Red"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=16Qcx8sIMOCCtFa8y1ts3g3uHIHh8r5XS",
+    "file": "glTF/Market_SecondAge_Level1.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "id": "heart-half",
+  "label": "Heart Half",
+  "description": "Platformer Game Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "heart",
+    "half",
+    "quaternius",
+    "ultimateplatformer",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#8f413f"
+  ],
+  "colorNames": [
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "heart-half.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 176,
+    "triangles": 276,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.740061,
+      -0.569697,
+      -0.377103
+    ],
+    "max": [
+      0,
+      0.672368,
+      0.377103
+    ],
+    "size": [
+      0.740061,
+      1.242065,
+      0.754206
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Heart_Half"
+  ],
+  "materialNames": [
+    "Red"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1R0Enq6VhCDzLuZCQCLqWWjUbH2zSQkur",
+    "file": "Powerups and Pickups/glTF/Heart_Half.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

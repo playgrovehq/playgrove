@@ -1,0 +1,23 @@
+{
+  "id": "lounge-design-sofa-corner",
+  "label": "loungeDesignSofaCorner",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/loungeDesignSofaCorner.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1e172f9503a3f356a7f071a3622181d04991c71138e2e5d9fc4066f325962780",
+  "originalInputSha256": "fe665d07d53fdc6bc96e9fed453874ba4202b008194e1e24100b067081c62be1",
+  "descriptor": "metadata.json",
+  "model": "lounge-design-sofa-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.3498280048370361,0.4000000059604645,1.3498280048370361]",
+  "convertedAt": "2026-09-05T10:30:15.112Z"
+}

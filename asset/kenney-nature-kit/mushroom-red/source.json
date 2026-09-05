@@ -1,0 +1,23 @@
+{
+  "id": "mushroom-red",
+  "label": "mushroom red",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/mushroom_red.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "29600900817a296a802d0b91651b4ec957ee07153ec9bd0b3d66b5103ad1fe43",
+  "originalInputSha256": "843e2de43dce78920a5675a67bac4b72f500e6220315e713fe08381642cfc571",
+  "descriptor": "metadata.json",
+  "model": "mushroom-red.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.17396699637174606,0.2027999944984913,0.2008799985051155]",
+  "convertedAt": "2026-09-05T10:30:29.813Z"
+}

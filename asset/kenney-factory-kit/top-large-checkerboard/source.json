@@ -1,0 +1,23 @@
+{
+  "id": "top-large-checkerboard",
+  "label": "top-large-checkerboard",
+  "description": "Factory Kit by Kenney.",
+  "pack": "kenney-factory-kit",
+  "listing": "https://kenney.nl/assets/factory-kit",
+  "download": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+  "archiveSha256": "7e31fb2308e90304672bd15cd18fa9d9f02c03731a8cbc57a8e3e1c181dfb0a7",
+  "file": "Models/GLB format/top-large-checkerboard.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "47838c20b545a9523028d7f95d880a6ace6a2551a2db39c76b08f4ec5e3dde69",
+  "originalInputSha256": "128d0adf75b59e55339b6dbb6ad09c20dd30595eec2eb17f6a43c40119d3b49a",
+  "descriptor": "metadata.json",
+  "model": "top-large-checkerboard.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2,0,2]",
+  "convertedAt": "2026-09-05T10:30:10.345Z"
+}

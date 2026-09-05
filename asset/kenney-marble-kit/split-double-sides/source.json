@@ -1,0 +1,23 @@
+{
+  "id": "split-double-sides",
+  "label": "split-double-sides",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/split-double-sides.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "978c99f58bd6970624cc5c2b987a85331b1921ed237d10de4bb5dd9e720c5aea",
+  "originalInputSha256": "76b79e1c3a1a9dbc889162e1949572a14cd9a59993e862fb3cadffdf388668e5",
+  "descriptor": "metadata.json",
+  "model": "split-double-sides.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[3,0.5,2]",
+  "convertedAt": "2026-09-05T10:30:21.371Z"
+}

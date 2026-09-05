@@ -1,0 +1,23 @@
+{
+  "id": "tent-roof-double",
+  "label": "tentRoofDouble",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/tentRoofDouble.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a3e9abfd8cf6039833972040b251c10bcd726318d57c1e949431d1938a6e1e04",
+  "originalInputSha256": "0895c54fa0dc3040eb97b1e77332b7e05373d0a08f158c948c17efd50fcdb16a",
+  "descriptor": "metadata.json",
+  "model": "tent-roof-double.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.1199999749660492,0.6300000045448542,0.9900000095367432]",
+  "convertedAt": "2026-09-05T10:30:38.847Z"
+}

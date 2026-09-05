@@ -1,0 +1,23 @@
+{
+  "id": "road-side",
+  "label": "roadSide",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadSide.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "01c9bf6c5fb07d78067a1d806570be87c9e373814499170b99ce30003db8bbd7",
+  "originalInputSha256": "8bd1906efe075d91abf8d8936e4805eabf3e26cd3d7f26e7b911d11a9687becf",
+  "descriptor": "metadata.json",
+  "model": "road-side.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.9999999701976776,0.019999999552965164,2.0000001192092896]",
+  "convertedAt": "2026-09-05T10:30:38.059Z"
+}

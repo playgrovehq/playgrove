@@ -1,0 +1,23 @@
+{
+  "id": "table-cloth",
+  "label": "tableCloth",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/tableCloth.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b7c99d008a2c7ed8ddd567dbf44b5e030d32e6ba7659645072a26c96aab07fee",
+  "originalInputSha256": "64de52b5c4370724c29feefd68a65b157c55c88592e2096987bbce007ae80bcb",
+  "descriptor": "metadata.json",
+  "model": "table-cloth.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.8414880037307739,0.3267340064048767,0.44737300276756287]",
+  "convertedAt": "2026-09-05T10:30:15.630Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rock-crystals-large-b",
+  "label": "rock crystalsLargeB",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/rock_crystalsLargeB.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c50ca2cef17e4c8f3e1076eaba0b05955390b0019f3cb4784548aee52cd98b45",
+  "originalInputSha256": "3fe54711b8d0fbeaebcc055409f256bf414ad7493e7f97adba4b213e44f11117",
+  "descriptor": "metadata.json",
+  "model": "rock-crystals-large-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.9393389225006104,0.550000011920929,0.9320969581604004]",
+  "convertedAt": "2026-09-05T10:30:42.047Z"
+}

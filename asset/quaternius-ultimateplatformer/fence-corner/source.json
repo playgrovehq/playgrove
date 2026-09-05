@@ -1,0 +1,22 @@
+{
+  "id": "fence-corner",
+  "label": "Fence Corner",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ujFY0Hi1Oyo8CwUtKh2NSeDG9_rGRKB1",
+  "file": "Level and Mechanics/glTF/Fence_Corner.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "533ea9592d2bb46747919953ee8e8f884cbcd3d4d6f1897f7128b41af3e18350",
+  "originalInputSha256": "533ea9592d2bb46747919953ee8e8f884cbcd3d4d6f1897f7128b41af3e18350",
+  "descriptor": "metadata.json",
+  "model": "fence-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.1321769952774048,1.251127004623413,1.1321769952774048]",
+  "convertedAt": "2026-09-05T11:48:28.587Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "support-long",
+  "label": "Support Long",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1fRQScptvXGv0yWLgvEKiuKIFIKatub2X",
+  "file": "Platforms/Support_Long.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "25836c13930c28cd2cdc56df758ade1a990e8e73ef1c99c16e675dd7ed8e01c6",
+  "originalInputSha256": "25836c13930c28cd2cdc56df758ade1a990e8e73ef1c99c16e675dd7ed8e01c6",
+  "descriptor": "metadata.json",
+  "model": "support-long.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.1098340020904516,3.560983896255493,0.08783800154924393]",
+  "convertedAt": "2026-09-05T12:03:56.069Z"
+}

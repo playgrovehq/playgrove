@@ -1,0 +1,23 @@
+{
+  "id": "platform-stone",
+  "label": "platform stone",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/platform_stone.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1d2f04a535002d8c7e3a008a813b4cb8cacdfc60b4497f6600221af7db3d5a6f",
+  "originalInputSha256": "bfa5a35bbdc94d5719c3e98b1c7688fa8777e2cb6599a3df579d428f4973dc70",
+  "descriptor": "metadata.json",
+  "model": "platform-stone.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.8931970000267029,0.08249999955296516,0.7239200174808502]",
+  "convertedAt": "2026-09-05T10:30:30.197Z"
+}

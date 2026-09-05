@@ -1,0 +1,22 @@
+{
+  "id": "farm-dirt-level3",
+  "label": "Farm Dirt Level3",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Gbgnu-M288VcVVD7M0J_ocZl8MRtG8LZ",
+  "file": "glTF/Farm_Dirt_Level3.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ba5a60803628b741123f50a509bd20dbc622734203b1dc8809543e5ab29c4a3c",
+  "originalInputSha256": "ba5a60803628b741123f50a509bd20dbc622734203b1dc8809543e5ab29c4a3c",
+  "descriptor": "metadata.json",
+  "model": "farm-dirt-level3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=6 materials=6 bounds=[1.789167046546936,0.32272298680618405,1.5558120012283325]",
+  "convertedAt": "2026-09-05T12:03:23.814Z"
+}

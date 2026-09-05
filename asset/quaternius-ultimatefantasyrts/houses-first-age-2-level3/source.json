@@ -1,0 +1,22 @@
+{
+  "id": "houses-first-age-2-level3",
+  "label": "Houses FirstAge 2 Level3",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FX_C7ON6lE17D3ZCLBPv507cDjHdvozT",
+  "file": "glTF/Houses_FirstAge_2_Level3.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5a25b6a2672704de087539381e91b8dd1029ac6b3547934a6a2e6a0aa41f5bdc",
+  "originalInputSha256": "5a25b6a2672704de087539381e91b8dd1029ac6b3547934a6a2e6a0aa41f5bdc",
+  "descriptor": "metadata.json",
+  "model": "houses-first-age-2-level3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.46384996175766,0.7684999820776284,1.1748080253601074]",
+  "convertedAt": "2026-09-05T12:03:24.177Z"
+}

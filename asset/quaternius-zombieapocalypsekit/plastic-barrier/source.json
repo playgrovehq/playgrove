@@ -1,0 +1,22 @@
+{
+  "id": "plastic-barrier",
+  "label": "PlasticBarrier",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=19Qff0L9UtY_pumPT1jdbfFYLMRMWl9X7",
+  "file": "Environment/glTF/PlasticBarrier.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "78407ae2ee697c2be2c59cd1e71a23f0acda2c6b23521d57a6837e71a0163ec3",
+  "originalInputSha256": "78407ae2ee697c2be2c59cd1e71a23f0acda2c6b23521d57a6837e71a0163ec3",
+  "descriptor": "metadata.json",
+  "model": "plastic-barrier.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.0353419780731201,0.5995470285415649,0.33389198780059814]",
+  "convertedAt": "2026-09-05T11:49:49.445Z"
+}

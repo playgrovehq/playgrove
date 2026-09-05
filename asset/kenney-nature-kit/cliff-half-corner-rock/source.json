@@ -1,0 +1,23 @@
+{
+  "id": "cliff-half-corner-rock",
+  "label": "cliff halfCorner rock",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_halfCorner_rock.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7c1dfd3710b736f6d74a0b9fb3412f29bf906fc44aafedd80b62a6c25b1ad4f5",
+  "originalInputSha256": "66bf0d002431f55e99aad464862c133420b3e4b78cf878091c7b5d94ed371ec9",
+  "descriptor": "metadata.json",
+  "model": "cliff-half-corner-rock.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.41849999874830246,0.4999999888241291,0.41849999874830246]",
+  "convertedAt": "2026-09-05T10:30:26.946Z"
+}

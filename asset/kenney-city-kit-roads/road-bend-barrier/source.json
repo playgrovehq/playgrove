@@ -1,0 +1,23 @@
+{
+  "id": "road-bend-barrier",
+  "label": "road-bend-barrier",
+  "description": "City Kit (Roads) by Kenney.",
+  "pack": "kenney-city-kit-roads",
+  "listing": "https://kenney.nl/assets/city-kit-roads",
+  "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+  "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+  "file": "Models/GLB format/road-bend-barrier.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "704dff36759cedb702f179eb1f5fc2ec4804c4bfa230d67d2f81c60711612055",
+  "originalInputSha256": "dc0dc4f8e82e25eee81c9dd31b5376d31a699e6541d7bb767d7722e3b93e0d86",
+  "descriptor": "metadata.json",
+  "model": "road-bend-barrier.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0.07999999821186066,1]",
+  "convertedAt": "2026-09-05T10:30:08.145Z"
+}

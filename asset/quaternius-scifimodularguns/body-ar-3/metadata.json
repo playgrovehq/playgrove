@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "body-ar-3",
+  "label": "Body AR 3",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "body",
+    "ar",
+    "quaternius",
+    "scifimodularguns",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#303030",
+    "#5a5a5a",
+    "#b4b4b4",
+    "#ce7f2f"
+  ],
+  "colorNames": [
+    "black",
+    "brown",
+    "beige",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "body-ar-3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 678,
+    "triangles": 698,
+    "parts": 4,
+    "discardedDegenerate": 8
+  },
+  "bounds": {
+    "min": [
+      -0.588576,
+      -0.152553,
+      -0.065482
+    ],
+    "max": [
+      0.547431,
+      0.192016,
+      0.065482
+    ],
+    "size": [
+      1.136007,
+      0.344569,
+      0.130964
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Body_AR_3"
+  ],
+  "materialNames": [
+    "Black",
+    "Grey",
+    "White",
+    "Main"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/scifimodularguns.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Ti_ceARwwpDLxl920ufrKl0RuVNnF0-T",
+    "file": "Modular Parts/glTF/Body_AR_3.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

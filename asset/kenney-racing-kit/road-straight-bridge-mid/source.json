@@ -1,0 +1,23 @@
+{
+  "id": "road-straight-bridge-mid",
+  "label": "roadStraightBridgeMid",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadStraightBridgeMid.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "01ca445c0fac259b52a2daabc44cd1d7ff28993db29b5effc49ff9ecb7c94e09",
+  "originalInputSha256": "fc6c40e5d54a0fc64ff5875067bd2cc2757278b5d120a9de739d8ad88dfd698e",
+  "descriptor": "metadata.json",
+  "model": "road-straight-bridge-mid.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.9999999701976776,0.12662097811698914,1]",
+  "convertedAt": "2026-09-05T10:30:38.262Z"
+}

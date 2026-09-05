@@ -1,0 +1,22 @@
+{
+  "id": "traffic-light-1",
+  "label": "TrafficLight 1",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FfZb08XIdv9gzHCVJ9JRIoLmqcgf87Q9",
+  "file": "Environment/glTF/TrafficLight_1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "919efc3473a70efa036cbc97ffa818ac311501b2b629942ed4202629b6a7c560",
+  "originalInputSha256": "919efc3473a70efa036cbc97ffa818ac311501b2b629942ed4202629b6a7c560",
+  "descriptor": "metadata.json",
+  "model": "traffic-light-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[1.5129349827766418,4.663855782710016,1.5113349705934525]",
+  "convertedAt": "2026-09-05T11:49:50.021Z"
+}

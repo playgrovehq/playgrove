@@ -1,0 +1,22 @@
+{
+  "id": "rail-corner-2",
+  "label": "Rail Corner 2",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hIPbyMVlollFrwQky13nePrNrw7ot16D",
+  "file": "Platforms/Rail_Corner_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7482bfa66ba117e805912f2239ca630f921f88fc8e56c7e5dad89d952c37de48",
+  "originalInputSha256": "7482bfa66ba117e805912f2239ca630f921f88fc8e56c7e5dad89d952c37de48",
+  "descriptor": "metadata.json",
+  "model": "rail-corner-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.7222349494695663,0.2368120034225285,0.6815750002861023]",
+  "convertedAt": "2026-09-05T12:03:56.003Z"
+}

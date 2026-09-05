@@ -1,0 +1,23 @@
+{
+  "id": "pillow-blue-long",
+  "label": "pillowBlueLong",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/pillowBlueLong.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "abbaf2785ea1c465fd626e21550102f6b758488839c53e02bf6443d7117e0b71",
+  "originalInputSha256": "b643f81a863595071b7907d3d0dcf5b1b0e3bb6ad8521db37778b2242ba46bbc",
+  "descriptor": "metadata.json",
+  "model": "pillow-blue-long.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.5165759921073914,0.22216300666332245,0.08848399668931961]",
+  "convertedAt": "2026-09-05T10:30:15.246Z"
+}

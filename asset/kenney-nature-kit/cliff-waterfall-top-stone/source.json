@@ -1,0 +1,23 @@
+{
+  "id": "cliff-waterfall-top-stone",
+  "label": "cliff waterfallTop stone",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_waterfallTop_stone.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "46d2f8b97ff41165c8337ba20b6b2e4c3bf2a5d9f39db169edbcdca41b4de114",
+  "originalInputSha256": "92ea675e7d42f81f1b4e185e8caf3518e33a7ef5044198d6a02641a4bf19fad7",
+  "descriptor": "metadata.json",
+  "model": "cliff-waterfall-top-stone.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=6 materials=6 bounds=[1,0.9999999888241291,0.2685000002384186]",
+  "convertedAt": "2026-09-05T10:30:27.297Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "town-center-first-age-level1",
+  "label": "TownCenter FirstAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1HfAS4folrYwiZla5h4oaX96PKg3cW1rW",
+  "file": "glTF/TownCenter_FirstAge_Level1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "433f30a5d58103e404e2ef631593033bd64c8d97323414541d0864803159ccc3",
+  "originalInputSha256": "433f30a5d58103e404e2ef631593033bd64c8d97323414541d0864803159ccc3",
+  "descriptor": "metadata.json",
+  "model": "town-center-first-age-level1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.2637730240821838,0.30334398709237576,1.2405979633331299]",
+  "convertedAt": "2026-09-05T12:03:25.371Z"
+}

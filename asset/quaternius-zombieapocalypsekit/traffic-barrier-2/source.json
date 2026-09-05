@@ -1,0 +1,22 @@
+{
+  "id": "traffic-barrier-2",
+  "label": "TrafficBarrier 2",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1bnXoYPgYw6eX8pyN0G5B1BMiNy17P8MW",
+  "file": "Environment/glTF/TrafficBarrier_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2ea0d80fba6b6d13c111ac269ea765bff179c52c565df9e7d59000403166efbb",
+  "originalInputSha256": "2ea0d80fba6b6d13c111ac269ea765bff179c52c565df9e7d59000403166efbb",
+  "descriptor": "metadata.json",
+  "model": "traffic-barrier-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.5553300380706787,0.8023230207618326,0.7801039814949036]",
+  "convertedAt": "2026-09-05T11:49:49.611Z"
+}

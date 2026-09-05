@@ -1,0 +1,23 @@
+{
+  "id": "bench-cushion-low",
+  "label": "benchCushionLow",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/benchCushionLow.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7edbbe338aaa0d7cb97a8f6edacb8dce2b6065caae7e900273b97dd801310fd6",
+  "originalInputSha256": "d1fac209eae2ea7393beefa4932dacb54d500e8f9932a1b17d2a842527df1b2c",
+  "descriptor": "metadata.json",
+  "model": "bench-cushion-low.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.4199999962002039,0.20000000298023224,0.21999999321997166]",
+  "convertedAt": "2026-09-05T10:30:12.945Z"
+}

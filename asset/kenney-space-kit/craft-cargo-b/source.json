@@ -1,0 +1,23 @@
+{
+  "id": "craft-cargo-b",
+  "label": "craft cargoB",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/craft_cargoB.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d33cc90bf16c9f85a10dd09f87f7e40e50e6eec2137d04512878c36bfc07e24b",
+  "originalInputSha256": "8da33a720ed3b208938a969864d6b0a64a51b7715f71d102ecad0a5f71412b8c",
+  "descriptor": "metadata.json",
+  "model": "craft-cargo-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.5,0.8999999761581421,2.5]",
+  "convertedAt": "2026-09-05T10:30:40.646Z"
+}

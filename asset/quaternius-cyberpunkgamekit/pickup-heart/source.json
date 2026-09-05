@@ -1,0 +1,22 @@
+{
+  "id": "pickup-heart",
+  "label": "Pickup Heart",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ogPotkBxdeOpOcYz3b0wHNWPZbGzeKJ7",
+  "file": "Pickups and Objects/Pickup_Heart.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a60b7c8df3cdd1f1be55139a8bc334c87bc7d91453ad6d53fdbf6bb4baf635ae",
+  "originalInputSha256": "a60b7c8df3cdd1f1be55139a8bc334c87bc7d91453ad6d53fdbf6bb4baf635ae",
+  "descriptor": "metadata.json",
+  "model": "pickup-heart.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.2464420050382614,0.2412720024585724,0.2464420050382614]",
+  "convertedAt": "2026-09-05T12:03:55.713Z"
+}

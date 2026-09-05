@@ -1,0 +1,22 @@
+{
+  "id": "cube-dirt-side",
+  "label": "Cube Dirt Side",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Jn_fJ9ZHJoZC0e2nCni09ygUygb8u_aK",
+  "file": "Modular Platforms/Single Height/glTF/Cube_Dirt_Side.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "606cead0987256ec265945d40900fec092144a0ba167e6aa4fb7db266015878e",
+  "originalInputSha256": "606cead0987256ec265945d40900fec092144a0ba167e6aa4fb7db266015878e",
+  "descriptor": "metadata.json",
+  "model": "cube-dirt-side.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2,2,2]",
+  "convertedAt": "2026-09-05T11:48:29.388Z"
+}

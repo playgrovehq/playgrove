@@ -1,0 +1,22 @@
+{
+  "id": "mountain-single",
+  "label": "Mountain Single",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_9xhFTfiSO5d4v6SHvoce810Gz9iYjtA",
+  "file": "glTF/Mountain_Single.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e83e8ba6cd7653815610a3ee38a7203846481dc686f4185b74d53f1d40d9cb86",
+  "originalInputSha256": "e83e8ba6cd7653815610a3ee38a7203846481dc686f4185b74d53f1d40d9cb86",
+  "descriptor": "metadata.json",
+  "model": "mountain-single.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.4964599609375,1.3696989826858044,1.1172500252723694]",
+  "convertedAt": "2026-09-05T12:03:24.639Z"
+}

@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "id": "grip-ar-1",
+  "label": "Grip AR 1",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "grip",
+    "ar",
+    "quaternius",
+    "scifimodularguns",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#303030",
+    "#5a5a5a",
+    "#b4b4b4"
+  ],
+  "colorNames": [
+    "black",
+    "brown",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "grip-ar-1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 827,
+    "triangles": 893,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.129712,
+      -0.153224,
+      -0.060518
+    ],
+    "max": [
+      0.755966,
+      0.169127,
+      0.060518
+    ],
+    "size": [
+      0.885678,
+      0.322351,
+      0.121036
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Grip_AR_1"
+  ],
+  "materialNames": [
+    "Black",
+    "Grey",
+    "White"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/scifimodularguns.html",
+    "download": "https://drive.google.com/uc?export=download&id=1CbL6oVsZf5_Nur4xnHt5-puFuU-EIP_6",
+    "file": "Modular Parts/glTF/Grip_AR_1.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

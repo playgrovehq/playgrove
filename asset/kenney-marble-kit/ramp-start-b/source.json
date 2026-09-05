@@ -1,0 +1,23 @@
+{
+  "id": "ramp-start-b",
+  "label": "ramp-start-b",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/ramp-start-b.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "77ce616140eb15070bb4369163d44b85c5a259ae8bde8c746ab1b8836e96c421",
+  "originalInputSha256": "92231f1e23ac0329ceec15c71813c05a7eb7cc82a8d482cb46011650e559adc8",
+  "descriptor": "metadata.json",
+  "model": "ramp-start-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.75,1]",
+  "convertedAt": "2026-09-05T10:30:20.265Z"
+}

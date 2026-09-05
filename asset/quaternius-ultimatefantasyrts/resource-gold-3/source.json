@@ -1,0 +1,22 @@
+{
+  "id": "resource-gold-3",
+  "label": "Resource Gold 3",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=16mYXUh2Be_Qo5L-TvtBSeI1iGX5AfEFk",
+  "file": "glTF/Resource_Gold_3.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "feb9186bb519985def3eb8b32734f99a22721a97956cbb8f20b18bd836182c12",
+  "originalInputSha256": "feb9186bb519985def3eb8b32734f99a22721a97956cbb8f20b18bd836182c12",
+  "descriptor": "metadata.json",
+  "model": "resource-gold-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.590734988451004,0.163449996849522,0.48373501002788544]",
+  "convertedAt": "2026-09-05T12:03:24.841Z"
+}

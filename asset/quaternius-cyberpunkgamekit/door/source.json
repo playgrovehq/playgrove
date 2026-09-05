@@ -1,0 +1,22 @@
+{
+  "id": "door",
+  "label": "Door",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1rAwx2URbuX9DeqNXOQMiBn-ArTtopaRI",
+  "file": "Platforms/Door.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7c3672ce299933b4dbfb936420c5b100d421e488ca964502be196b6910682042",
+  "originalInputSha256": "7c3672ce299933b4dbfb936420c5b100d421e488ca964502be196b6910682042",
+  "descriptor": "metadata.json",
+  "model": "door.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.6896439790725708,1.1623879505787045,0.10208600014448166]",
+  "convertedAt": "2026-09-05T12:03:55.890Z"
+}

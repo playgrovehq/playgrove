@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "road-straight-bridge",
+  "label": "roadStraightBridge",
+  "description": "Racing Kit by Kenney.",
+  "category": "roads",
+  "tags": [
+    "road",
+    "straight",
+    "bridge",
+    "kenney",
+    "racing",
+    "kit",
+    "clone",
+    "roads",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#fff9f0",
+    "#f9f9fb",
+    "#8d8d8d",
+    "#ffffff"
+  ],
+  "colorNames": [
+    "white",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "road-straight-bridge.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 72,
+    "triangles": 40,
+    "parts": 4,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -0.35,
+      -0.01,
+      -1.65
+    ],
+    "max": [
+      0.65,
+      0.51,
+      -0.65
+    ],
+    "size": [
+      1,
+      0.52,
+      1
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "roadStraightBridge(Clone)"
+  ],
+  "materialNames": [
+    "wall",
+    "grey",
+    "road",
+    "_defaultMat"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/racing-kit",
+    "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+    "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+    "file": "Models/GLTF format/roadStraightBridge.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

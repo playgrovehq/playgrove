@@ -1,0 +1,22 @@
+{
+  "id": "vehicle-truck",
+  "label": "Vehicle Truck",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Z-oz5wLLVso3NSs8jTIkVm8ysA4Lx7h1",
+  "file": "Vehicles/glTF/Vehicle_Truck.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "44465d831e9220a7449a9e65fb277f0920d54588b6e9c610f7fdfda6e476456a",
+  "originalInputSha256": "44465d831e9220a7449a9e65fb277f0920d54588b6e9c610f7fdfda6e476456a",
+  "descriptor": "metadata.json",
+  "model": "vehicle-truck.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=12 materials=12 bounds=[2.7092819213867188,2.883967885747552,5.255567789077759]",
+  "convertedAt": "2026-09-05T11:49:50.284Z"
+}

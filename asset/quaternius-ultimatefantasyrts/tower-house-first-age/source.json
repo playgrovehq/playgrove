@@ -1,0 +1,22 @@
+{
+  "id": "tower-house-first-age",
+  "label": "TowerHouse FirstAge",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1K1NVpOrAKJBnsq-cAKnBjUncnaTnyW49",
+  "file": "glTF/TowerHouse_FirstAge.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8ec3f5596189d413c2b4cbc4841be3091c5d8f83682cb18da2c4b30e215c37a9",
+  "originalInputSha256": "8ec3f5596189d413c2b4cbc4841be3091c5d8f83682cb18da2c4b30e215c37a9",
+  "descriptor": "metadata.json",
+  "model": "tower-house-first-age.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.3856760263442993,1.4722370461386163,1.1700299978256226]",
+  "convertedAt": "2026-09-05T12:03:25.334Z"
+}

@@ -1,0 +1,106 @@
+{
+  "version": 2,
+  "id": "race-car-green",
+  "label": "raceCarGreen",
+  "description": "Racing Kit by Kenney.",
+  "category": "vehicles",
+  "tags": [
+    "race",
+    "car",
+    "green",
+    "kenney",
+    "racing",
+    "kit",
+    "body",
+    "wheel",
+    "back",
+    "left",
+    "right",
+    "front",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#8d8d8d",
+    "#95c5af",
+    "#94a5b6",
+    "#f9f9fb"
+  ],
+  "colorNames": [
+    "gray",
+    "cyan",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "race-car-green.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1600,
+    "triangles": 1421,
+    "parts": 11,
+    "discardedDegenerate": 9
+  },
+  "bounds": {
+    "min": [
+      -0.714416,
+      -0.03352,
+      -1.335937
+    ],
+    "max": [
+      0.014416,
+      0.363494,
+      0.01
+    ],
+    "size": [
+      0.728832,
+      0.397014,
+      1.345937
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "body",
+    "wheelBackLeft",
+    "wheelBackRight",
+    "wheelFrontLeft",
+    "wheelFrontRight"
+  ],
+  "materialNames": [
+    "carTire",
+    "grass",
+    "glass",
+    "grey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/racing-kit",
+    "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+    "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+    "file": "Models/GLTF format/raceCarGreen.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

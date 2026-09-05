@@ -1,0 +1,23 @@
+{
+  "id": "bridge-center-stone-round",
+  "label": "bridge center stoneRound",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/bridge_center_stoneRound.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "84b001598b14ab57524125e6825f8a87b66761ca1a2e9cfba98271beacc32839",
+  "originalInputSha256": "ec0e73f593a3230b9f10bfe69dec5e95c8c031f1a1a81e1a308501ef3a70e68c",
+  "descriptor": "metadata.json",
+  "model": "bridge-center-stone-round.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.20000001043081284,1]",
+  "convertedAt": "2026-09-05T10:30:25.996Z"
+}

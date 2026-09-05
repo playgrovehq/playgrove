@@ -1,0 +1,22 @@
+{
+  "id": "bush",
+  "label": "Bush",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1RjB7yU4sxa5FT7-duKajyvw7vJmwtj1g",
+  "file": "Nature/glTF/Bush.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "114cd9dffc48aff7f4e1acd01c0e70803ba0799710c3b44f1626908bcedfe089",
+  "originalInputSha256": "114cd9dffc48aff7f4e1acd01c0e70803ba0799710c3b44f1626908bcedfe089",
+  "descriptor": "metadata.json",
+  "model": "bush.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3.523858070373535,2.2346999626606703,3.5287539958953857]",
+  "convertedAt": "2026-09-05T11:48:29.475Z"
+}

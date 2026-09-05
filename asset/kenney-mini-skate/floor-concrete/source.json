@@ -1,0 +1,23 @@
+{
+  "id": "floor-concrete",
+  "label": "floor-concrete",
+  "description": "Mini Skate by Kenney.",
+  "pack": "kenney-mini-skate",
+  "listing": "https://kenney.nl/assets/mini-skate",
+  "download": "https://kenney.nl/media/pages/assets/mini-skate/00b0c2b304-1709221152/kenney_mini-skate.zip",
+  "archiveSha256": "82582f6de507e93090c16bb4802a7c361015fe246eddd571e6e96f816b12e8c6",
+  "file": "Models/GLB format/floor-concrete.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "298177fff477116c87ceff8b7e1bdd7d560df393b473a1172156ca7a318116bb",
+  "originalInputSha256": "1e78ba83dbd6ee02382029f830abc493058a5e4dd3e9aa49e4850bfafa5e4f21",
+  "descriptor": "metadata.json",
+  "model": "floor-concrete.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0,1]",
+  "convertedAt": "2026-09-05T10:30:22.708Z"
+}

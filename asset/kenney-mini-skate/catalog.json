@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T10:30:22.711Z",
+  "assets": [
+    {
+      "id": "floor-concrete",
+      "label": "floor-concrete",
+      "description": "Mini Skate by Kenney.",
+      "thumbnail": "floor-concrete/thumbnail.png",
+      "model": "floor-concrete/floor-concrete.ts",
+      "package": "floor-concrete",
+      "descriptor": "floor-concrete/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/mini-skate",
+        "download": "https://kenney.nl/media/pages/assets/mini-skate/00b0c2b304-1709221152/kenney_mini-skate.zip",
+        "archiveSha256": "82582f6de507e93090c16bb4802a7c361015fe246eddd571e6e96f816b12e8c6",
+        "file": "Models/GLB format/floor-concrete.glb"
+      },
+      "category": "buildings",
+      "tags": [
+        "floor",
+        "concrete",
+        "kenney",
+        "mini",
+        "skate",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5a6078"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4,
+        "triangles": 2,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

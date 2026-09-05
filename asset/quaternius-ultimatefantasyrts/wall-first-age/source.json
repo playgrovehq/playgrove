@@ -1,0 +1,22 @@
+{
+  "id": "wall-first-age",
+  "label": "Wall FirstAge",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1pv5TpbAz1ija4CbiQlqQwRs4f1KvaYel",
+  "file": "glTF/Wall_FirstAge.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "544bc334bb1888d7fa9e4536cae3b72e5febeb8b00c8dcf451eec935cead3432",
+  "originalInputSha256": "544bc334bb1888d7fa9e4536cae3b72e5febeb8b00c8dcf451eec935cead3432",
+  "descriptor": "metadata.json",
+  "model": "wall-first-age.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.3518739938735962,0.5259679714217782,0.0589279979467392]",
+  "convertedAt": "2026-09-05T12:03:25.490Z"
+}

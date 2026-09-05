@@ -1,0 +1,23 @@
+{
+  "id": "cliff-stone",
+  "label": "cliff stone",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_stone.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2f6b12ba786a77a308f521f2145904bd3d2c5277a25ec3e19e745a025639b8ae",
+  "originalInputSha256": "226a8da66da4908835bcf1b6d8c51ed84ce2e546401def685ba491c65c7c71f7",
+  "descriptor": "metadata.json",
+  "model": "cliff-stone.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0.9999999888241291,0.16850000619888306]",
+  "convertedAt": "2026-09-05T10:30:27.163Z"
+}

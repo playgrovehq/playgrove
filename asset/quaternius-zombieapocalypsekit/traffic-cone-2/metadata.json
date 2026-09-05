@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "traffic-cone-2",
+  "label": "TrafficCone 2",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "traffic",
+    "cone",
+    "quaternius",
+    "zombieapocalypsekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5c5c5c",
+    "#9e4408",
+    "#cbc3bd"
+  ],
+  "colorNames": [
+    "brown",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "traffic-cone-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 450,
+    "triangles": 460,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.297702,
+      -0.008247,
+      -0.297702
+    ],
+    "max": [
+      0.297702,
+      0.727345,
+      0.297702
+    ],
+    "size": [
+      0.595404,
+      0.735592,
+      0.595404
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "TrafficCone_2"
+  ],
+  "materialNames": [
+    "Atlas"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1MUg2w1zfjk015CRtyV-oM9vMSCD6x6lj",
+    "file": "Environment/glTF/TrafficCone_2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

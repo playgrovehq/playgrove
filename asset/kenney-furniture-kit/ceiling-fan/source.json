@@ -1,0 +1,23 @@
+{
+  "id": "ceiling-fan",
+  "label": "ceilingFan",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/ceilingFan.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "241270bbb95752436cc3f20c158534701c3a1e14b3eb9ef39ed64012276312a3",
+  "originalInputSha256": "5fdf7b3c4328875462c9887c6b1f2fad08126ea42e758cf86534639b9ea72044",
+  "descriptor": "metadata.json",
+  "model": "ceiling-fan.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.45473597943782806,0.13371799886226654,0.5250830054283142]",
+  "convertedAt": "2026-09-05T10:30:14.332Z"
+}

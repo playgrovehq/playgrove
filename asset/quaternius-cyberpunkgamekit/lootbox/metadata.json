@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "lootbox",
+  "label": "Lootbox",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "lootbox",
+    "quaternius",
+    "cyberpunkgamekit",
+    "base",
+    "top",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#494949",
+    "#747474",
+    "#976735"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "lootbox.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1448,
+    "triangles": 940,
+    "parts": 4,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.295968,
+      -0.000473,
+      -0.313101
+    ],
+    "max": [
+      0.295968,
+      0.511585,
+      0.295034
+    ],
+    "size": [
+      0.591936,
+      0.512058,
+      0.608135
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Lootbox_Base",
+    "Lootbox_Top"
+  ],
+  "materialNames": [
+    "DarkGrey",
+    "Grey",
+    "Orange"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=18AyD-zFoZYuln2KkAu1DA1UKkBStkU6N",
+    "file": "Pickups and Objects/Lootbox.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

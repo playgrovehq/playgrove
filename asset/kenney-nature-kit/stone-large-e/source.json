@@ -1,0 +1,23 @@
+{
+  "id": "stone-large-e",
+  "label": "stone largeE",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/stone_largeE.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cbb558801d49b866af66b85c8ac7636a00e15f626acfa22acb0910d6e8d6d190",
+  "originalInputSha256": "392cf28f85aa4b7b7c5e12b1a3b87fe2b3a7c5ec1797d5d1d0d58edca6da9de8",
+  "descriptor": "metadata.json",
+  "model": "stone-large-e.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.0954580307006836,0.2922479994595051,0.919871985912323]",
+  "convertedAt": "2026-09-05T10:30:32.081Z"
+}

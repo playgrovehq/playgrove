@@ -1,0 +1,22 @@
+{
+  "id": "rock-platform-tall",
+  "label": "RockPlatform Tall",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ekKRc6m-InTuVQBiGX4GS1ZjCuwRDl1A",
+  "file": "Nature/glTF/RockPlatform_Tall.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6cde4992a41dae0fecf069660d1b331b31714079c4122813748489b813b876e3",
+  "originalInputSha256": "6cde4992a41dae0fecf069660d1b331b31714079c4122813748489b813b876e3",
+  "descriptor": "metadata.json",
+  "model": "rock-platform-tall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3.5845760107040405,4.257859183715823,3.58343505859375]",
+  "convertedAt": "2026-09-05T11:48:29.637Z"
+}

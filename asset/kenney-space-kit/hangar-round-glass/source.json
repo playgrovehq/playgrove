@@ -1,0 +1,23 @@
+{
+  "id": "hangar-round-glass",
+  "label": "hangar roundGlass",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/hangar_roundGlass.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "95c8caf06d8104335fea212e551e0b345523e4b5b02475d6840a839cab5b32d8",
+  "originalInputSha256": "6b6346d95b90b8c012880832cef3969a108ae2b153bef8e2106b27997e33d601",
+  "descriptor": "metadata.json",
+  "model": "hangar-round-glass.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[3.2712440192699432,1.399999976158142,2.8329800814390182]",
+  "convertedAt": "2026-09-05T10:30:41.014Z"
+}

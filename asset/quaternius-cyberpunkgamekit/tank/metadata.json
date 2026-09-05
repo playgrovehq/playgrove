@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "id": "tank",
+  "label": "Tank",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "tank",
+    "quaternius",
+    "cyberpunkgamekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#8b8b8b",
+    "#976735",
+    "#2e2e2e"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tank.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1480,
+    "triangles": 1392,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.28449,
+      -0.415475,
+      0
+    ],
+    "max": [
+      0.284487,
+      0.415475,
+      0.618976
+    ],
+    "size": [
+      0.568977,
+      0.83095,
+      0.618976
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Tank"
+  ],
+  "materialNames": [
+    "LightGrey",
+    "Orange",
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1NF8KVe4xTH_u2HK00Hqqn74YSvSPcdEC",
+    "file": "Pickups and Objects/Tank.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

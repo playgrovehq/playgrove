@@ -1,0 +1,22 @@
+{
+  "id": "street-4-way",
+  "label": "Street 4Way",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=15tKWp9VbIzN8I8LdT82RlwXAUBX2ZFYJ",
+  "file": "Environment/glTF/Street_4Way.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c527fa9de0eccad9dba860fb08c79de031711774c31846623ef5c37f6798dc15",
+  "originalInputSha256": "c527fa9de0eccad9dba860fb08c79de031711774c31846623ef5c37f6798dc15",
+  "descriptor": "metadata.json",
+  "model": "street-4-way.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[8,0.10000000149011612,8]",
+  "convertedAt": "2026-09-05T11:49:49.461Z"
+}

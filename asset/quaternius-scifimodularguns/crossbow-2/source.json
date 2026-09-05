@@ -1,0 +1,22 @@
+{
+  "id": "crossbow-2",
+  "label": "Crossbow 2",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ghtvCD_CzjlkhWzRp-HS4n-iBrSo_1FR",
+  "file": "Guns/glTF/Crossbow_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "dfd7330b3cde17da5a876d4b5cc981b0f1a7ae4b6ef88ee11a82e843f74d987a",
+  "originalInputSha256": "dfd7330b3cde17da5a876d4b5cc981b0f1a7ae4b6ef88ee11a82e843f74d987a",
+  "descriptor": "metadata.json",
+  "model": "crossbow-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.4713139832019806,0.6749089881777763,1.9203399419784546]",
+  "convertedAt": "2026-09-05T12:05:31.676Z"
+}

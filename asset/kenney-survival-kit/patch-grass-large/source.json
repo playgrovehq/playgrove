@@ -1,0 +1,23 @@
+{
+  "id": "patch-grass-large",
+  "label": "patch-grass-large",
+  "description": "Survival Kit by Kenney.",
+  "pack": "kenney-survival-kit",
+  "listing": "https://kenney.nl/assets/survival-kit",
+  "download": "https://kenney.nl/media/pages/assets/survival-kit/4065a8185b-1712149243/kenney_survival-kit.zip",
+  "archiveSha256": "c3586341b5932c87eb43d75d915434f47daed168b17ed36a03e8ca9977c7443e",
+  "file": "Models/GLB format/patch-grass-large.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f24b5f6e3212789f13fe71b005cc4f26cf74442e1b3b97874bb68cb1c5f7a1d4",
+  "originalInputSha256": "458f467382babd3f0d075a8bef781119c8fead62f806366a274cbc0e7e65b3a1",
+  "descriptor": "metadata.json",
+  "model": "patch-grass-large.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.399999976158142,0,1.2000000476837158]",
+  "convertedAt": "2026-09-05T10:30:43.783Z"
+}

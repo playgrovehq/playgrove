@@ -1,0 +1,23 @@
+{
+  "id": "rock-tall-g",
+  "label": "rock tallG",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/rock_tallG.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "652e60b28656086fdcb056247d6ae9a4cefb3772c9d61c6c43d96204a3b5808e",
+  "originalInputSha256": "831683e6f920d0d6156132f73a1078ed4d0470bc3e862eff4436763898c68a96",
+  "descriptor": "metadata.json",
+  "model": "rock-tall-g.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.4249480068683624,0.7829360254108906,0.4906879961490631]",
+  "convertedAt": "2026-09-05T10:30:30.681Z"
+}

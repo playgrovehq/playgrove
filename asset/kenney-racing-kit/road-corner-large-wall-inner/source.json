@@ -1,0 +1,23 @@
+{
+  "id": "road-corner-large-wall-inner",
+  "label": "roadCornerLargeWallInner",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadCornerLargeWallInner.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ea84e4a104ccc7e407cb635a3fa53ba3ac1cf9bde853da6cb369b8036e25f50d",
+  "originalInputSha256": "b2632879c3c4d6c3aee9aba5b1e1ba1c00a940a5a31932fd3a14f4626f6bcf55",
+  "descriptor": "metadata.json",
+  "model": "road-corner-large-wall-inner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.4700000286102295,0.03999999910593033,0.4700000286102295]",
+  "convertedAt": "2026-09-05T10:30:37.597Z"
+}

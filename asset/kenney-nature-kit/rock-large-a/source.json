@@ -1,0 +1,23 @@
+{
+  "id": "rock-large-a",
+  "label": "Large Rock A",
+  "description": "Large low-poly boulder from the Kenney Nature Kit.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/rock_largeA.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f670fcebbd5f5f327ea7984225db130917e418f69754a632c91c19c1b28eebbc",
+  "originalInputSha256": "6dd15390fd96501dcd1454765a17ba61dbbd8d47705dfe5149c8dd92b353ce25",
+  "descriptor": "metadata.json",
+  "model": "rock-large-a.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7849060297012329,0.2597759999334812,1.015462040901184]",
+  "convertedAt": "2026-09-05T10:30:30.246Z"
+}

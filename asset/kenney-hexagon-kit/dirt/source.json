@@ -1,0 +1,23 @@
+{
+  "id": "dirt",
+  "label": "dirt",
+  "description": "Hexagon Kit by Kenney.",
+  "pack": "kenney-hexagon-kit",
+  "listing": "https://kenney.nl/assets/hexagon-kit",
+  "download": "https://kenney.nl/media/pages/assets/hexagon-kit/fd3b63101b-1706007730/kenney_hexagon-kit.zip",
+  "archiveSha256": "d14f7643852c4dd854c7530de8514c9eb77314fe9963636077f0de1da8901236",
+  "file": "Models/GLB format/dirt.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7fdde20004a66949ac1aa5cf6105e29ee45121df21a6aefaedf6dfcc3a748a89",
+  "originalInputSha256": "466ba402bd7e6fe64de99eb5285220d362400e2b2b854b3385b75debe8af73ae",
+  "descriptor": "metadata.json",
+  "model": "dirt.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0.10000000149011612,1.1547000408172607]",
+  "convertedAt": "2026-09-05T10:30:16.873Z"
+}

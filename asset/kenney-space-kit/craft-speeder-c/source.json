@@ -1,0 +1,23 @@
+{
+  "id": "craft-speeder-c",
+  "label": "craft speederC",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/craft_speederC.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "fdda340c33ef203a896a76740271ab1fa614a438a629b939ebf7bdd68eba7135",
+  "originalInputSha256": "ed009e13d8ef649d26ec0215f20c2f600cc35dc4b52deea1cb8cfe5bd11ee084",
+  "descriptor": "metadata.json",
+  "model": "craft-speeder-c.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2.8000000715255737,0.6000000238418579,1.925670087337494]",
+  "convertedAt": "2026-09-05T10:30:40.730Z"
+}

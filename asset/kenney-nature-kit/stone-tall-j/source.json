@@ -1,0 +1,23 @@
+{
+  "id": "stone-tall-j",
+  "label": "stone tallJ",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/stone_tallJ.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "453be4435e24ae3d5a1aaa61a48795aef8f3715f9a91d14c7f7366a52a457176",
+  "originalInputSha256": "b7f50a935be4e98da74d665658b31c0b7039416ccf0d6f330c0a3fe230e72ab6",
+  "descriptor": "metadata.json",
+  "model": "stone-tall-j.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.4879480004310608,0.6199999935925007,0.5382320284843445]",
+  "convertedAt": "2026-09-05T10:30:32.497Z"
+}

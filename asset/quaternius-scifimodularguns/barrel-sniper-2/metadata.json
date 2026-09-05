@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "id": "barrel-sniper-2",
+  "label": "Barrel Sniper 2",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "barrel",
+    "sniper",
+    "quaternius",
+    "scifimodularguns",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#303030"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "barrel-sniper-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 416,
+    "triangles": 412,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      0,
+      -0.042635,
+      -0.042635
+    ],
+    "max": [
+      0.626795,
+      0.042636,
+      0.042635
+    ],
+    "size": [
+      0.626795,
+      0.085271,
+      0.08527
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Barrel_Sniper_2"
+  ],
+  "materialNames": [
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/scifimodularguns.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ePK0auQQ2PfgNInTfKB0dTa86jrWVE2l",
+    "file": "Modular Parts/glTF/Barrel_Sniper_2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

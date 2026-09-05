@@ -1,0 +1,23 @@
+{
+  "id": "pipe-ring",
+  "label": "pipe ring",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/pipe_ring.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3c4792c2eca86ff494898c9c9069a33ae26cf3c50295dffbb6e42a9a15a4775d",
+  "originalInputSha256": "5b5700b08e9decc638ec025b3d77cb1923cd7d0255588dde2fb130f9bd5e30f3",
+  "descriptor": "metadata.json",
+  "model": "pipe-ring.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.923759937286377,0.7999999895691872,1]",
+  "convertedAt": "2026-09-05T10:30:41.580Z"
+}

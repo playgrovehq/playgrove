@@ -1,16 +1,17 @@
 {
   "name": "playgrove",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The command-line interface for the open-source PlayGrove game creation platform.",
   "type": "module",
   "bin": {
     "grove": "bin/grove.js"
   },
   "files": [
-    "bin"
+    "bin",
+    "src"
   ],
   "scripts": {
-    "test": "node test/cli.test.js"
+    "test": "node test/cli.test.js && node test/asset-search.test.js"
   },
   "engines": {
     "node": ">=20"

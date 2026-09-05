@@ -1,0 +1,22 @@
+{
+  "id": "star-outline",
+  "label": "Star Outline",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1unAPDzcr2JZA359VXMEH8ecqc1hBqKOs",
+  "file": "Powerups and Pickups/glTF/Star_Outline.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0b2432a2171d394b558922268f727cea53ea2343e5af127097178ab6cf57e4c8",
+  "originalInputSha256": "0b2432a2171d394b558922268f727cea53ea2343e5af127097178ab6cf57e4c8",
+  "descriptor": "metadata.json",
+  "model": "star-outline.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.510707974433899,1.4382469654083252,0.059436000883579254]",
+  "convertedAt": "2026-09-05T11:48:29.905Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "plant-bush-detailed",
+  "label": "plant bushDetailed",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/plant_bushDetailed.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0ba7c5a521c04db7b18b059d0a6a40711b8308b6898d669dd67df2e52382187a",
+  "originalInputSha256": "2e0487020d68ccf664435db9d829c78ae00e6d2785ee3ec10b9f89cc70a10406",
+  "descriptor": "metadata.json",
+  "model": "plant-bush-detailed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.6025440096855164,0.36041100695729256,0.6025440096855164]",
+  "convertedAt": "2026-09-05T10:30:30.047Z"
+}

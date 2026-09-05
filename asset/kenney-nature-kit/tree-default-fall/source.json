@@ -1,0 +1,23 @@
+{
+  "id": "tree-default-fall",
+  "label": "tree default fall",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_default_fall.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1cacdea92a1dfc5bcac8e0c18b60c5f11c6b7a5e5205e0b9bead3e7f47b6bfc7",
+  "originalInputSha256": "f8e90ed7f7771644998a7c361302213af04350150b3ea0631e8384d26506efa2",
+  "descriptor": "metadata.json",
+  "model": "tree-default-fall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7549999952316284,1.7078869827091694,0.6538500189781189]",
+  "convertedAt": "2026-09-05T10:30:32.831Z"
+}

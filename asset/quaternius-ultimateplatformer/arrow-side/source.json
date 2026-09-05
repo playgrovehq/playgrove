@@ -1,0 +1,22 @@
+{
+  "id": "arrow-side",
+  "label": "Arrow Side",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ZBoyvUQxG1azeRy9mFpRzDGOmXbz5V1R",
+  "file": "Level and Mechanics/glTF/Arrow_Side.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e026f3801d7efcef7caad085e36e4e24f40df978b9acea1db35f581c6ad8f0d0",
+  "originalInputSha256": "e026f3801d7efcef7caad085e36e4e24f40df978b9acea1db35f581c6ad8f0d0",
+  "descriptor": "metadata.json",
+  "model": "arrow-side.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.8601679801940918,2.0523650646209717,0.36322201043367386]",
+  "convertedAt": "2026-09-05T11:48:28.403Z"
+}

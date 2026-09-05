@@ -1,0 +1,22 @@
+{
+  "id": "watch-tower-first-age-level1",
+  "label": "WatchTower FirstAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ffynJQq0rDyaAL_0APkOGSRY631zWIzG",
+  "file": "glTF/WatchTower_FirstAge_Level1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "780da8a1d2a9a30419dabaa48115555cf95816a750dde9163fd07c8fdf37f430",
+  "originalInputSha256": "780da8a1d2a9a30419dabaa48115555cf95816a750dde9163fd07c8fdf37f430",
+  "descriptor": "metadata.json",
+  "model": "watch-tower-first-age-level1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.473007008433342,0.8373090028762817,0.5193240195512772]",
+  "convertedAt": "2026-09-05T12:03:25.633Z"
+}

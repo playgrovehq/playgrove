@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "dirt",
+  "label": "dirt",
+  "description": "Hexagon Kit by Kenney.",
+  "category": "props",
+  "tags": [
+    "dirt",
+    "kenney",
+    "hexagon",
+    "kit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#f1976c"
+  ],
+  "colorNames": [
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "dirt.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 36,
+    "triangles": 20,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.5,
+      0,
+      -0.57735
+    ],
+    "max": [
+      0.5,
+      0.1,
+      0.57735
+    ],
+    "size": [
+      1,
+      0.1,
+      1.1547
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "dirt"
+  ],
+  "materialNames": [
+    "colormap"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/hexagon-kit",
+    "download": "https://kenney.nl/media/pages/assets/hexagon-kit/fd3b63101b-1706007730/kenney_hexagon-kit.zip",
+    "archiveSha256": "d14f7643852c4dd854c7530de8514c9eb77314fe9963636077f0de1da8901236",
+    "file": "Models/GLB format/dirt.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

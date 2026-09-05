@@ -1,0 +1,22 @@
+{
+  "id": "archery-second-age-level2",
+  "label": "Archery SecondAge Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1IhGO_WOhI2YVNi2GI59dRIa8T1Ay9eeO",
+  "file": "glTF/Archery_SecondAge_Level2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0be366de8c48da510bc1ea2793c9a334280c530ab4ba3bd9201a108cfaa483fe",
+  "originalInputSha256": "0be366de8c48da510bc1ea2793c9a334280c530ab4ba3bd9201a108cfaa483fe",
+  "descriptor": "metadata.json",
+  "model": "archery-second-age-level2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=8 materials=8 bounds=[1.9268140196800232,1.5048980172723532,1.6553470492362976]",
+  "convertedAt": "2026-09-05T12:03:23.465Z"
+}

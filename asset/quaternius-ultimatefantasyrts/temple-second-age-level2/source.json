@@ -1,0 +1,22 @@
+{
+  "id": "temple-second-age-level2",
+  "label": "Temple SecondAge Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1euyxNfR_KvltDTfEkLpNBy64X3KQw8_D",
+  "file": "glTF/Temple_SecondAge_Level2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c8c4471660b773e560036e2a36567db63d88a9bff56a2d7d331580e9c4086424",
+  "originalInputSha256": "c8c4471660b773e560036e2a36567db63d88a9bff56a2d7d331580e9c4086424",
+  "descriptor": "metadata.json",
+  "model": "temple-second-age-level2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.191296100616455,3.9302609890000895,2.191296100616455]",
+  "convertedAt": "2026-09-05T12:03:25.294Z"
+}

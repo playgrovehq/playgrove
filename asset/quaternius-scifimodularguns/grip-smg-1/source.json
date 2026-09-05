@@ -1,0 +1,22 @@
+{
+  "id": "grip-smg-1",
+  "label": "Grip SMG 1",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1pdgDE7x2BTGbWKnw8RJj9a9RXyPEuICn",
+  "file": "Modular Parts/glTF/Grip_SMG_1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e7130366eadb67d488fcad368dfbe04e4a97ace91b8372e0cb5907f995de2d5e",
+  "originalInputSha256": "e7130366eadb67d488fcad368dfbe04e4a97ace91b8372e0cb5907f995de2d5e",
+  "descriptor": "metadata.json",
+  "model": "grip-smg-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7214460223913193,0.3671160116791725,0.08291800320148468]",
+  "convertedAt": "2026-09-05T12:05:32.546Z"
+}

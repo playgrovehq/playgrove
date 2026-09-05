@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "smg-1",
+  "label": "SMG 1",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "smg",
+    "quaternius",
+    "scifimodularguns",
+    "magazine",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#303030",
+    "#5a5a5a",
+    "#b4b4b4",
+    "#ce7f2f"
+  ],
+  "colorNames": [
+    "black",
+    "brown",
+    "beige",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "smg-1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2578,
+    "triangles": 2704,
+    "parts": 5,
+    "discardedDegenerate": 2
+  },
+  "bounds": {
+    "min": [
+      -0.736425,
+      -0.347249,
+      -0.076474
+    ],
+    "max": [
+      0.671288,
+      0.444726,
+      0.076474
+    ],
+    "size": [
+      1.407713,
+      0.791975,
+      0.152948
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Magazine_SMG",
+    "SMG_1"
+  ],
+  "materialNames": [
+    "Black",
+    "Grey",
+    "White",
+    "Main"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/scifimodularguns.html",
+    "download": "https://drive.google.com/uc?export=download&id=1pn5Rju_kYZsJxGdJmndA53eY5bOUs6GR",
+    "file": "Guns/glTF/SMG_1.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

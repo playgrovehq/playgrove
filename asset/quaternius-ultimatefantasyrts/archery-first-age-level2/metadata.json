@@ -1,0 +1,98 @@
+{
+  "version": 2,
+  "id": "archery-first-age-level2",
+  "label": "Archery FirstAge Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "props",
+  "tags": [
+    "archery",
+    "first",
+    "age",
+    "level2",
+    "quaternius",
+    "ultimatefantasyrts",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a58758",
+    "#886a42",
+    "#888880",
+    "#b9b9b9",
+    "#901107",
+    "#b15945"
+  ],
+  "colorNames": [
+    "gray",
+    "brown",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "archery-first-age-level2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 8824,
+    "triangles": 4496,
+    "parts": 6,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.937928,
+      -0.04245,
+      -0.903517
+    ],
+    "max": [
+      0.71322,
+      1.462548,
+      0.096432
+    ],
+    "size": [
+      1.651148,
+      1.504998,
+      0.999949
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Archery_FirstAge_Level2"
+  ],
+  "materialNames": [
+    "Wood_Light",
+    "Wood",
+    "Stone",
+    "White",
+    "Red",
+    "Main"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=1jqPotcTnr-vi8F4sSJ4e6oSeYW0ykLJF",
+    "file": "glTF/Archery_FirstAge_Level2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

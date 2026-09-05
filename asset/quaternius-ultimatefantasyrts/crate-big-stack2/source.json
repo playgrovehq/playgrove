@@ -1,0 +1,22 @@
+{
+  "id": "crate-big-stack2",
+  "label": "Crate Big Stack2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1AsKMqF8D6JYeqsjsS5TrKLfxHxBqPgcY",
+  "file": "glTF/Crate_Big_Stack2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "202155e4ef6a645c18ba74cf29284844ebca5ba0f70f0be86957cb0a830e91d0",
+  "originalInputSha256": "202155e4ef6a645c18ba74cf29284844ebca5ba0f70f0be86957cb0a830e91d0",
+  "descriptor": "metadata.json",
+  "model": "crate-big-stack2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.24735800176858902,0.32809498673304915,0.23832499980926514]",
+  "convertedAt": "2026-09-05T12:03:23.668Z"
+}

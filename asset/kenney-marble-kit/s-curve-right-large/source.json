@@ -1,0 +1,23 @@
+{
+  "id": "s-curve-right-large",
+  "label": "s-curve-right-large",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/s-curve-right-large.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b7043081f5ac43301ecafe9f28fb7407007cf1afc100f9c9f01583c1f7b90ce3",
+  "originalInputSha256": "1ea6a7717ed6b0a6e1a84266e62f67f7813afc20e92141285cc7d7dad614869e",
+  "descriptor": "metadata.json",
+  "model": "s-curve-right-large.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[6,0.5,5]",
+  "convertedAt": "2026-09-05T10:30:20.431Z"
+}

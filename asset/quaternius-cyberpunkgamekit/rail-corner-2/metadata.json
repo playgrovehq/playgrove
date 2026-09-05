@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "rail-corner-2",
+  "label": "Rail Corner 2",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "category": "roads",
+  "tags": [
+    "rail",
+    "corner",
+    "quaternius",
+    "cyberpunkgamekit",
+    "roads",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2e2e2e"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "rail-corner-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 212,
+    "triangles": 368,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.540003,
+      -0.005452,
+      -0.44852
+    ],
+    "max": [
+      0.182232,
+      0.23136,
+      0.233055
+    ],
+    "size": [
+      1.722235,
+      0.236812,
+      0.681575
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Rail_Corner_2"
+  ],
+  "materialNames": [
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1hIPbyMVlollFrwQky13nePrNrw7ot16D",
+    "file": "Platforms/Rail_Corner_2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

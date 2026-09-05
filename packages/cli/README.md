@@ -1,26 +1,45 @@
 # PlayGrove CLI
 
-This package provides the `grove` command for [PlayGrove](https://github.com/playgrovehq/playgrove), an open-source, AI-native game creation platform and universal asset library.
+This package supplies the `grove` command. Converter code is in [`../../converter/`](../../converter/README.md); viewer code is in [`../../viewer/`](../../viewer/README.md); converted packages are in [`../../asset/`](../../asset/README.md).
 
-The first release establishes the package and executable identities without inventing the future asset command contract.
-
-## Install
+From the project root:
 
 ```sh
-npm install --global playgrove
+node packages/cli/bin/grove.js --help
+node packages/cli/bin/grove.js assets view asset/kenney-nature-kit/tree-oak/tree-oak.ts
+node packages/cli/bin/grove.js assets verify asset/kenney-nature-kit/tree-oak/tree-oak.ts
+npm --prefix packages/cli test
 ```
 
-## Use
+Run, view and verify use the full repository's sibling converter/viewer directories. Search is included in the standalone 0.0.2 package. The npm registry's earlier `playgrove` 0.0.1 still provides only help/version; use the GitHub release for the current search tool.
+
+Conversion saves locally. Use `node converter/kenney.js import` for the approved Kenney collection with temporary downloads and cleanup. Generic remote-source graphs retain their own source cache. See the converter README for local-source jobs and the graph format.
+
+## Search the asset store
+
+Install the standalone CLI from GitHub:
 
 ```sh
-grove --help
-grove --version
+npm install --global https://github.com/playgrovehq/playgrove/releases/download/assets-2026-09-05/playgrove-0.0.2.tgz
+grove assets search "oak tree" --source kenney --type model --limit 5
 ```
 
-## Status
+Run from the project root:
 
-PlayGrove is in its initial foundation stage. Asset operations will be added only after their contract is designed and tested.
+```sh
+node packages/cli/bin/grove.js assets search "oak tree"
+node packages/cli/bin/grove.js assets search "car" --limit 5
+node packages/cli/bin/grove.js assets search --pack kenney-nature-kit --limit 20 --offset 20
+```
 
-## Licensing
+The command prints JSON with the total match count and result entries. Each result has a unique pack/asset ID, label, description, license, source record and usable thumbnail/model/descriptor paths. Model paths point to TypeScript containing actual native geometry; descriptor paths point to metadata.json. Results also contain tags, category, colors, dimensions, geometry counts and compatibility limits. An agent can inspect the thumbnail before importing the selected TypeScript. Search reads the catalog and returns only ready assets; it does not download models.
 
-The code license has not yet been selected. No license should be inferred until a license file is published.
+Search matches word prefixes across names, pack names, descriptions, tags, categories and color names, with exact label matches ranked first. All query words must match. This is keyword search, not visual or semantic search. Tags/categories come from source names; color names are nearest named swatches. An empty query browses the catalog. `--pack` requires the exact pack directory name. `--limit` accepts 1–100; `--offset` selects later results.
+
+In a full checkout, search uses local `asset/catalog.json`. When that file is absent, the installed package reads `https://raw.githubusercontent.com/playgrovehq/playgrove/main/asset/catalog.json`. Pass `--catalog /path/to/catalog.json` or `--catalog https://.../asset/catalog.json` to select another catalog. Remote results contain HTTPS download links instead of local file paths. No model download occurs until the caller chooses and fetches a result.
+
+Filter creators with `--source kenney`, `quaternius`, `poly-haven` or `playgrove`. Filter asset types with `--type model`, `texture` or `hdri`. Only models are ready in the initial GitHub collection; a filter with no ready entries returns zero matches. Results include the catalog used, creator and type.
+
+This is a CLI tool that coding agents can run. It is not an installed MCP server. GitHub release publication does not update the npm registry.
+
+Prior-art choice: reuse the existing pack catalogs and plain JSON. At this collection size, a separate database or semantic-search service is unnecessary for name/description search. Actual-catalog tests cover ranking, image/model path existence, pack filters, pagination and invalid input.

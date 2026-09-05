@@ -1,0 +1,23 @@
+{
+  "id": "bones",
+  "label": "bones",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/bones.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bd51763ea4fd12aca0fecf1b997f2d1cdee805a8dc0c3f23506efa9e256391ff",
+  "originalInputSha256": "d42d859e91beb903a09c4eecf4ccb169ae77b84e475a6b773d6ecf30644371be",
+  "descriptor": "metadata.json",
+  "model": "bones.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.8614000082015991,0.4422000050544739,0.5821199417114258]",
+  "convertedAt": "2026-09-05T10:30:40.346Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rocket-fins-b",
+  "label": "rocket finsB",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/rocket_finsB.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "039887413a2ea351e418723649c29163e892b6363a89fd7b8fd0d570a2125cf6",
+  "originalInputSha256": "61d9a66dc0665a91d3f12922566894b91a325a7642f9f31105ec825eeb2b4952",
+  "descriptor": "metadata.json",
+  "model": "rocket-fins-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.1999999284744263,0.699999988079071,1.1999999284744263]",
+  "convertedAt": "2026-09-05T10:30:42.147Z"
+}

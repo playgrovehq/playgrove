@@ -1,0 +1,23 @@
+{
+  "id": "floor",
+  "label": "floor",
+  "description": "Mini Arena by Kenney.",
+  "pack": "kenney-mini-arena",
+  "listing": "https://kenney.nl/assets/mini-arena",
+  "download": "https://kenney.nl/media/pages/assets/mini-arena/88f977a0cb-1709220730/kenney_mini-arena.zip",
+  "archiveSha256": "514760c2bc2457027451534a0b06a23f98beece166fb11ed2321226276b83c2c",
+  "file": "Models/GLB format/floor.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d0f9d5a0836ac8d64ccda9abab1710ca7c095bd15289ae3f70b8b58d8c7a1eca",
+  "originalInputSha256": "5d2bd361a4384906403ae9463f181646c887533bb61403d7d4cfa7276d5ba38f",
+  "descriptor": "metadata.json",
+  "model": "floor.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0,1]",
+  "convertedAt": "2026-09-05T10:30:22.202Z"
+}

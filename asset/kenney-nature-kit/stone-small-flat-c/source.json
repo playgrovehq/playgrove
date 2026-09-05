@@ -1,0 +1,23 @@
+{
+  "id": "stone-small-flat-c",
+  "label": "stone smallFlatC",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/stone_smallFlatC.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7d031f7d4ed4d8fd14d03719a214d70aefebccf2afac9a2057a249bd5652cf0d",
+  "originalInputSha256": "8c7069b5c9b9fee5afa8bb7949df82f43935f7d4b513852b0846da5bb8337d91",
+  "descriptor": "metadata.json",
+  "model": "stone-small-flat-c.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.47037801146507263,0.06494400091469288,0.3603459894657135]",
+  "convertedAt": "2026-09-05T10:30:32.247Z"
+}

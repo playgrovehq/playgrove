@@ -1,0 +1,22 @@
+{
+  "id": "wonder-walls-first-age",
+  "label": "WonderWalls FirstAge",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1-_EirWEQe08GC9NySFEE8UbC6nA1TPry",
+  "file": "glTF/WonderWalls_FirstAge.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c7415770216fed881c5f0bcb6943af2137ec72a402bb6075c036c67f4437b049",
+  "originalInputSha256": "c7415770216fed881c5f0bcb6943af2137ec72a402bb6075c036c67f4437b049",
+  "descriptor": "metadata.json",
+  "model": "wonder-walls-first-age.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.1974740028381348,1.0681969746947289,1.9503559470176697]",
+  "convertedAt": "2026-09-05T12:03:25.915Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "logs",
+  "label": "Logs",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1U6BkCyI4-KYHr7rzpqm_JZFL6sdEL0Kl",
+  "file": "glTF/Logs.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "95d60b52a6316d06ba42f1c59b79c9147c11f1736671626c956d4eadcf994638",
+  "originalInputSha256": "95d60b52a6316d06ba42f1c59b79c9147c11f1736671626c956d4eadcf994638",
+  "descriptor": "metadata.json",
+  "model": "logs.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.161641001701355,0.2456980049610138,0.8351820111274719]",
+  "convertedAt": "2026-09-05T12:03:24.417Z"
+}

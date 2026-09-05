@@ -1,0 +1,22 @@
+{
+  "id": "cannonball",
+  "label": "Cannonball",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1DQC7s3yekJLrr8UC2c40U8Vb_20xkcu9",
+  "file": "Level and Mechanics/glTF/Cannonball.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b5e1db3e8a2c8e5a0a3ccbe2cabff6122297685083ff6d0a5d7a8e3f449c9704",
+  "originalInputSha256": "b5e1db3e8a2c8e5a0a3ccbe2cabff6122297685083ff6d0a5d7a8e3f449c9704",
+  "descriptor": "metadata.json",
+  "model": "cannonball.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.1253739595413208,1.1408439874649048,1.1215310096740723]",
+  "convertedAt": "2026-09-05T11:48:28.540Z"
+}

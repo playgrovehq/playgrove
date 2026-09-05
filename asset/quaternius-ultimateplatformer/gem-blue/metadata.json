@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "id": "gem-blue",
+  "label": "Gem Blue",
+  "description": "Platformer Game Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "gem",
+    "blue",
+    "quaternius",
+    "ultimateplatformer",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#49b8d3"
+  ],
+  "colorNames": [
+    "cyan"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "gem-blue.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 96,
+    "triangles": 44,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.493135,
+      -1.054651,
+      -0.348485
+    ],
+    "max": [
+      0.493135,
+      1.054651,
+      0.348485
+    ],
+    "size": [
+      0.98627,
+      2.109302,
+      0.69697
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Gem_Blue"
+  ],
+  "materialNames": [
+    "Gem_Blue"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=16wLonN0eQOhS4FEy95bHcdCe_rTulYFX",
+    "file": "Powerups and Pickups/glTF/Gem_Blue.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

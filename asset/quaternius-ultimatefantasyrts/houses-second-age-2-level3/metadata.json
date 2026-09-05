@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "houses-second-age-2-level3",
+  "label": "Houses SecondAge 2 Level3",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "props",
+  "tags": [
+    "houses",
+    "second",
+    "age",
+    "level3",
+    "quaternius",
+    "ultimatefantasyrts",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#b15945",
+    "#b0b1a6",
+    "#888880",
+    "#886a42",
+    "#a58758"
+  ],
+  "colorNames": [
+    "brown",
+    "beige",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "houses-second-age-2-level3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 9096,
+    "triangles": 5948,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.944977,
+      -0.007644,
+      -0.885015
+    ],
+    "max": [
+      0.975658,
+      0.945972,
+      0.998858
+    ],
+    "size": [
+      1.920635,
+      0.953616,
+      1.883873
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Houses_SecondAge_2_Level3"
+  ],
+  "materialNames": [
+    "Main",
+    "Walls",
+    "Stone",
+    "Wood",
+    "Wood_Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=10tR2cZW8cgbbvO24t_p7CFOcHlEfn0dM",
+    "file": "glTF/Houses_SecondAge_2_Level3.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

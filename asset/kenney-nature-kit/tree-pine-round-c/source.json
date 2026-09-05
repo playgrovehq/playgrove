@@ -1,0 +1,23 @@
+{
+  "id": "tree-pine-round-c",
+  "label": "tree pineRoundC",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_pineRoundC.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "76d708032f2856480161cfb6260173434ceeb2015d25a7aa2eab77157f3a7b20",
+  "originalInputSha256": "29080a4935bae6b4ab29066f22c99c58f88b23ce4e2f79b4dcbb5e76de73f69d",
+  "descriptor": "metadata.json",
+  "model": "tree-pine-round-c.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.4803839921951294,1.2528529651463032,0.5547000169754028]",
+  "convertedAt": "2026-09-05T10:30:33.197Z"
+}

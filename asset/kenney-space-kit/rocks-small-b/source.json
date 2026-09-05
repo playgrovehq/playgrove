@@ -1,0 +1,23 @@
+{
+  "id": "rocks-small-b",
+  "label": "rocks smallB",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/rocks_smallB.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d278ec35bfa302f84d8ebb0fceea061d49c5815f68c95f0eb1441fd84b60a7d1",
+  "originalInputSha256": "d59c89345555850d1c6240f2ab7347d8befeeea1ddc4413e54acee9b2d52cccf",
+  "descriptor": "metadata.json",
+  "model": "rocks-small-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.7288130521774292,0.1859849989414215,0.6987600326538086]",
+  "convertedAt": "2026-09-05T10:30:42.278Z"
+}

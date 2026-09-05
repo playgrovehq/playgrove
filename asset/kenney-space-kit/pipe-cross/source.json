@@ -1,0 +1,23 @@
+{
+  "id": "pipe-cross",
+  "label": "pipe cross",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/pipe_cross.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0b6364b0289d6c8fac396fb377cb502d2b8212c991228177abb79f5582b83f7e",
+  "originalInputSha256": "9550af4d18bd747fddfca37439c9b46264dd588b68401f3b3cbf9d41a878c33c",
+  "descriptor": "metadata.json",
+  "model": "pipe-cross.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1,0.6000000238418579,1]",
+  "convertedAt": "2026-09-05T10:30:41.481Z"
+}

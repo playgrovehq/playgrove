@@ -1,0 +1,23 @@
+{
+  "id": "cliff-top-diagonal-rock",
+  "label": "cliff topDiagonal rock",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_topDiagonal_rock.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "76e38371e98c91866d2eb42a298254d73e217e2c90830b9c3a2307633868168d",
+  "originalInputSha256": "005c3bf817333dc2e5e6e1bc08439641a8340ebb93f637208b6c1b00878f3b2e",
+  "descriptor": "metadata.json",
+  "model": "cliff-top-diagonal-rock.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.2684999704360962,0.9999999888241291,1.2684999704360962]",
+  "convertedAt": "2026-09-05T10:30:27.179Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "path-wood-end",
+  "label": "path woodEnd",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/path_woodEnd.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9268ba87c6c42ad8ad15252889c63af65d1536cf45629f0cd8d73c00233f0e83",
+  "originalInputSha256": "eeab39b94ee4f25f20abeb3932493e9a44eb6e5c10b77121cb97d90b8a028325",
+  "descriptor": "metadata.json",
+  "model": "path-wood-end.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.6148490011692047,0.05000000074505806,0.5143799781799316]",
+  "convertedAt": "2026-09-05T10:30:30.013Z"
+}

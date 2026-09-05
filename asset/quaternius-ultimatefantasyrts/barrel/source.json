@@ -1,0 +1,22 @@
+{
+  "id": "barrel",
+  "label": "Barrel",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ZDvUR-xyb9UxByxU8jQgZ-aQo8Ly2BWP",
+  "file": "glTF/Barrel.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cbb46ddea43fc0c109e30df62b3b3c773e772febd71fb3eb6e44520106278a12",
+  "originalInputSha256": "cbb46ddea43fc0c109e30df62b3b3c773e772febd71fb3eb6e44520106278a12",
+  "descriptor": "metadata.json",
+  "model": "barrel.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.10323499888181686,0.1423480063676834,0.10323599725961685]",
+  "convertedAt": "2026-09-05T12:03:23.635Z"
+}

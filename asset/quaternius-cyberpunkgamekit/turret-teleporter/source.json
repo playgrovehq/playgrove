@@ -1,0 +1,22 @@
+{
+  "id": "turret-teleporter",
+  "label": "Turret Teleporter",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1nKP6d_6slu0bQfi6E_q3WxMIW82Ojmdm",
+  "file": "Enemies/Turret_Teleporter.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d11eee867b45b019020362752110df0340ecd0b655c9fba18c3a9055a9429be9",
+  "originalInputSha256": "d11eee867b45b019020362752110df0340ecd0b655c9fba18c3a9055a9429be9",
+  "descriptor": "metadata.json",
+  "model": "turret-teleporter.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.1583579778671265,0.23250799626111984,1.114527940750122]",
+  "convertedAt": "2026-09-05T12:03:55.616Z"
+}

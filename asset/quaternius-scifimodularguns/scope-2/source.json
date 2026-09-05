@@ -1,0 +1,22 @@
+{
+  "id": "scope-2",
+  "label": "Scope 2",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=15h6QKdu4-Dcv2PhbdH_3bcE1QwpmFKVR",
+  "file": "Modular Parts/glTF/Scope_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "39740a99d4117be43b7b1abfab2b1e6e4b95c1247462e06a0bd277156e4a681e",
+  "originalInputSha256": "39740a99d4117be43b7b1abfab2b1e6e4b95c1247462e06a0bd277156e4a681e",
+  "descriptor": "metadata.json",
+  "model": "scope-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.7209669947624207,0.15442000329494476,0.12356000021100044]",
+  "convertedAt": "2026-09-05T12:05:32.689Z"
+}

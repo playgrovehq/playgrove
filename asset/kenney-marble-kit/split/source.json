@@ -1,0 +1,23 @@
+{
+  "id": "split",
+  "label": "split",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/split.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a3f02bba40b3862aeab66e9b22969289e3d4c0a8229e75bd685e3f0376bdd0b4",
+  "originalInputSha256": "f0bb89cb4605a5c9da5b454df71807578eb1d4acc7d355808a8a11e0bdc2fbf3",
+  "descriptor": "metadata.json",
+  "model": "split.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.5,1]",
+  "convertedAt": "2026-09-05T10:30:21.333Z"
+}

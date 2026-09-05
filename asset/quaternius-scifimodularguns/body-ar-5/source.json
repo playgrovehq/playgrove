@@ -1,0 +1,22 @@
+{
+  "id": "body-ar-5",
+  "label": "Body AR 5",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1TaWi4T2PZtgS0qcfs5Qgq_aiWhlXhN0g",
+  "file": "Modular Parts/glTF/Body_AR_5.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "02f579be15b72c0166e4cdd0efeb7be255ef868aaee5c075fe069a212e904720",
+  "originalInputSha256": "02f579be15b72c0166e4cdd0efeb7be255ef868aaee5c075fe069a212e904720",
+  "descriptor": "metadata.json",
+  "model": "body-ar-5.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.2326329946517944,0.3695389926433563,0.11581600084900856]",
+  "convertedAt": "2026-09-05T12:05:32.123Z"
+}

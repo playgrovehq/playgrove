@@ -1,0 +1,23 @@
+{
+  "id": "ground-river-bend",
+  "label": "ground riverBend",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/ground_riverBend.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3f0a9918572dff8ffc791e04f3502da39c40e176d48cf297f16478d8fd19eba3",
+  "originalInputSha256": "26bc9c6cc1a9f6c0e9e6a430a92b655e53150dd6dea0085e76a3828d0fd92f86",
+  "descriptor": "metadata.json",
+  "model": "ground-river-bend.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1,0.05000000074505806,1]",
+  "convertedAt": "2026-09-05T10:30:29.464Z"
+}

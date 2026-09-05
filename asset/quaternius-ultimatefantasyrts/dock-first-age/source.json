@@ -1,0 +1,22 @@
+{
+  "id": "dock-first-age",
+  "label": "Dock FirstAge",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Sc2WBPPdXMbYTEdX8TuxLcT9LR2OwUS5",
+  "file": "glTF/Dock_FirstAge.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "47455401789970a2a4ad7a73ab0fda97b327ac408f0a28abb91bed82e5fcfae8",
+  "originalInputSha256": "47455401789970a2a4ad7a73ab0fda97b327ac408f0a28abb91bed82e5fcfae8",
+  "descriptor": "metadata.json",
+  "model": "dock-first-age.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.5243220031261444,0.465754009783268,1.2187960147857666]",
+  "convertedAt": "2026-09-05T12:03:23.719Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "stairs-modular-end",
+  "label": "Stairs Modular End",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=17Hsm_2sU-UKlsn12HCPcZpX2oy7RTdyP",
+  "file": "Level and Mechanics/glTF/Stairs_Modular_End.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4afcff73efdd97d36c2d6f260750e6756e3f8ce779009cf4e63f4503f3507d91",
+  "originalInputSha256": "4afcff73efdd97d36c2d6f260750e6756e3f8ce779009cf4e63f4503f3507d91",
+  "descriptor": "metadata.json",
+  "model": "stairs-modular-end.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.258047938346863,2.4154319390654564,2.56099009513855]",
+  "convertedAt": "2026-09-05T11:48:28.971Z"
+}

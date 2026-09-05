@@ -1,0 +1,22 @@
+{
+  "id": "barrel-pistol-1",
+  "label": "Barrel Pistol 1",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1CgkTKKEj7jHV7c_MR4Ru9M_tTayxXGap",
+  "file": "Modular Parts/glTF/Barrel_Pistol_1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1cb459b66113c842b95e85cd9427a386ec7d278c8b2c406ed8c9ebdc4117cf8a",
+  "originalInputSha256": "1cb459b66113c842b95e85cd9427a386ec7d278c8b2c406ed8c9ebdc4117cf8a",
+  "descriptor": "metadata.json",
+  "model": "barrel-pistol-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6012440137565136,0.14111600071191788,0.14111600071191788]",
+  "convertedAt": "2026-09-05T12:05:31.977Z"
+}

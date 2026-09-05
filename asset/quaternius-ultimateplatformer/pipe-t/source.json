@@ -1,0 +1,22 @@
+{
+  "id": "pipe-t",
+  "label": "Pipe T",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1MzuuHQ6rDc-yHHKxExvOof4pTYFoijJG",
+  "file": "Level and Mechanics/glTF/Pipe_T.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1037a1e99c2a703bb9d778302dac2b71914ab73ee8836c1b9f4c9890868fc8ed",
+  "originalInputSha256": "1037a1e99c2a703bb9d778302dac2b71914ab73ee8836c1b9f4c9890868fc8ed",
+  "descriptor": "metadata.json",
+  "model": "pipe-t.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.8676810264587402,2,1.7353620529174805]",
+  "convertedAt": "2026-09-05T11:48:28.888Z"
+}

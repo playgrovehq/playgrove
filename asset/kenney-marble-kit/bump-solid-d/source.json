@@ -1,0 +1,23 @@
+{
+  "id": "bump-solid-d",
+  "label": "bump-solid-d",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/bump-solid-d.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b68b1052e36203b1962c1e761f1b9a4cf75ac62a326f4cb3407ba5842108faff",
+  "originalInputSha256": "138ca9cea4da701bfa9efa20ae936bbc5c1dc49a855fdda904e14e2824e8375f",
+  "descriptor": "metadata.json",
+  "model": "bump-solid-d.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,2,4]",
+  "convertedAt": "2026-09-05T10:30:18.856Z"
+}

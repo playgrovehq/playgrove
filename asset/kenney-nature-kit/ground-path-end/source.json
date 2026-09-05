@@ -1,0 +1,23 @@
+{
+  "id": "ground-path-end",
+  "label": "ground pathEnd",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/ground_pathEnd.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9a9fb25693d17493929cf233cb36e3a4f7888cca6c86855c4eea0f8a597f34f1",
+  "originalInputSha256": "2682ba6e407dd86227550fe1c4f5f4940d033e532140787a5d5838c4e5eca610",
+  "descriptor": "metadata.json",
+  "model": "ground-path-end.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1,0.05000000074505806,1]",
+  "convertedAt": "2026-09-05T10:30:29.313Z"
+}

@@ -1,0 +1,100 @@
+{
+  "version": 2,
+  "id": "monorail-train-cargo",
+  "label": "monorail trainCargo",
+  "description": "Space Kit by Kenney.",
+  "category": "vehicles",
+  "tags": [
+    "monorail",
+    "train",
+    "cargo",
+    "kenney",
+    "space",
+    "kit",
+    "load",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#ffd07c",
+    "#edf0f5",
+    "#8f949e",
+    "#d6dbe4",
+    "#ffffff"
+  ],
+  "colorNames": [
+    "beige",
+    "white",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "monorail-train-cargo.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 960,
+    "triangles": 808,
+    "parts": 8,
+    "discardedDegenerate": 8
+  },
+  "bounds": {
+    "min": [
+      1.75,
+      0,
+      1
+    ],
+    "max": [
+      2.25,
+      0.64,
+      2
+    ],
+    "size": [
+      0.5,
+      0.64,
+      1
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "monorail_trainCargo",
+    "load"
+  ],
+  "materialNames": [
+    "metalRed",
+    "metal",
+    "dark",
+    "metalDark",
+    "_defaultMat"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/space-kit",
+    "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+    "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+    "file": "Models/GLTF format/monorail_trainCargo.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

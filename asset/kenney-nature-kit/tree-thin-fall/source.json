@@ -1,0 +1,23 @@
+{
+  "id": "tree-thin-fall",
+  "label": "tree thin fall",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_thin_fall.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "07e0b4680552b0cc8da2c611cd0900fcf10102e45c07f6d6732a8631547d7262",
+  "originalInputSha256": "0820f6823774030e1ea646e974ab63d532643d3cc24f70a0cfbf898f1ec3b574",
+  "descriptor": "metadata.json",
+  "model": "tree-thin-fall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6804370284080505,1.4902979619801044,0.6165229976177216]",
+  "convertedAt": "2026-09-05T10:30:33.696Z"
+}

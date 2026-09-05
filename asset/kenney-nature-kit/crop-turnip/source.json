@@ -1,0 +1,23 @@
+{
+  "id": "crop-turnip",
+  "label": "crop turnip",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/crop_turnip.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bed38c1a5a46bf14ee3bfb03cfddb8569ca2479af573d22717ac3ca134b224b8",
+  "originalInputSha256": "5e121c6042742497ed02081a7c62fc80aec2191f04e22a57d81d02130689f71d",
+  "descriptor": "metadata.json",
+  "model": "crop-turnip.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.34314200282096863,0.6606690175831318,0.34314200282096863]",
+  "convertedAt": "2026-09-05T10:30:27.364Z"
+}

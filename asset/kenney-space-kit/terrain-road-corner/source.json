@@ -1,0 +1,23 @@
+{
+  "id": "terrain-road-corner",
+  "label": "terrain roadCorner",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/terrain_roadCorner.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "06110e51c3669636c4c66f2d5d2c6a9b892898420eb9bf6dfc041aa6fa00c10c",
+  "originalInputSha256": "514dc0b203df79c5e215c842bae75617e1d7d1268808fbfa2101d8965750ed3d",
+  "descriptor": "metadata.json",
+  "model": "terrain-road-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0,1]",
+  "convertedAt": "2026-09-05T10:30:42.578Z"
+}

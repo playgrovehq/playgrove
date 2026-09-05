@@ -1,0 +1,23 @@
+{
+  "id": "lamp-square-floor",
+  "label": "lampSquareFloor",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/lampSquareFloor.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6e37d44b4e424afe53c8ee3a46b2fe69c2ace654be58f19663979eb4f494e33a",
+  "originalInputSha256": "6466993748d8e184de9ec5b6b0af613867c50c0ce320d1898b1db9e4c27c2561",
+  "descriptor": "metadata.json",
+  "model": "lamp-square-floor.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.11999999731779099,0.8600000143051147,0.11999999731779099]",
+  "convertedAt": "2026-09-05T10:30:14.980Z"
+}

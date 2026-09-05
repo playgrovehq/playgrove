@@ -1,0 +1,22 @@
+{
+  "id": "hazard-saw",
+  "label": "Hazard Saw",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1kcZySHvTu8XGK5W9aNTCrt9QCFh_DrVY",
+  "file": "Level and Mechanics/glTF/Hazard_Saw.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "77132f5e0af1a7b7024047d656bd21fef5dd5b438e7ec0a072029c1e43ccc0e9",
+  "originalInputSha256": "77132f5e0af1a7b7024047d656bd21fef5dd5b438e7ec0a072029c1e43ccc0e9",
+  "descriptor": "metadata.json",
+  "model": "hazard-saw.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3.0001659393310547,2.859771966934204,0.19775299727916718]",
+  "convertedAt": "2026-09-05T11:48:28.654Z"
+}

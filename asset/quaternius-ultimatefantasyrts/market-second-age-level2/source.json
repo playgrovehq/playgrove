@@ -1,0 +1,22 @@
+{
+  "id": "market-second-age-level2",
+  "label": "Market SecondAge Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1c9xZ520aWibG72aTBn473OA_MeuEIGRc",
+  "file": "glTF/Market_SecondAge_Level2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8eebda72675d6d32d3e7026d7b5519ac3150829cb0daebf8b29dc48a2b72cc23",
+  "originalInputSha256": "8eebda72675d6d32d3e7026d7b5519ac3150829cb0daebf8b29dc48a2b72cc23",
+  "descriptor": "metadata.json",
+  "model": "market-second-age-level2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=8 materials=8 bounds=[1.916096031665802,0.6571070328354836,2.0140519738197327]",
+  "convertedAt": "2026-09-05T12:03:24.533Z"
+}

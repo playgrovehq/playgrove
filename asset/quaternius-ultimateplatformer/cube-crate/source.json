@@ -1,0 +1,22 @@
+{
+  "id": "cube-crate",
+  "label": "Cube Crate",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Q-eOMX0laATlRLUCowO3FPMC_DaEWwhc",
+  "file": "Cubes/glTF/Cube_Crate.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3038fb1fad5897bc6d510004276d810955c2de8acd918d6fc8421038cb1dacc4",
+  "originalInputSha256": "3038fb1fad5897bc6d510004276d810955c2de8acd918d6fc8421038cb1dacc4",
+  "descriptor": "metadata.json",
+  "model": "cube-crate.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2.0208120346069336,2.0208120346069336,2.0208120346069336]",
+  "convertedAt": "2026-09-05T11:48:28.279Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "monorail-train-front",
+  "label": "monorail trainFront",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/monorail_trainFront.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c6cdae8c84078c6cf249c792875150bb9c79f68d4e2120bc3684d9fab61f82d2",
+  "originalInputSha256": "7291b45dedec952daf0e2188235518757953f82df616f7d6029a2ce5f08102f9",
+  "descriptor": "metadata.json",
+  "model": "monorail-train-front.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.5999999046325684,0.800000011920929,1.050000011920929]",
+  "convertedAt": "2026-09-05T10:30:41.379Z"
+}

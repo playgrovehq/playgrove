@@ -1,0 +1,23 @@
+{
+  "id": "bridge-stone-round-narrow",
+  "label": "bridge stoneRoundNarrow",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/bridge_stoneRoundNarrow.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "fa06a50f30645a189c56802ee4b100c34d091f75b4f136b84887f899b8ca3f8d",
+  "originalInputSha256": "b29d3c2a235861651296e5fb4be6bde4f17b3206d452a83cdafe6e4d90dcffda",
+  "descriptor": "metadata.json",
+  "model": "bridge-stone-round-narrow.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.0399999618530273,0.3999999947845936,0.8399999737739563]",
+  "convertedAt": "2026-09-05T10:30:26.163Z"
+}

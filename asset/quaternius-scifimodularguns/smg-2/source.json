@@ -1,0 +1,22 @@
+{
+  "id": "smg-2",
+  "label": "SMG 2",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1WhqZrlnhDtxR3yFJW9zbAXt9H2eDJcj6",
+  "file": "Guns/glTF/SMG_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "811410113e8ba6b86da40a4e9bb12c84d5b7d6a855fe1d735d365aba23a2ef3e",
+  "originalInputSha256": "811410113e8ba6b86da40a4e9bb12c84d5b7d6a855fe1d735d365aba23a2ef3e",
+  "descriptor": "metadata.json",
+  "model": "smg-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[2.201982021331787,0.7376660108566284,0.17597399652004242]",
+  "convertedAt": "2026-09-05T12:05:31.837Z"
+}

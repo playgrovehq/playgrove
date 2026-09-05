@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "town-sign",
+  "label": "TownSign",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "town",
+    "sign",
+    "quaternius",
+    "zombieapocalypsekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#8b8786",
+    "#297c66",
+    "#cbc3bd"
+  ],
+  "colorNames": [
+    "gray",
+    "green",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "town-sign.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1623,
+    "triangles": 1397,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -5.525869,
+      -0.022247,
+      -0.867601
+    ],
+    "max": [
+      0.458901,
+      5.329432,
+      0.867601
+    ],
+    "size": [
+      5.98477,
+      5.351679,
+      1.735202
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "TownSign"
+  ],
+  "materialNames": [
+    "Atlas"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1RardVh99rHg6BUVCokWSzyin66nFCgHZ",
+    "file": "Environment/glTF/TownSign.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

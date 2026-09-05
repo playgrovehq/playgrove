@@ -1,0 +1,23 @@
+{
+  "id": "platform-beach",
+  "label": "platform beach",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/platform_beach.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3f018f6c8ed860c8be441687e68bfb95b2040b8525b520250f149d24548308b2",
+  "originalInputSha256": "4fa4a12535983be876098841c2114bfd755a590b0db84251f44a96cbd224bfe5",
+  "descriptor": "metadata.json",
+  "model": "platform-beach.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.8931970000267029,0.08249999955296516,0.7239200174808502]",
+  "convertedAt": "2026-09-05T10:30:30.161Z"
+}

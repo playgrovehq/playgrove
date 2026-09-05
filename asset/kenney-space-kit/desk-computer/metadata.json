@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "desk-computer",
+  "label": "desk computer",
+  "description": "Space Kit by Kenney.",
+  "category": "furniture",
+  "tags": [
+    "desk",
+    "computer",
+    "kenney",
+    "space",
+    "kit",
+    "furniture",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d6dbe4",
+    "#edf0f5",
+    "#8f949e"
+  ],
+  "colorNames": [
+    "white",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "desk-computer.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 126,
+    "triangles": 83,
+    "parts": 3,
+    "discardedDegenerate": 5
+  },
+  "bounds": {
+    "min": [
+      1.7375,
+      0,
+      1.3875
+    ],
+    "max": [
+      2.2625,
+      0.375,
+      1.6125
+    ],
+    "size": [
+      0.525,
+      0.375,
+      0.225
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "desk_computer"
+  ],
+  "materialNames": [
+    "metalDark",
+    "metal",
+    "dark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/space-kit",
+    "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+    "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+    "file": "Models/GLTF format/desk_computer.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

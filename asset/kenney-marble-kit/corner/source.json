@@ -1,0 +1,23 @@
+{
+  "id": "corner",
+  "label": "corner",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/corner.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "77e5b083a274300c99ceb493b275d474f40400a1c926653b4232beb7babed6c9",
+  "originalInputSha256": "bf6c460b9e6d73cff5ca762f0289298f48457394b938990ffcd8acb9915dfd34",
+  "descriptor": "metadata.json",
+  "model": "corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1,0.5,1]",
+  "convertedAt": "2026-09-05T10:30:18.873Z"
+}

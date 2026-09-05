@@ -1,0 +1,22 @@
+{
+  "id": "sight-1",
+  "label": "Sight 1",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=106xBxxV5GF_DYzChWtAlF6B4-QQ5bzyK",
+  "file": "Modular Parts/glTF/Sight_1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d48fc02246ff4d51a6dc80ce14a0c9bb7483f037935a3f088a89b6ee2bb2fa6f",
+  "originalInputSha256": "d48fc02246ff4d51a6dc80ce14a0c9bb7483f037935a3f088a89b6ee2bb2fa6f",
+  "descriptor": "metadata.json",
+  "model": "sight-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.1818619929254055,0.10930000245571136,0.09799399971961975]",
+  "convertedAt": "2026-09-05T12:05:32.707Z"
+}

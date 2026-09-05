@@ -1,0 +1,23 @@
+{
+  "id": "wave-a",
+  "label": "wave-a",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/wave-a.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1d7599f205d0bf875830f2499d5b3b48994c00472c0dcc105371b80b94ab0aeb",
+  "originalInputSha256": "1256fac71e8bb745a645236ec480ed099eff5af7e48c73b000595a1a88b3148e",
+  "descriptor": "metadata.json",
+  "model": "wave-a.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.25,0.5,4]",
+  "convertedAt": "2026-09-05T10:30:21.680Z"
+}

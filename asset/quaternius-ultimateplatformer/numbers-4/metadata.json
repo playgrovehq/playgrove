@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "id": "numbers-4",
+  "label": "Numbers 4",
+  "description": "Platformer Game Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "numbers",
+    "quaternius",
+    "ultimateplatformer",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#c6cabd"
+  ],
+  "colorNames": [
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "numbers-4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 421,
+    "triangles": 368,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.390736,
+      -0.559754,
+      -0.149814
+    ],
+    "max": [
+      0.349691,
+      0.565555,
+      0.149814
+    ],
+    "size": [
+      0.740427,
+      1.125309,
+      0.299628
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Numbers_4"
+  ],
+  "materialNames": [
+    "White"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1-eaE20O-QLZKEllWV5Ku-CSN9DRE9Qvn",
+    "file": "Level and Mechanics/glTF/Numbers_4.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

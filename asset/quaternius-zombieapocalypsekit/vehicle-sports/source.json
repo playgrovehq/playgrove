@@ -1,0 +1,22 @@
+{
+  "id": "vehicle-sports",
+  "label": "Vehicle Sports",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1mRasAWSbbCUo74tBi_mxrNmTS74tdLr9",
+  "file": "Vehicles/glTF/Vehicle_Sports.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e45d69f6e23ec0a6081bb061402fad0af3f4c3a1500811d8b836914df596b4a5",
+  "originalInputSha256": "e45d69f6e23ec0a6081bb061402fad0af3f4c3a1500811d8b836914df596b4a5",
+  "descriptor": "metadata.json",
+  "model": "vehicle-sports.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=11 materials=11 bounds=[2.670619010925293,1.864725997671485,5.65510106086731]",
+  "convertedAt": "2026-09-05T11:49:50.229Z"
+}

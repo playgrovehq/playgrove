@@ -1,0 +1,23 @@
+{
+  "id": "road-side-barrier",
+  "label": "road-side-barrier",
+  "description": "City Kit (Roads) by Kenney.",
+  "pack": "kenney-city-kit-roads",
+  "listing": "https://kenney.nl/assets/city-kit-roads",
+  "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+  "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+  "file": "Models/GLB format/road-side-barrier.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8ab3ef4eb9d724e8553146c85e89d0aabdfd69f942758b19f5b70c28400b6c1a",
+  "originalInputSha256": "35101d5cb8774c51b7203fabefc04c49335a5e54ef30e5ae5b858cbf0a3a2f9d",
+  "descriptor": "metadata.json",
+  "model": "road-side-barrier.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.3100000023841858,0.07999999821186066,1]",
+  "convertedAt": "2026-09-05T10:30:08.331Z"
+}

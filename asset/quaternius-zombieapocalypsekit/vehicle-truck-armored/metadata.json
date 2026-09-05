@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "id": "vehicle-truck-armored",
+  "label": "Vehicle Truck Armored",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "vehicle",
+    "truck",
+    "armored",
+    "quaternius",
+    "zombieapocalypsekit",
+    "front",
+    "wheel",
+    "r",
+    "back",
+    "wheels",
+    "l",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2a2929",
+    "#7a7a7a",
+    "#585858",
+    "#757a6a",
+    "#8b755e",
+    "#939e3e",
+    "#444444",
+    "#c0bfbc",
+    "#1f1f1f",
+    "#5a4b3e",
+    "#8b8786",
+    "#923c12",
+    "#687a65",
+    "#979c82",
+    "#c7cfb3",
+    "#ffffff"
+  ],
+  "colorNames": [
+    "black",
+    "gray",
+    "brown",
+    "green",
+    "beige",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "vehicle-truck-armored.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 20118,
+    "triangles": 16131,
+    "parts": 20,
+    "discardedDegenerate": 3
+  },
+  "bounds": {
+    "min": [
+      -1.488113,
+      0.000674,
+      -3.062991
+    ],
+    "max": [
+      1.488113,
+      2.904346,
+      2.523507
+    ],
+    "size": [
+      2.976226,
+      2.903672,
+      5.586498
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "FrontWheel_R",
+    "BackWheels",
+    "FrontWheel_L",
+    "Truck_Armored"
+  ],
+  "materialNames": [
+    "Atlas",
+    "BrakeLight",
+    "Headlights"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1F8wXYSc1-Je0ylBvonbQ3PQEKBZgEuut",
+    "file": "Vehicles/glTF/Vehicle_Truck_Armored.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

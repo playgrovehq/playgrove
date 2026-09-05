@@ -1,0 +1,98 @@
+{
+  "version": 2,
+  "id": "pipe-ring-high-end",
+  "label": "pipe ringHighEnd",
+  "description": "Space Kit by Kenney.",
+  "category": "props",
+  "tags": [
+    "pipe",
+    "ring",
+    "high",
+    "end",
+    "kenney",
+    "space",
+    "kit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#edf0f5",
+    "#ffd07c",
+    "#d6dbe4",
+    "#ffffff",
+    "#8f949e"
+  ],
+  "colorNames": [
+    "white",
+    "beige",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pipe-ring-high-end.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 282,
+    "triangles": 184,
+    "parts": 5,
+    "discardedDegenerate": 2
+  },
+  "bounds": {
+    "min": [
+      1.53812,
+      0,
+      1.2
+    ],
+    "max": [
+      2.46188,
+      1.3,
+      2
+    ],
+    "size": [
+      0.92376,
+      1.3,
+      0.8
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "pipe_ringHighEnd"
+  ],
+  "materialNames": [
+    "metal",
+    "metalRed",
+    "metalDark",
+    "_defaultMat",
+    "dark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/space-kit",
+    "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+    "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+    "file": "Models/GLTF format/pipe_ringHighEnd.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

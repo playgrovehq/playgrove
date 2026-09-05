@@ -1,0 +1,22 @@
+{
+  "id": "plant-small",
+  "label": "Plant Small",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1EzfoFdRTVHkNFn2rQ9fzKbaPw7Y3T6HM",
+  "file": "Level and Mechanics/glTF/Plant_Small.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8250648e70d35f22f9d790b919e8a3dc3d8b9a882630dae9e5782a06fe2f5b6f",
+  "originalInputSha256": "8250648e70d35f22f9d790b919e8a3dc3d8b9a882630dae9e5782a06fe2f5b6f",
+  "descriptor": "metadata.json",
+  "model": "plant-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.0295660495758057,0.28674400446470827,1.032454013824463]",
+  "convertedAt": "2026-09-05T11:48:28.921Z"
+}

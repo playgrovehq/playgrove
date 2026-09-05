@@ -1,0 +1,22 @@
+{
+  "id": "cinder-block",
+  "label": "CinderBlock",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1bmCa_mWLpiJHr2fH8CxjxQXdCsUIM3oA",
+  "file": "Environment/glTF/CinderBlock.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d064a113978c1dce6ba9427ec5599a8aa966eee05182e028921a902d9cceb144",
+  "originalInputSha256": "d064a113978c1dce6ba9427ec5599a8aa966eee05182e028921a902d9cceb144",
+  "descriptor": "metadata.json",
+  "model": "cinder-block.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4715540111064911,0.2273789937607944,0.2145259976387024]",
+  "convertedAt": "2026-09-05T11:49:49.313Z"
+}

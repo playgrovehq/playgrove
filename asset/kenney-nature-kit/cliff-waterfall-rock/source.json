@@ -1,0 +1,23 @@
+{
+  "id": "cliff-waterfall-rock",
+  "label": "cliff waterfall rock",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_waterfall_rock.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8c418d370b137edaf6bafdbc3e8b0620f332725d656eb6b766b80110d45f91c6",
+  "originalInputSha256": "08063b24498cae385c204e9038a72f0dd438fdfa29ecf106a0df5e656b7edff6",
+  "descriptor": "metadata.json",
+  "model": "cliff-waterfall-rock.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1,0.9999999888241291,0.16850000619888306]",
+  "convertedAt": "2026-09-05T10:30:27.247Z"
+}

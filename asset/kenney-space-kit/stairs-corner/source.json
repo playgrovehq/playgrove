@@ -1,0 +1,23 @@
+{
+  "id": "stairs-corner",
+  "label": "stairs corner",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/stairs_corner.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "22aee5d7e66feda7403d91c819037a042021d2517a88e05cb23fe1d2d13f4707",
+  "originalInputSha256": "d5ac84da6811e50d50d000bd6fde0f18f9b2ad9b1dc2f127282e2a14ab717b82",
+  "descriptor": "metadata.json",
+  "model": "stairs-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.6000001430511475,0.5,0.6000000238418579]",
+  "convertedAt": "2026-09-05T10:30:42.379Z"
+}

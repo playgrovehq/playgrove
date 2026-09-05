@@ -1,0 +1,23 @@
+{
+  "id": "cliff-corner-top-rock",
+  "label": "cliff cornerTop rock",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_cornerTop_rock.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "75f66b5a2b5c346876d69b30fb8cad36bfc0b93ff3b5573b0c3edd924e6b025f",
+  "originalInputSha256": "1cebec53101f64332d911dfffb752b9d465224e7a2f91a25f8532fa749fee1b6",
+  "descriptor": "metadata.json",
+  "model": "cliff-corner-top-rock.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.2685000002384186,0.9999999888241291,0.2685000002384186]",
+  "convertedAt": "2026-09-05T10:30:26.843Z"
+}

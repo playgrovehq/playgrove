@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "id": "tree-fruit",
+  "label": "Tree Fruit",
+  "description": "Platformer Game Kit by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "tree",
+    "fruit",
+    "quaternius",
+    "ultimateplatformer",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a57c45",
+    "#8f413f",
+    "#4c6d47"
+  ],
+  "colorNames": [
+    "brown",
+    "green"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tree-fruit.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2682,
+    "triangles": 4064,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -2.767241,
+      0.009274,
+      -2.774606
+    ],
+    "max": [
+      2.767241,
+      8.635452,
+      2.774606
+    ],
+    "size": [
+      5.534482,
+      8.626178,
+      5.549212
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Tree_Fruit"
+  ],
+  "materialNames": [
+    "Wood",
+    "Red",
+    "Green"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=18ZY3dcPjblp9fT8kzMYqSZEq_VSi04-b",
+    "file": "Nature/glTF/Tree_Fruit.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

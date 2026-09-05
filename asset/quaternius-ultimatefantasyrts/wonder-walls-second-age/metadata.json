@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "id": "wonder-walls-second-age",
+  "label": "WonderWalls SecondAge",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "props",
+  "tags": [
+    "wonder",
+    "walls",
+    "second",
+    "age",
+    "quaternius",
+    "ultimatefantasyrts",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#888880",
+    "#b4b4a9",
+    "#886a42"
+  ],
+  "colorNames": [
+    "gray",
+    "beige",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "wonder-walls-second-age.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 13429,
+    "triangles": 7027,
+    "parts": 3,
+    "discardedDegenerate": 23
+  },
+  "bounds": {
+    "min": [
+      -1.051716,
+      -0.000047,
+      -0.993968
+    ],
+    "max": [
+      1.051716,
+      0.936847,
+      0.962901
+    ],
+    "size": [
+      2.103432,
+      0.936894,
+      1.956869
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "WonderWalls_SecondAge"
+  ],
+  "materialNames": [
+    "Stone",
+    "Stone_Light",
+    "Wood"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=1oiOVTYj3qar1q5yOvxzoxnz_fXp4K3bN",
+    "file": "glTF/WonderWalls_SecondAge.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

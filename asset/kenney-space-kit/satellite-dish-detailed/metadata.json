@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "id": "satellite-dish-detailed",
+  "label": "satelliteDish detailed",
+  "description": "Space Kit by Kenney.",
+  "category": "props",
+  "tags": [
+    "satellite",
+    "dish",
+    "detailed",
+    "kenney",
+    "space",
+    "kit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#edf0f5",
+    "#d6dbe4",
+    "#ffffff",
+    "#ffd07c",
+    "#8f949e"
+  ],
+  "colorNames": [
+    "white",
+    "beige",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "satellite-dish-detailed.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 578,
+    "triangles": 376,
+    "parts": 5,
+    "discardedDegenerate": 14
+  },
+  "bounds": {
+    "min": [
+      1.65,
+      0,
+      1.15
+    ],
+    "max": [
+      2.35,
+      0.616465,
+      1.85
+    ],
+    "size": [
+      0.7,
+      0.616465,
+      0.7
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "satelliteDish_detailed"
+  ],
+  "materialNames": [
+    "metal",
+    "metalDark",
+    "_defaultMat",
+    "metalRed",
+    "dark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/space-kit",
+    "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+    "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+    "file": "Models/GLTF format/satelliteDish_detailed.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

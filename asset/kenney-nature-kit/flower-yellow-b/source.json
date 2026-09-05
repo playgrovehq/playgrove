@@ -1,0 +1,23 @@
+{
+  "id": "flower-yellow-b",
+  "label": "flower yellowB",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/flower_yellowB.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7f9c5dd4a1daef3c38c2a0c54c81d7077000c1633d8a798929d79c1c8c8d38d3",
+  "originalInputSha256": "aaa8707779a5de59f881f80185bc507b35ec3fd5f23a39d6447ef61141dcd4f5",
+  "descriptor": "metadata.json",
+  "model": "flower-yellow-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.207335002720356,0.15849999710917473,0.23917999863624573]",
+  "convertedAt": "2026-09-05T10:30:29.115Z"
+}

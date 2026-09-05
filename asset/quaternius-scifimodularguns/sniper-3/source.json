@@ -1,0 +1,22 @@
+{
+  "id": "sniper-3",
+  "label": "Sniper 3",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1CZpwIyZYkb0ZktMe4SNkSyqbQyQGR623",
+  "file": "Guns/glTF/Sniper_3.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "98115ef6f6ef59ed573f884098964cce4ad221c574844b97b5d51de310181748",
+  "originalInputSha256": "98115ef6f6ef59ed573f884098964cce4ad221c574844b97b5d51de310181748",
+  "descriptor": "metadata.json",
+  "model": "sniper-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[2.2604140043258667,0.5401759892702103,0.09453599900007248]",
+  "convertedAt": "2026-09-05T12:05:31.892Z"
+}

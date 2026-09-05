@@ -1,0 +1,23 @@
+{
+  "id": "road-split-larger",
+  "label": "roadSplitLarger",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadSplitLarger.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a0c0f3102841dd29fabb9613e6e8881139b1e5ffa6833f5453e752613e157c00",
+  "originalInputSha256": "58a33161b592d5cdf7c68c700eec1a59cb94ac0b7f53dbb5d98b903270894b4c",
+  "descriptor": "metadata.json",
+  "model": "road-split-larger.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.000000089406967,0.019999999552965164,3.0000001192092896]",
+  "convertedAt": "2026-09-05T10:30:38.111Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bed-floor",
+  "label": "bed floor",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/bed_floor.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "97690bfd74e31611d7c1cc081c68ccac28f033cc4a50f5506aa5dded4cf17efe",
+  "originalInputSha256": "a59c8878186ab180f43e55249184b5c8e6af7d6501f908898202ac14c474a05f",
+  "descriptor": "metadata.json",
+  "model": "bed-floor.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.32029199600219727,0.09205299988389015,0.7473260164260864]",
+  "convertedAt": "2026-09-05T10:30:25.966Z"
+}

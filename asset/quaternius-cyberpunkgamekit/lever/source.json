@@ -1,0 +1,22 @@
+{
+  "id": "lever",
+  "label": "Lever",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1i_Zojm_oJ4T40aD8OqMbz-Ud6mNeAUbB",
+  "file": "Pickups and Objects/Lever.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ce7f95e65fa324a9c5a3a473cbfec90ff26cfad0f0049a782b7f1de5f020edad",
+  "originalInputSha256": "ce7f95e65fa324a9c5a3a473cbfec90ff26cfad0f0049a782b7f1de5f020edad",
+  "descriptor": "metadata.json",
+  "model": "lever.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.39799000322818756,0.44569001253694296,0.662431001663208]",
+  "convertedAt": "2026-09-05T12:03:55.665Z"
+}

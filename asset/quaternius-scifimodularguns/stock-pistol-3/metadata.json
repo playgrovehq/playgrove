@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "id": "stock-pistol-3",
+  "label": "Stock Pistol 3",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "stock",
+    "pistol",
+    "quaternius",
+    "scifimodularguns",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#303030",
+    "#b4b4b4",
+    "#ce7f2f"
+  ],
+  "colorNames": [
+    "black",
+    "beige",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "stock-pistol-3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 568,
+    "triangles": 522,
+    "parts": 3,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -0.280431,
+      -0.15956,
+      -0.057021
+    ],
+    "max": [
+      0.04432,
+      0.087693,
+      0.057021
+    ],
+    "size": [
+      0.324751,
+      0.247253,
+      0.114042
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Stock_Pistol_3"
+  ],
+  "materialNames": [
+    "Black",
+    "White",
+    "Main"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/scifimodularguns.html",
+    "download": "https://drive.google.com/uc?export=download&id=1G9Qil6fZLWd_LNz6ODZSh15BNew6f0Tb",
+    "file": "Modular Parts/glTF/Stock_Pistol_3.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

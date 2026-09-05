@@ -1,0 +1,23 @@
+{
+  "id": "crops-corn-stage-c",
+  "label": "crops cornStageC",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/crops_cornStageC.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "32e127bfb2a185a6d569046d79880f7ed5b6f688aae4b1a404d624182ecff6ca",
+  "originalInputSha256": "deb8b4b74247fd8dc8834cf0a954c818c76c5da9564b244a6354ec4ab65da059",
+  "descriptor": "metadata.json",
+  "model": "crops-corn-stage-c.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.30420199036598206,1.2500000484287739,0.30420199036598206]",
+  "convertedAt": "2026-09-05T10:30:27.447Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tree-pine-ground-a",
+  "label": "tree pineGroundA",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_pineGroundA.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4010ac67abf95bfd4fae90be453ed841e6f81f269c52b8b97f1672af0ae9a3fc",
+  "originalInputSha256": "dfffda4e4f0796076c502561cbf9527245656b7384b67657edc2a45205bbce51",
+  "descriptor": "metadata.json",
+  "model": "tree-pine-ground-a.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4803839921951294,0.9144689925014973,0.5547000169754028]",
+  "convertedAt": "2026-09-05T10:30:33.129Z"
+}

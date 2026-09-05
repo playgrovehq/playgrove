@@ -1,0 +1,22 @@
+{
+  "id": "cube-spikes",
+  "label": "Cube Spikes",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1h6ocaSUgY_ndPmc_ZTXETMgQ4AxVuz4L",
+  "file": "Cubes/glTF/Cube_Spikes.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b8f975219c2feb07dc891a9abf4bc1cf99ed37f7cf117b1cdaa31985944e058c",
+  "originalInputSha256": "b8f975219c2feb07dc891a9abf4bc1cf99ed37f7cf117b1cdaa31985944e058c",
+  "descriptor": "metadata.json",
+  "model": "cube-spikes.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[3.151237964630127,3.151237964630127,3.151237964630127]",
+  "convertedAt": "2026-09-05T11:48:28.386Z"
+}

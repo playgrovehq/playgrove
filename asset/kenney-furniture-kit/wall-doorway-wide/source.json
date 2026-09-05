@@ -1,0 +1,23 @@
+{
+  "id": "wall-doorway-wide",
+  "label": "wallDoorwayWide",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/wallDoorwayWide.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "fd7ac435cc1d9d2cc3c63be9bcc71bf25ac422467191ada39cea8dbf15c30e7b",
+  "originalInputSha256": "877af5b239f31f12027e3cec92aa26e97d511e1ae8673a8e3d7d13302d33edf3",
+  "descriptor": "metadata.json",
+  "model": "wall-doorway-wide.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1,1.289531946182251,0.08909999951720238]",
+  "convertedAt": "2026-09-05T10:30:15.914Z"
+}

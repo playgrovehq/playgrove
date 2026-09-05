@@ -1,0 +1,23 @@
+{
+  "id": "electricity-wires",
+  "label": "electricity-wires",
+  "description": "City Kit (Roads) by Kenney.",
+  "pack": "kenney-city-kit-roads",
+  "listing": "https://kenney.nl/assets/city-kit-roads",
+  "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+  "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+  "file": "Models/GLB format/electricity-wires.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "00619b22a4b0309a82d5e222d4e8903c08cf9b8856aa6b2122ef3e6ca027c2d7",
+  "originalInputSha256": "514027014328d1465c9cb60755efc184a2b53a9c1ecd77fd34c5265856bd699f",
+  "descriptor": "metadata.json",
+  "model": "electricity-wires.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.5059020072221756,0.06468600034713745,0.1850000023841858]",
+  "convertedAt": "2026-09-05T10:30:08.109Z"
+}

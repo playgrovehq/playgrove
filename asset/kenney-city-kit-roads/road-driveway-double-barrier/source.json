@@ -1,0 +1,23 @@
+{
+  "id": "road-driveway-double-barrier",
+  "label": "road-driveway-double-barrier",
+  "description": "City Kit (Roads) by Kenney.",
+  "pack": "kenney-city-kit-roads",
+  "listing": "https://kenney.nl/assets/city-kit-roads",
+  "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+  "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+  "file": "Models/GLB format/road-driveway-double-barrier.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1ab083d88d1040f4261d73def44775b8749cebd8b90b02ac0caab4c474323e9c",
+  "originalInputSha256": "057ef29517e70a02dabda572779ae664f55beb3bfad92523e8f78e6cd9d2b287",
+  "descriptor": "metadata.json",
+  "model": "road-driveway-double-barrier.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0.07999999821186066,1]",
+  "convertedAt": "2026-09-05T10:30:08.229Z"
+}

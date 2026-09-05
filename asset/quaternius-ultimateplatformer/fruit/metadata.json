@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "fruit",
+  "label": "Fruit",
+  "description": "Platformer Game Kit by Quaternius.",
+  "category": "food",
+  "tags": [
+    "fruit",
+    "quaternius",
+    "ultimateplatformer",
+    "food",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#8f413f",
+    "#98ac2a"
+  ],
+  "colorNames": [
+    "brown",
+    "green"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "fruit.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 352,
+    "triangles": 544,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.331335,
+      -0.33171,
+      -0.357413
+    ],
+    "max": [
+      0.545997,
+      0.491348,
+      0.331335
+    ],
+    "size": [
+      0.877332,
+      0.823058,
+      0.688748
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Fruit"
+  ],
+  "materialNames": [
+    "Red",
+    "Green_Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=14HwzOjkKIew314t94hEiA08tGt8KtZXn",
+    "file": "Nature/glTF/Fruit.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

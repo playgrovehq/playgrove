@@ -1,0 +1,22 @@
+{
+  "id": "wall-towers-second-age",
+  "label": "WallTowers SecondAge",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1p-uX3X-jP-sHUrT0_OWQlxQuVXRLImSq",
+  "file": "glTF/WallTowers_SecondAge.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b74071d518e2252e37a1b3e4d4dacc245abef067b31c076132fbd79c5748c9a2",
+  "originalInputSha256": "b74071d518e2252e37a1b3e4d4dacc245abef067b31c076132fbd79c5748c9a2",
+  "descriptor": "metadata.json",
+  "model": "wall-towers-second-age.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.975633978843689,0.7353010158985853,0.33341699838638306]",
+  "convertedAt": "2026-09-05T12:03:25.616Z"
+}

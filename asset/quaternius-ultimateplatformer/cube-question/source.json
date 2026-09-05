@@ -1,0 +1,22 @@
+{
+  "id": "cube-question",
+  "label": "Cube Question",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=16QqvxBFKrDQ2tmPyC1YXnt1UqCWy9nxj",
+  "file": "Cubes/glTF/Cube_Question.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "705f7b9372c682105a17058e91ee3901d441ded1c2484a28d202989c649b4eca",
+  "originalInputSha256": "705f7b9372c682105a17058e91ee3901d441ded1c2484a28d202989c649b4eca",
+  "descriptor": "metadata.json",
+  "model": "cube-question.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.0208120346069336,2.0208120346069336,2.0208120346069336]",
+  "convertedAt": "2026-09-05T11:48:28.369Z"
+}

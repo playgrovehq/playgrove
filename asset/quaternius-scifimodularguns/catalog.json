@@ -1,0 +1,6177 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T12:05:33.073Z",
+  "assets": [
+    {
+      "id": "accessory-pistol-1",
+      "label": "Accessory Pistol 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "accessory-pistol-1/thumbnail.png",
+      "model": "accessory-pistol-1/accessory-pistol-1.ts",
+      "package": "accessory-pistol-1",
+      "descriptor": "accessory-pistol-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=15Qm4c0oO8LX_n6JKCG0YOT14CWuzLGaC",
+        "file": "Modular Parts/glTF/Accessory_Pistol_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "accessory",
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 725,
+        "triangles": 746,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.124994,
+          -0.125241,
+          -0.089112
+        ],
+        "max": [
+          0.124994,
+          0.124253,
+          0.089112
+        ],
+        "size": [
+          0.249988,
+          0.249494,
+          0.178224
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "ar-1",
+      "label": "AR 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "ar-1/thumbnail.png",
+      "model": "ar-1/ar-1.ts",
+      "package": "ar-1",
+      "descriptor": "ar-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1XRZtQ80rNq7yuUEa9o-CtzhAepBkvStT",
+        "file": "Guns/glTF/AR_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3097,
+        "triangles": 3002,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.905324,
+          -0.155077,
+          -0.068302
+        ],
+        "max": [
+          0.986038,
+          0.397701,
+          0.068302
+        ],
+        "size": [
+          1.891362,
+          0.552778,
+          0.136604
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "ar-2",
+      "label": "AR 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "ar-2/thumbnail.png",
+      "model": "ar-2/ar-2.ts",
+      "package": "ar-2",
+      "descriptor": "ar-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Brf8ngRgNlsSMoZLgEDslaSUDiNZLnjh",
+        "file": "Guns/glTF/AR_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3003,
+        "triangles": 3530,
+        "parts": 4,
+        "discardedDegenerate": 7
+      },
+      "bounds": {
+        "min": [
+          -0.992579,
+          -0.071629,
+          -0.067783
+        ],
+        "max": [
+          0.499809,
+          0.414759,
+          0.067783
+        ],
+        "size": [
+          1.492388,
+          0.486388,
+          0.135566
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "ar-3",
+      "label": "AR 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "ar-3/thumbnail.png",
+      "model": "ar-3/ar-3.ts",
+      "package": "ar-3",
+      "descriptor": "ar-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1tssGZl1ZoQefUapqx4_sdF1Ht0Vvb1Jq",
+        "file": "Guns/glTF/AR_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "magazine",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3272,
+        "triangles": 3179,
+        "parts": 5,
+        "discardedDegenerate": 8
+      },
+      "bounds": {
+        "min": [
+          -0.721267,
+          -0.315224,
+          -0.065482
+        ],
+        "max": [
+          0.827838,
+          0.429964,
+          0.065483
+        ],
+        "size": [
+          1.549105,
+          0.745188,
+          0.130965
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "ar-4",
+      "label": "AR 4",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "ar-4/thumbnail.png",
+      "model": "ar-4/ar-4.ts",
+      "package": "ar-4",
+      "descriptor": "ar-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1mv29NdcZL4HytV6cM4Qqk4o2ujIuBSF2",
+        "file": "Guns/glTF/AR_4.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "magazine",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 5213,
+        "triangles": 4897,
+        "parts": 5,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.897381,
+          -0.26223,
+          -0.073047
+        ],
+        "max": [
+          0.894765,
+          0.385354,
+          0.073058
+        ],
+        "size": [
+          1.792146,
+          0.647584,
+          0.146105
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "ar-5",
+      "label": "AR 5",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "ar-5/thumbnail.png",
+      "model": "ar-5/ar-5.ts",
+      "package": "ar-5",
+      "descriptor": "ar-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1G1D9bkm8Xkx8Rw5_-4cCs_yWf_KicPsI",
+        "file": "Guns/glTF/AR_5.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1941,
+        "triangles": 2274,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.049231,
+          -0.090711,
+          -0.073888
+        ],
+        "max": [
+          0.523543,
+          0.447024,
+          0.073888
+        ],
+        "size": [
+          1.572774,
+          0.537735,
+          0.147776
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "ar-6",
+      "label": "AR 6",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "ar-6/thumbnail.png",
+      "model": "ar-6/ar-6.ts",
+      "package": "ar-6",
+      "descriptor": "ar-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1mM1ByXuBSeiCMKCxco2brwqb4Bpt6ZdG",
+        "file": "Guns/glTF/AR_6.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3159,
+        "triangles": 4083,
+        "parts": 4,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -1.001745,
+          -0.14302,
+          -0.072814
+        ],
+        "max": [
+          0.762855,
+          0.35137,
+          0.072814
+        ],
+        "size": [
+          1.7646,
+          0.49439,
+          0.145628
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel-ar-1",
+      "label": "Barrel AR 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "barrel-ar-1/thumbnail.png",
+      "model": "barrel-ar-1/barrel-ar-1.ts",
+      "package": "barrel-ar-1",
+      "descriptor": "barrel-ar-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1cScjAoslkBMBO3dMEZp-v16j0rykqvDW",
+        "file": "Modular Parts/glTF/Barrel_AR_1.glb"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1263,
+        "triangles": 1237,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          0,
+          -0.161999,
+          -0.057364
+        ],
+        "max": [
+          0.513765,
+          0.076367,
+          0.057364
+        ],
+        "size": [
+          0.513765,
+          0.238366,
+          0.114728
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel-ar-3",
+      "label": "Barrel AR 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "barrel-ar-3/thumbnail.png",
+      "model": "barrel-ar-3/barrel-ar-3.ts",
+      "package": "barrel-ar-3",
+      "descriptor": "barrel-ar-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1IHLzNwrNyycS_S98m3jM-v9vKgMG8x8E",
+        "file": "Modular Parts/glTF/Barrel_AR_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1268,
+        "triangles": 1241,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.000754,
+          -0.164969,
+          -0.049713
+        ],
+        "max": [
+          0.39443,
+          0.072651,
+          0.049609
+        ],
+        "size": [
+          0.395184,
+          0.23762,
+          0.099322
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel-grenade-1",
+      "label": "Barrel Grenade 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "barrel-grenade-1/thumbnail.png",
+      "model": "barrel-grenade-1/barrel-grenade-1.ts",
+      "package": "barrel-grenade-1",
+      "descriptor": "barrel-grenade-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1RTm8MGth4hD93MfKKL82kdXTABkvKW84",
+        "file": "Modular Parts/glTF/Barrel_Grenade_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5a5a5a",
+        "#303030",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 854,
+        "triangles": 773,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.356032,
+          -0.157164,
+          -0.07297
+        ],
+        "max": [
+          0.616565,
+          0.131103,
+          0.072912
+        ],
+        "size": [
+          0.972597,
+          0.288267,
+          0.145882
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel-pistol-1",
+      "label": "Barrel Pistol 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "barrel-pistol-1/thumbnail.png",
+      "model": "barrel-pistol-1/barrel-pistol-1.ts",
+      "package": "barrel-pistol-1",
+      "descriptor": "barrel-pistol-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CgkTKKEj7jHV7c_MR4Ru9M_tTayxXGap",
+        "file": "Modular Parts/glTF/Barrel_Pistol_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5a5a5a",
+        "#303030"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 384,
+        "triangles": 380,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.026251,
+          -0.070508,
+          -0.070586
+        ],
+        "max": [
+          0.574993,
+          0.070608,
+          0.07053
+        ],
+        "size": [
+          0.601244,
+          0.141116,
+          0.141116
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel-pistol-2",
+      "label": "Barrel Pistol 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "barrel-pistol-2/thumbnail.png",
+      "model": "barrel-pistol-2/barrel-pistol-2.ts",
+      "package": "barrel-pistol-2",
+      "descriptor": "barrel-pistol-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1_PRt6TcKdsCuZJxj1_1tLxOQz5v227qj",
+        "file": "Modular Parts/glTF/Barrel_Pistol_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 625,
+        "triangles": 609,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.273244,
+          -0.089256,
+          -0.047203
+        ],
+        "max": [
+          0.146469,
+          0.04518,
+          0.047203
+        ],
+        "size": [
+          0.419713,
+          0.134436,
+          0.094406
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel-single",
+      "label": "Barrel Single",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "barrel-single/thumbnail.png",
+      "model": "barrel-single/barrel-single.ts",
+      "package": "barrel-single",
+      "descriptor": "barrel-single/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1cYfLFUURjKQXUkPCC98WDNMptsPb3a5b",
+        "file": "Modular Parts/glTF/Barrel_Single.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "single",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5a5a5a",
+        "#303030"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 272,
+        "triangles": 270,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          0,
+          -0.032385,
+          -0.032385
+        ],
+        "max": [
+          0.16718,
+          0.032385,
+          0.032385
+        ],
+        "size": [
+          0.16718,
+          0.06477,
+          0.06477
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel-sniper-1",
+      "label": "Barrel Sniper 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "barrel-sniper-1/thumbnail.png",
+      "model": "barrel-sniper-1/barrel-sniper-1.ts",
+      "package": "barrel-sniper-1",
+      "descriptor": "barrel-sniper-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=10kBuXpNy2vLIP5nTvSQVGH342x4MLJbA",
+        "file": "Modular Parts/glTF/Barrel_Sniper_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 504,
+        "triangles": 466,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.359905,
+          -0.069794,
+          -0.025021
+        ],
+        "max": [
+          0.999413,
+          0.075217,
+          0.02503
+        ],
+        "size": [
+          1.359318,
+          0.145011,
+          0.050051
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel-sniper-2",
+      "label": "Barrel Sniper 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "barrel-sniper-2/thumbnail.png",
+      "model": "barrel-sniper-2/barrel-sniper-2.ts",
+      "package": "barrel-sniper-2",
+      "descriptor": "barrel-sniper-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ePK0auQQ2PfgNInTfKB0dTa86jrWVE2l",
+        "file": "Modular Parts/glTF/Barrel_Sniper_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 416,
+        "triangles": 412,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          0,
+          -0.042635,
+          -0.042635
+        ],
+        "max": [
+          0.626795,
+          0.042636,
+          0.042635
+        ],
+        "size": [
+          0.626795,
+          0.085271,
+          0.08527
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-ar-1",
+      "label": "Body AR 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-ar-1/thumbnail.png",
+      "model": "body-ar-1/body-ar-1.ts",
+      "package": "body-ar-1",
+      "descriptor": "body-ar-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=12s0LYUxHqUs2cHgtkJsD0W3fFDJHlR1P",
+        "file": "Modular Parts/glTF/Body_AR_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 331,
+        "triangles": 326,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.526881,
+          -0.193635,
+          -0.068302
+        ],
+        "max": [
+          0.71461,
+          0.121235,
+          0.068302
+        ],
+        "size": [
+          1.241491,
+          0.31487,
+          0.136604
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-ar-3",
+      "label": "Body AR 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-ar-3/thumbnail.png",
+      "model": "body-ar-3/body-ar-3.ts",
+      "package": "body-ar-3",
+      "descriptor": "body-ar-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Ti_ceARwwpDLxl920ufrKl0RuVNnF0-T",
+        "file": "Modular Parts/glTF/Body_AR_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 678,
+        "triangles": 698,
+        "parts": 4,
+        "discardedDegenerate": 8
+      },
+      "bounds": {
+        "min": [
+          -0.588576,
+          -0.152553,
+          -0.065482
+        ],
+        "max": [
+          0.547431,
+          0.192016,
+          0.065482
+        ],
+        "size": [
+          1.136007,
+          0.344569,
+          0.130964
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-ar-5",
+      "label": "Body AR 5",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-ar-5/thumbnail.png",
+      "model": "body-ar-5/body-ar-5.ts",
+      "package": "body-ar-5",
+      "descriptor": "body-ar-5/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1TaWi4T2PZtgS0qcfs5Qgq_aiWhlXhN0g",
+        "file": "Modular Parts/glTF/Body_AR_5.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4b4b4",
+        "#303030",
+        "#ce7f2f",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "beige",
+        "black",
+        "orange",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 542,
+        "triangles": 446,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.729046,
+          -0.257473,
+          -0.057913
+        ],
+        "max": [
+          0.503587,
+          0.112066,
+          0.057903
+        ],
+        "size": [
+          1.232633,
+          0.369539,
+          0.115816
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-ar-6",
+      "label": "Body AR 6",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-ar-6/thumbnail.png",
+      "model": "body-ar-6/body-ar-6.ts",
+      "package": "body-ar-6",
+      "descriptor": "body-ar-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1QlmrIHJgvtfaAQAVH2q3waZluo2Map83",
+        "file": "Modular Parts/glTF/Body_AR_6.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 793,
+        "triangles": 848,
+        "parts": 4,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -0.905565,
+          -0.33303,
+          -0.068493
+        ],
+        "max": [
+          0.580056,
+          0.089869,
+          0.068493
+        ],
+        "size": [
+          1.485621,
+          0.422899,
+          0.136986
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-ar4",
+      "label": "Body AR4",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-ar4/thumbnail.png",
+      "model": "body-ar4/body-ar4.ts",
+      "package": "body-ar4",
+      "descriptor": "body-ar4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1MHT8jz5UgCAqjovtpbSfzD1cH4zAA_x8",
+        "file": "Modular Parts/glTF/Body_AR4.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "ar4",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4b4b4",
+        "#303030",
+        "#ce7f2f",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "beige",
+        "black",
+        "orange",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1052,
+        "triangles": 993,
+        "parts": 4,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.50577,
+          -0.167716,
+          -0.062979
+        ],
+        "max": [
+          0.468099,
+          0.152463,
+          0.06281
+        ],
+        "size": [
+          0.973869,
+          0.320179,
+          0.125789
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-crossbow-1",
+      "label": "Body Crossbow 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-crossbow-1/thumbnail.png",
+      "model": "body-crossbow-1/body-crossbow-1.ts",
+      "package": "body-crossbow-1",
+      "descriptor": "body-crossbow-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1gpYpZS2jSHVZ9rC8ZMkdsbDTiVxtpejk",
+        "file": "Modular Parts/glTF/Body_Crossbow_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "crossbow",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1618,
+        "triangles": 1164,
+        "parts": 4,
+        "discardedDegenerate": 8
+      },
+      "bounds": {
+        "min": [
+          -0.325273,
+          -0.154302,
+          -1.014571
+        ],
+        "max": [
+          0.605883,
+          0.139663,
+          0.90577
+        ],
+        "size": [
+          0.931156,
+          0.293965,
+          1.920341
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-crossbow-2",
+      "label": "Body Crossbow 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-crossbow-2/thumbnail.png",
+      "model": "body-crossbow-2/body-crossbow-2.ts",
+      "package": "body-crossbow-2",
+      "descriptor": "body-crossbow-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1sEuqY6JCGG2mYd6BhayeKJ5ZWUwOS3XZ",
+        "file": "Modular Parts/glTF/Body_Crossbow_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "crossbow",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1849,
+        "triangles": 1408,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.992339,
+          -0.185811,
+          -0.960166
+        ],
+        "max": [
+          0.478975,
+          0.170281,
+          0.960174
+        ],
+        "size": [
+          1.471314,
+          0.356092,
+          1.92034
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-front-sniper-1",
+      "label": "Body Front Sniper 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-front-sniper-1/thumbnail.png",
+      "model": "body-front-sniper-1/body-front-sniper-1.ts",
+      "package": "body-front-sniper-1",
+      "descriptor": "body-front-sniper-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1oQrmwxN9D84s2gwtfTW5G8vMepZXIHm8",
+        "file": "Modular Parts/glTF/Body_Front_Sniper_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "front",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1167,
+        "triangles": 942,
+        "parts": 4,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -0.598317,
+          -0.143383,
+          -0.051116
+        ],
+        "max": [
+          0.640251,
+          0.145698,
+          0.051732
+        ],
+        "size": [
+          1.238568,
+          0.289081,
+          0.102848
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-front-sniper-3",
+      "label": "Body Front Sniper 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-front-sniper-3/thumbnail.png",
+      "model": "body-front-sniper-3/body-front-sniper-3.ts",
+      "package": "body-front-sniper-3",
+      "descriptor": "body-front-sniper-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1NAL7n9DVAl9YJgnZeMAy5rIraabOGjim",
+        "file": "Modular Parts/glTF/Body_Front_Sniper_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "front",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 753,
+        "triangles": 623,
+        "parts": 4,
+        "discardedDegenerate": 6
+      },
+      "bounds": {
+        "min": [
+          -0.258008,
+          -0.120234,
+          -0.047268
+        ],
+        "max": [
+          0.946738,
+          0.191375,
+          0.047268
+        ],
+        "size": [
+          1.204746,
+          0.311609,
+          0.094536
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-grenade-1",
+      "label": "Body Grenade 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-grenade-1/thumbnail.png",
+      "model": "body-grenade-1/body-grenade-1.ts",
+      "package": "body-grenade-1",
+      "descriptor": "body-grenade-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1bOuCKTD3Vz5ZYjEXzs-yWQBnqzSSVHz-",
+        "file": "Modular Parts/glTF/Body_Grenade_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 377,
+        "triangles": 394,
+        "parts": 3,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.430703,
+          -0.248052,
+          -0.054718
+        ],
+        "max": [
+          0.379064,
+          0.155606,
+          0.054718
+        ],
+        "size": [
+          0.809767,
+          0.403658,
+          0.109436
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-grenade-2",
+      "label": "Body Grenade 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-grenade-2/thumbnail.png",
+      "model": "body-grenade-2/body-grenade-2.ts",
+      "package": "body-grenade-2",
+      "descriptor": "body-grenade-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1uztcOpmRO2qOdg5upIuypydWs1qQwP9u",
+        "file": "Modular Parts/glTF/Body_Grenade_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 597,
+        "triangles": 502,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.729553,
+          -0.235346,
+          -0.093798
+        ],
+        "max": [
+          0.605212,
+          0.133615,
+          0.093798
+        ],
+        "size": [
+          1.334765,
+          0.368961,
+          0.187596
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-grenade-3",
+      "label": "Body Grenade 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-grenade-3/thumbnail.png",
+      "model": "body-grenade-3/body-grenade-3.ts",
+      "package": "body-grenade-3",
+      "descriptor": "body-grenade-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1dUd6a0P9WSqWvx0XHCv7s4HYcbbCTqcL",
+        "file": "Modular Parts/glTF/Body_Grenade_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4b4b4",
+        "#5a5a5a",
+        "#303030",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "beige",
+        "brown",
+        "black",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1085,
+        "triangles": 1060,
+        "parts": 4,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -0.951185,
+          -0.218321,
+          -0.068493
+        ],
+        "max": [
+          0.506761,
+          0.204206,
+          0.068493
+        ],
+        "size": [
+          1.457946,
+          0.422527,
+          0.136986
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-pistol-1",
+      "label": "Body Pistol 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-pistol-1/thumbnail.png",
+      "model": "body-pistol-1/body-pistol-1.ts",
+      "package": "body-pistol-1",
+      "descriptor": "body-pistol-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1sPCJI2sWrDHqeE7Xp9waMXQFJEm6EeJb",
+        "file": "Modular Parts/glTF/Body_Pistol_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4"
+      ],
+      "colorNames": [
+        "black",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 215,
+        "triangles": 208,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.374757,
+          -0.105467,
+          -0.055681
+        ],
+        "max": [
+          0.459412,
+          0.151221,
+          0.055681
+        ],
+        "size": [
+          0.834169,
+          0.256688,
+          0.111362
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-pistol-2",
+      "label": "Body Pistol 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-pistol-2/thumbnail.png",
+      "model": "body-pistol-2/body-pistol-2.ts",
+      "package": "body-pistol-2",
+      "descriptor": "body-pistol-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1QtHmpwo5bFtVqmzj_q33ZJ0rBqwsET-Q",
+        "file": "Modular Parts/glTF/Body_Pistol_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 301,
+        "triangles": 301,
+        "parts": 3,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.284466,
+          -0.113692,
+          -0.056203
+        ],
+        "max": [
+          0.505884,
+          0.076841,
+          0.056203
+        ],
+        "size": [
+          0.79035,
+          0.190533,
+          0.112406
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-pistol-3",
+      "label": "Body Pistol 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-pistol-3/thumbnail.png",
+      "model": "body-pistol-3/body-pistol-3.ts",
+      "package": "body-pistol-3",
+      "descriptor": "body-pistol-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1cH52wvs35L8Cl_-DbB3CD4B_8IEmgE1n",
+        "file": "Modular Parts/glTF/Body_Pistol_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 579,
+        "triangles": 512,
+        "parts": 3,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -0.484436,
+          -0.118431,
+          -0.045257
+        ],
+        "max": [
+          0.307472,
+          0.077639,
+          0.045257
+        ],
+        "size": [
+          0.791908,
+          0.19607,
+          0.090514
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-smg-1",
+      "label": "Body SMG 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-smg-1/thumbnail.png",
+      "model": "body-smg-1/body-smg-1.ts",
+      "package": "body-smg-1",
+      "descriptor": "body-smg-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1k06Yb1Du04x48AZZzDt_0aA4zVsjt_wV",
+        "file": "Modular Parts/glTF/Body_SMG_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "smg",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4b4b4",
+        "#ce7f2f",
+        "#303030"
+      ],
+      "colorNames": [
+        "beige",
+        "orange",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 571,
+        "triangles": 592,
+        "parts": 3,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.525347,
+          -0.195764,
+          -0.076474
+        ],
+        "max": [
+          0.357049,
+          0.076843,
+          0.076474
+        ],
+        "size": [
+          0.882396,
+          0.272607,
+          0.152948
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-smg-2",
+      "label": "Body SMG 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-smg-2/thumbnail.png",
+      "model": "body-smg-2/body-smg-2.ts",
+      "package": "body-smg-2",
+      "descriptor": "body-smg-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Jgck7BMWGJTOxFoBCAJhUzshTOYsD-rD",
+        "file": "Modular Parts/glTF/Body_SMG_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "smg",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 932,
+        "triangles": 862,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.821309,
+          -0.172855,
+          -0.087982
+        ],
+        "max": [
+          0.676752,
+          0.183237,
+          0.087992
+        ],
+        "size": [
+          1.498061,
+          0.356092,
+          0.175974
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-sniper-1",
+      "label": "Body Sniper 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-sniper-1/thumbnail.png",
+      "model": "body-sniper-1/body-sniper-1.ts",
+      "package": "body-sniper-1",
+      "descriptor": "body-sniper-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1g5mTqEyZoOuwUfrYmTA6-ngwpNOQYzy2",
+        "file": "Modular Parts/glTF/Body_Sniper_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 596,
+        "triangles": 620,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.256362,
+          -0.136143,
+          -0.040553
+        ],
+        "max": [
+          0.584934,
+          0.159366,
+          0.041609
+        ],
+        "size": [
+          0.841296,
+          0.295509,
+          0.082162
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-sniper-2",
+      "label": "Body Sniper 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-sniper-2/thumbnail.png",
+      "model": "body-sniper-2/body-sniper-2.ts",
+      "package": "body-sniper-2",
+      "descriptor": "body-sniper-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Au8MDjxHkfK_AVOKyyQjRQx4v-qB_AzT",
+        "file": "Modular Parts/glTF/Body_Sniper_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 886,
+        "triangles": 780,
+        "parts": 4,
+        "discardedDegenerate": 16
+      },
+      "bounds": {
+        "min": [
+          -0.758039,
+          -0.218897,
+          -0.089221
+        ],
+        "max": [
+          0.758039,
+          0.218897,
+          0.089221
+        ],
+        "size": [
+          1.516078,
+          0.437794,
+          0.178442
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "body-sniper-3",
+      "label": "Body Sniper 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "body-sniper-3/thumbnail.png",
+      "model": "body-sniper-3/body-sniper-3.ts",
+      "package": "body-sniper-3",
+      "descriptor": "body-sniper-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1codF8emO1_fpMGkAsKmXegWJyoTQejfw",
+        "file": "Modular Parts/glTF/Body_Sniper_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "body",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 642,
+        "triangles": 544,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.249695,
+          -0.201721,
+          -0.040718
+        ],
+        "max": [
+          0.422426,
+          0.114261,
+          0.041444
+        ],
+        "size": [
+          0.672121,
+          0.315982,
+          0.082162
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "crossbow-1",
+      "label": "Crossbow 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "crossbow-1/thumbnail.png",
+      "model": "crossbow-1/crossbow-1.ts",
+      "package": "crossbow-1",
+      "descriptor": "crossbow-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Don33MBPfBS8mK8mg3F_1FCGecng42Ch",
+        "file": "Guns/glTF/Crossbow_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "crossbow",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3529,
+        "triangles": 2912,
+        "parts": 4,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -0.907236,
+          -0.456956,
+          -0.96017
+        ],
+        "max": [
+          0.954581,
+          0.424197,
+          0.96017
+        ],
+        "size": [
+          1.861817,
+          0.881153,
+          1.92034
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "crossbow-2",
+      "label": "Crossbow 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "crossbow-2/thumbnail.png",
+      "model": "crossbow-2/crossbow-2.ts",
+      "package": "crossbow-2",
+      "descriptor": "crossbow-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ghtvCD_CzjlkhWzRp-HS4n-iBrSo_1FR",
+        "file": "Guns/glTF/Crossbow_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "crossbow",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2342,
+        "triangles": 1976,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.250811,
+          -0.122945,
+          -0.96017
+        ],
+        "max": [
+          1.220503,
+          0.551964,
+          0.96017
+        ],
+        "size": [
+          1.471314,
+          0.674909,
+          1.92034
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grenade",
+      "label": "Grenade",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grenade/thumbnail.png",
+      "model": "grenade/grenade.ts",
+      "package": "grenade",
+      "descriptor": "grenade/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1D9MFAYKyYgzSe68g2WPHb0r9ZDGhWKAz",
+        "file": "Guns/glTF/Grenade.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#ce7f2f",
+        "#b4b4b4",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "black",
+        "orange",
+        "beige",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 906,
+        "triangles": 884,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.092836,
+          -0.155566,
+          -0.072337
+        ],
+        "max": [
+          0.085661,
+          0.147721,
+          0.072337
+        ],
+        "size": [
+          0.178497,
+          0.303287,
+          0.144674
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grenade-1",
+      "label": "Grenade 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grenade-1/thumbnail.png",
+      "model": "grenade-1/grenade-1.ts",
+      "package": "grenade-1",
+      "descriptor": "grenade-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1KRHHQQrC0-MkqrkMFMk86l6KyhSgJqI2",
+        "file": "Guns/glTF/Grenade_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2168,
+        "triangles": 1975,
+        "parts": 4,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -1.056743,
+          -0.108274,
+          -0.072941
+        ],
+        "max": [
+          0.75113,
+          0.425663,
+          0.072941
+        ],
+        "size": [
+          1.807873,
+          0.533937,
+          0.145882
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grenade-2",
+      "label": "Grenade 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grenade-2/thumbnail.png",
+      "model": "grenade-2/grenade-2.ts",
+      "package": "grenade-2",
+      "descriptor": "grenade-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1cZsMedv6i6bEObjOrpCmrTPYLosmxFtj",
+        "file": "Guns/glTF/Grenade_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2587,
+        "triangles": 2791,
+        "parts": 4,
+        "discardedDegenerate": 27
+      },
+      "bounds": {
+        "min": [
+          -0.607973,
+          -0.129949,
+          -0.093798
+        ],
+        "max": [
+          1.252507,
+          0.55038,
+          0.093798
+        ],
+        "size": [
+          1.86048,
+          0.680329,
+          0.187596
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grenade-3",
+      "label": "Grenade 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grenade-3/thumbnail.png",
+      "model": "grenade-3/grenade-3.ts",
+      "package": "grenade-3",
+      "descriptor": "grenade-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WlZcepfzRJaAX0WEBVdPdBsHIEB7Y34x",
+        "file": "Guns/glTF/Grenade_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2910,
+        "triangles": 3324,
+        "parts": 4,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -1.120823,
+          -0.079129,
+          -0.072941
+        ],
+        "max": [
+          0.569831,
+          0.468373,
+          0.072941
+        ],
+        "size": [
+          1.690654,
+          0.547502,
+          0.145882
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip-ar-1",
+      "label": "Grip AR 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grip-ar-1/thumbnail.png",
+      "model": "grip-ar-1/grip-ar-1.ts",
+      "package": "grip-ar-1",
+      "descriptor": "grip-ar-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CbL6oVsZf5_Nur4xnHt5-puFuU-EIP_6",
+        "file": "Modular Parts/glTF/Grip_AR_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 827,
+        "triangles": 893,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.129712,
+          -0.153224,
+          -0.060518
+        ],
+        "max": [
+          0.755966,
+          0.169127,
+          0.060518
+        ],
+        "size": [
+          0.885678,
+          0.322351,
+          0.121036
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip-ar-6",
+      "label": "Grip AR 6",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grip-ar-6/thumbnail.png",
+      "model": "grip-ar-6/grip-ar-6.ts",
+      "package": "grip-ar-6",
+      "descriptor": "grip-ar-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1TtwqSRI-vlBMO0EUF7kTXBYMrUqT09dQ",
+        "file": "Modular Parts/glTF/Grip_AR_6.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1706,
+        "triangles": 2537,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.565715,
+          -0.152254,
+          -0.041354
+        ],
+        "max": [
+          0.569688,
+          0.192119,
+          0.041559
+        ],
+        "size": [
+          1.135403,
+          0.344373,
+          0.082913
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip-grenade-1",
+      "label": "Grip Grenade 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grip-grenade-1/thumbnail.png",
+      "model": "grip-grenade-1/grip-grenade-1.ts",
+      "package": "grip-grenade-1",
+      "descriptor": "grip-grenade-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1oc6JONt608CvNJZy-yn1-7sZtlpkqsjT",
+        "file": "Modular Parts/glTF/Grip_Grenade_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 398,
+        "triangles": 372,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.132222,
+          -0.108809,
+          -0.029648
+        ],
+        "max": [
+          0.180059,
+          0.106561,
+          0.029648
+        ],
+        "size": [
+          0.312281,
+          0.21537,
+          0.059296
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip-grenade-2",
+      "label": "Grip Grenade 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grip-grenade-2/thumbnail.png",
+      "model": "grip-grenade-2/grip-grenade-2.ts",
+      "package": "grip-grenade-2",
+      "descriptor": "grip-grenade-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1oJZDPvNsntCbNEZLPu9JpkDbewSQJ2yq",
+        "file": "Modular Parts/glTF/Grip_Grenade_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1162,
+        "triangles": 1413,
+        "parts": 3,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.135312,
+          -0.129949,
+          -0.068068
+        ],
+        "max": [
+          0.839458,
+          0.284501,
+          0.068068
+        ],
+        "size": [
+          0.97477,
+          0.41445,
+          0.136136
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip-grenade-3",
+      "label": "Grip Grenade 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grip-grenade-3/thumbnail.png",
+      "model": "grip-grenade-3/grip-grenade-3.ts",
+      "package": "grip-grenade-3",
+      "descriptor": "grip-grenade-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=145VpNXO9X39Pf-Yqmh9-vfSNPDRPXhG9",
+        "file": "Modular Parts/glTF/Grip_Grenade_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1165,
+        "triangles": 1584,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.919459,
+          -0.079655,
+          -0.036563
+        ],
+        "max": [
+          0.345983,
+          0.234604,
+          0.036563
+        ],
+        "size": [
+          1.265442,
+          0.314259,
+          0.073126
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip-pistol-1",
+      "label": "Grip Pistol 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grip-pistol-1/thumbnail.png",
+      "model": "grip-pistol-1/grip-pistol-1.ts",
+      "package": "grip-pistol-1",
+      "descriptor": "grip-pistol-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1I7S_6X2b1nUzGmVdatwV7RU-2x7_JO0v",
+        "file": "Modular Parts/glTF/Grip_Pistol_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 865,
+        "triangles": 1014,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.188843,
+          -0.15639,
+          -0.04872
+        ],
+        "max": [
+          0.466493,
+          0.201478,
+          0.04872
+        ],
+        "size": [
+          0.655336,
+          0.357868,
+          0.09744
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip-pistol-2",
+      "label": "Grip Pistol 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grip-pistol-2/thumbnail.png",
+      "model": "grip-pistol-2/grip-pistol-2.ts",
+      "package": "grip-pistol-2",
+      "descriptor": "grip-pistol-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pejcjkHuO1-8MFcCaijIhFOiz3O6qJ-h",
+        "file": "Modular Parts/glTF/Grip_Pistol_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 512,
+        "triangles": 490,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.219306,
+          -0.161958,
+          -0.046267
+        ],
+        "max": [
+          0.250997,
+          0.233596,
+          0.046267
+        ],
+        "size": [
+          0.470303,
+          0.395554,
+          0.092534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip-smg-1",
+      "label": "Grip SMG 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grip-smg-1/thumbnail.png",
+      "model": "grip-smg-1/grip-smg-1.ts",
+      "package": "grip-smg-1",
+      "descriptor": "grip-smg-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pdgDE7x2BTGbWKnw8RJj9a9RXyPEuICn",
+        "file": "Modular Parts/glTF/Grip_SMG_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "smg",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 921,
+        "triangles": 1114,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.153051,
+          -0.103122,
+          -0.041459
+        ],
+        "max": [
+          0.568395,
+          0.263994,
+          0.041459
+        ],
+        "size": [
+          0.721446,
+          0.367116,
+          0.082918
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip-sniper-1",
+      "label": "Grip Sniper 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grip-sniper-1/thumbnail.png",
+      "model": "grip-sniper-1/grip-sniper-1.ts",
+      "package": "grip-sniper-1",
+      "descriptor": "grip-sniper-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1REg0qOy0WjBgcaYanbq9tC630tlTNGZI",
+        "file": "Modular Parts/glTF/Grip_Sniper_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1205,
+        "triangles": 1744,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.323353,
+          -0.060371,
+          -0.022564
+        ],
+        "max": [
+          0.294625,
+          0.127065,
+          0.022564
+        ],
+        "size": [
+          0.617978,
+          0.187436,
+          0.045128
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "grip-sniper-2",
+      "label": "Grip Sniper 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "grip-sniper-2/thumbnail.png",
+      "model": "grip-sniper-2/grip-sniper-2.ts",
+      "package": "grip-sniper-2",
+      "descriptor": "grip-sniper-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1KUYCDVrS3SCzTUWVW5Vks8-b_UmTm01S",
+        "file": "Modular Parts/glTF/Grip_Sniper_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "grip",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 788,
+        "triangles": 886,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.209052,
+          -0.086163,
+          -0.030627
+        ],
+        "max": [
+          0.4428,
+          0.251717,
+          0.030627
+        ],
+        "size": [
+          0.651852,
+          0.33788,
+          0.061254
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "handguard-pistol-3",
+      "label": "Handguard Pistol 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "handguard-pistol-3/thumbnail.png",
+      "model": "handguard-pistol-3/handguard-pistol-3.ts",
+      "package": "handguard-pistol-3",
+      "descriptor": "handguard-pistol-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=15smshW7dIKG_o4vMFbw-fl89P90Yg2yy",
+        "file": "Modular Parts/glTF/Handguard_Pistol_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "handguard",
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4"
+      ],
+      "colorNames": [
+        "black",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 240,
+        "triangles": 288,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.131342,
+          -0.046116,
+          -0.049798
+        ],
+        "max": [
+          0.14621,
+          0.080921,
+          0.049798
+        ],
+        "size": [
+          0.277552,
+          0.127037,
+          0.099596
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "magazine-ar",
+      "label": "Magazine AR",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "magazine-ar/thumbnail.png",
+      "model": "magazine-ar/magazine-ar.ts",
+      "package": "magazine-ar",
+      "descriptor": "magazine-ar/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1YmerJwXleJntw0Hs03R3kwY89PLY1O_M",
+        "file": "Modular Parts/glTF/Magazine_AR.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "magazine",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 288,
+        "triangles": 284,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.062305,
+          -0.386641,
+          -0.022529
+        ],
+        "max": [
+          0.120226,
+          0,
+          0.022638
+        ],
+        "size": [
+          0.182531,
+          0.386641,
+          0.045167
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "magazine-smg-1",
+      "label": "Magazine SMG 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "magazine-smg-1/thumbnail.png",
+      "model": "magazine-smg-1/magazine-smg-1.ts",
+      "package": "magazine-smg-1",
+      "descriptor": "magazine-smg-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1iF4ywd6YgAnd-8TLtCAPTextynA4NH5A",
+        "file": "Modular Parts/glTF/Magazine_SMG_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "magazine",
+        "smg",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 254,
+        "triangles": 232,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.084549,
+          -0.495634,
+          -0.046349
+        ],
+        "max": [
+          0.070516,
+          0,
+          0.018727
+        ],
+        "size": [
+          0.155065,
+          0.495634,
+          0.065076
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "magazine-sniper-1",
+      "label": "Magazine Sniper 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "magazine-sniper-1/thumbnail.png",
+      "model": "magazine-sniper-1/magazine-sniper-1.ts",
+      "package": "magazine-sniper-1",
+      "descriptor": "magazine-sniper-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1cwT3sf6A47W9vZvvoy7b090d1OddQcl6",
+        "file": "Modular Parts/glTF/Magazine_Sniper_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "magazine",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 232,
+        "triangles": 232,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.06334,
+          -0.225265,
+          -0.019766
+        ],
+        "max": [
+          0.111607,
+          0,
+          0.019793
+        ],
+        "size": [
+          0.174947,
+          0.225265,
+          0.039559
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-1",
+      "label": "Pistol 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "pistol-1/thumbnail.png",
+      "model": "pistol-1/pistol-1.ts",
+      "package": "pistol-1",
+      "descriptor": "pistol-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1lRxmb15VT7n17HTk86r4Z1VBoSp0gbat",
+        "file": "Guns/glTF/Pistol_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2190,
+        "triangles": 2348,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.119105,
+          -0.14214,
+          -0.089112
+        ],
+        "max": [
+          0.815282,
+          0.418361,
+          0.089113
+        ],
+        "size": [
+          0.934387,
+          0.560501,
+          0.178225
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-2",
+      "label": "Pistol 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "pistol-2/thumbnail.png",
+      "model": "pistol-2/pistol-2.ts",
+      "package": "pistol-2",
+      "descriptor": "pistol-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pknLfctBF_wgczDFKieFrJtfUVz8jkh5",
+        "file": "Guns/glTF/Pistol_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1673,
+        "triangles": 1689,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.167101,
+          -0.178132,
+          -0.056203
+        ],
+        "max": [
+          0.822776,
+          0.237984,
+          0.056203
+        ],
+        "size": [
+          0.989877,
+          0.416116,
+          0.112406
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol-3",
+      "label": "Pistol 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "pistol-3/thumbnail.png",
+      "model": "pistol-3/pistol-3.ts",
+      "package": "pistol-3",
+      "descriptor": "pistol-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1FY_iQMv5sZID4na_i5UclWxqf9WNW43_",
+        "file": "Guns/glTF/Pistol_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2707,
+        "triangles": 2600,
+        "parts": 4,
+        "discardedDegenerate": 14
+      },
+      "bounds": {
+        "min": [
+          -0.32012,
+          -0.191461,
+          -0.056831
+        ],
+        "max": [
+          0.589231,
+          0.294904,
+          0.057212
+        ],
+        "size": [
+          0.909351,
+          0.486365,
+          0.114043
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "scope-1",
+      "label": "Scope 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "scope-1/thumbnail.png",
+      "model": "scope-1/scope-1.ts",
+      "package": "scope-1",
+      "descriptor": "scope-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1FqIvqSDAYJg58uxGKfYgZWwoig0MGwL7",
+        "file": "Modular Parts/glTF/Scope_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "scope",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4b4b4",
+        "#9bb9c0",
+        "#ce7f2f",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "beige",
+        "orange",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 827,
+        "triangles": 844,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.285019,
+          0,
+          -0.061878
+        ],
+        "max": [
+          0.22532,
+          0.154421,
+          0.061682
+        ],
+        "size": [
+          0.510339,
+          0.154421,
+          0.12356
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "scope-2",
+      "label": "Scope 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "scope-2/thumbnail.png",
+      "model": "scope-2/scope-2.ts",
+      "package": "scope-2",
+      "descriptor": "scope-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=15h6QKdu4-Dcv2PhbdH_3bcE1QwpmFKVR",
+        "file": "Modular Parts/glTF/Scope_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "scope",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4b4b4",
+        "#9bb9c0",
+        "#ce7f2f",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "beige",
+        "orange",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 899,
+        "triangles": 972,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.390333,
+          0,
+          -0.061878
+        ],
+        "max": [
+          0.330634,
+          0.15442,
+          0.061682
+        ],
+        "size": [
+          0.720967,
+          0.15442,
+          0.12356
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sight-1",
+      "label": "Sight 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "sight-1/thumbnail.png",
+      "model": "sight-1/sight-1.ts",
+      "package": "sight-1",
+      "descriptor": "sight-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=106xBxxV5GF_DYzChWtAlF6B4-QQ5bzyK",
+        "file": "Modular Parts/glTF/Sight_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "sight",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4b4b4",
+        "#9bb9c0",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "beige",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 416,
+        "triangles": 328,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.049886,
+          0,
+          -0.048997
+        ],
+        "max": [
+          0.131976,
+          0.1093,
+          0.048997
+        ],
+        "size": [
+          0.181862,
+          0.1093,
+          0.097994
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sight-2",
+      "label": "Sight 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "sight-2/thumbnail.png",
+      "model": "sight-2/sight-2.ts",
+      "package": "sight-2",
+      "descriptor": "sight-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1umx5AKOlgio_j0DvYQS-LfxmUTIGwsr2",
+        "file": "Modular Parts/glTF/Sight_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "sight",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4b4b4",
+        "#9bb9c0"
+      ],
+      "colorNames": [
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 252,
+        "triangles": 200,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.07493,
+          0,
+          -0.050837
+        ],
+        "max": [
+          0.065691,
+          0.141757,
+          0.050837
+        ],
+        "size": [
+          0.140621,
+          0.141757,
+          0.101674
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sight-3",
+      "label": "Sight 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "sight-3/thumbnail.png",
+      "model": "sight-3/sight-3.ts",
+      "package": "sight-3",
+      "descriptor": "sight-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Alpacbr7Ty9MXkfII3P2CsjnKTOrhfMU",
+        "file": "Modular Parts/glTF/Sight_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "sight",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b4b4b4",
+        "#9bb9c0",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "beige",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 274,
+        "triangles": 216,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.070397,
+          0,
+          -0.048997
+        ],
+        "max": [
+          0.049886,
+          0.1093,
+          0.048997
+        ],
+        "size": [
+          0.120283,
+          0.1093,
+          0.097994
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "smg-1",
+      "label": "SMG 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "smg-1/thumbnail.png",
+      "model": "smg-1/smg-1.ts",
+      "package": "smg-1",
+      "descriptor": "smg-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1pn5Rju_kYZsJxGdJmndA53eY5bOUs6GR",
+        "file": "Guns/glTF/SMG_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "smg",
+        "quaternius",
+        "scifimodularguns",
+        "magazine",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2578,
+        "triangles": 2704,
+        "parts": 5,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.736425,
+          -0.347249,
+          -0.076474
+        ],
+        "max": [
+          0.671288,
+          0.444726,
+          0.076474
+        ],
+        "size": [
+          1.407713,
+          0.791975,
+          0.152948
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "smg-2",
+      "label": "SMG 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "smg-2/thumbnail.png",
+      "model": "smg-2/smg-2.ts",
+      "package": "smg-2",
+      "descriptor": "smg-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WhqZrlnhDtxR3yFJW9zbAXt9H2eDJcj6",
+        "file": "Guns/glTF/SMG_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "smg",
+        "quaternius",
+        "scifimodularguns",
+        "magazine",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2808,
+        "triangles": 2816,
+        "parts": 5,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.930982,
+          -0.245269,
+          -0.087982
+        ],
+        "max": [
+          1.271,
+          0.492397,
+          0.087992
+        ],
+        "size": [
+          2.201982,
+          0.737666,
+          0.175974
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sniper-1",
+      "label": "Sniper 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "sniper-1/thumbnail.png",
+      "model": "sniper-1/sniper-1.ts",
+      "package": "sniper-1",
+      "descriptor": "sniper-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1VJ6vy2XYtKN1PoPLmnaR8Pl20Bv03NfI",
+        "file": "Guns/glTF/Sniper_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "magazine",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3894,
+        "triangles": 4250,
+        "parts": 5,
+        "discardedDegenerate": 10
+      },
+      "bounds": {
+        "min": [
+          -0.692445,
+          -0.181482,
+          -0.051405
+        ],
+        "max": [
+          1.531242,
+          0.34068,
+          0.051443
+        ],
+        "size": [
+          2.223687,
+          0.522162,
+          0.102848
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sniper-2",
+      "label": "Sniper 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "sniper-2/thumbnail.png",
+      "model": "sniper-2/sniper-2.ts",
+      "package": "sniper-2",
+      "descriptor": "sniper-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WGoBrtooSJumLI8rdTDICnAGv8IkBby8",
+        "file": "Guns/glTF/Sniper_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2650,
+        "triangles": 2514,
+        "parts": 4,
+        "discardedDegenerate": 16
+      },
+      "bounds": {
+        "min": [
+          -0.88823,
+          -0.086163,
+          -0.089221
+        ],
+        "max": [
+          1.626578,
+          0.465767,
+          0.089221
+        ],
+        "size": [
+          2.514808,
+          0.55193,
+          0.178442
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sniper-3",
+      "label": "Sniper 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "sniper-3/thumbnail.png",
+      "model": "sniper-3/sniper-3.ts",
+      "package": "sniper-3",
+      "descriptor": "sniper-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1CZpwIyZYkb0ZktMe4SNkSyqbQyQGR623",
+        "file": "Guns/glTF/Sniper_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "magazine",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4484,
+        "triangles": 4895,
+        "parts": 5,
+        "discardedDegenerate": 6
+      },
+      "bounds": {
+        "min": [
+          -0.747471,
+          -0.199647,
+          -0.047268
+        ],
+        "max": [
+          1.512943,
+          0.340529,
+          0.047268
+        ],
+        "size": [
+          2.260414,
+          0.540176,
+          0.094536
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock-2",
+      "label": "Stock 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "stock-2/thumbnail.png",
+      "model": "stock-2/stock-2.ts",
+      "package": "stock-2",
+      "descriptor": "stock-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=17cyXhDjPZ2pW1a9p-SREfaepJXHQrJGc",
+        "file": "Modular Parts/glTF/Stock_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1130,
+        "triangles": 1168,
+        "parts": 4,
+        "discardedDegenerate": 6
+      },
+      "bounds": {
+        "min": [
+          -1.117299,
+          -0.33401,
+          -0.057739
+        ],
+        "max": [
+          0,
+          0.134558,
+          0.057739
+        ],
+        "size": [
+          1.117299,
+          0.468568,
+          0.115478
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock-ar-1",
+      "label": "Stock AR 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "stock-ar-1/thumbnail.png",
+      "model": "stock-ar-1/stock-ar-1.ts",
+      "package": "stock-ar-1",
+      "descriptor": "stock-ar-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1RtC-diSEB-s5DmovqC8kCHeX7pRrzO_4",
+        "file": "Modular Parts/glTF/Stock_AR_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 688,
+        "triangles": 546,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.772546,
+          -0.314649,
+          -0.037314
+        ],
+        "max": [
+          0,
+          0.128028,
+          0.037314
+        ],
+        "size": [
+          0.772546,
+          0.442677,
+          0.074628
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock-ar-4",
+      "label": "Stock AR 4",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "stock-ar-4/thumbnail.png",
+      "model": "stock-ar-4/stock-ar-4.ts",
+      "package": "stock-ar-4",
+      "descriptor": "stock-ar-4/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1fmrKtt-3-M8d6kmSAbb3eeY_epa3dWSp",
+        "file": "Modular Parts/glTF/Stock_AR_4.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 506,
+        "triangles": 672,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.135354,
+          -0.251992,
+          -0.073053
+        ],
+        "max": [
+          0.221243,
+          0.194636,
+          0.073053
+        ],
+        "size": [
+          0.356597,
+          0.446628,
+          0.146106
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock-ar-6",
+      "label": "Stock AR 6",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "stock-ar-6/thumbnail.png",
+      "model": "stock-ar-6/stock-ar-6.ts",
+      "package": "stock-ar-6",
+      "descriptor": "stock-ar-6/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1oY90Em6R_dbKN2dksY7zAenVFUfdf1Th",
+        "file": "Modular Parts/glTF/Stock_AR_6.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "ar",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ce7f2f",
+        "#303030"
+      ],
+      "colorNames": [
+        "orange",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 260,
+        "triangles": 300,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.113623,
+          -0.256079,
+          -0.072814
+        ],
+        "max": [
+          0.234306,
+          0.176632,
+          0.072814
+        ],
+        "size": [
+          0.347929,
+          0.432711,
+          0.145628
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock-grenade-1",
+      "label": "Stock Grenade 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "stock-grenade-1/thumbnail.png",
+      "model": "stock-grenade-1/stock-grenade-1.ts",
+      "package": "stock-grenade-1",
+      "descriptor": "stock-grenade-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1ijdt7QFz--ohBlbZa1mXNFOhhqeT8ahg",
+        "file": "Modular Parts/glTF/Stock_Grenade_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 557,
+        "triangles": 436,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.666907,
+          -0.329274,
+          -0.054718
+        ],
+        "max": [
+          0,
+          0.112561,
+          0.054718
+        ],
+        "size": [
+          0.666907,
+          0.441835,
+          0.109436
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock-grenade-2",
+      "label": "Stock Grenade 2",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "stock-grenade-2/thumbnail.png",
+      "model": "stock-grenade-2/stock-grenade-2.ts",
+      "package": "stock-grenade-2",
+      "descriptor": "stock-grenade-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1f6oftsDsOIkh0KC01wPgJpc4tETfPz96",
+        "file": "Modular Parts/glTF/Stock_Grenade_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "grenade",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4"
+      ],
+      "colorNames": [
+        "black",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 381,
+        "triangles": 430,
+        "parts": 2,
+        "discardedDegenerate": 24
+      },
+      "bounds": {
+        "min": [
+          -0.394348,
+          -0.197367,
+          -0.080195
+        ],
+        "max": [
+          0.151174,
+          0.214885,
+          0.080195
+        ],
+        "size": [
+          0.545522,
+          0.412252,
+          0.16039
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock-pistol-3",
+      "label": "Stock Pistol 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "stock-pistol-3/thumbnail.png",
+      "model": "stock-pistol-3/stock-pistol-3.ts",
+      "package": "stock-pistol-3",
+      "descriptor": "stock-pistol-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1G9Qil6fZLWd_LNz6ODZSh15BNew6f0Tb",
+        "file": "Modular Parts/glTF/Stock_Pistol_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "pistol",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 568,
+        "triangles": 522,
+        "parts": 3,
+        "discardedDegenerate": 4
+      },
+      "bounds": {
+        "min": [
+          -0.280431,
+          -0.15956,
+          -0.057021
+        ],
+        "max": [
+          0.04432,
+          0.087693,
+          0.057021
+        ],
+        "size": [
+          0.324751,
+          0.247253,
+          0.114042
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock-smg-1",
+      "label": "Stock SMG 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "stock-smg-1/thumbnail.png",
+      "model": "stock-smg-1/stock-smg-1.ts",
+      "package": "stock-smg-1",
+      "descriptor": "stock-smg-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1p0__Xg8wsQ_IeqS9dAc5GuTvCCx1BrEg",
+        "file": "Modular Parts/glTF/Stock_SMG_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "smg",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "brown",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 576,
+        "triangles": 496,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.576066,
+          -0.290242,
+          -0.0485
+        ],
+        "max": [
+          0.002099,
+          0.122766,
+          0.0485
+        ],
+        "size": [
+          0.578165,
+          0.413008,
+          0.097
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock-sniper-1",
+      "label": "Stock Sniper 1",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "stock-sniper-1/thumbnail.png",
+      "model": "stock-sniper-1/stock-sniper-1.ts",
+      "package": "stock-sniper-1",
+      "descriptor": "stock-sniper-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1TwAPgvM1hr-d6iloxVGmRpx2Sh1HaNDs",
+        "file": "Modular Parts/glTF/Stock_Sniper_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#b4b4b4",
+        "#ce7f2f"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 330,
+        "triangles": 340,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.140522,
+          -0.131313,
+          -0.045505
+        ],
+        "max": [
+          0.038983,
+          0.144313,
+          0.045505
+        ],
+        "size": [
+          0.179505,
+          0.275626,
+          0.09101
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stock-sniper-3",
+      "label": "Stock Sniper 3",
+      "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+      "thumbnail": "stock-sniper-3/thumbnail.png",
+      "model": "stock-sniper-3/stock-sniper-3.ts",
+      "package": "stock-sniper-3",
+      "descriptor": "stock-sniper-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/scifimodularguns.html",
+        "download": "https://drive.google.com/uc?export=download&id=1_IY9upCqflyoqYfNo9voRp8OOyr72HjE",
+        "file": "Modular Parts/glTF/Stock_Sniper_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "stock",
+        "sniper",
+        "quaternius",
+        "scifimodularguns",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#303030",
+        "#5a5a5a"
+      ],
+      "colorNames": [
+        "black",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 582,
+        "triangles": 652,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.082482,
+          -0.149246,
+          -0.038997
+        ],
+        "max": [
+          0.097748,
+          0.138243,
+          0.038997
+        ],
+        "size": [
+          0.18023,
+          0.287489,
+          0.077994
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

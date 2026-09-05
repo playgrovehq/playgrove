@@ -1,0 +1,23 @@
+{
+  "id": "tent-closed",
+  "label": "tentClosed",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/tentClosed.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "392ebe08b1ca2b3598b1047e8224bf8c81bc16bf485d83e55f6c4610a68a107e",
+  "originalInputSha256": "7bbf4c3e177df46beccb4d3da15add979cfcc9cad9c1e5b42d4339a1e76c5f47",
+  "descriptor": "metadata.json",
+  "model": "tent-closed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.9999999701976776,0.6999999973922968,1]",
+  "convertedAt": "2026-09-05T10:30:38.779Z"
+}

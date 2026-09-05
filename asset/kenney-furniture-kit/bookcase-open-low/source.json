@@ -1,0 +1,23 @@
+{
+  "id": "bookcase-open-low",
+  "label": "bookcaseOpenLow",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/bookcaseOpenLow.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c368a0e7fda2bd158ee70cbbb1b2807b715df0f02ced8dc4ef67c8ca9008f3ca",
+  "originalInputSha256": "6d4d625faf977a2dbf155f1313cd32c6310e463114a1cd4c08cb9f80a5fb1d75",
+  "descriptor": "metadata.json",
+  "model": "bookcase-open-low.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4000000059604645,0.4000000059604645,0.25]",
+  "convertedAt": "2026-09-05T10:30:14.180Z"
+}

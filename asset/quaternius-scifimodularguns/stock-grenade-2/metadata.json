@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "stock-grenade-2",
+  "label": "Stock Grenade 2",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "stock",
+    "grenade",
+    "quaternius",
+    "scifimodularguns",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#303030",
+    "#b4b4b4"
+  ],
+  "colorNames": [
+    "black",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "stock-grenade-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 381,
+    "triangles": 430,
+    "parts": 2,
+    "discardedDegenerate": 24
+  },
+  "bounds": {
+    "min": [
+      -0.394348,
+      -0.197367,
+      -0.080195
+    ],
+    "max": [
+      0.151174,
+      0.214885,
+      0.080195
+    ],
+    "size": [
+      0.545522,
+      0.412252,
+      0.16039
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Stock_Grenade_2"
+  ],
+  "materialNames": [
+    "Black",
+    "White"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/scifimodularguns.html",
+    "download": "https://drive.google.com/uc?export=download&id=1f6oftsDsOIkh0KC01wPgJpc4tETfPz96",
+    "file": "Modular Parts/glTF/Stock_Grenade_2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

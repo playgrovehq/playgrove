@@ -1,0 +1,23 @@
+{
+  "id": "helix-large-half-left",
+  "label": "helix-large-half-left",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/helix-large-half-left.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8208f4796b752293013b276d55f949d3dc9935ac690edcb162582c8ef748c299",
+  "originalInputSha256": "44307844fc54e17336e57e35a7a945c4c07a1c071d4590279c36fe70bdee2b81",
+  "descriptor": "metadata.json",
+  "model": "helix-large-half-left.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[3.001120090484619,1.5,6.0019378662109375]",
+  "convertedAt": "2026-09-05T10:30:19.798Z"
+}

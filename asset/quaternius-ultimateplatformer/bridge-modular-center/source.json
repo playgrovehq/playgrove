@@ -1,0 +1,22 @@
+{
+  "id": "bridge-modular-center",
+  "label": "Bridge Modular Center",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1iaO5ogK2qXDODXltuwBsisDjbs2moaJP",
+  "file": "Level and Mechanics/glTF/Bridge_Modular_Center.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1ecce5fdceed55c5c1de90cc244bcee54a0d1abf0eac37fd0acd45fe701b0827",
+  "originalInputSha256": "1ecce5fdceed55c5c1de90cc244bcee54a0d1abf0eac37fd0acd45fe701b0827",
+  "descriptor": "metadata.json",
+  "model": "bridge-modular-center.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3,2.0852929428219795,2.306201934814453]",
+  "convertedAt": "2026-09-05T11:48:28.471Z"
+}

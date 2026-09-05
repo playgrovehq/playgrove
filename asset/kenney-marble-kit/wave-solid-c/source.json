@@ -1,0 +1,23 @@
+{
+  "id": "wave-solid-c",
+  "label": "wave-solid-c",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/wave-solid-c.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d24fb8cca3b3227ff30fb4c04d13dfed6cd1860402801f9abf38779efe7c2dff",
+  "originalInputSha256": "aafff583ac8edea855bd76b7cee523ec0f3a67baab68594d6d824494f0b99f14",
+  "descriptor": "metadata.json",
+  "model": "wave-solid-c.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2,0.5,4]",
+  "convertedAt": "2026-09-05T10:30:21.764Z"
+}

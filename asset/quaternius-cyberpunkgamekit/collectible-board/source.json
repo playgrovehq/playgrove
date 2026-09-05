@@ -1,0 +1,22 @@
+{
+  "id": "collectible-board",
+  "label": "Collectible Board",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1mt6m6u3de2zJ7Y7t-3v9aeVCodmn3gD2",
+  "file": "Pickups and Objects/Collectible_Board.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "abbb2861a9dbb728b964d756b622d89533aeb00febf2ab423943c515c35170cb",
+  "originalInputSha256": "abbb2861a9dbb728b964d756b622d89533aeb00febf2ab423943c515c35170cb",
+  "descriptor": "metadata.json",
+  "model": "collectible-board.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.353971004486084,0.32253800332546234,0.04678000137209892]",
+  "convertedAt": "2026-09-05T12:03:55.632Z"
+}

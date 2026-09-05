@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "shotgun",
+  "label": "Shotgun",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "shotgun",
+    "quaternius",
+    "zombieapocalypsekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#42342a",
+    "#8b8786",
+    "#284a63",
+    "#4c3a21",
+    "#5a4b3e",
+    "#5c5c5c",
+    "#8b755e"
+  ],
+  "colorNames": [
+    "black",
+    "gray",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "shotgun.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1847,
+    "triangles": 1542,
+    "parts": 7,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.048589,
+      -0.116894,
+      -0.145505
+    ],
+    "max": [
+      0.046579,
+      0.221339,
+      0.967431
+    ],
+    "size": [
+      0.095168,
+      0.338233,
+      1.112936
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Shotgun"
+  ],
+  "materialNames": [
+    "Atlas"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1eMnIgvbLG6CFCuzYxjwFhWt2J72oc3a_",
+    "file": "Weapons/glTF/Shotgun.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

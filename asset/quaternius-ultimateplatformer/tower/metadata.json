@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "id": "tower",
+  "label": "Tower",
+  "description": "Platformer Game Kit by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "tower",
+    "quaternius",
+    "ultimateplatformer",
+    "door",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5d5655",
+    "#a57c45",
+    "#c29853",
+    "#464044",
+    "#181818",
+    "#757575",
+    "#991c12"
+  ],
+  "colorNames": [
+    "brown",
+    "orange",
+    "black",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tower.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3622,
+    "triangles": 2732,
+    "parts": 10,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -4.623603,
+      -0.096231,
+      -4.819539
+    ],
+    "max": [
+      4.812934,
+      14.502352,
+      4.156679
+    ],
+    "size": [
+      9.436537,
+      14.598583,
+      8.976218
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Tower",
+    "Tower_Door"
+  ],
+  "materialNames": [
+    "Tower_Dark",
+    "Wood",
+    "Wood_Light",
+    "Tower",
+    "Black",
+    "Metal",
+    "Flag"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ZwygnPEOK0lNMNXfvmyuWl5C1hN6HDqg",
+    "file": "Level and Mechanics/glTF/Tower.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

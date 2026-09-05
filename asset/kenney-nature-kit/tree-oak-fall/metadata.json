@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "id": "tree-oak-fall",
+  "label": "tree oak fall",
+  "description": "Nature Kit by Kenney.",
+  "category": "vegetation",
+  "tags": [
+    "tree",
+    "oak",
+    "fall",
+    "kenney",
+    "nature",
+    "kit",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#ffc78a",
+    "#fff9f0"
+  ],
+  "colorNames": [
+    "beige",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tree-oak-fall.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 324,
+    "triangles": 194,
+    "parts": 2,
+    "discardedDegenerate": 2
+  },
+  "bounds": {
+    "min": [
+      -0.320277,
+      -0.05,
+      -0.369824
+    ],
+    "max": [
+      0.320277,
+      1.17624,
+      0.369824
+    ],
+    "size": [
+      0.640554,
+      1.22624,
+      0.739648
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "tree_oak_fall"
+  ],
+  "materialNames": [
+    "leafsFall",
+    "woodBirch"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/nature-kit",
+    "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+    "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+    "file": "Models/GLTF format/tree_oak_fall.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

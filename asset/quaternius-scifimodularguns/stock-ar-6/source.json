@@ -1,0 +1,22 @@
+{
+  "id": "stock-ar-6",
+  "label": "Stock AR 6",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1oY90Em6R_dbKN2dksY7zAenVFUfdf1Th",
+  "file": "Modular Parts/glTF/Stock_AR_6.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1530ac3537e3dd5fe4d988f55c90214611ceb2292e8dfb6feae7b4d5420ca44e",
+  "originalInputSha256": "1530ac3537e3dd5fe4d988f55c90214611ceb2292e8dfb6feae7b4d5420ca44e",
+  "descriptor": "metadata.json",
+  "model": "stock-ar-6.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.3479289934039116,0.43271099030971527,0.14562800526618958]",
+  "convertedAt": "2026-09-05T12:05:32.806Z"
+}

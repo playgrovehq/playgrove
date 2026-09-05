@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "id": "cloud-1",
+  "label": "Cloud 1",
+  "description": "Platformer Game Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "cloud",
+    "quaternius",
+    "ultimateplatformer",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#c6cabd"
+  ],
+  "colorNames": [
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "cloud-1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 234,
+    "triangles": 354,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.50911,
+      -0.139181,
+      -1.226402
+    ],
+    "max": [
+      1.779622,
+      1.977662,
+      1.221089
+    ],
+    "size": [
+      3.288732,
+      2.116843,
+      2.447491
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Cloud_1"
+  ],
+  "materialNames": [
+    "Cloud"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ZO8aEJqOpaIBjIdcuvzQYS0nghDhXLL1",
+    "file": "Nature/glTF/Cloud_1.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

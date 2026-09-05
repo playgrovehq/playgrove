@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "road-tile-246",
+  "label": "roadTile 246",
+  "description": "3D Road Tiles by Kenney.",
+  "category": "roads",
+  "tags": [
+    "road",
+    "tile",
+    "kenney",
+    "3d",
+    "tiles",
+    "mesh1",
+    "group1",
+    "model",
+    "roads",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#edebe0",
+    "#acacac"
+  ],
+  "colorNames": [
+    "white",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "road-tile-246.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 94,
+    "triangles": 58,
+    "parts": 2,
+    "discardedDegenerate": 2
+  },
+  "bounds": {
+    "min": [
+      0,
+      0,
+      -3
+    ],
+    "max": [
+      3,
+      1.73,
+      0
+    ],
+    "size": [
+      3,
+      1.73,
+      3
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Mesh1 Group1 Model"
+  ],
+  "materialNames": [
+    "Stone",
+    "Asphalt"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/3d-road-tiles",
+    "download": "https://kenney.nl/media/pages/assets/3d-road-tiles/3fbfaa7ec8-1677581262/kenney_3d-road-tiles.zip",
+    "archiveSha256": "93af3af6d2cef287a0eca7efb936a515574151d3cb32c202f14d8f6a99518c40",
+    "file": "Models/gLTF/roadTile_246.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

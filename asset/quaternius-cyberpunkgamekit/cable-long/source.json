@@ -1,0 +1,22 @@
+{
+  "id": "cable-long",
+  "label": "Cable Long",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1JBYAq0geA8lB6uvuOrbwsN7Iyqn8HC0h",
+  "file": "Platforms/Cable_Long.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d0b4afc0bdd1dba68b3a28f11da6fd6c932e477f5024bd37a169bdbc4932f27a",
+  "originalInputSha256": "d0b4afc0bdd1dba68b3a28f11da6fd6c932e477f5024bd37a169bdbc4932f27a",
+  "descriptor": "metadata.json",
+  "model": "cable-long.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.2876020073890686,2.5059411012916826,0.13185999542474747]",
+  "convertedAt": "2026-09-05T12:03:55.824Z"
+}

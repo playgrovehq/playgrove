@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "machine-barrel",
+  "label": "machine barrel",
+  "description": "Space Kit by Kenney.",
+  "category": "props",
+  "tags": [
+    "machine",
+    "barrel",
+    "kenney",
+    "space",
+    "kit",
+    "cables",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#8f949e",
+    "#ffd07c",
+    "#edf0f5",
+    "#d6dbe4"
+  ],
+  "colorNames": [
+    "gray",
+    "beige",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "machine-barrel.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 425,
+    "triangles": 331,
+    "parts": 6,
+    "discardedDegenerate": 7
+  },
+  "bounds": {
+    "min": [
+      1.776795,
+      0,
+      1.242265
+    ],
+    "max": [
+      2.423205,
+      0.6,
+      1.757735
+    ],
+    "size": [
+      0.64641,
+      0.6,
+      0.51547
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "machine_barrel",
+    "cables"
+  ],
+  "materialNames": [
+    "dark",
+    "metalRed",
+    "metal",
+    "metalDark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/space-kit",
+    "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+    "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+    "file": "Models/GLTF format/machine_barrel.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

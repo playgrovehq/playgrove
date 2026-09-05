@@ -1,0 +1,23 @@
+{
+  "id": "chair-cushion",
+  "label": "chairCushion",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/chairCushion.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "be8c6c835a45730fb7c87e3e8e18b886f7728ed04574c70eadcad43627823a3b",
+  "originalInputSha256": "33544228984857f2cb502b58452fed72157335f9b1caf29e96da5c9094c53fdc",
+  "descriptor": "metadata.json",
+  "model": "chair-cushion.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.20000000298023224,0.46000000834465027,0.20000000298023224]",
+  "convertedAt": "2026-09-05T10:30:14.364Z"
+}

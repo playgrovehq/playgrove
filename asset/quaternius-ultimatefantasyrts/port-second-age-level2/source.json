@@ -1,0 +1,22 @@
+{
+  "id": "port-second-age-level2",
+  "label": "Port SecondAge Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=19Hu0_KnaGtQpev5B9D8VeF6sOGU7CIAj",
+  "file": "glTF/Port_SecondAge_Level2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "046fe24fb4ed69ab00ba5d91e708295169101672c94572a55cf6ea3671353a7c",
+  "originalInputSha256": "046fe24fb4ed69ab00ba5d91e708295169101672c94572a55cf6ea3671353a7c",
+  "descriptor": "metadata.json",
+  "model": "port-second-age-level2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=9 materials=9 bounds=[2.3006579875946045,1.2508220076560974,2.8775320053100586]",
+  "convertedAt": "2026-09-05T12:03:24.764Z"
+}

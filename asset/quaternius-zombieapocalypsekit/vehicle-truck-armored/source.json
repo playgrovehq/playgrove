@@ -1,0 +1,22 @@
+{
+  "id": "vehicle-truck-armored",
+  "label": "Vehicle Truck Armored",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1F8wXYSc1-Je0ylBvonbQ3PQEKBZgEuut",
+  "file": "Vehicles/glTF/Vehicle_Truck_Armored.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bef6a1a5786385fc3644d80b30fbadf957944194c830bfb43982d5caaa7e6a71",
+  "originalInputSha256": "bef6a1a5786385fc3644d80b30fbadf957944194c830bfb43982d5caaa7e6a71",
+  "descriptor": "metadata.json",
+  "model": "vehicle-truck-armored.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=20 materials=20 bounds=[2.9762260913848877,2.9036719892174006,5.586498022079468]",
+  "convertedAt": "2026-09-05T11:49:50.262Z"
+}

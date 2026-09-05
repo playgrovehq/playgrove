@@ -1,0 +1,23 @@
+{
+  "id": "road-pit-straight-long",
+  "label": "roadPitStraightLong",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadPitStraightLong.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0883009835309f09cb04a012a92b97891ba99a5e92ca5d1d3269afb23d8632b8",
+  "originalInputSha256": "93bedb4690e9aa92127e02921884481f2a46ee78616b127fcc8d9cb9afec171e",
+  "descriptor": "metadata.json",
+  "model": "road-pit-straight-long.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.9999999701976776,0.019999999552965164,2.0000001192092896]",
+  "convertedAt": "2026-09-05T10:30:37.930Z"
+}

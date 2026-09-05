@@ -1,0 +1,22 @@
+{
+  "id": "windmill-first-age",
+  "label": "Windmill FirstAge",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1S1uVbf2qCLdXvOXc12fK4RsaYu1WH2RT",
+  "file": "glTF/Windmill_FirstAge.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c4af304cbafd7ee3a4fdbc42d7e7406092e29d9f8fac381a0e3ee820c377aabd",
+  "originalInputSha256": "c4af304cbafd7ee3a4fdbc42d7e7406092e29d9f8fac381a0e3ee820c377aabd",
+  "descriptor": "metadata.json",
+  "model": "windmill-first-age.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.3495469689369202,1.9172999858856201,0.6604349911212921]",
+  "convertedAt": "2026-09-05T12:03:25.743Z"
+}

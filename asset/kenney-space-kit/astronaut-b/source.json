@@ -1,0 +1,23 @@
+{
+  "id": "astronaut-b",
+  "label": "astronautB",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/astronautB.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "98dabae12b3c446dc79c84f371b206922343c386e107772b53722ccb2e91ca12",
+  "originalInputSha256": "6fa5b3e11cb3d117b28a0794b261ad9107f16ca6ce886b288493e22493d74d2d",
+  "descriptor": "metadata.json",
+  "model": "astronaut-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=17 materials=17 bounds=[0.48318397998809814,0.7931839823722839,0.33000004291534424]",
+  "convertedAt": "2026-09-05T10:30:40.280Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "crops-dirt-double-row",
+  "label": "crops dirtDoubleRow",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/crops_dirtDoubleRow.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "80a541bc340cea59c2d8c8a3193d99e3db490ff9291ca99bf4785d3e2d2520ce",
+  "originalInputSha256": "b5c330d81a4efe0944caf5f1d1dd0c0d50227c93f2a4a57ec2425d2c9b7a2d84",
+  "descriptor": "metadata.json",
+  "model": "crops-dirt-double-row.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.05000000074505806,0.9379999935626984]",
+  "convertedAt": "2026-09-05T10:30:27.480Z"
+}

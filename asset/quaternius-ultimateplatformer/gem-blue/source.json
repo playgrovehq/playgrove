@@ -1,0 +1,22 @@
+{
+  "id": "gem-blue",
+  "label": "Gem Blue",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=16wLonN0eQOhS4FEy95bHcdCe_rTulYFX",
+  "file": "Powerups and Pickups/glTF/Gem_Blue.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3389224bfeadea464112134fda21d6d99bf63d2d8f1a42400e16a63e36472307",
+  "originalInputSha256": "3389224bfeadea464112134fda21d6d99bf63d2d8f1a42400e16a63e36472307",
+  "descriptor": "metadata.json",
+  "model": "gem-blue.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.986270010471344,2.109302043914795,0.6969699859619141]",
+  "convertedAt": "2026-09-05T11:48:29.791Z"
+}

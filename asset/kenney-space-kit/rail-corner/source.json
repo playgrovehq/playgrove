@@ -1,0 +1,23 @@
+{
+  "id": "rail-corner",
+  "label": "rail corner",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/rail_corner.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8568b51f09e89bde5ff4894445daf62dd8de99438b1cff6ef4348313e0eea37c",
+  "originalInputSha256": "2b1f172c03594f4c50485d0bbd24ead48b056bd9964416442f5fde95f130a00a",
+  "descriptor": "metadata.json",
+  "model": "rail-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.9000000953674316,0.25,0.8999999761581421]",
+  "convertedAt": "2026-09-05T10:30:41.946Z"
+}

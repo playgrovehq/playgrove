@@ -1,0 +1,22 @@
+{
+  "id": "cable-small",
+  "label": "Cable Small",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1h2H2L2UChQtxyMwJNVZawIaPR0xUsveE",
+  "file": "Platforms/Cable_Small.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "410831c8940d97bd4374b7978dd9156e021200c9ea634aabf07372a71ef6518e",
+  "originalInputSha256": "410831c8940d97bd4374b7978dd9156e021200c9ea634aabf07372a71ef6518e",
+  "descriptor": "metadata.json",
+  "model": "cable-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.17215699702501297,0.9498800165019929,0.12157899886369705]",
+  "convertedAt": "2026-09-05T12:03:55.841Z"
+}

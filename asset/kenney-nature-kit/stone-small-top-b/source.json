@@ -1,0 +1,23 @@
+{
+  "id": "stone-small-top-b",
+  "label": "stone smallTopB",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/stone_smallTopB.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a0b8a283058a96681408970f87f5c1f4d44fb9969ac69ffeb5aceaf576930592",
+  "originalInputSha256": "b9a2deeafdd2fa1e15cea0a9a37c5e1b70c74b58b21738202654aae5313a7fb0",
+  "descriptor": "metadata.json",
+  "model": "stone-small-top-b.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.6221439838409424,0.2800000049173832,0.646261990070343]",
+  "convertedAt": "2026-09-05T10:30:32.331Z"
+}

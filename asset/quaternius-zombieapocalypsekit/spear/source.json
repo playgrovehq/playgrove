@@ -1,0 +1,22 @@
+{
+  "id": "spear",
+  "label": "Spear",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1WB9kPTTGATlx5BSLsBPPmXlY5N7GSzFJ",
+  "file": "Weapons/glTF/Spear.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4b5604817fb33f69f8bd6fabd4a98baa91e8dd4fce0fc6511fda61282019bf06",
+  "originalInputSha256": "4b5604817fb33f69f8bd6fabd4a98baa91e8dd4fce0fc6511fda61282019bf06",
+  "descriptor": "metadata.json",
+  "model": "spear.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=8 materials=8 bounds=[0.13662300258874893,0.15398399904370308,2.011275976896286]",
+  "convertedAt": "2026-09-05T11:49:50.428Z"
+}

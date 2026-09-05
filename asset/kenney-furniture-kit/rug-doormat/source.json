@@ -1,0 +1,23 @@
+{
+  "id": "rug-doormat",
+  "label": "rugDoormat",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/rugDoormat.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "21fd7b863decc3c635a46b6fd2c660df6f8327ea0e14fe6bd35f97767d764983",
+  "originalInputSha256": "bd888e41853342cdc0d34d3f09b99cedc50a144f47b514943b65cdb9a2cfd802",
+  "descriptor": "metadata.json",
+  "model": "rug-doormat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4293000102043152,0.009999999776482582,0.23700900375843048]",
+  "convertedAt": "2026-09-05T10:30:15.363Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "overhead-round",
+  "label": "overheadRound",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/overheadRound.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b0336bce183906f79e470adbe0dd83f4d54f64b142cbe9fabe1858986b11f48a",
+  "originalInputSha256": "47147adaed1d387c6554145faedf5c6e969ec1e8518a4b4c55a4fda9761b817b",
+  "descriptor": "metadata.json",
+  "model": "overhead-round.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.8668960332870483,0.9334480259567499,0.33000004291534424]",
+  "convertedAt": "2026-09-05T10:30:37.179Z"
+}

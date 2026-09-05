@@ -1,0 +1,23 @@
+{
+  "id": "cliff-steps-rock",
+  "label": "cliff steps rock",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_steps_rock.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ddc902baf4badca345d70cd1a760ffbab147c7eac0658b02b11f95612e4f4f4c",
+  "originalInputSha256": "f290e67a836ec459efcedb013f67258c2043fec128f07d6a16454e8505b7530f",
+  "descriptor": "metadata.json",
+  "model": "cliff-steps-rock.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.9999999888241291,1.050000011920929]",
+  "convertedAt": "2026-09-05T10:30:27.130Z"
+}

@@ -1,0 +1,705 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T10:30:10.363Z",
+  "assets": [
+    {
+      "id": "floor",
+      "label": "floor",
+      "description": "Factory Kit by Kenney.",
+      "thumbnail": "floor/thumbnail.png",
+      "model": "floor/floor.ts",
+      "package": "floor",
+      "descriptor": "floor/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/factory-kit",
+        "download": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+        "archiveSha256": "7e31fb2308e90304672bd15cd18fa9d9f02c03731a8cbc57a8e3e1c181dfb0a7",
+        "file": "Models/GLB format/floor.glb"
+      },
+      "category": "buildings",
+      "tags": [
+        "floor",
+        "kenney",
+        "factory",
+        "kit",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#61618a"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4,
+        "triangles": 2,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "floor-large",
+      "label": "floor-large",
+      "description": "Factory Kit by Kenney.",
+      "thumbnail": "floor-large/thumbnail.png",
+      "model": "floor-large/floor-large.ts",
+      "package": "floor-large",
+      "descriptor": "floor-large/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/factory-kit",
+        "download": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+        "archiveSha256": "7e31fb2308e90304672bd15cd18fa9d9f02c03731a8cbc57a8e3e1c181dfb0a7",
+        "file": "Models/GLB format/floor-large.glb"
+      },
+      "category": "buildings",
+      "tags": [
+        "floor",
+        "large",
+        "kenney",
+        "factory",
+        "kit",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#61618a"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4,
+        "triangles": 2,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          0,
+          -1
+        ],
+        "max": [
+          1,
+          0,
+          1
+        ],
+        "size": [
+          2,
+          0,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-special-area",
+      "label": "indicator-special-area",
+      "description": "Factory Kit by Kenney.",
+      "thumbnail": "indicator-special-area/thumbnail.png",
+      "model": "indicator-special-area/indicator-special-area.ts",
+      "package": "indicator-special-area",
+      "descriptor": "indicator-special-area/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/factory-kit",
+        "download": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+        "archiveSha256": "7e31fb2308e90304672bd15cd18fa9d9f02c03731a8cbc57a8e3e1c181dfb0a7",
+        "file": "Models/GLB format/indicator-special-area.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "special",
+        "area",
+        "kenney",
+        "factory",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#e4a35e"
+      ],
+      "colorNames": [
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 28,
+        "triangles": 18,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-special-arrow",
+      "label": "indicator-special-arrow",
+      "description": "Factory Kit by Kenney.",
+      "thumbnail": "indicator-special-arrow/thumbnail.png",
+      "model": "indicator-special-arrow/indicator-special-arrow.ts",
+      "package": "indicator-special-arrow",
+      "descriptor": "indicator-special-arrow/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/factory-kit",
+        "download": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+        "archiveSha256": "7e31fb2308e90304672bd15cd18fa9d9f02c03731a8cbc57a8e3e1c181dfb0a7",
+        "file": "Models/GLB format/indicator-special-arrow.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "special",
+        "arrow",
+        "kenney",
+        "factory",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#e4a35e"
+      ],
+      "colorNames": [
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 17,
+        "triangles": 15,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-special-cross",
+      "label": "indicator-special-cross",
+      "description": "Factory Kit by Kenney.",
+      "thumbnail": "indicator-special-cross/thumbnail.png",
+      "model": "indicator-special-cross/indicator-special-cross.ts",
+      "package": "indicator-special-cross",
+      "descriptor": "indicator-special-cross/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/factory-kit",
+        "download": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+        "archiveSha256": "7e31fb2308e90304672bd15cd18fa9d9f02c03731a8cbc57a8e3e1c181dfb0a7",
+        "file": "Models/GLB format/indicator-special-cross.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "special",
+        "cross",
+        "kenney",
+        "factory",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#e4a35e"
+      ],
+      "colorNames": [
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 24,
+        "triangles": 22,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-special-lines",
+      "label": "indicator-special-lines",
+      "description": "Factory Kit by Kenney.",
+      "thumbnail": "indicator-special-lines/thumbnail.png",
+      "model": "indicator-special-lines/indicator-special-lines.ts",
+      "package": "indicator-special-lines",
+      "descriptor": "indicator-special-lines/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/factory-kit",
+        "download": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+        "archiveSha256": "7e31fb2308e90304672bd15cd18fa9d9f02c03731a8cbc57a8e3e1c181dfb0a7",
+        "file": "Models/GLB format/indicator-special-lines.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "special",
+        "lines",
+        "kenney",
+        "factory",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#e4a35e"
+      ],
+      "colorNames": [
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 30,
+        "triangles": 16,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "top",
+      "label": "top",
+      "description": "Factory Kit by Kenney.",
+      "thumbnail": "top/thumbnail.png",
+      "model": "top/top.ts",
+      "package": "top",
+      "descriptor": "top/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/factory-kit",
+        "download": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+        "archiveSha256": "7e31fb2308e90304672bd15cd18fa9d9f02c03731a8cbc57a8e3e1c181dfb0a7",
+        "file": "Models/GLB format/top.glb"
+      },
+      "category": "props",
+      "tags": [
+        "top",
+        "kenney",
+        "factory",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#76769c"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4,
+        "triangles": 2,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "top-large",
+      "label": "top-large",
+      "description": "Factory Kit by Kenney.",
+      "thumbnail": "top-large/thumbnail.png",
+      "model": "top-large/top-large.ts",
+      "package": "top-large",
+      "descriptor": "top-large/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/factory-kit",
+        "download": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+        "archiveSha256": "7e31fb2308e90304672bd15cd18fa9d9f02c03731a8cbc57a8e3e1c181dfb0a7",
+        "file": "Models/GLB format/top-large.glb"
+      },
+      "category": "props",
+      "tags": [
+        "top",
+        "large",
+        "kenney",
+        "factory",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#76769c"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4,
+        "triangles": 2,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          0,
+          -1
+        ],
+        "max": [
+          1,
+          0,
+          1
+        ],
+        "size": [
+          2,
+          0,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "top-large-checkerboard",
+      "label": "top-large-checkerboard",
+      "description": "Factory Kit by Kenney.",
+      "thumbnail": "top-large-checkerboard/thumbnail.png",
+      "model": "top-large-checkerboard/top-large-checkerboard.ts",
+      "package": "top-large-checkerboard",
+      "descriptor": "top-large-checkerboard/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/factory-kit",
+        "download": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+        "archiveSha256": "7e31fb2308e90304672bd15cd18fa9d9f02c03731a8cbc57a8e3e1c181dfb0a7",
+        "file": "Models/GLB format/top-large-checkerboard.glb"
+      },
+      "category": "props",
+      "tags": [
+        "top",
+        "large",
+        "checkerboard",
+        "kenney",
+        "factory",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#61618a",
+        "#76769c"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 14,
+        "triangles": 8,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          0,
+          -1
+        ],
+        "max": [
+          1,
+          0,
+          1
+        ],
+        "size": [
+          2,
+          0,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

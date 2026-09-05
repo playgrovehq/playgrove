@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "support-small-horizontal",
+  "label": "support-small-horizontal",
+  "description": "Coaster Kit by Kenney.",
+  "category": "props",
+  "tags": [
+    "support",
+    "small",
+    "horizontal",
+    "kenney",
+    "coaster",
+    "kit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#cf534f"
+  ],
+  "colorNames": [
+    "red"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "support-small-horizontal.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 32,
+    "triangles": 28,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.107865,
+      0,
+      -0.5
+    ],
+    "max": [
+      0.107865,
+      0.215731,
+      0.5
+    ],
+    "size": [
+      0.21573,
+      0.215731,
+      1
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "support-small-horizontal"
+  ],
+  "materialNames": [
+    "colormap"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/coaster-kit",
+    "download": "https://kenney.nl/media/pages/assets/coaster-kit/546fdc554f-1731487890/kenney_coaster-kit.zip",
+    "archiveSha256": "7723d02e3ea822371e12e14722e72d572fdb0384c1379c1469e0598a371f5c7a",
+    "file": "Models/GLB format/support-small-horizontal.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

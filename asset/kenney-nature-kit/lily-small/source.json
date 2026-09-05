@@ -1,0 +1,23 @@
+{
+  "id": "lily-small",
+  "label": "lily small",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/lily_small.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f51c27570b274c6ab722551b5df6e1bc8bffa2aa06190a7636b9e2f9721a469f",
+  "originalInputSha256": "38184c9eeb560acabd4d7f1d16852422df056edf0b318c97854c250e048cad3c",
+  "descriptor": "metadata.json",
+  "model": "lily-small.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.18879400193691254,0.04000000096857548,0.21799999475479126]",
+  "convertedAt": "2026-09-05T10:30:29.729Z"
+}

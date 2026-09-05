@@ -1,0 +1,23 @@
+{
+  "id": "supports-low",
+  "label": "supports low",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/supports_low.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "eca8e8b5107d8757b0bea7151970e826b6554298f56318c10716188db93261a1",
+  "originalInputSha256": "e1c9df6a3c85df038673699114665736030614e31fedb04b3c71b380f5adc432",
+  "descriptor": "metadata.json",
+  "model": "supports-low.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.8249999284744263,0.5,0.8250000476837158]",
+  "convertedAt": "2026-09-05T10:30:42.495Z"
+}

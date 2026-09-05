@@ -1,0 +1,23 @@
+{
+  "id": "road-curve-intersection-barrier",
+  "label": "road-curve-intersection-barrier",
+  "description": "City Kit (Roads) by Kenney.",
+  "pack": "kenney-city-kit-roads",
+  "listing": "https://kenney.nl/assets/city-kit-roads",
+  "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+  "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+  "file": "Models/GLB format/road-curve-intersection-barrier.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "121c0c51c2e8745382a32ace27664818daa08e1a89b0761274710b4a4c4b5d2b",
+  "originalInputSha256": "d0620b573330af2325c5c2d27db0a092f16bd49c7a7601bdeac62cc2de183390",
+  "descriptor": "metadata.json",
+  "model": "road-curve-intersection-barrier.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2,0.07999999821186066,2]",
+  "convertedAt": "2026-09-05T10:30:08.213Z"
+}

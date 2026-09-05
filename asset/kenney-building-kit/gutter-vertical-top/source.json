@@ -1,0 +1,23 @@
+{
+  "id": "gutter-vertical-top",
+  "label": "gutter-vertical-top",
+  "description": "Building Kit by Kenney.",
+  "pack": "kenney-building-kit",
+  "listing": "https://kenney.nl/assets/building-kit",
+  "download": "https://kenney.nl/media/pages/assets/building-kit/0de7aaa492-1743244741/kenney_building-kit.zip",
+  "archiveSha256": "2740ef5772fb5fb3d7aab881db22d129f6b68afe711b1a79e6d5e9e19cf3eec6",
+  "file": "Models/GLB format/gutter-vertical-top.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c83008d87335313d86fb802f30384c75546edd2c70ed3a1d3d73339f2327855d",
+  "originalInputSha256": "d98105c4acee213b253d636d7ea2e3e1034ac41315a1f80e433e59e8a5cc34c1",
+  "descriptor": "metadata.json",
+  "model": "gutter-vertical-top.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.20000000298023224,0.30000001192092896,0.30000000447034836]",
+  "convertedAt": "2026-09-05T10:30:06.451Z"
+}

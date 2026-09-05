@@ -1,0 +1,23 @@
+{
+  "id": "rail-double",
+  "label": "railDouble",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/railDouble.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b49b59619efd5f622f1fc3435df538898f2248cee68e34722a82265e775c0490",
+  "originalInputSha256": "0f0c9b76ee9f384404aef6781438721512f7a4791a35fd27bb32f0ca75f9272f",
+  "descriptor": "metadata.json",
+  "model": "rail-double.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.9999999701976776,0.28000001050531864,0.04999995231628418]",
+  "convertedAt": "2026-09-05T10:30:37.396Z"
+}

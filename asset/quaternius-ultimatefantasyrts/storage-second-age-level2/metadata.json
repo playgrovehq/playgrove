@@ -1,0 +1,100 @@
+{
+  "version": 2,
+  "id": "storage-second-age-level2",
+  "label": "Storage SecondAge Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "props",
+  "tags": [
+    "storage",
+    "second",
+    "age",
+    "level2",
+    "quaternius",
+    "ultimatefantasyrts",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#886a42",
+    "#a58758",
+    "#b15945",
+    "#b0b1a6",
+    "#888880",
+    "#b4b4a9",
+    "#797979"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "storage-second-age-level2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 15216,
+    "triangles": 8744,
+    "parts": 7,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.774658,
+      -0.01026,
+      -0.580535
+    ],
+    "max": [
+      0.874709,
+      0.880733,
+      0.671459
+    ],
+    "size": [
+      1.649367,
+      0.890993,
+      1.251994
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Storage_SecondAge_Level2"
+  ],
+  "materialNames": [
+    "Wood",
+    "Wood_Light",
+    "Main",
+    "Walls",
+    "Stone",
+    "Stone_Light",
+    "Metal_Light"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=1R6KS25xODtT9Mum_BhGnr27QcokE_upF",
+    "file": "glTF/Storage_SecondAge_Level2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rail-long",
+  "label": "Rail Long",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1_PzgYzuvizzrgc1XACR8gOv2fBwrVN1p",
+  "file": "Platforms/Rail_Long.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d1b096240351b761491c1befd72edcc4932d730ea84f5e1e64fc9477168448d5",
+  "originalInputSha256": "d1b096240351b761491c1befd72edcc4932d730ea84f5e1e64fc9477168448d5",
+  "descriptor": "metadata.json",
+  "model": "rail-long.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.292654037475586,0.23651300463825464,0.06051900051534176]",
+  "convertedAt": "2026-09-05T12:03:56.020Z"
+}

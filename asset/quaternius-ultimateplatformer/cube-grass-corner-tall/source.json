@@ -1,0 +1,22 @@
+{
+  "id": "cube-grass-corner-tall",
+  "label": "Cube Grass Corner Tall",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1G7TcaVAcHc5obrR7QNU_1GjSOf2zavfj",
+  "file": "Modular Platforms/3D/glTF/Cube_Grass_Corner_Tall.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cc2b3972c3891a62ff8cf8b8b50809cb601b0cb5cd5595db368db7418de82264",
+  "originalInputSha256": "cc2b3972c3891a62ff8cf8b8b50809cb601b0cb5cd5595db368db7418de82264",
+  "descriptor": "metadata.json",
+  "model": "cube-grass-corner-tall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2.1167189478874207,1.995956003665924,2.116719961166382]",
+  "convertedAt": "2026-09-05T11:48:29.220Z"
+}

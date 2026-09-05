@@ -1,0 +1,23 @@
+{
+  "id": "statue-obelisk",
+  "label": "statue obelisk",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/statue_obelisk.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f6ce28479745e84f54bb6bf3bd43a538e42a3eefcad1192c85630e85b3558149",
+  "originalInputSha256": "e18013044ad6453a1850226be29f63c37d67e0002141f5f6a4d14a46bde69e00",
+  "descriptor": "metadata.json",
+  "model": "statue-obelisk.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.3070180118083954,0.875397015362978,0.3070180118083954]",
+  "convertedAt": "2026-09-05T10:30:30.829Z"
+}

@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "tree-pine-round-b",
+  "label": "tree pineRoundB",
+  "description": "Nature Kit by Kenney.",
+  "category": "vegetation",
+  "tags": [
+    "tree",
+    "pine",
+    "round",
+    "b",
+    "kenney",
+    "nature",
+    "kit",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#e7b5a3",
+    "#72d3d5",
+    "#ffffff"
+  ],
+  "colorNames": [
+    "beige",
+    "cyan",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tree-pine-round-b.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 404,
+    "triangles": 262,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.276503,
+      -0.05,
+      -0.305585
+    ],
+    "max": [
+      0.255708,
+      1.145917,
+      0.307617
+    ],
+    "size": [
+      0.532211,
+      1.195917,
+      0.613202
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "tree_pineRoundB"
+  ],
+  "materialNames": [
+    "woodBarkDark",
+    "leafsDark",
+    "_defaultMat"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/nature-kit",
+    "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+    "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+    "file": "Models/GLTF format/tree_pineRoundB.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "grand-stand-covered-round",
+  "label": "grandStandCoveredRound",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/grandStandCoveredRound.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "998b54f28d802304053ac8fda36bd30d20a9d1aa3b4fa4b246c008fb52c3a70c",
+  "originalInputSha256": "97359aaf62c7247ee0683ba9365257751eced797040c0e4aa375fd9d83ed561e",
+  "descriptor": "metadata.json",
+  "model": "grand-stand-covered-round.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.6366200149059296,1.1863919589668512,1.6366199757903814]",
+  "convertedAt": "2026-09-05T10:30:36.991Z"
+}

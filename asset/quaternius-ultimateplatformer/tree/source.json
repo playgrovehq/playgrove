@@ -1,0 +1,22 @@
+{
+  "id": "tree",
+  "label": "Tree",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=19PKl285ynA6Sxgjx_RuYpXXhYbO98n2j",
+  "file": "Nature/glTF/Tree.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3dccc3668294821e3715c70700d4da34233a413d743219a67061b17a8137a69a",
+  "originalInputSha256": "3dccc3668294821e3715c70700d4da34233a413d743219a67061b17a8137a69a",
+  "descriptor": "metadata.json",
+  "model": "tree.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[5.534482002258301,8.626177316531539,5.5492119789123535]",
+  "convertedAt": "2026-09-05T11:48:29.758Z"
+}

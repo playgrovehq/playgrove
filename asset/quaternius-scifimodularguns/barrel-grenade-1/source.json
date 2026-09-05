@@ -1,0 +1,22 @@
+{
+  "id": "barrel-grenade-1",
+  "label": "Barrel Grenade 1",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1RTm8MGth4hD93MfKKL82kdXTABkvKW84",
+  "file": "Modular Parts/glTF/Barrel_Grenade_1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9f40d4c0118023c6c5c47482bdc8fe0194abf2aea03732ffceebda5dab7d1f67",
+  "originalInputSha256": "9f40d4c0118023c6c5c47482bdc8fe0194abf2aea03732ffceebda5dab7d1f67",
+  "descriptor": "metadata.json",
+  "model": "barrel-grenade-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.9725970029830933,0.28826700150966644,0.1458820030093193]",
+  "convertedAt": "2026-09-05T12:05:31.960Z"
+}

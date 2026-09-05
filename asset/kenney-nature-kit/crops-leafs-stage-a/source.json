@@ -1,0 +1,23 @@
+{
+  "id": "crops-leafs-stage-a",
+  "label": "crops leafsStageA",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/crops_leafsStageA.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "96a942589585ae68806b26caf44777c890c2b8475d77b0a79889081cffee7d65",
+  "originalInputSha256": "f30d55780aa6668316a272eac8ea908e981d16fea7dc4fd1de4e68aa8170cee2",
+  "descriptor": "metadata.json",
+  "model": "crops-leafs-stage-a.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.38937801122665405,0.42707498744130135,0.38937801122665405]",
+  "convertedAt": "2026-09-05T10:30:27.597Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "flower-purple-c",
+  "label": "flower purpleC",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/flower_purpleC.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4a45c0c09d2072eb5e83f1f43ed264713c9c815f4b49c0c600706c5ebce9a713",
+  "originalInputSha256": "beb85b66766c9943a89a5ee27114d3befe22569db9a6f0b5f8366b687f9c1e42",
+  "descriptor": "metadata.json",
+  "model": "flower-purple-c.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.1805969998240471,0.1824999935925007,0.18106000125408173]",
+  "convertedAt": "2026-09-05T10:30:29.036Z"
+}

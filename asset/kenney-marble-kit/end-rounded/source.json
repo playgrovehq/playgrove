@@ -1,0 +1,23 @@
+{
+  "id": "end-rounded",
+  "label": "end-rounded",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/end-rounded.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7b5b889597cead205cf3e96343c0e8172f2213f1a29854e883a1ec6cc480da79",
+  "originalInputSha256": "274fe8ab56bbbff017226a6462fc09a74efb43921de92f71935aa9ee6ce62270",
+  "descriptor": "metadata.json",
+  "model": "end-rounded.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.5,1]",
+  "convertedAt": "2026-09-05T10:30:19.699Z"
+}

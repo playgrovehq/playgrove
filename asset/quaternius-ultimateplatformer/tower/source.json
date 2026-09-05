@@ -1,0 +1,22 @@
+{
+  "id": "tower",
+  "label": "Tower",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ZwygnPEOK0lNMNXfvmyuWl5C1hN6HDqg",
+  "file": "Level and Mechanics/glTF/Tower.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2c351e87e9f2ba7753ddf09efd1d6436a7b514d5004773008eefcc12b1e8be25",
+  "originalInputSha256": "2c351e87e9f2ba7753ddf09efd1d6436a7b514d5004773008eefcc12b1e8be25",
+  "descriptor": "metadata.json",
+  "model": "tower.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=10 materials=10 bounds=[9.43653678894043,14.59858275949955,8.976218223571777]",
+  "convertedAt": "2026-09-05T11:48:29.055Z"
+}

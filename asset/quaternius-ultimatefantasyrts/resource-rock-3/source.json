@@ -1,0 +1,22 @@
+{
+  "id": "resource-rock-3",
+  "label": "Resource Rock 3",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1lh7bbubmqKMr9KLuCjehvH5aZHh-_Bqr",
+  "file": "glTF/Resource_Rock_3.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7bc7df96cf8eec5ff85ad67df3698897fea17fabe56ebf06b081daa471d5e43c",
+  "originalInputSha256": "7bc7df96cf8eec5ff85ad67df3698897fea17fabe56ebf06b081daa471d5e43c",
+  "descriptor": "metadata.json",
+  "model": "resource-rock-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.3916900008916855,0.18968999828211963,0.46083100140094757]",
+  "convertedAt": "2026-09-05T12:03:24.943Z"
+}

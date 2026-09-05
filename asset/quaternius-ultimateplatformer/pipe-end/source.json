@@ -1,0 +1,22 @@
+{
+  "id": "pipe-end",
+  "label": "Pipe End",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1HbVpWYuPb3SIXe5gJBbDuy_CT0Ho3-YA",
+  "file": "Level and Mechanics/glTF/Pipe_End.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "131a860cb2da07aff1faad25a954ae8a1aec24cf165db279699633e73d758a51",
+  "originalInputSha256": "131a860cb2da07aff1faad25a954ae8a1aec24cf165db279699633e73d758a51",
+  "descriptor": "metadata.json",
+  "model": "pipe-end.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2.182244062423706,2.2213000059127808,2.1822429895401]",
+  "convertedAt": "2026-09-05T11:48:28.855Z"
+}

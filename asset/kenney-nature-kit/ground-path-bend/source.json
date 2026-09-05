@@ -1,0 +1,23 @@
+{
+  "id": "ground-path-bend",
+  "label": "ground pathBend",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/ground_pathBend.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3c23c1ed381e2efde8a04d1465933b3bfc5156ad768bb8b5157fbb195c415995",
+  "originalInputSha256": "9a0009dc7a8389f12a76ba6f3b793d3fe21d31148d6b8ffde7c10b85a73a7a62",
+  "descriptor": "metadata.json",
+  "model": "ground-path-bend.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1,0.05000000074505806,1]",
+  "convertedAt": "2026-09-05T10:30:29.230Z"
+}

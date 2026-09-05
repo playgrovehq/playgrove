@@ -1,0 +1,23 @@
+{
+  "id": "cabin-corner",
+  "label": "cabin-corner",
+  "description": "Holiday Kit by Kenney.",
+  "pack": "kenney-holiday-kit",
+  "listing": "https://kenney.nl/assets/holiday-kit",
+  "download": "https://kenney.nl/media/pages/assets/holiday-kit/3976a6496a-1733923970/kenney_holiday-kit.zip",
+  "archiveSha256": "fde4d514d7297388d98058e8933ff614e071886f7ce57f9aea4b00d7698dd769",
+  "file": "Models/GLB format/cabin-corner.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8f6107c33ecf347cb903deb65607956d9ef4664b82598ea28c22ce1452ee4e71",
+  "originalInputSha256": "9e85a7701066df753f412da5d052136a89a2fd2b39147abc826588888421546e",
+  "descriptor": "metadata.json",
+  "model": "cabin-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.1499999761581421,1,0.1499999761581421]",
+  "convertedAt": "2026-09-05T10:30:17.292Z"
+}

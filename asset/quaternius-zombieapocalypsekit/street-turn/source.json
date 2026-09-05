@@ -1,0 +1,22 @@
+{
+  "id": "street-turn",
+  "label": "Street Turn",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1cWtxIV6aGeIeYcnJQY_b8teW5L_Gzvqc",
+  "file": "Environment/glTF/Street_Turn.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9b58c6288528231d0f4ff702b7d122bc8a4503a6ee28278335a72d26b6ec8c8c",
+  "originalInputSha256": "9b58c6288528231d0f4ff702b7d122bc8a4503a6ee28278335a72d26b6ec8c8c",
+  "descriptor": "metadata.json",
+  "model": "street-turn.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[8.000000953674316,0.11999999731779099,8.000000953674316]",
+  "convertedAt": "2026-09-05T11:49:49.545Z"
+}

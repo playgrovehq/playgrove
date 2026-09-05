@@ -1,0 +1,23 @@
+{
+  "id": "bridge-wood-round-narrow",
+  "label": "bridge woodRoundNarrow",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/bridge_woodRoundNarrow.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "28b253104c7253f3f642bd59236f89d7422d656f59f34d9a8acdc6056653fdfc",
+  "originalInputSha256": "fbd1bfc4601b7b195861ca85cc9d1e7a36f87d6178cdefb0aa887b1d2fe41c24",
+  "descriptor": "metadata.json",
+  "model": "bridge-wood-round-narrow.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.0399999618530273,0.3999999947845936,0.8399999737739563]",
+  "convertedAt": "2026-09-05T10:30:26.231Z"
+}

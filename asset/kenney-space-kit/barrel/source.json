@@ -1,0 +1,23 @@
+{
+  "id": "barrel",
+  "label": "barrel",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/barrel.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "79bedfe5dc312e70ec82b2e4fe4f9c81a31cad17ef6a0c76741600e28c11cdbc",
+  "originalInputSha256": "8a95781be23b35ebb39ad90278affc03140c75d4d055027e98be0313de084451",
+  "descriptor": "metadata.json",
+  "model": "barrel.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.19999992847442627,0.25,0.17320609092712402]",
+  "convertedAt": "2026-09-05T10:30:40.296Z"
+}

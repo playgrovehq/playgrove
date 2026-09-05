@@ -1,0 +1,22 @@
+{
+  "id": "mine",
+  "label": "Mine",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1cF334DhQWNtVhX9pIAN84i1an0GnLIfh",
+  "file": "glTF/Mine.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "523f1e38238e252e0e263aae8857c698b63572a5d7811a59c80c966ec26e941d",
+  "originalInputSha256": "523f1e38238e252e0e263aae8857c698b63572a5d7811a59c80c966ec26e941d",
+  "descriptor": "metadata.json",
+  "model": "mine.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1.2842989563941956,1.1692549651488662,1.3612369894981384]",
+  "convertedAt": "2026-09-05T12:03:24.585Z"
+}

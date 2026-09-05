@@ -1,0 +1,23 @@
+{
+  "id": "road-straight-skew",
+  "label": "roadStraightSkew",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadStraightSkew.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "0c4a1af4a77c939f25fc9010bee6ccbcdcb46b76181a24f4047fe78588581879",
+  "originalInputSha256": "36a31510c33513f8a9a2f15b4b0fbc64f6cdb199a206cdc90c88e2d56e623f7b",
+  "descriptor": "metadata.json",
+  "model": "road-straight-skew.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.9999999701976776,0.019999999552965164,2.0000001192092896]",
+  "convertedAt": "2026-09-05T10:30:38.749Z"
+}

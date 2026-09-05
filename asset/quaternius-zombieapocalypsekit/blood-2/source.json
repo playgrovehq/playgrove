@@ -1,0 +1,22 @@
+{
+  "id": "blood-2",
+  "label": "Blood 2",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1cBlF5LcdjTxUHtyeRF-dwoDVkO9q6pi8",
+  "file": "Environment/glTF/Blood_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c06e702338abbb32973c29270c332d8b4a5591b4fa1891a9f2b4797119cb107c",
+  "originalInputSha256": "c06e702338abbb32973c29270c332d8b4a5591b4fa1891a9f2b4797119cb107c",
+  "descriptor": "metadata.json",
+  "model": "blood-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.7127959728240967,0,1.3186780214309692]",
+  "convertedAt": "2026-09-05T11:49:49.246Z"
+}

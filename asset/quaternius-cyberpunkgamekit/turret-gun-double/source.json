@@ -1,0 +1,22 @@
+{
+  "id": "turret-gun-double",
+  "label": "Turret GunDouble",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ozkZdw_bM2_jiCIy8kpvUEdQHOPGE9oT",
+  "file": "Enemies/Turret_GunDouble.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f7221bd0ffd0ade04cc1f1ebba3b0dbe78927217a9274a3b1e69f228b1796823",
+  "originalInputSha256": "f7221bd0ffd0ade04cc1f1ebba3b0dbe78927217a9274a3b1e69f228b1796823",
+  "descriptor": "metadata.json",
+  "model": "turret-gun-double.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[1.1583579778671265,0.5869640037417412,1.1644389629364014]",
+  "convertedAt": "2026-09-05T12:03:55.598Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hazard-cylinder",
+  "label": "Hazard Cylinder",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1xEU2SV8dsnVEYwV_o_n0sdpkw-Ha3q1t",
+  "file": "Level and Mechanics/glTF/Hazard_Cylinder.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bfdfe5dd97739b98f22b29b08236dd742113dd90cd9ec3acd68d825ae14a80ee",
+  "originalInputSha256": "bfdfe5dd97739b98f22b29b08236dd742113dd90cd9ec3acd68d825ae14a80ee",
+  "descriptor": "metadata.json",
+  "model": "hazard-cylinder.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.2773818969726562,3.879744978621602,2.2773818969726562]",
+  "convertedAt": "2026-09-05T11:48:28.638Z"
+}

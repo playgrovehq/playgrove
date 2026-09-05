@@ -1,0 +1,22 @@
+{
+  "id": "water-tower",
+  "label": "WaterTower",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1RSQt1S8iHFOfnQOegpX0p41VHw3W0g6X",
+  "file": "Environment/glTF/WaterTower.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8ace4fa799796c942433659d0c31046d4854e2ce6da6cbc7ba20b358fc386a12",
+  "originalInputSha256": "8ace4fa799796c942433659d0c31046d4854e2ce6da6cbc7ba20b358fc386a12",
+  "descriptor": "metadata.json",
+  "model": "water-tower.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2.6457040309906006,9.379795797169209,2.708482027053833]",
+  "convertedAt": "2026-09-05T11:49:50.095Z"
+}

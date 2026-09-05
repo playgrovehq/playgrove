@@ -1,0 +1,23 @@
+{
+  "id": "road-roundabout-barrier",
+  "label": "road-roundabout-barrier",
+  "description": "City Kit (Roads) by Kenney.",
+  "pack": "kenney-city-kit-roads",
+  "listing": "https://kenney.nl/assets/city-kit-roads",
+  "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+  "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+  "file": "Models/GLB format/road-roundabout-barrier.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1a24b7002bf2d751cc869685148943b19e3d09d8975f8a3ffcd984c435a5ca04",
+  "originalInputSha256": "fc65f8b3f445146bed071c372e06fe3329c94f327f418c801f66c739955e2531",
+  "descriptor": "metadata.json",
+  "model": "road-roundabout-barrier.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3,0.07999999821186066,3]",
+  "convertedAt": "2026-09-05T10:30:08.314Z"
+}

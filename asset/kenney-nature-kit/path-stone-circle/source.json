@@ -1,0 +1,23 @@
+{
+  "id": "path-stone-circle",
+  "label": "path stoneCircle",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/path_stoneCircle.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2914a5690e61b621be165d477c353173b38af9864643f93fedb986a3fb419107",
+  "originalInputSha256": "d3f2044acdaeb7100d82aca702207e9c2f198aa0f03b9aef79a714e3a4a563f5",
+  "descriptor": "metadata.json",
+  "model": "path-stone-circle.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.9323740005493164,0.05000000074505806,0.8766120076179504]",
+  "convertedAt": "2026-09-05T10:30:29.930Z"
+}

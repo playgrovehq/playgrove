@@ -1,0 +1,22 @@
+{
+  "id": "resource-tree1",
+  "label": "Resource Tree1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1SxfLA9jE6fza2y9vedlEornDJX-622QJ",
+  "file": "glTF/Resource_Tree1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4c9657ba294cec85dc75159fe751bd7b132833f68f9ce55e7cda5ee11e4625f5",
+  "originalInputSha256": "4c9657ba294cec85dc75159fe751bd7b132833f68f9ce55e7cda5ee11e4625f5",
+  "descriptor": "metadata.json",
+  "model": "resource-tree1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7196789979934692,0.9258910296484828,0.4519270062446594]",
+  "convertedAt": "2026-09-05T12:03:24.959Z"
+}

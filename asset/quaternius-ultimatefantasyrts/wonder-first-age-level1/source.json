@@ -1,0 +1,22 @@
+{
+  "id": "wonder-first-age-level1",
+  "label": "Wonder FirstAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1qH50K_RTEmkgyfV1YZXhUTKIHrl6kkhR",
+  "file": "glTF/Wonder_FirstAge_Level1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "24d87d0d4d1b974a2496a2a79d20b32c475957aabf8b5c081a4484f79eb8a12e",
+  "originalInputSha256": "24d87d0d4d1b974a2496a2a79d20b32c475957aabf8b5c081a4484f79eb8a12e",
+  "descriptor": "metadata.json",
+  "model": "wonder-first-age-level1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.257256031036377,1.3491300120949745,1.257256031036377]",
+  "convertedAt": "2026-09-05T12:03:25.780Z"
+}

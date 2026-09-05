@@ -1,0 +1,23 @@
+{
+  "id": "terrain",
+  "label": "terrain",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/terrain.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8eb3329f206d495397a0ea1da5ca8f14924a7188e7f03df9c2d36b14d6d0a2fd",
+  "originalInputSha256": "c0daef0a3c92cf52b6d5a3f64288e50e41d3008397ae25b46ab55dd3e1630288",
+  "descriptor": "metadata.json",
+  "model": "terrain.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0,1]",
+  "convertedAt": "2026-09-05T10:30:42.512Z"
+}

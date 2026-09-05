@@ -1,0 +1,23 @@
+{
+  "id": "tunnel",
+  "label": "tunnel",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/tunnel.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "547f8071a2cfa8371e1787e8136ad4b0d4127f7ee80338c6088907a97bd058a7",
+  "originalInputSha256": "f9c70cd8b5a350c019d0a85ad3b1fefb73a94136f7486d6fe8018cfa1a4948d9",
+  "descriptor": "metadata.json",
+  "model": "tunnel.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.6000000238418579,1]",
+  "convertedAt": "2026-09-05T10:30:21.665Z"
+}

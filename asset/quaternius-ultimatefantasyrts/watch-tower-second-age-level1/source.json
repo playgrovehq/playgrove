@@ -1,0 +1,22 @@
+{
+  "id": "watch-tower-second-age-level1",
+  "label": "WatchTower SecondAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1T0ktCUKgguDzCsRQYXgMhsadIazgv01y",
+  "file": "glTF/WatchTower_SecondAge_Level1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4cb2ac66208f149851e2ca462f97d08cfecb151b7ee312f51cc6b70e214de02b",
+  "originalInputSha256": "4cb2ac66208f149851e2ca462f97d08cfecb151b7ee312f51cc6b70e214de02b",
+  "descriptor": "metadata.json",
+  "model": "watch-tower-second-age-level1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.8570080101490021,1.1983069768175483,0.7226429879665375]",
+  "convertedAt": "2026-09-05T12:03:25.688Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bush-fruit",
+  "label": "Bush Fruit",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1xLimK8fSeTVyeuHSs8DcPagD11FkGwQa",
+  "file": "Nature/glTF/Bush_Fruit.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e680eb29eada0bc1d82680dec2bced644c06f15dd6def9736ee02ac5ba1132e0",
+  "originalInputSha256": "e680eb29eada0bc1d82680dec2bced644c06f15dd6def9736ee02ac5ba1132e0",
+  "descriptor": "metadata.json",
+  "model": "bush-fruit.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[3.523858070373535,2.2346999626606703,3.5287539958953857]",
+  "convertedAt": "2026-09-05T11:48:29.457Z"
+}

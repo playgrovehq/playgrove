@@ -1,0 +1,23 @@
+{
+  "id": "pipe-entrance",
+  "label": "pipe entrance",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/pipe_entrance.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8b50fdb7f4b542e9962c928ad1cdc9aa8b42005b2fc96fc403a0995d5ebe94d3",
+  "originalInputSha256": "9c76d3412f5665cf50bcb3510ef4bc2105c44bd39d54b8fe15f5a5a95948ec91",
+  "descriptor": "metadata.json",
+  "model": "pipe-entrance.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.923759937286377,0.7999999895691872,0.6000000238418579]",
+  "convertedAt": "2026-09-05T10:30:41.514Z"
+}

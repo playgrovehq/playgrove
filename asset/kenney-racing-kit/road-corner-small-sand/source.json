@@ -1,0 +1,23 @@
+{
+  "id": "road-corner-small-sand",
+  "label": "roadCornerSmallSand",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadCornerSmallSand.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "770b60de9af809f03afe6c609d04034efb7957f7f8228a5b5de199d4fbb59967",
+  "originalInputSha256": "8cc1a10c80f0df5df6778a67a0ec25b6af240e5fbe4dd3f4377a37c355afa465",
+  "descriptor": "metadata.json",
+  "model": "road-corner-small-sand.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.5299999713897705,0,1.53000009059906]",
+  "convertedAt": "2026-09-05T10:30:37.763Z"
+}

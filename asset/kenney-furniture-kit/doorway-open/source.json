@@ -1,0 +1,23 @@
+{
+  "id": "doorway-open",
+  "label": "doorwayOpen",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/doorwayOpen.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b89c1cdd95b5bdeac4e9b67b6b4c127a46f4b8e4919712f6d321ec89e0388bef",
+  "originalInputSha256": "cf05e165ea26dbbeaab4dc6296c143ef5f5a001e2ab5af9cd4fd65739408317e",
+  "descriptor": "metadata.json",
+  "model": "doorway-open.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4860000014305115,1.0095319747924805,0.08910000324249268]",
+  "convertedAt": "2026-09-05T10:30:14.580Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "computer-mouse",
+  "label": "computerMouse",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/computerMouse.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "47cc46cbfeaf2cbc6e8c6cee8a207cbd4d74329547dca293955787e3c2e38b3a",
+  "originalInputSha256": "d3ad1a923f0f7707ef367bb969eb94c9076e211c98c830ba52e133fadc5cdfc0",
+  "descriptor": "metadata.json",
+  "model": "computer-mouse.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.04969999939203262,0.023571999743580818,0.08510400354862213]",
+  "convertedAt": "2026-09-05T10:30:14.496Z"
+}

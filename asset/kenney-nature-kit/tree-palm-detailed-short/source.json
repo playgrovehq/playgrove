@@ -1,0 +1,23 @@
+{
+  "id": "tree-palm-detailed-short",
+  "label": "tree palmDetailedShort",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_palmDetailedShort.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7b4ee73e41c443cbb43cfb553ffe9d5dca81520aa226ef2a00cec1c14a937d53",
+  "originalInputSha256": "bc1013aaacca3bdd116ad1cded4f9499f008fe3056e760f3238be05aa21ff9f2",
+  "descriptor": "metadata.json",
+  "model": "tree-palm-detailed-short.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.0343300104141235,1.1240400560200214,1.0343289971351624]",
+  "convertedAt": "2026-09-05T10:30:33.031Z"
+}

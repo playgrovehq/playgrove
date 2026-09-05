@@ -1,0 +1,23 @@
+{
+  "id": "barrier-white",
+  "label": "barrierWhite",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/barrierWhite.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "232a2ef8054b88df11505c6add244b7435bf4ed7cc4fb8db64cc63c5d22efc52",
+  "originalInputSha256": "44bf654b08bb96bd0e9a70c00dab35b0b23df955d3390ec8ede89c20ad64871a",
+  "descriptor": "metadata.json",
+  "model": "barrier-white.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.2499999925494194,0.1312000025063753,0.12300002574920654]",
+  "convertedAt": "2026-09-05T10:30:36.869Z"
+}

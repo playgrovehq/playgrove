@@ -1,0 +1,22 @@
+{
+  "id": "farm-first-age-level1",
+  "label": "Farm FirstAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1gBb75Su5P45fYssJBjtOcezyu7OkijV5",
+  "file": "glTF/Farm_FirstAge_Level1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "ec38d362a20e1846ac98dcd8b67ef65ee5997746a27fc88b6d9038d6d4db221d",
+  "originalInputSha256": "ec38d362a20e1846ac98dcd8b67ef65ee5997746a27fc88b6d9038d6d4db221d",
+  "descriptor": "metadata.json",
+  "model": "farm-first-age-level1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.7673230171203613,0.056274999398738146,0.4246229827404022]",
+  "convertedAt": "2026-09-05T12:03:23.830Z"
+}

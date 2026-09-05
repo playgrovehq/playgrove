@@ -1,0 +1,23 @@
+{
+  "id": "cliff-corner-inner-large-rock",
+  "label": "cliff cornerInnerLarge rock",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_cornerInnerLarge_rock.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "14774d1c786e671d1e3f061fbe9881d55600e90d32b7d0cc0ffdfc786f310b5b",
+  "originalInputSha256": "03b7038dfc6449f646e789819014f3a26548a64ef42d028979c00df949c5d49f",
+  "descriptor": "metadata.json",
+  "model": "cliff-corner-inner-large-rock.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0.9999999888241291,1]",
+  "convertedAt": "2026-09-05T10:30:26.679Z"
+}

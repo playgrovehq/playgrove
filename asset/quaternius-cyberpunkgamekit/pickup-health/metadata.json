@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "id": "pickup-health",
+  "label": "Pickup Health",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "pickup",
+    "health",
+    "quaternius",
+    "cyberpunkgamekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#bfff36",
+    "#8b8b8b"
+  ],
+  "colorNames": [
+    "yellow",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "pickup-health.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1192,
+    "triangles": 752,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.120636,
+      -0.120636,
+      -0.120636
+    ],
+    "max": [
+      0.120636,
+      0.120636,
+      0.120636
+    ],
+    "size": [
+      0.241272,
+      0.241272,
+      0.241272
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Pickup_Health"
+  ],
+  "materialNames": [
+    "LightGreen",
+    "LightGrey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1ydF8JxRyum4hBdI7aq4iUim-gM2GYM5m",
+    "file": "Pickups and Objects/Pickup_Health.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

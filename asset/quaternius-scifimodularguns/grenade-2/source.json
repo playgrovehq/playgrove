@@ -1,0 +1,22 @@
+{
+  "id": "grenade-2",
+  "label": "Grenade 2",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1cZsMedv6i6bEObjOrpCmrTPYLosmxFtj",
+  "file": "Guns/glTF/Grenade_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d04f68c677fc4d1560efffbdb90a1d3ceb2b0ba7a4c8301710e6bb8999c3d75d",
+  "originalInputSha256": "d04f68c677fc4d1560efffbdb90a1d3ceb2b0ba7a4c8301710e6bb8999c3d75d",
+  "descriptor": "metadata.json",
+  "model": "grenade-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.8604799509048462,0.6803289949893951,0.18759599328041077]",
+  "convertedAt": "2026-09-05T12:05:31.728Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rocket-sides-a",
+  "label": "rocket sidesA",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/rocket_sidesA.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "717facae4990f4053ec1479ae57773b52432883a2df32427142f9eb8656ab1c4",
+  "originalInputSha256": "1cc151d0abffb106c1761dcf2e9c2bab5a6157bd180ed9e5d80f9ee34a2269f4",
+  "descriptor": "metadata.json",
+  "model": "rocket-sides-a.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1,1,1]",
+  "convertedAt": "2026-09-05T10:30:42.196Z"
+}

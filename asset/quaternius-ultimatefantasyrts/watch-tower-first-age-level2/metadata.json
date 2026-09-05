@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "watch-tower-first-age-level2",
+  "label": "WatchTower FirstAge Level2",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "buildings",
+  "tags": [
+    "watch",
+    "tower",
+    "first",
+    "age",
+    "level2",
+    "quaternius",
+    "ultimatefantasyrts",
+    "buildings",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#886a42",
+    "#a58758",
+    "#b15945"
+  ],
+  "colorNames": [
+    "brown",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "watch-tower-first-age-level2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1382,
+    "triangles": 700,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.236273,
+      0,
+      -0.237007
+    ],
+    "max": [
+      0.268726,
+      1.462548,
+      0.282317
+    ],
+    "size": [
+      0.504999,
+      1.462548,
+      0.519324
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "WatchTower_FirstAge_Level2"
+  ],
+  "materialNames": [
+    "Wood",
+    "Wood_Light",
+    "Main"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=1glwTGpp1tj_LSh8z65J7muGU32aTlyHR",
+    "file": "glTF/WatchTower_FirstAge_Level2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

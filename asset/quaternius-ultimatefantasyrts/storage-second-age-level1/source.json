@@ -1,0 +1,22 @@
+{
+  "id": "storage-second-age-level1",
+  "label": "Storage SecondAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1r7efXAVOyS7-K-lpJ3UFTPFXo2rh9SVn",
+  "file": "glTF/Storage_SecondAge_Level1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3ec0f62960440dfcf7364431e3eaccc752d23fddaa480714f4100ea0b576f195",
+  "originalInputSha256": "3ec0f62960440dfcf7364431e3eaccc752d23fddaa480714f4100ea0b576f195",
+  "descriptor": "metadata.json",
+  "model": "storage-second-age-level1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[1.7231360077857971,0.5015840074047446,1.3796539902687073]",
+  "convertedAt": "2026-09-05T12:03:25.135Z"
+}

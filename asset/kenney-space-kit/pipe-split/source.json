@@ -1,0 +1,23 @@
+{
+  "id": "pipe-split",
+  "label": "pipe split",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/pipe_split.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "a4a2185254d1de43d35811c68782da1b70b242b7a08014201f4f43732a978ab1",
+  "originalInputSha256": "e8a8f5ee14f61407eb874276f077818f706f8eaaafd71f205fb83b1763b73cb3",
+  "descriptor": "metadata.json",
+  "model": "pipe-split.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1,0.6000000238418579,0.8464100360870361]",
+  "convertedAt": "2026-09-05T10:30:41.646Z"
+}

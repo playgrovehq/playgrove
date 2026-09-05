@@ -1,0 +1,22 @@
+{
+  "id": "cube-default",
+  "label": "Cube Default",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1fruErZbLE4enmoC8ZfKjaoyjDG2uyOb0",
+  "file": "Cubes/glTF/Cube_Default.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "93639e17d8479dec27b2091f2e97a67111785217a938022427b624664da4caaf",
+  "originalInputSha256": "93639e17d8479dec27b2091f2e97a67111785217a938022427b624664da4caaf",
+  "descriptor": "metadata.json",
+  "model": "cube-default.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[2.0208120346069336,2.0208120346069336,2.0208120346069336]",
+  "convertedAt": "2026-09-05T11:48:28.295Z"
+}

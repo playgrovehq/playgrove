@@ -1,0 +1,23 @@
+{
+  "id": "funnel",
+  "label": "funnel",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/funnel.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "122c21a2f3de156b0b395b69592a4650f06d721bef610bef4b055442fcfb4ac1",
+  "originalInputSha256": "4c72a30a140c76570bb9367d70c5f2a8c5a3b88bf55d4b983403fef7fca3fe39",
+  "descriptor": "metadata.json",
+  "model": "funnel.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.7000000476837158,0.5,1]",
+  "convertedAt": "2026-09-05T10:30:19.732Z"
+}

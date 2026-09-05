@@ -1,0 +1,23 @@
+{
+  "id": "tree-fat-fall",
+  "label": "tree fat fall",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_fat_fall.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e62df2236fbcd0a7a15644323dfa37413eef0e8fe146d0547f0256c20d6f86cc",
+  "originalInputSha256": "02fffc9b631a5f5834ac39b600d42ace0c9352fdcd3ed31912b0f6e8e685b660",
+  "descriptor": "metadata.json",
+  "model": "tree-fat-fall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7549999952316284,1.1503869779407978,0.6538500189781189]",
+  "convertedAt": "2026-09-05T10:30:32.930Z"
+}

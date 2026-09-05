@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "id": "vehicle-pickup",
+  "label": "Vehicle Pickup",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "vehicle",
+    "pickup",
+    "quaternius",
+    "zombieapocalypsekit",
+    "back",
+    "wheels",
+    "front",
+    "wheel",
+    "r",
+    "l",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#1f1f1f",
+    "#7a7a7a",
+    "#585858",
+    "#4e8aac",
+    "#adadad",
+    "#444444",
+    "#2a2929",
+    "#ffffff"
+  ],
+  "colorNames": [
+    "black",
+    "gray",
+    "brown",
+    "blue",
+    "beige",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "vehicle-pickup.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 6898,
+    "triangles": 6432,
+    "parts": 12,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.156087,
+      -0.005936,
+      -2.487295
+    ],
+    "max": [
+      1.156087,
+      1.84251,
+      2.693086
+    ],
+    "size": [
+      2.312174,
+      1.848446,
+      5.180381
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "BackWheels",
+    "FrontWheel_R",
+    "FrontWheel_L",
+    "Pickup"
+  ],
+  "materialNames": [
+    "Atlas",
+    "BrakeLight",
+    "Headlights"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1j61AAiVS0PbbDE_JCW58rhr43p4sVOLS",
+    "file": "Vehicles/glTF/Vehicle_Pickup.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

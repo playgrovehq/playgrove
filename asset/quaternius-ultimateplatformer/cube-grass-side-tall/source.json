@@ -1,0 +1,22 @@
+{
+  "id": "cube-grass-side-tall",
+  "label": "Cube Grass Side Tall",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Nmv-B4lv5uyNocO3HZHAzDr-I0mH8dcI",
+  "file": "Modular Platforms/3D/glTF/Cube_Grass_Side_Tall.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "79a4d9c2eef61ad087764b5f8936d0f911e24aedf7361f19233a36b2f28a97c0",
+  "originalInputSha256": "79a4d9c2eef61ad087764b5f8936d0f911e24aedf7361f19233a36b2f28a97c0",
+  "descriptor": "metadata.json",
+  "model": "cube-grass-side-tall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2,1.995956003665924,2.1167190074920654]",
+  "convertedAt": "2026-09-05T11:48:29.271Z"
+}

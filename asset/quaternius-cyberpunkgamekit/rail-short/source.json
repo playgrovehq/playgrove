@@ -1,0 +1,22 @@
+{
+  "id": "rail-short",
+  "label": "Rail Short",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1fn5hdMenihsyIpdlvA9cEUHT40owqtUL",
+  "file": "Platforms/Rail_Short.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "15a763211d2079fe5177bb5187831008402169a22720f389ac0fd24351ad6455",
+  "originalInputSha256": "15a763211d2079fe5177bb5187831008402169a22720f389ac0fd24351ad6455",
+  "descriptor": "metadata.json",
+  "model": "rail-short.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.2544840574264526,0.23651400581002235,0.06051900051534176]",
+  "convertedAt": "2026-09-05T12:03:56.036Z"
+}

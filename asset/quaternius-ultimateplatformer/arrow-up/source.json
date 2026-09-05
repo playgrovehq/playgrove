@@ -1,0 +1,22 @@
+{
+  "id": "arrow-up",
+  "label": "Arrow Up",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1B60PWoTynMKwtgiPaFz1-xPa5O6w1C05",
+  "file": "Level and Mechanics/glTF/Arrow_Up.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c59b9286a6f9c36af8a47514783bd33e32ccae5b646f74bd702d5046e842ad32",
+  "originalInputSha256": "c59b9286a6f9c36af8a47514783bd33e32ccae5b646f74bd702d5046e842ad32",
+  "descriptor": "metadata.json",
+  "model": "arrow-up.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.017598032951355,2.7013049125671387,0.36322201043367386]",
+  "convertedAt": "2026-09-05T11:48:28.419Z"
+}

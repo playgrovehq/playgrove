@@ -1,0 +1,22 @@
+{
+  "id": "stock-pistol-3",
+  "label": "Stock Pistol 3",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1G9Qil6fZLWd_LNz6ODZSh15BNew6f0Tb",
+  "file": "Modular Parts/glTF/Stock_Pistol_3.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f40edf2710b6025766b8e30876ce26d893e3fe3111f4c85a5b6fd28e8cad0daa",
+  "originalInputSha256": "f40edf2710b6025766b8e30876ce26d893e3fe3111f4c85a5b6fd28e8cad0daa",
+  "descriptor": "metadata.json",
+  "model": "stock-pistol-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.32475100085139275,0.24725299328565598,0.1140419989824295]",
+  "convertedAt": "2026-09-05T12:05:32.857Z"
+}

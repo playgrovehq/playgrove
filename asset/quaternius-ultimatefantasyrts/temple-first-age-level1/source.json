@@ -1,0 +1,22 @@
+{
+  "id": "temple-first-age-level1",
+  "label": "Temple FirstAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1QB3T-zBkblLovYeAR7uVGxO9lO3-XaiO",
+  "file": "glTF/Temple_FirstAge_Level1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "50f03e30b20e4c67f296bcc4571781f3bc8a247ab57632d19d92c9ec3e2f0662",
+  "originalInputSha256": "50f03e30b20e4c67f296bcc4571781f3bc8a247ab57632d19d92c9ec3e2f0662",
+  "descriptor": "metadata.json",
+  "model": "temple-first-age-level1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.810304045677185,1.812943964265287,1.810304045677185]",
+  "convertedAt": "2026-09-05T12:03:25.206Z"
+}

@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "grand-stand-awning",
+  "label": "grandStandAwning",
+  "description": "Racing Kit by Kenney.",
+  "category": "props",
+  "tags": [
+    "grand",
+    "stand",
+    "awning",
+    "kenney",
+    "racing",
+    "kit",
+    "clone",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#f9f9fb",
+    "#f59c9b",
+    "#8d8d8d"
+  ],
+  "colorNames": [
+    "white",
+    "pink",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "grand-stand-awning.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 382,
+    "triangles": 276,
+    "parts": 3,
+    "discardedDegenerate": 4
+  },
+  "bounds": {
+    "min": [
+      -0.35,
+      -0.01,
+      -1.65
+    ],
+    "max": [
+      0.65,
+      1.375111,
+      -0.65
+    ],
+    "size": [
+      1,
+      1.385111,
+      1
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "grandStandAwning(Clone)"
+  ],
+  "materialNames": [
+    "grey",
+    "red",
+    "road"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/racing-kit",
+    "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+    "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+    "file": "Models/GLTF format/grandStandAwning.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

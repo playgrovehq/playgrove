@@ -1,0 +1,22 @@
+{
+  "id": "door",
+  "label": "Door",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1b9U2Gvo-mxwa4JuwqmDYFMp8InnZEhhB",
+  "file": "Level and Mechanics/glTF/Door.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "88c1dcaebf94991e683f7e386e657a7bdb56ca05f1e29deddc56a43ac6ab5cdb",
+  "originalInputSha256": "88c1dcaebf94991e683f7e386e657a7bdb56ca05f1e29deddc56a43ac6ab5cdb",
+  "descriptor": "metadata.json",
+  "model": "door.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[3.7104179859161377,4.2424281891435385,1.326885998249054]",
+  "convertedAt": "2026-09-05T11:48:28.556Z"
+}

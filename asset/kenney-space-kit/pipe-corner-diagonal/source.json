@@ -1,0 +1,23 @@
+{
+  "id": "pipe-corner-diagonal",
+  "label": "pipe cornerDiagonal",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/pipe_cornerDiagonal.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e37cce00a19f1dfdf9a68e872000097c1ef1ba89fa07a3a994f6c6e2e975f126",
+  "originalInputSha256": "1d4918d019dc182127e7c84042ea403b4aa79779b70bc0327a6aeb005af0ad09",
+  "descriptor": "metadata.json",
+  "model": "pipe-corner-diagonal.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.8464100360870361,0.6000000238418579,0.8464100360870361]",
+  "convertedAt": "2026-09-05T10:30:41.429Z"
+}

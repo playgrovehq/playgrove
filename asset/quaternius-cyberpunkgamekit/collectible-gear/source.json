@@ -1,0 +1,22 @@
+{
+  "id": "collectible-gear",
+  "label": "Collectible Gear",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1-D-6gopuWex69-rcgWyxYb7Oiac_h2sF",
+  "file": "Pickups and Objects/Collectible_Gear.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "14e6f8e48194326bfcfed3b09a84510d31e3aaae03993ac56e7e176dbd3609c8",
+  "originalInputSha256": "14e6f8e48194326bfcfed3b09a84510d31e3aaae03993ac56e7e176dbd3609c8",
+  "descriptor": "metadata.json",
+  "model": "collectible-gear.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.35109999775886536,0.3966920077800751,0.3182080090045929]",
+  "convertedAt": "2026-09-05T12:03:55.648Z"
+}

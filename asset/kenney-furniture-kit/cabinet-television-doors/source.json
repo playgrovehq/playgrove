@@ -1,0 +1,23 @@
+{
+  "id": "cabinet-television-doors",
+  "label": "cabinetTelevisionDoors",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/cabinetTelevisionDoors.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1d34bf0b26acf427bd4017e0b54245cfc4823ee656ab221c492fd70ba696772d",
+  "originalInputSha256": "8959347bfe26b1ac7e44c476f05789466bb84bcd2ad8b0fb40286005399bfcfc",
+  "descriptor": "metadata.json",
+  "model": "cabinet-television-doors.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[0.800000011920929,0.3100000023841858,0.2599999997764826]",
+  "convertedAt": "2026-09-05T10:30:14.282Z"
+}

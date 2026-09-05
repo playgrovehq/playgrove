@@ -1,0 +1,22 @@
+{
+  "id": "wheels-stack",
+  "label": "Wheels Stack",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1Oa4cOiUt9PpNeLi5xFhHhwnAix3bor-w",
+  "file": "Environment/glTF/Wheels_Stack.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3297d1566d40a6d2d0d8cb765ec83050633a535b13a2181c067999f6e989b466",
+  "originalInputSha256": "3297d1566d40a6d2d0d8cb765ec83050633a535b13a2181c067999f6e989b466",
+  "descriptor": "metadata.json",
+  "model": "wheels-stack.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.6575689911842346,0.6113769875297521,0.5718690156936646]",
+  "convertedAt": "2026-09-05T11:49:50.129Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "turret-cannon",
+  "label": "Turret Cannon",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1G43vBl-E89ECP7h-pcPCIdcMFMsGpRVN",
+  "file": "Enemies/Turret_Cannon.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9b880be1af7451aececbd2da5b09935dba5cf41051a5cb68f96a69c3f1bcf08b",
+  "originalInputSha256": "9b880be1af7451aececbd2da5b09935dba5cf41051a5cb68f96a69c3f1bcf08b",
+  "descriptor": "metadata.json",
+  "model": "turret-cannon.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[1.1583579778671265,0.6471940204501152,1.114527940750122]",
+  "convertedAt": "2026-09-05T12:03:55.561Z"
+}

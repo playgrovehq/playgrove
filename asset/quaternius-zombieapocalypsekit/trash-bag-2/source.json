@@ -1,0 +1,22 @@
+{
+  "id": "trash-bag-2",
+  "label": "TrashBag 2",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1A4AfNM4-4XtSLkLr-_SC40fThLguleNb",
+  "file": "Environment/glTF/TrashBag_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f8528a64a50b52632ab47e2a00ab34a6ac8d942fbcbbd102b1593e2d6488fb7d",
+  "originalInputSha256": "f8528a64a50b52632ab47e2a00ab34a6ac8d942fbcbbd102b1593e2d6488fb7d",
+  "descriptor": "metadata.json",
+  "model": "trash-bag-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.9060910046100616,0.5300149954855442,0.5243170112371445]",
+  "convertedAt": "2026-09-05T11:49:50.078Z"
+}

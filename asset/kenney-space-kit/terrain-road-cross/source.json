@@ -1,0 +1,23 @@
+{
+  "id": "terrain-road-cross",
+  "label": "terrain roadCross",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/terrain_roadCross.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d3020931cadd747d9583b2feb48ad77cfa1aff25ae665749f4e619d39cc272b8",
+  "originalInputSha256": "e021f216f0dc9171dc04b1ac0fa671526074d977eb746017d812bf0538f75bc9",
+  "descriptor": "metadata.json",
+  "model": "terrain-road-cross.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0,1]",
+  "convertedAt": "2026-09-05T10:30:42.595Z"
+}

@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "antenna-2",
+  "label": "Antenna 2",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "antenna",
+    "quaternius",
+    "cyberpunkgamekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#747474",
+    "#8b8b8b",
+    "#494949"
+  ],
+  "colorNames": [
+    "gray",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "antenna-2.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 380,
+    "triangles": 412,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.484465,
+      -0.357522,
+      -0.300444
+    ],
+    "max": [
+      0.132931,
+      0.373092,
+      0.356226
+    ],
+    "size": [
+      0.617396,
+      0.730614,
+      0.65667
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Antenna_2"
+  ],
+  "materialNames": [
+    "Grey",
+    "LightGrey",
+    "DarkGrey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1BSBjqi4yRPrPeIG1iJ6gRizillq1BqG8",
+    "file": "Platforms/Antenna_2.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

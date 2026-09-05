@@ -1,0 +1,23 @@
+{
+  "id": "bend-solid-large",
+  "label": "bend-solid-large",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/bend-solid-large.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b47ae2fea076d35ad7bdd204ea16cbeb275b9eb43886600462bf0cefe63adb71",
+  "originalInputSha256": "1f4a9748fef2077b292e1302e5aef60b673528be042d5925629d1d7c813c58a3",
+  "descriptor": "metadata.json",
+  "model": "bend-solid-large.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[3,0.5,6]",
+  "convertedAt": "2026-09-05T10:30:18.706Z"
+}

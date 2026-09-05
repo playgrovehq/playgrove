@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "bush-fruit",
+  "label": "Bush Fruit",
+  "description": "Platformer Game Kit by Quaternius.",
+  "category": "vegetation",
+  "tags": [
+    "bush",
+    "fruit",
+    "quaternius",
+    "ultimateplatformer",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#4c6d47",
+    "#8f413f"
+  ],
+  "colorNames": [
+    "green",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "bush-fruit.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1145,
+    "triangles": 1680,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.761929,
+      0.028229,
+      -1.764377
+    ],
+    "max": [
+      1.761929,
+      2.262929,
+      1.764377
+    ],
+    "size": [
+      3.523858,
+      2.2347,
+      3.528754
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Bush_Fruit"
+  ],
+  "materialNames": [
+    "Green",
+    "Red"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1xLimK8fSeTVyeuHSs8DcPagD11FkGwQa",
+    "file": "Nature/glTF/Bush_Fruit.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

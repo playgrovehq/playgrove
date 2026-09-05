@@ -1,0 +1,23 @@
+{
+  "id": "road-curb-end",
+  "label": "road-curb-end",
+  "description": "Fantasy Town Kit by Kenney.",
+  "pack": "kenney-fantasy-town-kit",
+  "listing": "https://kenney.nl/assets/fantasy-town-kit",
+  "download": "https://kenney.nl/media/pages/assets/fantasy-town-kit/efe948d309-1754222374/kenney_fantasy-town-kit_2.0.zip",
+  "archiveSha256": "1a7530c09f4d2fa2cdee259876f089334f8b1f27fa86a0c4f54ef86cdd8676ef",
+  "file": "Models/GLB format/road-curb-end.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4392cf47f6a3b9f9ccfdefde1b196bf2a4ccd00787bb6588d7a78a9caeb15c1a",
+  "originalInputSha256": "d3381ca4cae823dfa3f5f361810b6259197486e73c083793ac62ca312f182f6e",
+  "descriptor": "metadata.json",
+  "model": "road-curb-end.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.05000000074505806,1]",
+  "convertedAt": "2026-09-05T10:30:11.240Z"
+}

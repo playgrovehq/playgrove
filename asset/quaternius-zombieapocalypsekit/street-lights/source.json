@@ -1,0 +1,22 @@
+{
+  "id": "street-lights",
+  "label": "StreetLights",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1kIQHIMErEozis98TX8Dyca3uWXOKtfkq",
+  "file": "Environment/glTF/StreetLights.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4f06086fe830d2b8be3f1181befae27d4859b4a815aa82c7b561bf0d4c0ba41c",
+  "originalInputSha256": "4f06086fe830d2b8be3f1181befae27d4859b4a815aa82c7b561bf0d4c0ba41c",
+  "descriptor": "metadata.json",
+  "model": "street-lights.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.3642890006303787,6.642798176966608,2.925286963582039]",
+  "convertedAt": "2026-09-05T11:49:49.562Z"
+}

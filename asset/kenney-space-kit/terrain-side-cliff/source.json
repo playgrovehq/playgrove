@@ -1,0 +1,23 @@
+{
+  "id": "terrain-side-cliff",
+  "label": "terrain sideCliff",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/terrain_sideCliff.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "bc5f14ef61ceb00013cfd9e9f3b355ed07a24c0c4f02fa4b503099aba45115da",
+  "originalInputSha256": "888d6845cfcd6d21a08cca29f15185d0ed478c003746f0f46e2526bb0f8b0298",
+  "descriptor": "metadata.json",
+  "model": "terrain-side-cliff.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.5,1]",
+  "convertedAt": "2026-09-05T10:30:42.679Z"
+}

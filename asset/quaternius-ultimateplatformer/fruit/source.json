@@ -1,0 +1,22 @@
+{
+  "id": "fruit",
+  "label": "Fruit",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=14HwzOjkKIew314t94hEiA08tGt8KtZXn",
+  "file": "Nature/glTF/Fruit.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d70e8f3b268c5c033a40646da3a8b4cb1eca17e431deeaa4f56a6d6f19834fcd",
+  "originalInputSha256": "d70e8f3b268c5c033a40646da3a8b4cb1eca17e431deeaa4f56a6d6f19834fcd",
+  "descriptor": "metadata.json",
+  "model": "fruit.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.8773320317268372,0.823058009147644,0.6887480020523071]",
+  "convertedAt": "2026-09-05T11:48:29.541Z"
+}

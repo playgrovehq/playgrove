@@ -1,0 +1,22 @@
+{
+  "id": "traffic-cone-2",
+  "label": "TrafficCone 2",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1MUg2w1zfjk015CRtyV-oM9vMSCD6x6lj",
+  "file": "Environment/glTF/TrafficCone_2.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "caf090381f61d0954b88ddd531bd65e77c8f0d4ae9a897e90b4a6647fed1d017",
+  "originalInputSha256": "caf090381f61d0954b88ddd531bd65e77c8f0d4ae9a897e90b4a6647fed1d017",
+  "descriptor": "metadata.json",
+  "model": "traffic-cone-2.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.5954040288925171,0.735591989941895,0.5954040288925171]",
+  "convertedAt": "2026-09-05T11:49:50.001Z"
+}

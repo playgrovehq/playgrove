@@ -1,0 +1,4054 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T11:49:50.586Z",
+  "assets": [
+    {
+      "id": "axe",
+      "label": "Axe",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "axe/thumbnail.png",
+      "model": "axe/axe.ts",
+      "package": "axe",
+      "descriptor": "axe/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1COcFTVL5-gUNVpuPXK8k8TWYJEyl27uU",
+        "file": "Weapons/glTF/Axe.gltf"
+      },
+      "category": "equipment",
+      "tags": [
+        "axe",
+        "quaternius",
+        "zombieapocalypsekit",
+        "equipment",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#632125",
+        "#8b8786",
+        "#ada8a6",
+        "#5c5c5c",
+        "#8b755e"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 934,
+        "triangles": 790,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.045784,
+          -0.043764,
+          -0.26311
+        ],
+        "max": [
+          0.254807,
+          0.043764,
+          1.036759
+        ],
+        "size": [
+          0.300591,
+          0.087528,
+          1.299869
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "barrel",
+      "label": "Barrel",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "barrel/thumbnail.png",
+      "model": "barrel/barrel.ts",
+      "package": "barrel",
+      "descriptor": "barrel/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=114k_vH2gWjaumPc39bKfGRdRvkB8Ym4Q",
+        "file": "Environment/glTF/Barrel.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "barrel",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5a4b3e",
+        "#284a63"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 945,
+        "triangles": 882,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.352059,
+          0.001745,
+          -0.352059
+        ],
+        "max": [
+          0.352059,
+          1.146653,
+          0.352059
+        ],
+        "size": [
+          0.704118,
+          1.144908,
+          0.704118
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "blood-1",
+      "label": "Blood 1",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "blood-1/thumbnail.png",
+      "model": "blood-1/blood-1.ts",
+      "package": "blood-1",
+      "descriptor": "blood-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1L9KwqxFsYALEIBERZZEUUe4sBbEfhSX5",
+        "file": "Environment/glTF/Blood_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "blood",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#632125"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 96,
+        "triangles": 130,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.621987,
+          0.007244,
+          -1.818031
+        ],
+        "max": [
+          1.791829,
+          0.007245,
+          1.743875
+        ],
+        "size": [
+          3.413816,
+          0.000001,
+          3.561906
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "blood-2",
+      "label": "Blood 2",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "blood-2/thumbnail.png",
+      "model": "blood-2/blood-2.ts",
+      "package": "blood-2",
+      "descriptor": "blood-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1cBlF5LcdjTxUHtyeRF-dwoDVkO9q6pi8",
+        "file": "Environment/glTF/Blood_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "blood",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#632125"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 63,
+        "triangles": 74,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.856161,
+          0.006708,
+          -0.818036
+        ],
+        "max": [
+          0.856635,
+          0.006708,
+          0.500642
+        ],
+        "size": [
+          1.712796,
+          0,
+          1.318678
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "blood-3",
+      "label": "Blood 3",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "blood-3/thumbnail.png",
+      "model": "blood-3/blood-3.ts",
+      "package": "blood-3",
+      "descriptor": "blood-3/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1OyqR6KKwUgzgt5TxMojRkdEWJNZ_ZXc6",
+        "file": "Environment/glTF/Blood_3.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "blood",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#632125"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 68,
+        "triangles": 82,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.879904,
+          0.006708,
+          -0.918402
+        ],
+        "max": [
+          0.838839,
+          0.006708,
+          1.22381
+        ],
+        "size": [
+          1.718743,
+          0,
+          2.142212
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "chest",
+      "label": "Chest",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "chest/thumbnail.png",
+      "model": "chest/chest.ts",
+      "package": "chest",
+      "descriptor": "chest/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1yEC_pV6-U8Tt56fwhXgfuN2iRYwQoA_M",
+        "file": "Environment/glTF/Chest.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "chest",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#506329",
+        "#5a4b3e",
+        "#5c5c5c",
+        "#8b8786"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3858,
+        "triangles": 3188,
+        "parts": 4,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -0.319809,
+          0.003198,
+          -0.241475
+        ],
+        "max": [
+          0.319809,
+          0.409368,
+          0.241475
+        ],
+        "size": [
+          0.639618,
+          0.40617,
+          0.48295
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "chest-special",
+      "label": "Chest Special",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "chest-special/thumbnail.png",
+      "model": "chest-special/chest-special.ts",
+      "package": "chest-special",
+      "descriptor": "chest-special/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1uDqLcg1JP3FHWM3IIpF4DYDnxZInCIeD",
+        "file": "Environment/glTF/Chest_Special.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "chest",
+        "special",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#632125",
+        "#5a4b3e",
+        "#5c5c5c",
+        "#8b8786"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 4167,
+        "triangles": 3419,
+        "parts": 4,
+        "discardedDegenerate": 3
+      },
+      "bounds": {
+        "min": [
+          -0.426196,
+          0.003198,
+          -0.241475
+        ],
+        "max": [
+          0.426196,
+          0.409368,
+          0.241475
+        ],
+        "size": [
+          0.852392,
+          0.40617,
+          0.48295
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "cinder-block",
+      "label": "CinderBlock",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "cinder-block/thumbnail.png",
+      "model": "cinder-block/cinder-block.ts",
+      "package": "cinder-block",
+      "descriptor": "cinder-block/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1bmCa_mWLpiJHr2fH8CxjxQXdCsUIM3oA",
+        "file": "Environment/glTF/CinderBlock.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "cinder",
+        "block",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8786"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 350,
+        "triangles": 368,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.235777,
+          0.003252,
+          -0.107263
+        ],
+        "max": [
+          0.235777,
+          0.230631,
+          0.107263
+        ],
+        "size": [
+          0.471554,
+          0.227379,
+          0.214526
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "container-green",
+      "label": "Container Green",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "container-green/thumbnail.png",
+      "model": "container-green/container-green.ts",
+      "package": "container-green",
+      "descriptor": "container-green/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1lX57FkFymKSZRjOhwrbOP7CjvQVaFdQM",
+        "file": "Environment/glTF/Container_Green.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "container",
+        "green",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#506329"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2046,
+        "triangles": 1336,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.854266,
+          0.037554,
+          -1.280303
+        ],
+        "max": [
+          2.854266,
+          2.641014,
+          1.280303
+        ],
+        "size": [
+          5.708532,
+          2.60346,
+          2.560606
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "container-red",
+      "label": "Container Red",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "container-red/thumbnail.png",
+      "model": "container-red/container-red.ts",
+      "package": "container-red",
+      "descriptor": "container-red/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=10SC_m23U-_UGPRlUdQwW1iqi0-QAtpzq",
+        "file": "Environment/glTF/Container_Red.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "container",
+        "red",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#992327",
+        "#632125"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1737,
+        "triangles": 1032,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -2.830138,
+          -0.009438,
+          -1.273161
+        ],
+        "max": [
+          2.877855,
+          2.594023,
+          1.286245
+        ],
+        "size": [
+          5.707993,
+          2.603461,
+          2.559406
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "couch",
+      "label": "Couch",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "couch/thumbnail.png",
+      "model": "couch/couch.ts",
+      "package": "couch",
+      "descriptor": "couch/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1rgX-QENR7yW1WsXK0xvxem_odfaefLEk",
+        "file": "Environment/glTF/Couch.gltf"
+      },
+      "category": "furniture",
+      "tags": [
+        "couch",
+        "quaternius",
+        "zombieapocalypsekit",
+        "furniture",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8786",
+        "#9e731d",
+        "#42342a"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2979,
+        "triangles": 3078,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.506592,
+          0.003247,
+          -0.772195
+        ],
+        "max": [
+          1.506586,
+          1.247296,
+          0.441394
+        ],
+        "size": [
+          3.013178,
+          1.244049,
+          1.213589
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "fire-hydrant",
+      "label": "FireHydrant",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "fire-hydrant/thumbnail.png",
+      "model": "fire-hydrant/fire-hydrant.ts",
+      "package": "fire-hydrant",
+      "descriptor": "fire-hydrant/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=12eTSrvHAa4D5Sr-_oFnMEHWYY65jwDGo",
+        "file": "Environment/glTF/FireHydrant.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "fire",
+        "hydrant",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#992327"
+      ],
+      "colorNames": [
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 969,
+        "triangles": 976,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.257549,
+          0.001021,
+          -0.18258
+        ],
+        "max": [
+          0.257549,
+          0.77338,
+          0.216583
+        ],
+        "size": [
+          0.515098,
+          0.772359,
+          0.399163
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "guitar",
+      "label": "Guitar",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "guitar/thumbnail.png",
+      "model": "guitar/guitar.ts",
+      "package": "guitar",
+      "descriptor": "guitar/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=19oLSlbEvCdnM55_CWSnHhnyJPti1Hxm-",
+        "file": "Weapons/glTF/Guitar.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "guitar",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#2a2929",
+        "#ada8a6",
+        "#8b755e",
+        "#8b8786",
+        "#9e731d",
+        "#42342a",
+        "#a28222",
+        "#284a63"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "beige",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3416,
+        "triangles": 2325,
+        "parts": 9,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.312634,
+          -0.050391,
+          -0.360718
+        ],
+        "max": [
+          0.408264,
+          0.07872,
+          1.436339
+        ],
+        "size": [
+          0.720898,
+          0.129111,
+          1.797057
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "knife",
+      "label": "Knife",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "knife/thumbnail.png",
+      "model": "knife/knife.ts",
+      "package": "knife",
+      "descriptor": "knife/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1G_9EWn75vFM8DEjmwAbtcZ79i3LKKJrF",
+        "file": "Weapons/glTF/Knife.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "knife",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#2a2929",
+        "#8b755e",
+        "#ada8a6"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "gray",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 925,
+        "triangles": 860,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.074783,
+          -0.039391,
+          -0.137417
+        ],
+        "max": [
+          0.075787,
+          0.039391,
+          0.683631
+        ],
+        "size": [
+          0.15057,
+          0.078782,
+          0.821048
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pallet",
+      "label": "Pallet",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "pallet/thumbnail.png",
+      "model": "pallet/pallet.ts",
+      "package": "pallet",
+      "descriptor": "pallet/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1qI0DJkGfnOG85-7W1uE1ceZni1A4JKBS",
+        "file": "Environment/glTF/Pallet.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pallet",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b89651"
+      ],
+      "colorNames": [
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 480,
+        "triangles": 240,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.436463,
+          0.002262,
+          -0.608482
+        ],
+        "max": [
+          0.456072,
+          0.142309,
+          0.608482
+        ],
+        "size": [
+          0.892535,
+          0.140047,
+          1.216964
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pallet-broken",
+      "label": "Pallet Broken",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "pallet-broken/thumbnail.png",
+      "model": "pallet-broken/pallet-broken.ts",
+      "package": "pallet-broken",
+      "descriptor": "pallet-broken/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hZFumQsNw-1cjYBpUPS-PsdSLRwEktq-",
+        "file": "Environment/glTF/Pallet_Broken.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pallet",
+        "broken",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#b89651"
+      ],
+      "colorNames": [
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 432,
+        "triangles": 216,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.461226,
+          0.00043,
+          -0.610086
+        ],
+        "max": [
+          0.456072,
+          0.164364,
+          0.612027
+        ],
+        "size": [
+          0.917298,
+          0.163934,
+          1.222113
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pipes",
+      "label": "Pipes",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "pipes/thumbnail.png",
+      "model": "pipes/pipes.ts",
+      "package": "pipes",
+      "descriptor": "pipes/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hxT5Xnm77y6gXOKwriNSXonaxf4W-wdY",
+        "file": "Environment/glTF/Pipes.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pipes",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8569",
+        "#5c5c5c",
+        "#caa507"
+      ],
+      "colorNames": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1316,
+        "triangles": 1496,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.37412,
+          0.004825,
+          -1.67767
+        ],
+        "max": [
+          0.374066,
+          0.676173,
+          1.67767
+        ],
+        "size": [
+          0.748186,
+          0.671348,
+          3.35534
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "pistol",
+      "label": "Pistol",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "pistol/thumbnail.png",
+      "model": "pistol/pistol.ts",
+      "package": "pistol",
+      "descriptor": "pistol/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Fwuz1p1hreHAe8y8w99G1fJz5AefWLOR",
+        "file": "Weapons/glTF/Pistol.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "pistol",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#5a4b3e",
+        "#ada8a6",
+        "#8b755e",
+        "#8b8786",
+        "#9e731d",
+        "#4c3a21",
+        "#284a63",
+        "#a28222"
+      ],
+      "colorNames": [
+        "brown",
+        "beige",
+        "gray",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1662,
+        "triangles": 1446,
+        "parts": 9,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.053418,
+          -0.113882,
+          -0.096071
+        ],
+        "max": [
+          0.087806,
+          0.225862,
+          0.880336
+        ],
+        "size": [
+          0.141224,
+          0.339744,
+          0.976407
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "plastic-barrier",
+      "label": "PlasticBarrier",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "plastic-barrier/thumbnail.png",
+      "model": "plastic-barrier/plastic-barrier.ts",
+      "package": "plastic-barrier",
+      "descriptor": "plastic-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=19Qff0L9UtY_pumPT1jdbfFYLMRMWl9X7",
+        "file": "Environment/glTF/PlasticBarrier.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "plastic",
+        "barrier",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#caa507",
+        "#aa8736"
+      ],
+      "colorNames": [
+        "orange",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1017,
+        "triangles": 852,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.517671,
+          0,
+          -0.166946
+        ],
+        "max": [
+          0.517671,
+          0.599547,
+          0.166946
+        ],
+        "size": [
+          1.035342,
+          0.599547,
+          0.333892
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "rifle",
+      "label": "Rifle",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "rifle/thumbnail.png",
+      "model": "rifle/rifle.ts",
+      "package": "rifle",
+      "descriptor": "rifle/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1UDLXhSl5RY3f-SvuRrsH8RxdpQcC_6Ig",
+        "file": "Weapons/glTF/Rifle.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "rifle",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#5a4b3e",
+        "#8b8786",
+        "#8b755e",
+        "#9e731d",
+        "#632125",
+        "#ada8a6",
+        "#4c3a21"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "beige",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2706,
+        "triangles": 2103,
+        "parts": 8,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.057188,
+          -0.196759,
+          -0.616997
+        ],
+        "max": [
+          0.057188,
+          0.321328,
+          1.019337
+        ],
+        "size": [
+          0.114376,
+          0.518087,
+          1.636334
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "shotgun",
+      "label": "Shotgun",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "shotgun/thumbnail.png",
+      "model": "shotgun/shotgun.ts",
+      "package": "shotgun",
+      "descriptor": "shotgun/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1eMnIgvbLG6CFCuzYxjwFhWt2J72oc3a_",
+        "file": "Weapons/glTF/Shotgun.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "shotgun",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#42342a",
+        "#8b8786",
+        "#284a63",
+        "#4c3a21",
+        "#5a4b3e",
+        "#5c5c5c",
+        "#8b755e"
+      ],
+      "colorNames": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1847,
+        "triangles": 1542,
+        "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.048589,
+          -0.116894,
+          -0.145505
+        ],
+        "max": [
+          0.046579,
+          0.221339,
+          0.967431
+        ],
+        "size": [
+          0.095168,
+          0.338233,
+          1.112936
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "smg",
+      "label": "SMG",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "smg/thumbnail.png",
+      "model": "smg/smg.ts",
+      "package": "smg",
+      "descriptor": "smg/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1SiFuiHneAJQeI01z7J-c22MGEZuKM-1x",
+        "file": "Weapons/glTF/SMG.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "smg",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#5a4b3e",
+        "#8b8786",
+        "#8b755e",
+        "#632125",
+        "#ada8a6"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3431,
+        "triangles": 2496,
+        "parts": 6,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.07533,
+          -0.196683,
+          -0.20039
+        ],
+        "max": [
+          0.075331,
+          0.275187,
+          0.793589
+        ],
+        "size": [
+          0.150661,
+          0.47187,
+          0.993979
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "spear",
+      "label": "Spear",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "spear/thumbnail.png",
+      "model": "spear/spear.ts",
+      "package": "spear",
+      "descriptor": "spear/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1WB9kPTTGATlx5BSLsBPPmXlY5N7GSzFJ",
+        "file": "Weapons/glTF/Spear.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "spear",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#2a2929",
+        "#8b755e",
+        "#ada8a6",
+        "#8b8786",
+        "#9e731d",
+        "#b89651",
+        "#632125"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "gray",
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 3889,
+        "triangles": 3200,
+        "parts": 8,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.058798,
+          -0.045867,
+          -0.324285
+        ],
+        "max": [
+          0.077825,
+          0.108117,
+          1.686991
+        ],
+        "size": [
+          0.136623,
+          0.153984,
+          2.011276
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-4-way",
+      "label": "Street 4Way",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "street-4-way/thumbnail.png",
+      "model": "street-4-way/street-4-way.ts",
+      "package": "street-4-way",
+      "descriptor": "street-4-way/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=15tKWp9VbIzN8I8LdT82RlwXAUBX2ZFYJ",
+        "file": "Environment/glTF/Street_4Way.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "way",
+        "4way",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#3f3d3c",
+        "#cbc3bd",
+        "#3d3b3b"
+      ],
+      "colorNames": [
+        "black",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 283,
+        "triangles": 188,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4,
+          0,
+          -4
+        ],
+        "max": [
+          4,
+          0.1,
+          4
+        ],
+        "size": [
+          8,
+          0.1,
+          8
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-lights",
+      "label": "StreetLights",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "street-lights/thumbnail.png",
+      "model": "street-lights/street-lights.ts",
+      "package": "street-lights",
+      "descriptor": "street-lights/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1kIQHIMErEozis98TX8Dyca3uWXOKtfkq",
+        "file": "Environment/glTF/StreetLights.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "lights",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8786",
+        "#ffffff"
+      ],
+      "colorNames": [
+        "gray",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 327,
+        "triangles": 426,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.182144,
+          -0.014683,
+          -0.170078
+        ],
+        "max": [
+          0.182145,
+          6.628115,
+          2.755209
+        ],
+        "size": [
+          0.364289,
+          6.642798,
+          2.925287
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-straight",
+      "label": "Street Straight",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "street-straight/thumbnail.png",
+      "model": "street-straight/street-straight.ts",
+      "package": "street-straight",
+      "descriptor": "street-straight/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1JG6qd8v5cA2UXvwuusZcCGGXwtymGFa6",
+        "file": "Environment/glTF/Street_Straight.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "straight",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#3f3d3c",
+        "#cbc3bd",
+        "#3d3b3b"
+      ],
+      "colorNames": [
+        "black",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 273,
+        "triangles": 228,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4,
+          0,
+          -4
+        ],
+        "max": [
+          4,
+          0.12,
+          4
+        ],
+        "size": [
+          8,
+          0.12,
+          8
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-straight-crack1",
+      "label": "Street Straight Crack1",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "street-straight-crack1/thumbnail.png",
+      "model": "street-straight-crack1/street-straight-crack1.ts",
+      "package": "street-straight-crack1",
+      "descriptor": "street-straight-crack1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1gOXFpYt2Nzw5KLIe6xE32p1hqgA5ohQF",
+        "file": "Environment/glTF/Street_Straight_Crack1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "straight",
+        "crack1",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#3f3d3c",
+        "#cbc3bd",
+        "#3d3b3b",
+        "#8b8569",
+        "#9e731d"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 594,
+        "triangles": 576,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4,
+          -0.165167,
+          -4
+        ],
+        "max": [
+          4,
+          0.12,
+          4
+        ],
+        "size": [
+          8,
+          0.285167,
+          8
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-straight-crack2",
+      "label": "Street Straight Crack2",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "street-straight-crack2/thumbnail.png",
+      "model": "street-straight-crack2/street-straight-crack2.ts",
+      "package": "street-straight-crack2",
+      "descriptor": "street-straight-crack2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1NV8aaJjQj2U8anVd7JxaOotQGourae55",
+        "file": "Environment/glTF/Street_Straight_Crack2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "straight",
+        "crack2",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#3f3d3c",
+        "#cbc3bd",
+        "#3d3b3b",
+        "#8b8569",
+        "#9e731d"
+      ],
+      "colorNames": [
+        "black",
+        "beige",
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 775,
+        "triangles": 676,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4,
+          -0.238079,
+          -4
+        ],
+        "max": [
+          3.999999,
+          0.342153,
+          4
+        ],
+        "size": [
+          7.999999,
+          0.580232,
+          8
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-t",
+      "label": "Street T",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "street-t/thumbnail.png",
+      "model": "street-t/street-t.ts",
+      "package": "street-t",
+      "descriptor": "street-t/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1DGdE003l1PjpG3HcwNIEDIsnAOcL0vnL",
+        "file": "Environment/glTF/Street_T.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "t",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#3f3d3c",
+        "#cbc3bd",
+        "#3d3b3b"
+      ],
+      "colorNames": [
+        "black",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 250,
+        "triangles": 180,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4,
+          0,
+          -4
+        ],
+        "max": [
+          4,
+          0.1,
+          4
+        ],
+        "size": [
+          8,
+          0.1,
+          8
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "street-turn",
+      "label": "Street Turn",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "street-turn/thumbnail.png",
+      "model": "street-turn/street-turn.ts",
+      "package": "street-turn",
+      "descriptor": "street-turn/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1cWtxIV6aGeIeYcnJQY_b8teW5L_Gzvqc",
+        "file": "Environment/glTF/Street_Turn.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "street",
+        "turn",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#cbc3bd",
+        "#3d3b3b",
+        "#3f3d3c"
+      ],
+      "colorNames": [
+        "beige",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 292,
+        "triangles": 220,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -4.000001,
+          0,
+          -4
+        ],
+        "max": [
+          4,
+          0.12,
+          4.000001
+        ],
+        "size": [
+          8.000001,
+          0.12,
+          8.000001
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "town-sign",
+      "label": "TownSign",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "town-sign/thumbnail.png",
+      "model": "town-sign/town-sign.ts",
+      "package": "town-sign",
+      "descriptor": "town-sign/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1RardVh99rHg6BUVCokWSzyin66nFCgHZ",
+        "file": "Environment/glTF/TownSign.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "town",
+        "sign",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8786",
+        "#297c66",
+        "#cbc3bd"
+      ],
+      "colorNames": [
+        "gray",
+        "green",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1623,
+        "triangles": 1397,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -5.525869,
+          -0.022247,
+          -0.867601
+        ],
+        "max": [
+          0.458901,
+          5.329432,
+          0.867601
+        ],
+        "size": [
+          5.98477,
+          5.351679,
+          1.735202
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "traffic-barrier-1",
+      "label": "TrafficBarrier 1",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "traffic-barrier-1/thumbnail.png",
+      "model": "traffic-barrier-1/traffic-barrier-1.ts",
+      "package": "traffic-barrier-1",
+      "descriptor": "traffic-barrier-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1AtADK-CW_7EfMiBeMGL95Iu4FnolBCBq",
+        "file": "Environment/glTF/TrafficBarrier_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "traffic",
+        "barrier",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8786",
+        "#cbc3bd",
+        "#9e4408"
+      ],
+      "colorNames": [
+        "gray",
+        "beige",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 976,
+        "triangles": 732,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.777665,
+          0.006498,
+          -0.440311
+        ],
+        "max": [
+          0.777665,
+          1.118482,
+          0.440311
+        ],
+        "size": [
+          1.55533,
+          1.111984,
+          0.880622
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "traffic-barrier-2",
+      "label": "TrafficBarrier 2",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "traffic-barrier-2/thumbnail.png",
+      "model": "traffic-barrier-2/traffic-barrier-2.ts",
+      "package": "traffic-barrier-2",
+      "descriptor": "traffic-barrier-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1bnXoYPgYw6eX8pyN0G5B1BMiNy17P8MW",
+        "file": "Environment/glTF/TrafficBarrier_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "traffic",
+        "barrier",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8786",
+        "#cbc3bd",
+        "#9e4408"
+      ],
+      "colorNames": [
+        "gray",
+        "beige",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 480,
+        "triangles": 364,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.777665,
+          0.002889,
+          -0.390052
+        ],
+        "max": [
+          0.777665,
+          0.805212,
+          0.390052
+        ],
+        "size": [
+          1.55533,
+          0.802323,
+          0.780104
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "traffic-cone-1",
+      "label": "TrafficCone 1",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "traffic-cone-1/thumbnail.png",
+      "model": "traffic-cone-1/traffic-cone-1.ts",
+      "package": "traffic-cone-1",
+      "descriptor": "traffic-cone-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1_WR8Kywq-OWR-MZUt-gHM-raRSRRXYHn",
+        "file": "Environment/glTF/TrafficCone_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "traffic",
+        "cone",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#9e4408",
+        "#cbc3bd"
+      ],
+      "colorNames": [
+        "brown",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 144,
+        "triangles": 134,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.260813,
+          -0.016543,
+          -0.260813
+        ],
+        "max": [
+          0.260813,
+          0.656733,
+          0.260813
+        ],
+        "size": [
+          0.521626,
+          0.673276,
+          0.521626
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "traffic-cone-2",
+      "label": "TrafficCone 2",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "traffic-cone-2/thumbnail.png",
+      "model": "traffic-cone-2/traffic-cone-2.ts",
+      "package": "traffic-cone-2",
+      "descriptor": "traffic-cone-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1MUg2w1zfjk015CRtyV-oM9vMSCD6x6lj",
+        "file": "Environment/glTF/TrafficCone_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "traffic",
+        "cone",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#9e4408",
+        "#cbc3bd"
+      ],
+      "colorNames": [
+        "brown",
+        "beige"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 450,
+        "triangles": 460,
+        "parts": 3,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.297702,
+          -0.008247,
+          -0.297702
+        ],
+        "max": [
+          0.297702,
+          0.727345,
+          0.297702
+        ],
+        "size": [
+          0.595404,
+          0.735592,
+          0.595404
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "traffic-light-1",
+      "label": "TrafficLight 1",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "traffic-light-1/thumbnail.png",
+      "model": "traffic-light-1/traffic-light-1.ts",
+      "package": "traffic-light-1",
+      "descriptor": "traffic-light-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1FfZb08XIdv9gzHCVJ9JRIoLmqcgf87Q9",
+        "file": "Environment/glTF/TrafficLight_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "traffic",
+        "light",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8786",
+        "#297c66",
+        "#cbc3bd",
+        "#caa507",
+        "#b40416",
+        "#b4ab05",
+        "#5fb400"
+      ],
+      "colorNames": [
+        "gray",
+        "green",
+        "beige",
+        "orange",
+        "red"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 958,
+        "triangles": 846,
+        "parts": 7,
+        "discardedDegenerate": 3
+      },
+      "bounds": {
+        "min": [
+          -0.171678,
+          -0.014683,
+          -0.170078
+        ],
+        "max": [
+          1.341257,
+          4.649173,
+          1.341257
+        ],
+        "size": [
+          1.512935,
+          4.663856,
+          1.511335
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "traffic-light-2",
+      "label": "TrafficLight 2",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "traffic-light-2/thumbnail.png",
+      "model": "traffic-light-2/traffic-light-2.ts",
+      "package": "traffic-light-2",
+      "descriptor": "traffic-light-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1HFAunoFXWQge8wLn9OkXgks-OvcEWQM3",
+        "file": "Environment/glTF/TrafficLight_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "traffic",
+        "light",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8786",
+        "#297c66",
+        "#cbc3bd",
+        "#caa507",
+        "#b40416",
+        "#b4ab05",
+        "#5fb400",
+        "#2a2929"
+      ],
+      "colorNames": [
+        "gray",
+        "green",
+        "beige",
+        "orange",
+        "red",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1455,
+        "triangles": 1367,
+        "parts": 8,
+        "discardedDegenerate": 2
+      },
+      "bounds": {
+        "min": [
+          -3.996474,
+          -0.014683,
+          -0.581342
+        ],
+        "max": [
+          1.341257,
+          4.649173,
+          1.341257
+        ],
+        "size": [
+          5.337731,
+          4.663856,
+          1.922599
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "trash-bag-1",
+      "label": "TrashBag 1",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "trash-bag-1/thumbnail.png",
+      "model": "trash-bag-1/trash-bag-1.ts",
+      "package": "trash-bag-1",
+      "descriptor": "trash-bag-1/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1FuihhOhGyhKCycJPTYtPHnBBWbGHEpMF",
+        "file": "Environment/glTF/TrashBag_1.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "trash",
+        "bag",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2a2929"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 886,
+        "triangles": 1044,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.249016,
+          -0.01144,
+          -0.250825
+        ],
+        "max": [
+          0.247861,
+          0.552272,
+          0.252511
+        ],
+        "size": [
+          0.496877,
+          0.563712,
+          0.503336
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "trash-bag-2",
+      "label": "TrashBag 2",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "trash-bag-2/thumbnail.png",
+      "model": "trash-bag-2/trash-bag-2.ts",
+      "package": "trash-bag-2",
+      "descriptor": "trash-bag-2/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1A4AfNM4-4XtSLkLr-_SC40fThLguleNb",
+        "file": "Environment/glTF/TrashBag_2.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "trash",
+        "bag",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2a2929"
+      ],
+      "colorNames": [
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1833,
+        "triangles": 2088,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.488579,
+          -0.008187,
+          -0.236717
+        ],
+        "max": [
+          0.417512,
+          0.521828,
+          0.2876
+        ],
+        "size": [
+          0.906091,
+          0.530015,
+          0.524317
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "vehicle-pickup",
+      "label": "Vehicle Pickup",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "vehicle-pickup/thumbnail.png",
+      "model": "vehicle-pickup/vehicle-pickup.ts",
+      "package": "vehicle-pickup",
+      "descriptor": "vehicle-pickup/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1j61AAiVS0PbbDE_JCW58rhr43p4sVOLS",
+        "file": "Vehicles/glTF/Vehicle_Pickup.gltf"
+      },
+      "category": "vehicles",
+      "tags": [
+        "vehicle",
+        "pickup",
+        "quaternius",
+        "zombieapocalypsekit",
+        "back",
+        "wheels",
+        "front",
+        "wheel",
+        "r",
+        "l",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#1f1f1f",
+        "#7a7a7a",
+        "#585858",
+        "#4e8aac",
+        "#adadad",
+        "#444444",
+        "#2a2929",
+        "#ffffff"
+      ],
+      "colorNames": [
+        "black",
+        "gray",
+        "brown",
+        "blue",
+        "beige",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 6898,
+        "triangles": 6432,
+        "parts": 12,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.156087,
+          -0.005936,
+          -2.487295
+        ],
+        "max": [
+          1.156087,
+          1.84251,
+          2.693086
+        ],
+        "size": [
+          2.312174,
+          1.848446,
+          5.180381
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "vehicle-pickup-armored",
+      "label": "Vehicle Pickup Armored",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "vehicle-pickup-armored/thumbnail.png",
+      "model": "vehicle-pickup-armored/vehicle-pickup-armored.ts",
+      "package": "vehicle-pickup-armored",
+      "descriptor": "vehicle-pickup-armored/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Vj0LYG7osEColDl4BxVV6EC2mOBW-1ND",
+        "file": "Vehicles/glTF/Vehicle_Pickup_Armored.gltf"
+      },
+      "category": "vehicles",
+      "tags": [
+        "vehicle",
+        "pickup",
+        "armored",
+        "quaternius",
+        "zombieapocalypsekit",
+        "back",
+        "wheels",
+        "front",
+        "wheel",
+        "r",
+        "l",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#585858",
+        "#8b755e",
+        "#4e8aac",
+        "#444444",
+        "#adadad",
+        "#5a4b3e",
+        "#9e731d",
+        "#caa507",
+        "#aa8736",
+        "#5c5c5c",
+        "#8b8786",
+        "#b89651",
+        "#cbc3bd",
+        "#9e4408",
+        "#ffffff",
+        "#1f1f1f",
+        "#7a7a7a"
+      ],
+      "colorNames": [
+        "brown",
+        "gray",
+        "blue",
+        "black",
+        "beige",
+        "orange",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 15991,
+        "triangles": 13160,
+        "parts": 21,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.325021,
+          -0.005936,
+          -2.597126
+        ],
+        "max": [
+          1.32502,
+          1.991325,
+          2.908345
+        ],
+        "size": [
+          2.650041,
+          1.997261,
+          5.505471
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "vehicle-sports",
+      "label": "Vehicle Sports",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "vehicle-sports/thumbnail.png",
+      "model": "vehicle-sports/vehicle-sports.ts",
+      "package": "vehicle-sports",
+      "descriptor": "vehicle-sports/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1mRasAWSbbCUo74tBi_mxrNmTS74tdLr9",
+        "file": "Vehicles/glTF/Vehicle_Sports.gltf"
+      },
+      "category": "vehicles",
+      "tags": [
+        "vehicle",
+        "sports",
+        "quaternius",
+        "zombieapocalypsekit",
+        "back",
+        "wheels",
+        "front",
+        "wheel",
+        "r",
+        "l",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#1f1f1f",
+        "#7c7c7c",
+        "#daa700",
+        "#353535",
+        "#ffffff"
+      ],
+      "colorNames": [
+        "black",
+        "gray",
+        "orange",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 6433,
+        "triangles": 5804,
+        "parts": 11,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.33531,
+          -0.011761,
+          -2.715785
+        ],
+        "max": [
+          1.335309,
+          1.852965,
+          2.939316
+        ],
+        "size": [
+          2.670619,
+          1.864726,
+          5.655101
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "vehicle-sports-armored",
+      "label": "Vehicle Sports Armored",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "vehicle-sports-armored/thumbnail.png",
+      "model": "vehicle-sports-armored/vehicle-sports-armored.ts",
+      "package": "vehicle-sports-armored",
+      "descriptor": "vehicle-sports-armored/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1xpTt-twV7IhdH7oLcUSMdW4cszYq2S88",
+        "file": "Vehicles/glTF/Vehicle_Sports_Armored.gltf"
+      },
+      "category": "vehicles",
+      "tags": [
+        "vehicle",
+        "sports",
+        "armored",
+        "quaternius",
+        "zombieapocalypsekit",
+        "back",
+        "wheels",
+        "front",
+        "wheel",
+        "r",
+        "l",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#daa700",
+        "#1f1f1f",
+        "#8b755e",
+        "#7c7c7c",
+        "#353535",
+        "#585858",
+        "#5a4b3e",
+        "#444444",
+        "#ffffff",
+        "#9e4408"
+      ],
+      "colorNames": [
+        "orange",
+        "black",
+        "gray",
+        "brown",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 12319,
+        "triangles": 10030,
+        "parts": 16,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.476758,
+          -0.011761,
+          -2.715785
+        ],
+        "max": [
+          1.476757,
+          1.852965,
+          2.939316
+        ],
+        "size": [
+          2.953515,
+          1.864726,
+          5.655101
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "vehicle-truck",
+      "label": "Vehicle Truck",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "vehicle-truck/thumbnail.png",
+      "model": "vehicle-truck/vehicle-truck.ts",
+      "package": "vehicle-truck",
+      "descriptor": "vehicle-truck/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Z-oz5wLLVso3NSs8jTIkVm8ysA4Lx7h1",
+        "file": "Vehicles/glTF/Vehicle_Truck.gltf"
+      },
+      "category": "vehicles",
+      "tags": [
+        "vehicle",
+        "truck",
+        "quaternius",
+        "zombieapocalypsekit",
+        "front",
+        "wheel",
+        "r",
+        "back",
+        "wheels",
+        "l",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2a2929",
+        "#939e3e",
+        "#585858",
+        "#c0bfbc",
+        "#757a6a",
+        "#ffffff",
+        "#7a7a7a"
+      ],
+      "colorNames": [
+        "black",
+        "green",
+        "brown",
+        "beige",
+        "gray",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 8346,
+        "triangles": 7476,
+        "parts": 12,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.354641,
+          0.000674,
+          -3.062991
+        ],
+        "max": [
+          1.354641,
+          2.884642,
+          2.192577
+        ],
+        "size": [
+          2.709282,
+          2.883968,
+          5.255568
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "vehicle-truck-armored",
+      "label": "Vehicle Truck Armored",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "vehicle-truck-armored/thumbnail.png",
+      "model": "vehicle-truck-armored/vehicle-truck-armored.ts",
+      "package": "vehicle-truck-armored",
+      "descriptor": "vehicle-truck-armored/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1F8wXYSc1-Je0ylBvonbQ3PQEKBZgEuut",
+        "file": "Vehicles/glTF/Vehicle_Truck_Armored.gltf"
+      },
+      "category": "vehicles",
+      "tags": [
+        "vehicle",
+        "truck",
+        "armored",
+        "quaternius",
+        "zombieapocalypsekit",
+        "front",
+        "wheel",
+        "r",
+        "back",
+        "wheels",
+        "l",
+        "vehicles",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#2a2929",
+        "#7a7a7a",
+        "#585858",
+        "#757a6a",
+        "#8b755e",
+        "#939e3e",
+        "#444444",
+        "#c0bfbc",
+        "#1f1f1f",
+        "#5a4b3e",
+        "#8b8786",
+        "#923c12",
+        "#687a65",
+        "#979c82",
+        "#c7cfb3",
+        "#ffffff"
+      ],
+      "colorNames": [
+        "black",
+        "gray",
+        "brown",
+        "green",
+        "beige",
+        "white"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 20118,
+        "triangles": 16131,
+        "parts": 20,
+        "discardedDegenerate": 3
+      },
+      "bounds": {
+        "min": [
+          -1.488113,
+          0.000674,
+          -3.062991
+        ],
+        "max": [
+          1.488113,
+          2.904346,
+          2.523507
+        ],
+        "size": [
+          2.976226,
+          2.903672,
+          5.586498
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "water-tower",
+      "label": "WaterTower",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "water-tower/thumbnail.png",
+      "model": "water-tower/water-tower.ts",
+      "package": "water-tower",
+      "descriptor": "water-tower/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1RSQt1S8iHFOfnQOegpX0p41VHw3W0g6X",
+        "file": "Environment/glTF/WaterTower.gltf"
+      },
+      "category": "buildings",
+      "tags": [
+        "water",
+        "tower",
+        "quaternius",
+        "zombieapocalypsekit",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8b8786",
+        "#5a4b3e"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1490,
+        "triangles": 1158,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.322852,
+          -0.032192,
+          -1.354241
+        ],
+        "max": [
+          1.322852,
+          9.347604,
+          1.354241
+        ],
+        "size": [
+          2.645704,
+          9.379796,
+          2.708482
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "wheel",
+      "label": "Wheel",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "wheel/thumbnail.png",
+      "model": "wheel/wheel.ts",
+      "package": "wheel",
+      "descriptor": "wheel/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1OmFnmerM0noHCt5CeTr5KdwpvO62Eiyq",
+        "file": "Environment/glTF/Wheel.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "wheel",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#8b8786"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 448,
+        "triangles": 608,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.286491,
+          0.008071,
+          -0.286491
+        ],
+        "max": [
+          0.286491,
+          0.212214,
+          0.286491
+        ],
+        "size": [
+          0.572982,
+          0.204143,
+          0.572982
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "wheels-stack",
+      "label": "Wheels Stack",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "wheels-stack/thumbnail.png",
+      "model": "wheels-stack/wheels-stack.ts",
+      "package": "wheels-stack",
+      "descriptor": "wheels-stack/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1Oa4cOiUt9PpNeLi5xFhHhwnAix3bor-w",
+        "file": "Environment/glTF/Wheels_Stack.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "wheels",
+        "stack",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5c5c5c",
+        "#8b8786"
+      ],
+      "colorNames": [
+        "brown",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1536,
+        "triangles": 1824,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.34991,
+          -0.000001,
+          -0.287196
+        ],
+        "max": [
+          0.307659,
+          0.611376,
+          0.284673
+        ],
+        "size": [
+          0.657569,
+          0.611377,
+          0.571869
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "wooden-bat-barbed",
+      "label": "WoodenBat Barbed",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "wooden-bat-barbed/thumbnail.png",
+      "model": "wooden-bat-barbed/wooden-bat-barbed.ts",
+      "package": "wooden-bat-barbed",
+      "descriptor": "wooden-bat-barbed/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=19SOv6S9Pz1ognXsvcEf_VfLkKP2-Hli7",
+        "file": "Weapons/glTF/WoodenBat_Barbed.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "wooden",
+        "bat",
+        "barbed",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#978657",
+        "#9e731d",
+        "#8b755e",
+        "#8b8786"
+      ],
+      "colorNames": [
+        "gray",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 2926,
+        "triangles": 2188,
+        "parts": 4,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.097876,
+          -0.092891,
+          -0.330227
+        ],
+        "max": [
+          0.086895,
+          0.09805,
+          0.908042
+        ],
+        "size": [
+          0.184771,
+          0.190941,
+          1.238269
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "wooden-bat-saw",
+      "label": "WoodenBat Saw",
+      "description": "Zombie Apocalypse Kit by Quaternius.",
+      "thumbnail": "wooden-bat-saw/thumbnail.png",
+      "model": "wooden-bat-saw/wooden-bat-saw.ts",
+      "package": "wooden-bat-saw",
+      "descriptor": "wooden-bat-saw/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+        "download": "https://drive.google.com/uc?export=download&id=1TfSebGSEoCAOHvcyYuoshPRZQ_OYHfR8",
+        "file": "Weapons/glTF/WoodenBat_Saw.gltf"
+      },
+      "category": "props",
+      "tags": [
+        "wooden",
+        "bat",
+        "saw",
+        "quaternius",
+        "zombieapocalypsekit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#632125",
+        "#284a63",
+        "#9e731d",
+        "#8b8786",
+        "#8b755e"
+      ],
+      "colorNames": [
+        "brown",
+        "black",
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 1778,
+        "triangles": 2308,
+        "parts": 5,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.18749,
+          -0.10281,
+          -0.330227
+        ],
+        "max": [
+          0.188122,
+          0.10281,
+          1.042351
+        ],
+        "size": [
+          0.375612,
+          0.20562,
+          1.372578
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

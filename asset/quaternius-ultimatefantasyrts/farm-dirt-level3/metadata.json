@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "id": "farm-dirt-level3",
+  "label": "Farm Dirt Level3",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "category": "props",
+  "tags": [
+    "farm",
+    "dirt",
+    "level3",
+    "quaternius",
+    "ultimatefantasyrts",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#574d2f",
+    "#6b7256",
+    "#901107",
+    "#56751d",
+    "#b8612e",
+    "#728543"
+  ],
+  "colorNames": [
+    "brown",
+    "red",
+    "green"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "farm-dirt-level3.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 73303,
+    "triangles": 35076,
+    "parts": 6,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.897333,
+      -0.00508,
+      -0.788082
+    ],
+    "max": [
+      0.891834,
+      0.317643,
+      0.76773
+    ],
+    "size": [
+      1.789167,
+      0.322723,
+      1.555812
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Farm_Dirt_Level3"
+  ],
+  "materialNames": [
+    "Dirt",
+    "Lettuce",
+    "Red",
+    "Green",
+    "Orange",
+    "Watermelon_DarkGreen"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Gbgnu-M288VcVVD7M0J_ocZl8MRtG8LZ",
+    "file": "glTF/Farm_Dirt_Level3.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

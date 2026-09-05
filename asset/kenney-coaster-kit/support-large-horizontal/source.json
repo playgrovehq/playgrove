@@ -1,0 +1,23 @@
+{
+  "id": "support-large-horizontal",
+  "label": "support-large-horizontal",
+  "description": "Coaster Kit by Kenney.",
+  "pack": "kenney-coaster-kit",
+  "listing": "https://kenney.nl/assets/coaster-kit",
+  "download": "https://kenney.nl/media/pages/assets/coaster-kit/546fdc554f-1731487890/kenney_coaster-kit.zip",
+  "archiveSha256": "7723d02e3ea822371e12e14722e72d572fdb0384c1379c1469e0598a371f5c7a",
+  "file": "Models/GLB format/support-large-horizontal.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8d6b749e68cbd99c9eb2b2e6a454a5a464601b6ea6ec8258ccdef3d74209a3e3",
+  "originalInputSha256": "f3e8b911ed063db4efefcfbdc06c216c50db0e1d3b4472a98a568c931ba8d7a5",
+  "descriptor": "metadata.json",
+  "model": "support-large-horizontal.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.2876420021057129,0.2876409888267517,1]",
+  "convertedAt": "2026-09-05T10:30:09.487Z"
+}

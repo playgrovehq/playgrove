@@ -1,0 +1,23 @@
+{
+  "id": "stone",
+  "label": "stone",
+  "description": "Hexagon Kit by Kenney.",
+  "pack": "kenney-hexagon-kit",
+  "listing": "https://kenney.nl/assets/hexagon-kit",
+  "download": "https://kenney.nl/media/pages/assets/hexagon-kit/fd3b63101b-1706007730/kenney_hexagon-kit.zip",
+  "archiveSha256": "d14f7643852c4dd854c7530de8514c9eb77314fe9963636077f0de1da8901236",
+  "file": "Models/GLB format/stone.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f24730a181bdd6c2d10c4b3a430219cb6496fe9a1b6b58518969d7d62b13aaa1",
+  "originalInputSha256": "e8963e6be2302f526855a68f7e5e4d3882687182c07af8af73863bef17a22dd2",
+  "descriptor": "metadata.json",
+  "model": "stone.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.20000000298023224,1.1547000408172607]",
+  "convertedAt": "2026-09-05T10:30:16.908Z"
+}

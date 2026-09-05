@@ -1,0 +1,22 @@
+{
+  "id": "coin",
+  "label": "Coin",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1gmb2tIal7LCI7x395xh0140ksQP2we5J",
+  "file": "Powerups and Pickups/glTF/Coin.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c521f874e5f46666022c9360924a7ec37e2e91fac070afece64872ffdc9c8b8b",
+  "originalInputSha256": "c521f874e5f46666022c9360924a7ec37e2e91fac070afece64872ffdc9c8b8b",
+  "descriptor": "metadata.json",
+  "model": "coin.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.9177720546722412,1.9201879501342773,0.5234479904174805]",
+  "convertedAt": "2026-09-05T11:48:29.775Z"
+}

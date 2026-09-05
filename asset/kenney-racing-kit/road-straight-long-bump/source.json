@@ -1,0 +1,23 @@
+{
+  "id": "road-straight-long-bump",
+  "label": "roadStraightLongBump",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadStraightLongBump.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d1d4852a234b1f29da44d45646c00d7d9f12445353f85f46511a3c607a3dc029",
+  "originalInputSha256": "b79dc2cda3d702d60fbf1cc799a00d95bdba3a4f02dfe062f7905dedde05da9b",
+  "descriptor": "metadata.json",
+  "model": "road-straight-long-bump.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.9999999701976776,0.2599999997764826,2.0000001192092896]",
+  "convertedAt": "2026-09-05T10:30:38.699Z"
+}

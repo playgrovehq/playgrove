@@ -1,0 +1,23 @@
+{
+  "id": "corridor-window",
+  "label": "corridor window",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/corridor_window.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "49ecd1e01f7f8a5e85573b7821d3e7ab013cedbb64f8807ddb73c331a86daf36",
+  "originalInputSha256": "53a97fe47cd6c04436531ce1046cd97464c3ed4fe8936d7c73ac09f7f0cdb221",
+  "descriptor": "metadata.json",
+  "model": "corridor-window.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1,1,1]",
+  "convertedAt": "2026-09-05T10:30:40.596Z"
+}

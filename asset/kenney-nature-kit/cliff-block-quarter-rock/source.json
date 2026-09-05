@@ -1,0 +1,23 @@
+{
+  "id": "cliff-block-quarter-rock",
+  "label": "cliff blockQuarter rock",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_blockQuarter_rock.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d77c0e6679b93451ccf3facb08a607da706eec18e64177b5c1ca5959d5afe102",
+  "originalInputSha256": "748f3f4c8695e46567819f3ae73ba53bbc7db827254bc68f9fca27f01f481666",
+  "descriptor": "metadata.json",
+  "model": "cliff-block-quarter-rock.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.2500000037252903,1]",
+  "convertedAt": "2026-09-05T10:30:26.479Z"
+}

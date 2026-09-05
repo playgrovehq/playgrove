@@ -1,0 +1,22 @@
+{
+  "id": "thunder",
+  "label": "Thunder",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=162tzQwTGdYaZu033MJ_JC6at5YRcT0Yb",
+  "file": "Powerups and Pickups/glTF/Thunder.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "132503375a337dc7d4e902247525a9cc2b527825059e1b4b963d528b0f4d0d5b",
+  "originalInputSha256": "132503375a337dc7d4e902247525a9cc2b527825059e1b4b963d528b0f4d0d5b",
+  "descriptor": "metadata.json",
+  "model": "thunder.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.168727993965149,1.5930880308151245,0.35019800066947937]",
+  "convertedAt": "2026-09-05T11:48:29.943Z"
+}

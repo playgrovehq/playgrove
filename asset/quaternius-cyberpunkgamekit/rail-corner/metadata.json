@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "id": "rail-corner",
+  "label": "Rail Corner",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "category": "roads",
+  "tags": [
+    "rail",
+    "corner",
+    "quaternius",
+    "cyberpunkgamekit",
+    "roads",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2e2e2e"
+  ],
+  "colorNames": [
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "rail-corner.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 212,
+    "triangles": 368,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.412066,
+      -0.005537,
+      -0.44852
+    ],
+    "max": [
+      0.182232,
+      0.231275,
+      0.233055
+    ],
+    "size": [
+      0.594298,
+      0.236812,
+      0.681575
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Rail_Corner"
+  ],
+  "materialNames": [
+    "Black"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1rp963qaqQ-YIwJaX93kfcoHPAX62X69m",
+    "file": "Platforms/Rail_Corner.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

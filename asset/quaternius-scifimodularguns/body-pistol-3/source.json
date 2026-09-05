@@ -1,0 +1,22 @@
+{
+  "id": "body-pistol-3",
+  "label": "Body Pistol 3",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1cH52wvs35L8Cl_-DbB3CD4B_8IEmgE1n",
+  "file": "Modular Parts/glTF/Body_Pistol_3.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6ba1cc80debb842c425c8229bc83239dfa87d14dee07144d7a1b5c1e7fcc1b87",
+  "originalInputSha256": "6ba1cc80debb842c425c8229bc83239dfa87d14dee07144d7a1b5c1e7fcc1b87",
+  "descriptor": "metadata.json",
+  "model": "body-pistol-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.7919079959392548,0.19607000052928925,0.09051399677991867]",
+  "convertedAt": "2026-09-05T12:05:32.311Z"
+}

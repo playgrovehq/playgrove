@@ -1,0 +1,23 @@
+{
+  "id": "ground-river-split",
+  "label": "ground riverSplit",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/ground_riverSplit.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4d2b7d8497412a58e855487bdbabbf0e35f1c5a0565d35b28f368c433baec869",
+  "originalInputSha256": "d91fdbc71e3ea97d33a011c36dc0e922319744041ea88e62504c736ac93e4e9c",
+  "descriptor": "metadata.json",
+  "model": "ground-river-split.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1,0.05000000074505806,1]",
+  "convertedAt": "2026-09-05T10:30:29.648Z"
+}

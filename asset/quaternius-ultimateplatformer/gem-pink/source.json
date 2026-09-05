@@ -1,0 +1,22 @@
+{
+  "id": "gem-pink",
+  "label": "Gem Pink",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1c3Ln6v7yjOklYGmMg6GsJyRcprfwXknG",
+  "file": "Powerups and Pickups/glTF/Gem_Pink.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "021238d55415e791eb98133680d1861bd6f2d065b9ee5400eff444c1c1b71f1f",
+  "originalInputSha256": "021238d55415e791eb98133680d1861bd6f2d065b9ee5400eff444c1c1b71f1f",
+  "descriptor": "metadata.json",
+  "model": "gem-pink.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.130295991897583,1.938122034072876,1.130295991897583]",
+  "convertedAt": "2026-09-05T11:48:29.823Z"
+}

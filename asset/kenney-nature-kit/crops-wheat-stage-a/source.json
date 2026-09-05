@@ -1,0 +1,23 @@
+{
+  "id": "crops-wheat-stage-a",
+  "label": "crops wheatStageA",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/crops_wheatStageA.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4f59f7d0667eb8b27066e82f0860e4b36f861ff98a0c7dd9005d2ef224e095e1",
+  "originalInputSha256": "d8c690d473a230741cf4d03fa6a69a405f0ae6a246847a2a72e7f50dd5bebc08",
+  "descriptor": "metadata.json",
+  "model": "crops-wheat-stage-a.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.5396080017089844,0.334936011582613,0.44670000672340393]",
+  "convertedAt": "2026-09-05T10:30:27.630Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "numbers-8",
+  "label": "Numbers 8",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1BlkTMRKVtE8DUtZGYa-96CAWof3uhkg1",
+  "file": "Level and Mechanics/glTF/Numbers_8.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "36480c83043fb71d16877846090315d1fe310163133f27421105107a53667b05",
+  "originalInputSha256": "36480c83043fb71d16877846090315d1fe310163133f27421105107a53667b05",
+  "descriptor": "metadata.json",
+  "model": "numbers-8.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.7282010018825531,1.1179569959640503,0.4068480134010315]",
+  "convertedAt": "2026-09-05T11:48:28.805Z"
+}

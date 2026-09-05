@@ -1,0 +1,23 @@
+{
+  "id": "desk-chair",
+  "label": "desk chair",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/desk_chair.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c893d8990ed3d237575e1b5120943b311085691de50f0712207117c3a2ccf7d3",
+  "originalInputSha256": "978e7f4b3b18a684b3a63b9b171cb7bee0ebf80124fa800fa873ae73f710aadb",
+  "descriptor": "metadata.json",
+  "model": "desk-chair.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.15000009536743164,0.29374998807907104,0.15000009536743164]",
+  "convertedAt": "2026-09-05T10:30:40.796Z"
+}

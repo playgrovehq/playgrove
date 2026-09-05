@@ -1,0 +1,23 @@
+{
+  "id": "race-car-red",
+  "label": "raceCarRed",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/raceCarRed.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1be1d37f93178dda0df9625eb4abf9d80c91c1216ff1cf493a41f9eceafa5f7f",
+  "originalInputSha256": "1098f37bd5bfad5e6d46266b57f146e0f1f8ea96193df03653966d58f0692b3c",
+  "descriptor": "metadata.json",
+  "model": "race-car-red.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=11 materials=11 bounds=[0.7288320269435644,0.3970140069723129,1.3459370229393244]",
+  "convertedAt": "2026-09-05T10:30:37.331Z"
+}

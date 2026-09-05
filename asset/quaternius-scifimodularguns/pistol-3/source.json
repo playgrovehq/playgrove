@@ -1,0 +1,22 @@
+{
+  "id": "pistol-3",
+  "label": "Pistol 3",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "pack": "quaternius-scifimodularguns",
+  "listing": "https://quaternius.com/packs/scifimodularguns.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FY_iQMv5sZID4na_i5UclWxqf9WNW43_",
+  "file": "Guns/glTF/Pistol_3.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "fd7a4982227f7cf62d35c229d4851e513333001cb7e18477ed603ff291508394",
+  "originalInputSha256": "fd7a4982227f7cf62d35c229d4851e513333001cb7e18477ed603ff291508394",
+  "descriptor": "metadata.json",
+  "model": "pistol-3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.9093510210514069,0.4863649904727936,0.11404299736022949]",
+  "convertedAt": "2026-09-05T12:05:31.801Z"
+}

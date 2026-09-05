@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "body-ar4",
+  "label": "Body AR4",
+  "description": "Sci-Fi Modular Gun Pack by Quaternius.",
+  "category": "props",
+  "tags": [
+    "body",
+    "ar4",
+    "quaternius",
+    "scifimodularguns",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#b4b4b4",
+    "#303030",
+    "#ce7f2f",
+    "#5a5a5a"
+  ],
+  "colorNames": [
+    "beige",
+    "black",
+    "orange",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "body-ar4.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1052,
+    "triangles": 993,
+    "parts": 4,
+    "discardedDegenerate": 1
+  },
+  "bounds": {
+    "min": [
+      -0.50577,
+      -0.167716,
+      -0.062979
+    ],
+    "max": [
+      0.468099,
+      0.152463,
+      0.06281
+    ],
+    "size": [
+      0.973869,
+      0.320179,
+      0.125789
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Body_AR4"
+  ],
+  "materialNames": [
+    "White",
+    "Black",
+    "Main",
+    "Grey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/scifimodularguns.html",
+    "download": "https://drive.google.com/uc?export=download&id=1MHT8jz5UgCAqjovtpbSfzD1cH4zAA_x8",
+    "file": "Modular Parts/glTF/Body_AR4.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "antenna-1",
+  "label": "Antenna 1",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1YhIftWvLIeHwCosQCuG7zFbiVXNetERr",
+  "file": "Platforms/Antenna_1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "98a364e1aba5a485efd2723dc72075735fba96243e276322b569dbc9b0965fcb",
+  "originalInputSha256": "98a364e1aba5a485efd2723dc72075735fba96243e276322b569dbc9b0965fcb",
+  "descriptor": "metadata.json",
+  "model": "antenna-1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4019070044159889,1.6555960027035326,0.06319800019264221]",
+  "convertedAt": "2026-09-05T12:03:55.794Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "overhead-lights",
+  "label": "overheadLights",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/overheadLights.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "828b0e5e189d12a74e6a80bad559f42c967d0b3a320104adc2fcb82be3e3efe3",
+  "originalInputSha256": "8239fa98d2c950d7aba67ecf49dc92af18ee0da92ed96736a711b22e90e795cd",
+  "descriptor": "metadata.json",
+  "model": "overhead-lights.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.2599999606609344,0.6938639972358942,0.18999996781349182]",
+  "convertedAt": "2026-09-05T10:30:37.164Z"
+}

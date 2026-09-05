@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "spear",
+  "label": "Spear",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "spear",
+    "quaternius",
+    "zombieapocalypsekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5c5c5c",
+    "#2a2929",
+    "#8b755e",
+    "#ada8a6",
+    "#8b8786",
+    "#9e731d",
+    "#b89651",
+    "#632125"
+  ],
+  "colorNames": [
+    "brown",
+    "black",
+    "gray",
+    "beige",
+    "orange"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "spear.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3889,
+    "triangles": 3200,
+    "parts": 8,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.058798,
+      -0.045867,
+      -0.324285
+    ],
+    "max": [
+      0.077825,
+      0.108117,
+      1.686991
+    ],
+    "size": [
+      0.136623,
+      0.153984,
+      2.011276
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Spear"
+  ],
+  "materialNames": [
+    "Atlas"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1WB9kPTTGATlx5BSLsBPPmXlY5N7GSzFJ",
+    "file": "Weapons/glTF/Spear.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

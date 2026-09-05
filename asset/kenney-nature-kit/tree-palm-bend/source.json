@@ -1,0 +1,23 @@
+{
+  "id": "tree-palm-bend",
+  "label": "tree palmBend",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_palmBend.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "861f85590dc81f151c9ff920ebfd0d7dc69758abd8e7c240c179cdee2951a976",
+  "originalInputSha256": "8af9dae16ce3c03183f9457996ebdd135167199514e8f4f944ee2bd82828d5c9",
+  "descriptor": "metadata.json",
+  "model": "tree-palm-bend.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.9354900121688843,1.3799109943211079,1.0127639770507812]",
+  "convertedAt": "2026-09-05T10:30:33.014Z"
+}

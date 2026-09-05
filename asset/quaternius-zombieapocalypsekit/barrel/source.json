@@ -1,0 +1,22 @@
+{
+  "id": "barrel",
+  "label": "Barrel",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=114k_vH2gWjaumPc39bKfGRdRvkB8Ym4Q",
+  "file": "Environment/glTF/Barrel.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c05a1b4e43c4779e3d0311d02cb5eb735d6ede9c629d41b25e46f73f0b36b096",
+  "originalInputSha256": "c05a1b4e43c4779e3d0311d02cb5eb735d6ede9c629d41b25e46f73f0b36b096",
+  "descriptor": "metadata.json",
+  "model": "barrel.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.704118013381958,1.1449080561287701,0.704118013381958]",
+  "convertedAt": "2026-09-05T11:49:49.207Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "farm-second-age-level1",
+  "label": "Farm SecondAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1b0QvQs53yXEXZYnHJGdjtfcsdZ4GnUF3",
+  "file": "glTF/Farm_SecondAge_Level1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "efb12d4ddc23c84577e5c828c2fead7a736a891b4798bd3de62173534f2e865b",
+  "originalInputSha256": "efb12d4ddc23c84577e5c828c2fead7a736a891b4798bd3de62173534f2e865b",
+  "descriptor": "metadata.json",
+  "model": "farm-second-age-level1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[1.8123930096626282,1.0705199409276247,1.1098120138049126]",
+  "convertedAt": "2026-09-05T12:03:23.964Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tile-slant",
+  "label": "tile-slant",
+  "description": "City Kit (Roads) by Kenney.",
+  "pack": "kenney-city-kit-roads",
+  "listing": "https://kenney.nl/assets/city-kit-roads",
+  "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+  "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+  "file": "Models/GLB format/tile-slant.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8546bd54f195b3fb2a67b2139753c1b299930426b4e837abb9cd29a94874ac0d",
+  "originalInputSha256": "7900e14823d5cf1b0ffd2eb14bd8c6629bd35d972f181fcfb39f707f0dfe1caa",
+  "descriptor": "metadata.json",
+  "model": "tile-slant.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1,0.27000001072883606,1]",
+  "convertedAt": "2026-09-05T10:30:08.547Z"
+}

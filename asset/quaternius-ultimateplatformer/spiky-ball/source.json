@@ -1,0 +1,22 @@
+{
+  "id": "spiky-ball",
+  "label": "SpikyBall",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=10guFOB8FuOYNJ5eZOOsXJ27_5RykGsfN",
+  "file": "Level and Mechanics/glTF/SpikyBall.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7d040a537c8223b7aac927f65430dd82f06704e2c533e24f776cd4925b447a57",
+  "originalInputSha256": "7d040a537c8223b7aac927f65430dd82f06704e2c533e24f776cd4925b447a57",
+  "descriptor": "metadata.json",
+  "model": "spiky-ball.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.1789400577545166,1.1904040575027466,1.1789400577545166]",
+  "convertedAt": "2026-09-05T11:48:28.955Z"
+}

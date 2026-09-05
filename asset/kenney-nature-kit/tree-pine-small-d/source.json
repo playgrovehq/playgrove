@@ -1,0 +1,23 @@
+{
+  "id": "tree-pine-small-d",
+  "label": "tree pineSmallD",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_pineSmallD.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "eb5c13c4d0d9a6fdfe0938dcec6ed221ff41b6aa9ced81e7d359fdf27bcc5374",
+  "originalInputSha256": "5128c47e7dc954b539245968d05fa518c9afa677d740fb11db0813aafadf17ef",
+  "descriptor": "metadata.json",
+  "model": "tree-pine-small-d.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.3569500148296356,0.9555699713528156,0.3569500148296356]",
+  "convertedAt": "2026-09-05T10:30:33.313Z"
+}

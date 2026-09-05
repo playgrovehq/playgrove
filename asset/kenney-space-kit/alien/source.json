@@ -1,0 +1,23 @@
+{
+  "id": "alien",
+  "label": "alien",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/alien.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6c3c31e0b55c0fbead5f552db43d90dbf3836c698dfd03144f457f8dbd8a2964",
+  "originalInputSha256": "c041e8ed0eff82f0b25b944a8107f1268ddbec9c2c93afedc4ee0e8b047d983d",
+  "descriptor": "metadata.json",
+  "model": "alien.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=18 materials=18 bounds=[0.48318397998809814,0.8431839942932129,0.33000004291534424]",
+  "convertedAt": "2026-09-05T10:30:40.248Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "key",
+  "label": "Key",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1f5PQMU4MPbcQHsFd8SeuHdP8npvZ_yUk",
+  "file": "Powerups and Pickups/glTF/Key.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "590eb3223e230689da2d1d69387566a533590fdb313e5afed57745d1964c48a8",
+  "originalInputSha256": "590eb3223e230689da2d1d69387566a533590fdb313e5afed57745d1964c48a8",
+  "descriptor": "metadata.json",
+  "model": "key.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.9309879839420319,0.9818689823150635,0.3176960051059723]",
+  "convertedAt": "2026-09-05T11:48:29.888Z"
+}

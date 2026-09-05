@@ -1,0 +1,23 @@
+{
+  "id": "fence-simple-high",
+  "label": "fence simpleHigh",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/fence_simpleHigh.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8508de849f8a2788591578a094a804f69f56f6885fe3ae74bc503a3bb7be0152",
+  "originalInputSha256": "12fec55c302bdcfc7d67946e8c4bed8d96bcb2a8d42817c3021cc94b7272891e",
+  "descriptor": "metadata.json",
+  "model": "fence-simple-high.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.0412060022354126,0.34502698853611946,0.11120599508285522]",
+  "convertedAt": "2026-09-05T10:30:28.970Z"
+}

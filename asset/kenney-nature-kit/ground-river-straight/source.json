@@ -1,0 +1,23 @@
+{
+  "id": "ground-river-straight",
+  "label": "ground riverStraight",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/ground_riverStraight.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c945b0d45e2f80e9121999273f35b099e01e2b576e56e1a939614b94833a503c",
+  "originalInputSha256": "d1061c7ab8d883fb26177e7cc36b2564b0a437620465c24f1a29629423cda096",
+  "descriptor": "metadata.json",
+  "model": "ground-river-straight.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1,0.05000000074505806,1]",
+  "convertedAt": "2026-09-05T10:30:29.663Z"
+}

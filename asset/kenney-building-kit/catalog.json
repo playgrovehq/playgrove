@@ -1,0 +1,168 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T10:30:06.456Z",
+  "assets": [
+    {
+      "id": "gutter-vertical-bottom",
+      "label": "gutter-vertical-bottom",
+      "description": "Building Kit by Kenney.",
+      "thumbnail": "gutter-vertical-bottom/thumbnail.png",
+      "model": "gutter-vertical-bottom/gutter-vertical-bottom.ts",
+      "package": "gutter-vertical-bottom",
+      "descriptor": "gutter-vertical-bottom/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/building-kit",
+        "download": "https://kenney.nl/media/pages/assets/building-kit/0de7aaa492-1743244741/kenney_building-kit.zip",
+        "archiveSha256": "2740ef5772fb5fb3d7aab881db22d129f6b68afe711b1a79e6d5e9e19cf3eec6",
+        "file": "Models/GLB format/gutter-vertical-bottom.glb"
+      },
+      "category": "buildings",
+      "tags": [
+        "gutter",
+        "vertical",
+        "bottom",
+        "kenney",
+        "building",
+        "kit",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9",
+        "#4f5260"
+      ],
+      "colorNames": [
+        "purple",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 80,
+        "triangles": 72,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.1,
+          -0.3,
+          -0.2
+        ],
+        "max": [
+          0.1,
+          0,
+          0.1
+        ],
+        "size": [
+          0.2,
+          0.3,
+          0.3
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "gutter-vertical-top",
+      "label": "gutter-vertical-top",
+      "description": "Building Kit by Kenney.",
+      "thumbnail": "gutter-vertical-top/thumbnail.png",
+      "model": "gutter-vertical-top/gutter-vertical-top.ts",
+      "package": "gutter-vertical-top",
+      "descriptor": "gutter-vertical-top/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/building-kit",
+        "download": "https://kenney.nl/media/pages/assets/building-kit/0de7aaa492-1743244741/kenney_building-kit.zip",
+        "archiveSha256": "2740ef5772fb5fb3d7aab881db22d129f6b68afe711b1a79e6d5e9e19cf3eec6",
+        "file": "Models/GLB format/gutter-vertical-top.glb"
+      },
+      "category": "buildings",
+      "tags": [
+        "gutter",
+        "vertical",
+        "top",
+        "kenney",
+        "building",
+        "kit",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9",
+        "#4f5260"
+      ],
+      "colorNames": [
+        "purple",
+        "brown"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 80,
+        "triangles": 72,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.1,
+          0,
+          -0.1
+        ],
+        "max": [
+          0.1,
+          0.3,
+          0.2
+        ],
+        "size": [
+          0.2,
+          0.3,
+          0.3
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

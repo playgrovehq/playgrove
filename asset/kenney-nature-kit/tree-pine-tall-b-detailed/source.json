@@ -1,0 +1,23 @@
+{
+  "id": "tree-pine-tall-b-detailed",
+  "label": "tree pineTallB detailed",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_pineTallB_detailed.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "537a4009b863d5de77d0b9d348e523a42b32145343cfbeae98710be954ce7cd7",
+  "originalInputSha256": "a26b4434e1592ec1a83f364a54688bb34c48d9521bfccbe63f0cc37b381c4696",
+  "descriptor": "metadata.json",
+  "model": "tree-pine-tall-b-detailed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.38627199828624725,1.9346060045063496,0.3919509947299957]",
+  "convertedAt": "2026-09-05T10:30:33.380Z"
+}

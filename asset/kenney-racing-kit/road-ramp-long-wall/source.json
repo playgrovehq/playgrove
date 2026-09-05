@@ -1,0 +1,23 @@
+{
+  "id": "road-ramp-long-wall",
+  "label": "roadRampLongWall",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadRampLongWall.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "869ffaa3a2ab65a10d88a9d3f6e040e88b63af14be9588f730e4de0cd0224f62",
+  "originalInputSha256": "f1f1e1e04b0d7a3254d581181c8b5e37c0224a619a29862f1c3ccb116a6d4cec",
+  "descriptor": "metadata.json",
+  "model": "road-ramp-long-wall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.9999999701976776,0.5199999902397394,2.0000001192092896]",
+  "convertedAt": "2026-09-05T10:30:38.026Z"
+}

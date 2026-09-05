@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "id": "axe",
+  "label": "Axe",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "equipment",
+  "tags": [
+    "axe",
+    "quaternius",
+    "zombieapocalypsekit",
+    "equipment",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#632125",
+    "#8b8786",
+    "#ada8a6",
+    "#5c5c5c",
+    "#8b755e"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "axe.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 934,
+    "triangles": 790,
+    "parts": 5,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.045784,
+      -0.043764,
+      -0.26311
+    ],
+    "max": [
+      0.254807,
+      0.043764,
+      1.036759
+    ],
+    "size": [
+      0.300591,
+      0.087528,
+      1.299869
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Axe"
+  ],
+  "materialNames": [
+    "Atlas"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1COcFTVL5-gUNVpuPXK8k8TWYJEyl27uU",
+    "file": "Weapons/glTF/Axe.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

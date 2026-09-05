@@ -1,0 +1,23 @@
+{
+  "id": "pits-office-corner",
+  "label": "pitsOfficeCorner",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/pitsOfficeCorner.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "854483a7c109a3838791fce14bd748cfce45aa617407761908d1d8fc8540b1ea",
+  "originalInputSha256": "9428e73b2f074b2c9bdccba06fd033c8f9e229b6f8e696d093fd163505800d8a",
+  "descriptor": "metadata.json",
+  "model": "pits-office-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.0399999916553497,0.5099999997764826,1.0399999618530273]",
+  "convertedAt": "2026-09-05T10:30:37.246Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "computer-keyboard",
+  "label": "computerKeyboard",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/computerKeyboard.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6fb0260fc840925e52dacee5bd197e5d30c2cd424c5bb3e17a22ddac8f2da92e",
+  "originalInputSha256": "9d9135789de2120e9f41ce3f0a56dd1b15f40adcc7888739bb842a2d820da322",
+  "descriptor": "metadata.json",
+  "model": "computer-keyboard.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.28220000863075256,0.027556000277400017,0.11819200217723846]",
+  "convertedAt": "2026-09-05T10:30:14.480Z"
+}

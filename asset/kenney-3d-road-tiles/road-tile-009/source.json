@@ -1,0 +1,23 @@
+{
+  "id": "road-tile-009",
+  "label": "roadTile 009",
+  "description": "3D Road Tiles by Kenney.",
+  "pack": "kenney-3d-road-tiles",
+  "listing": "https://kenney.nl/assets/3d-road-tiles",
+  "download": "https://kenney.nl/media/pages/assets/3d-road-tiles/3fbfaa7ec8-1677581262/kenney_3d-road-tiles.zip",
+  "archiveSha256": "93af3af6d2cef287a0eca7efb936a515574151d3cb32c202f14d8f6a99518c40",
+  "file": "Models/gLTF/roadTile_009.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5a4b699f59c5b152ebb2e29fd7206b9119721435ffbbd9becc55cc8fc6d3fad4",
+  "originalInputSha256": "2d85dd800f267d1418aa66d1d180041552d74891fde7507282236a4f72bdfae8",
+  "descriptor": "metadata.json",
+  "model": "road-tile-009.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[3,1.649999976158142,3]",
+  "convertedAt": "2026-09-05T10:29:59.016Z"
+}

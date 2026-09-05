@@ -1,0 +1,22 @@
+{
+  "id": "wooden-bat-barbed",
+  "label": "WoodenBat Barbed",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=19SOv6S9Pz1ognXsvcEf_VfLkKP2-Hli7",
+  "file": "Weapons/glTF/WoodenBat_Barbed.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "d097933c7d41da7ba37a45fdc8d1421bf431a3c341365fbf2b947c591bde645f",
+  "originalInputSha256": "d097933c7d41da7ba37a45fdc8d1421bf431a3c341365fbf2b947c591bde645f",
+  "descriptor": "metadata.json",
+  "model": "wooden-bat-barbed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.18477099388837814,0.1909409984946251,1.2382690012454987]",
+  "convertedAt": "2026-09-05T11:49:50.447Z"
+}

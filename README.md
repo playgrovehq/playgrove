@@ -37,3 +37,7 @@ The initial asset ecosystem study is available at [`studies/2026-08-31_asset-eco
 ## Licensing
 
 The code and first-party artwork licenses have not yet been selected. No license should be inferred until the corresponding license files are published.
+
+## Searchable asset store
+
+The [asset store](asset/README.md) now contains 1,583 ready native geometry assets from Kenney and Quaternius, with previews and JSON search. Install the current search CLI from the [GitHub asset release](https://github.com/playgrovehq/playgrove/releases/tag/assets-2026-09-05). This asset release does not publish the ongoing native engine work.

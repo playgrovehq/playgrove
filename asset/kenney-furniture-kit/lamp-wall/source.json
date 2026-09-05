@@ -1,0 +1,23 @@
+{
+  "id": "lamp-wall",
+  "label": "lampWall",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/lampWall.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c6d4bd7dd2e51d91a3da2e1db611f6583c9f8125ccb2f2b6e7f8a8d6161a1e1f",
+  "originalInputSha256": "a9679ecd3be05731846f22ade97c37069598ca7a06dd9319f50230e63a1ea83c",
+  "descriptor": "metadata.json",
+  "model": "lamp-wall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.22663600742816925,0.09279999881982803,0.15033599734306335]",
+  "convertedAt": "2026-09-05T10:30:15.014Z"
+}

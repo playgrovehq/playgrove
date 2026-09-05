@@ -1,0 +1,22 @@
+{
+  "id": "pipes",
+  "label": "Pipes",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hxT5Xnm77y6gXOKwriNSXonaxf4W-wdY",
+  "file": "Environment/glTF/Pipes.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e6aae26ad401d15e7a9ea3b08c92077973d00d1d8cff3419540824dd42f0d3cd",
+  "originalInputSha256": "e6aae26ad401d15e7a9ea3b08c92077973d00d1d8cff3419540824dd42f0d3cd",
+  "descriptor": "metadata.json",
+  "model": "pipes.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.7481859922409058,0.6713479715399444,3.355340003967285]",
+  "convertedAt": "2026-09-05T11:49:49.429Z"
+}

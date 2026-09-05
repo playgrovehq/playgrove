@@ -1,0 +1,315 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T10:30:16.936Z",
+  "assets": [
+    {
+      "id": "dirt",
+      "label": "dirt",
+      "description": "Hexagon Kit by Kenney.",
+      "thumbnail": "dirt/thumbnail.png",
+      "model": "dirt/dirt.ts",
+      "package": "dirt",
+      "descriptor": "dirt/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/hexagon-kit",
+        "download": "https://kenney.nl/media/pages/assets/hexagon-kit/fd3b63101b-1706007730/kenney_hexagon-kit.zip",
+        "archiveSha256": "d14f7643852c4dd854c7530de8514c9eb77314fe9963636077f0de1da8901236",
+        "file": "Models/GLB format/dirt.glb"
+      },
+      "category": "props",
+      "tags": [
+        "dirt",
+        "kenney",
+        "hexagon",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#f1976c"
+      ],
+      "colorNames": [
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 36,
+        "triangles": 20,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.57735
+        ],
+        "max": [
+          0.5,
+          0.1,
+          0.57735
+        ],
+        "size": [
+          1,
+          0.1,
+          1.1547
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "sand",
+      "label": "sand",
+      "description": "Hexagon Kit by Kenney.",
+      "thumbnail": "sand/thumbnail.png",
+      "model": "sand/sand.ts",
+      "package": "sand",
+      "descriptor": "sand/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/hexagon-kit",
+        "download": "https://kenney.nl/media/pages/assets/hexagon-kit/fd3b63101b-1706007730/kenney_hexagon-kit.zip",
+        "archiveSha256": "d14f7643852c4dd854c7530de8514c9eb77314fe9963636077f0de1da8901236",
+        "file": "Models/GLB format/sand.glb"
+      },
+      "category": "props",
+      "tags": [
+        "sand",
+        "kenney",
+        "hexagon",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#f2bf99",
+        "#f1976c"
+      ],
+      "colorNames": [
+        "beige",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 60,
+        "triangles": 32,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.57735
+        ],
+        "max": [
+          0.5,
+          0.2,
+          0.57735
+        ],
+        "size": [
+          1,
+          0.2,
+          1.1547
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "stone",
+      "label": "stone",
+      "description": "Hexagon Kit by Kenney.",
+      "thumbnail": "stone/thumbnail.png",
+      "model": "stone/stone.ts",
+      "package": "stone",
+      "descriptor": "stone/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/hexagon-kit",
+        "download": "https://kenney.nl/media/pages/assets/hexagon-kit/fd3b63101b-1706007730/kenney_hexagon-kit.zip",
+        "archiveSha256": "d14f7643852c4dd854c7530de8514c9eb77314fe9963636077f0de1da8901236",
+        "file": "Models/GLB format/stone.glb"
+      },
+      "category": "landscape",
+      "tags": [
+        "stone",
+        "kenney",
+        "hexagon",
+        "kit",
+        "landscape",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9",
+        "#f1976c"
+      ],
+      "colorNames": [
+        "purple",
+        "orange"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 60,
+        "triangles": 32,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.57735
+        ],
+        "max": [
+          0.5,
+          0.2,
+          0.57735
+        ],
+        "size": [
+          1,
+          0.2,
+          1.1547
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "water",
+      "label": "water",
+      "description": "Hexagon Kit by Kenney.",
+      "thumbnail": "water/thumbnail.png",
+      "model": "water/water.ts",
+      "package": "water",
+      "descriptor": "water/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/hexagon-kit",
+        "download": "https://kenney.nl/media/pages/assets/hexagon-kit/fd3b63101b-1706007730/kenney_hexagon-kit.zip",
+        "archiveSha256": "d14f7643852c4dd854c7530de8514c9eb77314fe9963636077f0de1da8901236",
+        "file": "Models/GLB format/water.glb"
+      },
+      "category": "props",
+      "tags": [
+        "water",
+        "kenney",
+        "hexagon",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#8fdbff"
+      ],
+      "colorNames": [
+        "cyan"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 36,
+        "triangles": 20,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.57735
+        ],
+        "max": [
+          0.5,
+          0.1,
+          0.57735
+        ],
+        "size": [
+          1,
+          0.1,
+          1.1547
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

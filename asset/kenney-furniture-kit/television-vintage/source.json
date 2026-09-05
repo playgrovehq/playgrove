@@ -1,0 +1,23 @@
+{
+  "id": "television-vintage",
+  "label": "televisionVintage",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/televisionVintage.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "98dc6f97e4228ab59dc85ba7159772fc5057b71ea482b5b64928c156101bfc94",
+  "originalInputSha256": "eb144cc8fb1e7f761e3665226e4266c8868679421d21d6548f24d2abad7c67cf",
+  "descriptor": "metadata.json",
+  "model": "television-vintage.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[0.4099999964237213,0.27000001072883606,0.27000001072883606]",
+  "convertedAt": "2026-09-05T10:30:15.765Z"
+}

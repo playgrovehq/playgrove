@@ -1,0 +1,23 @@
+{
+  "id": "camera-exclusive",
+  "label": "camera exclusive",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/camera_exclusive.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "9e46206b2c8149f9f7de1532484247c42fd74aaede616cd97cc83c5597282e3c",
+  "originalInputSha256": "fb74cff055dcae95fe873c7619e6312842e4d2ed2abb812f3e83c0011fa09098",
+  "descriptor": "metadata.json",
+  "model": "camera-exclusive.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.10690198838710785,0.40899998880922794,0.2636350393295288]",
+  "convertedAt": "2026-09-05T10:30:36.886Z"
+}

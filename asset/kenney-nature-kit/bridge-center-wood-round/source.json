@@ -1,0 +1,23 @@
+{
+  "id": "bridge-center-wood-round",
+  "label": "bridge center woodRound",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/bridge_center_woodRound.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "14e73bdbaf62d04cff1de4a691ccf17c8f964d35fa7d9648f2e2b1b9c539f4ca",
+  "originalInputSha256": "382c95860d1805457a77e43ae1e47cc77d7a05cb5b1921e5e0f44f6627d0e11f",
+  "descriptor": "metadata.json",
+  "model": "bridge-center-wood-round.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1,0.20000001043081284,1]",
+  "convertedAt": "2026-09-05T10:30:26.031Z"
+}

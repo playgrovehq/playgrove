@@ -1,0 +1,22 @@
+{
+  "id": "pipe-corner",
+  "label": "Pipe Corner",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "pack": "quaternius-cyberpunkgamekit",
+  "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1stVoDPtUdYE3-vvuKZvMwDE9DEAHItPc",
+  "file": "Platforms/Pipe_Corner.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "355e192edd933df06dc553255fb3a382387556fc71a0049165dde8bc9f6d947e",
+  "originalInputSha256": "355e192edd933df06dc553255fb3a382387556fc71a0049165dde8bc9f6d947e",
+  "descriptor": "metadata.json",
+  "model": "pipe-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[2.0002169609069824,0.2121099978685379,2.3264529705047607]",
+  "convertedAt": "2026-09-05T12:03:55.956Z"
+}

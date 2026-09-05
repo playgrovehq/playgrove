@@ -1,0 +1,107 @@
+{
+  "version": 2,
+  "id": "vehicle-truck",
+  "label": "Vehicle Truck",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "vehicles",
+  "tags": [
+    "vehicle",
+    "truck",
+    "quaternius",
+    "zombieapocalypsekit",
+    "front",
+    "wheel",
+    "r",
+    "back",
+    "wheels",
+    "l",
+    "vehicles",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#2a2929",
+    "#939e3e",
+    "#585858",
+    "#c0bfbc",
+    "#757a6a",
+    "#ffffff",
+    "#7a7a7a"
+  ],
+  "colorNames": [
+    "black",
+    "green",
+    "brown",
+    "beige",
+    "gray",
+    "white"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "vehicle-truck.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 8346,
+    "triangles": 7476,
+    "parts": 12,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -1.354641,
+      0.000674,
+      -3.062991
+    ],
+    "max": [
+      1.354641,
+      2.884642,
+      2.192577
+    ],
+    "size": [
+      2.709282,
+      2.883968,
+      5.255568
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Truck",
+    "FrontWheel_R",
+    "BackWheels",
+    "FrontWheel_L"
+  ],
+  "materialNames": [
+    "Atlas",
+    "BrakeLight",
+    "Headlights"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1Z-oz5wLLVso3NSs8jTIkVm8ysA4Lx7h1",
+    "file": "Vehicles/glTF/Vehicle_Truck.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

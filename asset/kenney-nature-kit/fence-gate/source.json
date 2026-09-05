@@ -1,0 +1,23 @@
+{
+  "id": "fence-gate",
+  "label": "fence gate",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/fence_gate.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "7dc4f0f4a88dc5c904733cd069b89c2f01d29cb6fce8526f03e8517674588891",
+  "originalInputSha256": "34d10d5620179b8a211a01eea837caa828c0782422f0b408e1a5838788888436",
+  "descriptor": "metadata.json",
+  "model": "fence-gate.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=5 materials=5 bounds=[1,0.34502698853611946,0.06999999284744263]",
+  "convertedAt": "2026-09-05T10:30:27.714Z"
+}

@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "guitar",
+  "label": "Guitar",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "guitar",
+    "quaternius",
+    "zombieapocalypsekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5c5c5c",
+    "#2a2929",
+    "#ada8a6",
+    "#8b755e",
+    "#8b8786",
+    "#9e731d",
+    "#42342a",
+    "#a28222",
+    "#284a63"
+  ],
+  "colorNames": [
+    "brown",
+    "black",
+    "beige",
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "guitar.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 3416,
+    "triangles": 2325,
+    "parts": 9,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.312634,
+      -0.050391,
+      -0.360718
+    ],
+    "max": [
+      0.408264,
+      0.07872,
+      1.436339
+    ],
+    "size": [
+      0.720898,
+      0.129111,
+      1.797057
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Guitar"
+  ],
+  "materialNames": [
+    "Atlas"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=19oLSlbEvCdnM55_CWSnHhnyJPti1Hxm-",
+    "file": "Weapons/glTF/Guitar.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

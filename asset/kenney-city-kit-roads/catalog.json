@@ -1,0 +1,2225 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T10:30:08.647Z",
+  "assets": [
+    {
+      "id": "electricity-wires",
+      "label": "electricity-wires",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "electricity-wires/thumbnail.png",
+      "model": "electricity-wires/electricity-wires.ts",
+      "package": "electricity-wires",
+      "descriptor": "electricity-wires/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/electricity-wires.glb"
+      },
+      "category": "props",
+      "tags": [
+        "electricity",
+        "wires",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#666b80"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 56,
+        "triangles": 72,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.284951,
+          0.437949,
+          -0.09165
+        ],
+        "max": [
+          0.220951,
+          0.502635,
+          0.09335
+        ],
+        "size": [
+          0.505902,
+          0.064686,
+          0.185
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "electricity-wires-wide",
+      "label": "electricity-wires-wide",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "electricity-wires-wide/thumbnail.png",
+      "model": "electricity-wires-wide/electricity-wires-wide.ts",
+      "package": "electricity-wires-wide",
+      "descriptor": "electricity-wires-wide/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/electricity-wires-wide.glb"
+      },
+      "category": "props",
+      "tags": [
+        "electricity",
+        "wires",
+        "wide",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#666b80"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 120,
+        "triangles": 200,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.535589,
+          0.397984,
+          -0.09165
+        ],
+        "max": [
+          0.471589,
+          0.502462,
+          0.09335
+        ],
+        "size": [
+          1.007178,
+          0.104478,
+          0.185
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-bend-barrier",
+      "label": "road-bend-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-bend-barrier/thumbnail.png",
+      "model": "road-bend-barrier/road-bend-barrier.ts",
+      "package": "road-bend-barrier",
+      "descriptor": "road-bend-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-bend-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "bend",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 150,
+        "triangles": 128,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-bend-square-barrier",
+      "label": "road-bend-square-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-bend-square-barrier/thumbnail.png",
+      "model": "road-bend-square-barrier/road-bend-square-barrier.ts",
+      "package": "road-bend-square-barrier",
+      "descriptor": "road-bend-square-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-bend-square-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "bend",
+        "square",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 74,
+        "triangles": 48,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-crossroad-barrier",
+      "label": "road-crossroad-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-crossroad-barrier/thumbnail.png",
+      "model": "road-crossroad-barrier/road-crossroad-barrier.ts",
+      "package": "road-crossroad-barrier",
+      "descriptor": "road-crossroad-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-crossroad-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "crossroad",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 152,
+        "triangles": 112,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-curve-barrier",
+      "label": "road-curve-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-curve-barrier/thumbnail.png",
+      "model": "road-curve-barrier/road-curve-barrier.ts",
+      "package": "road-curve-barrier",
+      "descriptor": "road-curve-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-curve-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "curve",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 224,
+        "triangles": 200,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          0,
+          -1
+        ],
+        "max": [
+          1,
+          0.08,
+          1
+        ],
+        "size": [
+          2,
+          0.08,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-curve-intersection-barrier",
+      "label": "road-curve-intersection-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-curve-intersection-barrier/thumbnail.png",
+      "model": "road-curve-intersection-barrier/road-curve-intersection-barrier.ts",
+      "package": "road-curve-intersection-barrier",
+      "descriptor": "road-curve-intersection-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-curve-intersection-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "curve",
+        "intersection",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 205,
+        "triangles": 165,
+        "parts": 1,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -1,
+          0,
+          -1
+        ],
+        "max": [
+          1,
+          0.08,
+          1
+        ],
+        "size": [
+          2,
+          0.08,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-driveway-double-barrier",
+      "label": "road-driveway-double-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-driveway-double-barrier/thumbnail.png",
+      "model": "road-driveway-double-barrier/road-driveway-double-barrier.ts",
+      "package": "road-driveway-double-barrier",
+      "descriptor": "road-driveway-double-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-driveway-double-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "driveway",
+        "double",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 100,
+        "triangles": 72,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-driveway-single-barrier",
+      "label": "road-driveway-single-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-driveway-single-barrier/thumbnail.png",
+      "model": "road-driveway-single-barrier/road-driveway-single-barrier.ts",
+      "package": "road-driveway-single-barrier",
+      "descriptor": "road-driveway-single-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-driveway-single-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "driveway",
+        "single",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 74,
+        "triangles": 48,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-end-barrier",
+      "label": "road-end-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-end-barrier/thumbnail.png",
+      "model": "road-end-barrier/road-end-barrier.ts",
+      "package": "road-end-barrier",
+      "descriptor": "road-end-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-end-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "end",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 48,
+        "triangles": 28,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-end-round-barrier",
+      "label": "road-end-round-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-end-round-barrier/thumbnail.png",
+      "model": "road-end-round-barrier/road-end-round-barrier.ts",
+      "package": "road-end-round-barrier",
+      "descriptor": "road-end-round-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-end-round-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "end",
+        "round",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 192,
+        "triangles": 160,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-intersection-barrier",
+      "label": "road-intersection-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-intersection-barrier/thumbnail.png",
+      "model": "road-intersection-barrier/road-intersection-barrier.ts",
+      "package": "road-intersection-barrier",
+      "descriptor": "road-intersection-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-intersection-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "intersection",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 100,
+        "triangles": 68,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-roundabout-barrier",
+      "label": "road-roundabout-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-roundabout-barrier/thumbnail.png",
+      "model": "road-roundabout-barrier/road-roundabout-barrier.ts",
+      "package": "road-roundabout-barrier",
+      "descriptor": "road-roundabout-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-roundabout-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "roundabout",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 834,
+        "triangles": 754,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1.5,
+          0,
+          -1.5
+        ],
+        "max": [
+          1.5,
+          0.08,
+          1.5
+        ],
+        "size": [
+          3,
+          0.08,
+          3
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-side-barrier",
+      "label": "road-side-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-side-barrier/thumbnail.png",
+      "model": "road-side-barrier/road-side-barrier.ts",
+      "package": "road-side-barrier",
+      "descriptor": "road-side-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-side-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "side",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 48,
+        "triangles": 24,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.81,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1.31,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-side-entry-barrier",
+      "label": "road-side-entry-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-side-entry-barrier/thumbnail.png",
+      "model": "road-side-entry-barrier/road-side-entry-barrier.ts",
+      "package": "road-side-entry-barrier",
+      "descriptor": "road-side-entry-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-side-entry-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "side",
+        "entry",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 256,
+        "triangles": 232,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.81,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1.31,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-side-exit-barrier",
+      "label": "road-side-exit-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-side-exit-barrier/thumbnail.png",
+      "model": "road-side-exit-barrier/road-side-exit-barrier.ts",
+      "package": "road-side-exit-barrier",
+      "descriptor": "road-side-exit-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-side-exit-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "side",
+        "exit",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 256,
+        "triangles": 232,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.81,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1.31,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-slant-barrier",
+      "label": "road-slant-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-slant-barrier/thumbnail.png",
+      "model": "road-slant-barrier/road-slant-barrier.ts",
+      "package": "road-slant-barrier",
+      "descriptor": "road-slant-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-slant-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "slant",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 48,
+        "triangles": 24,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.33,
+          0.5
+        ],
+        "size": [
+          1,
+          0.33,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-slant-curve-barrier",
+      "label": "road-slant-curve-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-slant-curve-barrier/thumbnail.png",
+      "model": "road-slant-curve-barrier/road-slant-curve-barrier.ts",
+      "package": "road-slant-curve-barrier",
+      "descriptor": "road-slant-curve-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-slant-curve-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "slant",
+        "curve",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 444,
+        "triangles": 420,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -1,
+          0,
+          -0.5
+        ],
+        "max": [
+          1,
+          0.58,
+          0.5
+        ],
+        "size": [
+          2,
+          0.58,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-slant-high-barrier",
+      "label": "road-slant-high-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-slant-high-barrier/thumbnail.png",
+      "model": "road-slant-high-barrier/road-slant-high-barrier.ts",
+      "package": "road-slant-high-barrier",
+      "descriptor": "road-slant-high-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-slant-high-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "slant",
+        "high",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 48,
+        "triangles": 24,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.58,
+          0.5
+        ],
+        "size": [
+          1,
+          0.58,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-split-barrier",
+      "label": "road-split-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-split-barrier/thumbnail.png",
+      "model": "road-split-barrier/road-split-barrier.ts",
+      "package": "road-split-barrier",
+      "descriptor": "road-split-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-split-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "split",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 544,
+        "triangles": 512,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -1
+        ],
+        "max": [
+          0.5,
+          0.08,
+          1
+        ],
+        "size": [
+          1,
+          0.08,
+          2
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-square-barrier",
+      "label": "road-square-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-square-barrier/thumbnail.png",
+      "model": "road-square-barrier/road-square-barrier.ts",
+      "package": "road-square-barrier",
+      "descriptor": "road-square-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-square-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "square",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 48,
+        "triangles": 32,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-straight-barrier",
+      "label": "road-straight-barrier",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-straight-barrier/thumbnail.png",
+      "model": "road-straight-barrier/road-straight-barrier.ts",
+      "package": "road-straight-barrier",
+      "descriptor": "road-straight-barrier/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-straight-barrier.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "straight",
+        "barrier",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 48,
+        "triangles": 24,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-straight-barrier-end",
+      "label": "road-straight-barrier-end",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-straight-barrier-end/thumbnail.png",
+      "model": "road-straight-barrier-end/road-straight-barrier-end.ts",
+      "package": "road-straight-barrier-end",
+      "descriptor": "road-straight-barrier-end/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-straight-barrier-end.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "straight",
+        "barrier",
+        "end",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 36,
+        "triangles": 16,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.5
+        ],
+        "size": [
+          1,
+          0.08,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "road-straight-barrier-half",
+      "label": "road-straight-barrier-half",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "road-straight-barrier-half/thumbnail.png",
+      "model": "road-straight-barrier-half/road-straight-barrier-half.ts",
+      "package": "road-straight-barrier-half",
+      "descriptor": "road-straight-barrier-half/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/road-straight-barrier-half.glb"
+      },
+      "category": "roads",
+      "tags": [
+        "road",
+        "straight",
+        "barrier",
+        "half",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 48,
+        "triangles": 24,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.25
+        ],
+        "max": [
+          0.5,
+          0.08,
+          0.25
+        ],
+        "size": [
+          1,
+          0.08,
+          0.5
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tile-high",
+      "label": "tile-high",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "tile-high/thumbnail.png",
+      "model": "tile-high/tile-high.ts",
+      "package": "tile-high",
+      "descriptor": "tile-high/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/tile-high.glb"
+      },
+      "category": "props",
+      "tags": [
+        "tile",
+        "high",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.25,
+          0.5
+        ],
+        "size": [
+          1,
+          0.25,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tile-low",
+      "label": "tile-low",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "tile-low/thumbnail.png",
+      "model": "tile-low/tile-low.ts",
+      "package": "tile-low",
+      "descriptor": "tile-low/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/tile-low.glb"
+      },
+      "category": "props",
+      "tags": [
+        "tile",
+        "low",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.02,
+          0.5
+        ],
+        "size": [
+          1,
+          0.02,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tile-slant",
+      "label": "tile-slant",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "tile-slant/thumbnail.png",
+      "model": "tile-slant/tile-slant.ts",
+      "package": "tile-slant",
+      "descriptor": "tile-slant/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/tile-slant.glb"
+      },
+      "category": "props",
+      "tags": [
+        "tile",
+        "slant",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.27,
+          0.5
+        ],
+        "size": [
+          1,
+          0.27,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "tile-slant-high",
+      "label": "tile-slantHigh",
+      "description": "City Kit (Roads) by Kenney.",
+      "thumbnail": "tile-slant-high/thumbnail.png",
+      "model": "tile-slant-high/tile-slant-high.ts",
+      "package": "tile-slant-high",
+      "descriptor": "tile-slant-high/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/city-kit-roads",
+        "download": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1787042796/kenney_city-kit-roads.zip",
+        "archiveSha256": "22058af3d68173a7cf9bda9f0e243a8cef6bd68168c302ebc76327063849674e",
+        "file": "Models/GLB format/tile-slantHigh.glb"
+      },
+      "category": "props",
+      "tags": [
+        "tile",
+        "slant",
+        "high",
+        "kenney",
+        "city",
+        "kit",
+        "roads",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#a0a8c9"
+      ],
+      "colorNames": [
+        "purple"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.52,
+          0.5
+        ],
+        "size": [
+          1,
+          0.52,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

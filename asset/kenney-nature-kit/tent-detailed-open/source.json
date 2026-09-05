@@ -1,0 +1,23 @@
+{
+  "id": "tent-detailed-open",
+  "label": "Open Camping Tent",
+  "description": "Detailed camping tent with an open entrance flap.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tent_detailedOpen.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5f060eb6d2a500645311758eec18a3bd97083abddd9634fc1dc0f9e673d2412f",
+  "originalInputSha256": "d54d9665d07e0ff9680e56731c9f5338fc25d93788504d63b8375f54e6444193",
+  "descriptor": "metadata.json",
+  "model": "tent-detailed-open.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.8749279975891113,0.5611309893429279,0.6663999855518341]",
+  "convertedAt": "2026-09-05T10:30:32.646Z"
+}

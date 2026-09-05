@@ -1,0 +1,22 @@
+{
+  "id": "cube-exclamation",
+  "label": "Cube Exclamation",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1FRZLVkRTzjTLMidP5KBrs6tOC7IGO9-M",
+  "file": "Cubes/glTF/Cube_Exclamation.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "931b810c706eaa36c9a436f06134bf62883e27aaef365210a5cf13329a6b0496",
+  "originalInputSha256": "931b810c706eaa36c9a436f06134bf62883e27aaef365210a5cf13329a6b0496",
+  "descriptor": "metadata.json",
+  "model": "cube-exclamation.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[2.0208120346069336,2.0208120346069336,2.0208120346069336]",
+  "convertedAt": "2026-09-05T11:48:28.332Z"
+}

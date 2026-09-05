@@ -1,0 +1,707 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T10:30:36.016Z",
+  "assets": [
+    {
+      "id": "indicator-doorway",
+      "label": "indicator-doorway",
+      "description": "Prototype Kit by Kenney.",
+      "thumbnail": "indicator-doorway/thumbnail.png",
+      "model": "indicator-doorway/indicator-doorway.ts",
+      "package": "indicator-doorway",
+      "descriptor": "indicator-doorway/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/prototype-kit",
+        "download": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+        "archiveSha256": "213b522fb12bcc9b9ac66c4f7581f7c74623293272212e40a70c39936ad3da95",
+        "file": "Models/GLB format/indicator-doorway.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "doorway",
+        "kenney",
+        "prototype",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ffc044"
+      ],
+      "colorNames": [
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 18,
+        "triangles": 12,
+        "parts": 1,
+        "discardedDegenerate": 1
+      },
+      "bounds": {
+        "min": [
+          -0.3,
+          0,
+          -0.3
+        ],
+        "max": [
+          0.3,
+          0,
+          0.3
+        ],
+        "size": [
+          0.6,
+          0,
+          0.6
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-special-area",
+      "label": "indicator-special-area",
+      "description": "Prototype Kit by Kenney.",
+      "thumbnail": "indicator-special-area/thumbnail.png",
+      "model": "indicator-special-area/indicator-special-area.ts",
+      "package": "indicator-special-area",
+      "descriptor": "indicator-special-area/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/prototype-kit",
+        "download": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+        "archiveSha256": "213b522fb12bcc9b9ac66c4f7581f7c74623293272212e40a70c39936ad3da95",
+        "file": "Models/GLB format/indicator-special-area.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "special",
+        "area",
+        "kenney",
+        "prototype",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ffc044"
+      ],
+      "colorNames": [
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 28,
+        "triangles": 18,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-special-arrow",
+      "label": "indicator-special-arrow",
+      "description": "Prototype Kit by Kenney.",
+      "thumbnail": "indicator-special-arrow/thumbnail.png",
+      "model": "indicator-special-arrow/indicator-special-arrow.ts",
+      "package": "indicator-special-arrow",
+      "descriptor": "indicator-special-arrow/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/prototype-kit",
+        "download": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+        "archiveSha256": "213b522fb12bcc9b9ac66c4f7581f7c74623293272212e40a70c39936ad3da95",
+        "file": "Models/GLB format/indicator-special-arrow.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "special",
+        "arrow",
+        "kenney",
+        "prototype",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ffc044"
+      ],
+      "colorNames": [
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 17,
+        "triangles": 15,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-special-cross",
+      "label": "indicator-special-cross",
+      "description": "Prototype Kit by Kenney.",
+      "thumbnail": "indicator-special-cross/thumbnail.png",
+      "model": "indicator-special-cross/indicator-special-cross.ts",
+      "package": "indicator-special-cross",
+      "descriptor": "indicator-special-cross/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/prototype-kit",
+        "download": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+        "archiveSha256": "213b522fb12bcc9b9ac66c4f7581f7c74623293272212e40a70c39936ad3da95",
+        "file": "Models/GLB format/indicator-special-cross.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "special",
+        "cross",
+        "kenney",
+        "prototype",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ffc044"
+      ],
+      "colorNames": [
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 24,
+        "triangles": 22,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-special-lines",
+      "label": "indicator-special-lines",
+      "description": "Prototype Kit by Kenney.",
+      "thumbnail": "indicator-special-lines/thumbnail.png",
+      "model": "indicator-special-lines/indicator-special-lines.ts",
+      "package": "indicator-special-lines",
+      "descriptor": "indicator-special-lines/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/prototype-kit",
+        "download": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+        "archiveSha256": "213b522fb12bcc9b9ac66c4f7581f7c74623293272212e40a70c39936ad3da95",
+        "file": "Models/GLB format/indicator-special-lines.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "special",
+        "lines",
+        "kenney",
+        "prototype",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ffc044"
+      ],
+      "colorNames": [
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 30,
+        "triangles": 16,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-square-a",
+      "label": "indicator-square-a",
+      "description": "Prototype Kit by Kenney.",
+      "thumbnail": "indicator-square-a/thumbnail.png",
+      "model": "indicator-square-a/indicator-square-a.ts",
+      "package": "indicator-square-a",
+      "descriptor": "indicator-square-a/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/prototype-kit",
+        "download": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+        "archiveSha256": "213b522fb12bcc9b9ac66c4f7581f7c74623293272212e40a70c39936ad3da95",
+        "file": "Models/GLB format/indicator-square-a.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "square",
+        "a",
+        "kenney",
+        "prototype",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ffc044"
+      ],
+      "colorNames": [
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 8,
+        "triangles": 8,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-square-b",
+      "label": "indicator-square-b",
+      "description": "Prototype Kit by Kenney.",
+      "thumbnail": "indicator-square-b/thumbnail.png",
+      "model": "indicator-square-b/indicator-square-b.ts",
+      "package": "indicator-square-b",
+      "descriptor": "indicator-square-b/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/prototype-kit",
+        "download": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+        "archiveSha256": "213b522fb12bcc9b9ac66c4f7581f7c74623293272212e40a70c39936ad3da95",
+        "file": "Models/GLB format/indicator-square-b.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "square",
+        "b",
+        "kenney",
+        "prototype",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ffc044"
+      ],
+      "colorNames": [
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 40,
+        "triangles": 24,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-square-c",
+      "label": "indicator-square-c",
+      "description": "Prototype Kit by Kenney.",
+      "thumbnail": "indicator-square-c/thumbnail.png",
+      "model": "indicator-square-c/indicator-square-c.ts",
+      "package": "indicator-square-c",
+      "descriptor": "indicator-square-c/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/prototype-kit",
+        "download": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+        "archiveSha256": "213b522fb12bcc9b9ac66c4f7581f7c74623293272212e40a70c39936ad3da95",
+        "file": "Models/GLB format/indicator-square-c.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "square",
+        "c",
+        "kenney",
+        "prototype",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ffc044"
+      ],
+      "colorNames": [
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 24,
+        "triangles": 16,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "indicator-square-e",
+      "label": "indicator-square-e",
+      "description": "Prototype Kit by Kenney.",
+      "thumbnail": "indicator-square-e/thumbnail.png",
+      "model": "indicator-square-e/indicator-square-e.ts",
+      "package": "indicator-square-e",
+      "descriptor": "indicator-square-e/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/prototype-kit",
+        "download": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+        "archiveSha256": "213b522fb12bcc9b9ac66c4f7581f7c74623293272212e40a70c39936ad3da95",
+        "file": "Models/GLB format/indicator-square-e.glb"
+      },
+      "category": "props",
+      "tags": [
+        "indicator",
+        "square",
+        "e",
+        "kenney",
+        "prototype",
+        "kit",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#ffc044"
+      ],
+      "colorNames": [
+        "yellow"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 20,
+        "triangles": 12,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0,
+          0.5
+        ],
+        "size": [
+          1,
+          0,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

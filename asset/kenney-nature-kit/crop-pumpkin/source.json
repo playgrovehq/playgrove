@@ -1,0 +1,23 @@
+{
+  "id": "crop-pumpkin",
+  "label": "crop pumpkin",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/crop_pumpkin.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "f17dabf7ca230543d2bad97dc5d4d1988d43c1c20a2cd3bdb547dc43c88817bc",
+  "originalInputSha256": "5b4878c5996033629419c26ac32153ce8ac06bbbdac98e4fa8a5cbab98f78077",
+  "descriptor": "metadata.json",
+  "model": "crop-pumpkin.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.44126999378204346,0.33382998779416084,0.4519439935684204]",
+  "convertedAt": "2026-09-05T10:30:27.347Z"
+}

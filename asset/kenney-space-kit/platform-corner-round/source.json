@@ -1,0 +1,23 @@
+{
+  "id": "platform-corner-round",
+  "label": "platform cornerRound",
+  "description": "Space Kit by Kenney.",
+  "pack": "kenney-space-kit",
+  "listing": "https://kenney.nl/assets/space-kit",
+  "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+  "file": "Models/GLTF format/platform_cornerRound.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8dfee1469b2830ccd1b0b56288bf1e21273e878af2dccca60461d6c2cfa16ddf",
+  "originalInputSha256": "316bd340cc72fc20cbcc9eb23be82cab9ff3fdedea2a6043339634f4a7c181a7",
+  "descriptor": "metadata.json",
+  "model": "platform-corner-round.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1,0.10000000149011612,1]",
+  "convertedAt": "2026-09-05T10:30:41.762Z"
+}

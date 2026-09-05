@@ -1,0 +1,23 @@
+{
+  "id": "ground-river-side",
+  "label": "ground riverSide",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/ground_riverSide.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b1f528aea7688e17f149dd0f00857ac0ec6a9876d5587a7fb6d13de53fd7d0da",
+  "originalInputSha256": "99d5d9f3d12fde4e34b7b341507dcb332bfc054351d4d01ccf35d8e9d0197155",
+  "descriptor": "metadata.json",
+  "model": "ground-river-side.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1,0.05000000074505806,1]",
+  "convertedAt": "2026-09-05T10:30:29.613Z"
+}

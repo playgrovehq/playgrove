@@ -1,0 +1,23 @@
+{
+  "id": "straight-wide-hole",
+  "label": "straight-wide-hole",
+  "description": "Marble Kit by Kenney.",
+  "pack": "kenney-marble-kit",
+  "listing": "https://kenney.nl/assets/marble-kit",
+  "download": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "archiveSha256": "4a289fe77fa4e71b943fb9a0df828a7987e62f665083ea9237d0bd9acd0b6dcb",
+  "file": "Models/GLB format/straight-wide-hole.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "1d1bcc6389c9f520f6a10cbf8678515298df49167c28f2d12604b5b5d5c1b27f",
+  "originalInputSha256": "0f472069f02b46206302a9221fffa82b62486cc1bb2eabe250f72488dc4e2d6e",
+  "descriptor": "metadata.json",
+  "model": "straight-wide-hole.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.7000000476837158,0.5,1]",
+  "convertedAt": "2026-09-05T10:30:21.613Z"
+}

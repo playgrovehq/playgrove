@@ -1,0 +1,22 @@
+{
+  "id": "cube-grass-single",
+  "label": "Cube Grass Single",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1LYEgToMfXzdOetkgKO2Emn9d7d7sy6ya",
+  "file": "Cubes/glTF/Cube_Grass_Single.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "79d72c01739d9e9a1ef07d148949624059241aac429a0de2328f33b85ab3b684",
+  "originalInputSha256": "79d72c01739d9e9a1ef07d148949624059241aac429a0de2328f33b85ab3b684",
+  "descriptor": "metadata.json",
+  "model": "cube-grass-single.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2.233438014984131,1.995956003665924,2.233438014984131]",
+  "convertedAt": "2026-09-05T11:48:28.350Z"
+}

@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "traffic-light-1",
+  "label": "TrafficLight 1",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "traffic",
+    "light",
+    "quaternius",
+    "zombieapocalypsekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#8b8786",
+    "#297c66",
+    "#cbc3bd",
+    "#caa507",
+    "#b40416",
+    "#b4ab05",
+    "#5fb400"
+  ],
+  "colorNames": [
+    "gray",
+    "green",
+    "beige",
+    "orange",
+    "red"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "traffic-light-1.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 958,
+    "triangles": 846,
+    "parts": 7,
+    "discardedDegenerate": 3
+  },
+  "bounds": {
+    "min": [
+      -0.171678,
+      -0.014683,
+      -0.170078
+    ],
+    "max": [
+      1.341257,
+      4.649173,
+      1.341257
+    ],
+    "size": [
+      1.512935,
+      4.663856,
+      1.511335
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "TrafficLight_1"
+  ],
+  "materialNames": [
+    "Atlas"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1FfZb08XIdv9gzHCVJ9JRIoLmqcgf87Q9",
+    "file": "Environment/glTF/TrafficLight_1.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

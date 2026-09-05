@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "potted-plant",
+  "label": "pottedPlant",
+  "description": "Furniture Kit by Kenney.",
+  "category": "vegetation",
+  "tags": [
+    "potted",
+    "plant",
+    "kenney",
+    "furniture",
+    "kit",
+    "clone",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#f3cca8",
+    "#d7b495",
+    "#76eac8"
+  ],
+  "colorNames": [
+    "beige",
+    "cyan"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "potted-plant.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 120,
+    "triangles": 60,
+    "parts": 3,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.10603,
+      0,
+      -0.120731
+    ],
+    "max": [
+      0.10603,
+      0.654017,
+      0.120731
+    ],
+    "size": [
+      0.21206,
+      0.654017,
+      0.241462
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "pottedPlant(Clone)",
+    "plant"
+  ],
+  "materialNames": [
+    "wood",
+    "woodDark",
+    "plant"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/furniture-kit",
+    "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+    "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+    "file": "Models/GLTF format/pottedPlant.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "id": "gate-complex",
+  "label": "gate complex",
+  "description": "Space Kit by Kenney.",
+  "category": "props",
+  "tags": [
+    "gate",
+    "complex",
+    "kenney",
+    "space",
+    "kit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#d6dbe4",
+    "#edf0f5",
+    "#8f949e",
+    "#ffd07c"
+  ],
+  "colorNames": [
+    "white",
+    "gray",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "gate-complex.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 703,
+    "triangles": 448,
+    "parts": 4,
+    "discardedDegenerate": 12
+  },
+  "bounds": {
+    "min": [
+      1.5,
+      0,
+      1.25
+    ],
+    "max": [
+      2.5,
+      1.013013,
+      1.75
+    ],
+    "size": [
+      1,
+      1.013013,
+      0.5
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "gate_complex"
+  ],
+  "materialNames": [
+    "metalDark",
+    "metal",
+    "dark",
+    "metalRed"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/space-kit",
+    "download": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+    "archiveSha256": "d5d7cdf2635ed5a43a9187deaf409b6f47484e402321128341d3c3698e9ef4d9",
+    "file": "Models/GLTF format/gate_complex.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

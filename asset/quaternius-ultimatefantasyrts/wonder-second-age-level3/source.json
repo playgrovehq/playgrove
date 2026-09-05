@@ -1,0 +1,22 @@
+{
+  "id": "wonder-second-age-level3",
+  "label": "Wonder SecondAge Level3",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ANbbuTKmYeeXP-Vl5FSuTaLo9Z-u5cto",
+  "file": "glTF/Wonder_SecondAge_Level3.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "6d68a9945eca89b73850af8df0e8dbe0d7eac17b8a9b2dbcd35a6fde6252054a",
+  "originalInputSha256": "6d68a9945eca89b73850af8df0e8dbe0d7eac17b8a9b2dbcd35a6fde6252054a",
+  "descriptor": "metadata.json",
+  "model": "wonder-second-age-level3.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[2.125852942466736,1.3524369709193707,1.9568690061569214]",
+  "convertedAt": "2026-09-05T12:03:25.895Z"
+}

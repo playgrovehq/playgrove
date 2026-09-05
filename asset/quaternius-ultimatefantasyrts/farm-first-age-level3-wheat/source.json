@@ -1,0 +1,22 @@
+{
+  "id": "farm-first-age-level3-wheat",
+  "label": "Farm FirstAge Level3 Wheat",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1RadLI4zSeKAwT9VXzQZSlW8zC4N_jJ0N",
+  "file": "glTF/Farm_FirstAge_Level3_Wheat.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b63ebe96a2f445a0bf21c12e7670ce3a11d62bc22e799c09d10ed2d28742f3a5",
+  "originalInputSha256": "b63ebe96a2f445a0bf21c12e7670ce3a11d62bc22e799c09d10ed2d28742f3a5",
+  "descriptor": "metadata.json",
+  "model": "farm-first-age-level3-wheat.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.7157689929008484,0.1882749963697279,1.4534040093421936]",
+  "convertedAt": "2026-09-05T12:03:23.946Z"
+}

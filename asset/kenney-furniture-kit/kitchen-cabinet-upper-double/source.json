@@ -1,0 +1,23 @@
+{
+  "id": "kitchen-cabinet-upper-double",
+  "label": "kitchenCabinetUpperDouble",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/kitchenCabinetUpperDouble.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "3994df9e87fb049df6a98a5a6105819f490ab496a82223336b68eac2fbf7e904",
+  "originalInputSha256": "7b2abd976f2e8f1727d6ba23490aaf5fe18db9c5ac66e729ef6fe8de835c039e",
+  "descriptor": "metadata.json",
+  "model": "kitchen-cabinet-upper-double.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=7 materials=7 bounds=[0.4300000071525574,0.38999998569488525,0.21999999321997166]",
+  "convertedAt": "2026-09-05T10:30:14.847Z"
+}

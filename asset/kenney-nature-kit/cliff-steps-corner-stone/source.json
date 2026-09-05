@@ -1,0 +1,23 @@
+{
+  "id": "cliff-steps-corner-stone",
+  "label": "cliff stepsCorner stone",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_stepsCorner_stone.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2b0f8c77a14d1f3aea5edbb75cdd632a7858273fab1575ff0b48689747943b24",
+  "originalInputSha256": "df0fe800aa10384ddf961896dc07e17f7ece73783a728708e458656b793e9ee2",
+  "descriptor": "metadata.json",
+  "model": "cliff-steps-corner-stone.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.050000011920929,0.9999999888241291,1.050000011920929]",
+  "convertedAt": "2026-09-05T10:30:27.113Z"
+}

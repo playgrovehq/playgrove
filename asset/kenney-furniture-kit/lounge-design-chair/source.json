@@ -1,0 +1,23 @@
+{
+  "id": "lounge-design-chair",
+  "label": "loungeDesignChair",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/loungeDesignChair.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "aa449692d053ead43828dc3ce9be57e15e2c7db6de1e494241c19caf57678d3f",
+  "originalInputSha256": "f0766a7d5698974b711adac18a2108f0e74e3a036fa4e4e0ccf91195b0ee5abf",
+  "descriptor": "metadata.json",
+  "model": "lounge-design-chair.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.7295950055122375,0.4000000059604645,0.4099999964237213]",
+  "convertedAt": "2026-09-05T10:30:15.081Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cliff-block-diagonal-stone",
+  "label": "cliff blockDiagonal stone",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/cliff_blockDiagonal_stone.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8d5ab4a7735a0affdf9978d898b75dbec8ca994eaaa2d02a668561a35fe69fe7",
+  "originalInputSha256": "62835e048b252fc2283352ef301b671e3f77f5ca511ffc5b6c90a5eac6869c54",
+  "descriptor": "metadata.json",
+  "model": "cliff-block-diagonal-stone.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1,0.9999999888241291,1]",
+  "convertedAt": "2026-09-05T10:30:26.429Z"
+}

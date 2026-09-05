@@ -1,0 +1,23 @@
+{
+  "id": "wall-corner",
+  "label": "wallCorner",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/wallCorner.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8c9ef68b7806d6ec4a6d4a4fde5c84a03dd008919b5b71285714f0bc4235e147",
+  "originalInputSha256": "0e6521caee1f9282784c52e0f651084e49f575b091ad97bf25540b8049757aef",
+  "descriptor": "metadata.json",
+  "model": "wall-corner.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.550000011920929,1.289531946182251,0.550000011920929]",
+  "convertedAt": "2026-09-05T10:30:15.863Z"
+}

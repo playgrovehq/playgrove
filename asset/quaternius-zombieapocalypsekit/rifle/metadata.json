@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "rifle",
+  "label": "Rifle",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "rifle",
+    "quaternius",
+    "zombieapocalypsekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#5c5c5c",
+    "#5a4b3e",
+    "#8b8786",
+    "#8b755e",
+    "#9e731d",
+    "#632125",
+    "#ada8a6",
+    "#4c3a21"
+  ],
+  "colorNames": [
+    "brown",
+    "gray",
+    "beige",
+    "black"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "rifle.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 2706,
+    "triangles": 2103,
+    "parts": 8,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.057188,
+      -0.196759,
+      -0.616997
+    ],
+    "max": [
+      0.057188,
+      0.321328,
+      1.019337
+    ],
+    "size": [
+      0.114376,
+      0.518087,
+      1.636334
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": true,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Rifle"
+  ],
+  "materialNames": [
+    "Atlas"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1UDLXhSl5RY3f-SvuRrsH8RxdpQcC_6Ig",
+    "file": "Weapons/glTF/Rifle.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

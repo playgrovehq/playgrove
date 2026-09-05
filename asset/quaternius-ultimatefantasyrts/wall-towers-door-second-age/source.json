@@ -1,0 +1,22 @@
+{
+  "id": "wall-towers-door-second-age",
+  "label": "WallTowers Door SecondAge",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ynirXwxJgmBZIgbGAxEWiWtMs185e5v4",
+  "file": "glTF/WallTowers_Door_SecondAge.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c2aafa9020b6d89810836ede7fb8ab787a2c244a84bac7d00f0a5ff0ed609ae2",
+  "originalInputSha256": "c2aafa9020b6d89810836ede7fb8ab787a2c244a84bac7d00f0a5ff0ed609ae2",
+  "descriptor": "metadata.json",
+  "model": "wall-towers-door-second-age.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=4 materials=4 bounds=[1.975633978843689,0.7371550155803561,0.33341699838638306]",
+  "convertedAt": "2026-09-05T12:03:25.543Z"
+}

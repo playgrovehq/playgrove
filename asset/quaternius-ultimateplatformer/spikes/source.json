@@ -1,0 +1,22 @@
+{
+  "id": "spikes",
+  "label": "Spikes",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1ooTe4z6ibm6QlZ0ZwUoLL2sJJnuOyvZB",
+  "file": "Level and Mechanics/glTF/Spikes.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "b071d0c0c7176ebaf5a5e8e050d9a3d7002054f1581094ed9c5d371b2d0e600b",
+  "originalInputSha256": "b071d0c0c7176ebaf5a5e8e050d9a3d7002054f1581094ed9c5d371b2d0e600b",
+  "descriptor": "metadata.json",
+  "model": "spikes.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[1.9502049684524536,3.4014040260808542,1.828320026397705]",
+  "convertedAt": "2026-09-05T11:48:28.937Z"
+}

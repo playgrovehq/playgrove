@@ -1,0 +1,22 @@
+{
+  "id": "barracks-second-age-level1",
+  "label": "Barracks SecondAge Level1",
+  "description": "Ultimate Fantasy RTS by Quaternius.",
+  "pack": "quaternius-ultimatefantasyrts",
+  "listing": "https://quaternius.com/packs/ultimatefantasyrts.html",
+  "download": "https://drive.google.com/uc?export=download&id=1s4Ml9FK2DGWKnWNI8O5EY8lIKzC9WRph",
+  "file": "glTF/Barracks_SecondAge_Level1.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "2275f48b9e18d9969a4b6f2ac55c35e5b804f5104ef11bad84c65327095e3e19",
+  "originalInputSha256": "2275f48b9e18d9969a4b6f2ac55c35e5b804f5104ef11bad84c65327095e3e19",
+  "descriptor": "metadata.json",
+  "model": "barracks-second-age-level1.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=9 materials=9 bounds=[1.0096060037612915,0.8931040037423372,1.4068710207939148]",
+  "convertedAt": "2026-09-05T12:03:23.570Z"
+}

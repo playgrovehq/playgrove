@@ -1,0 +1,23 @@
+{
+  "id": "bridge-side-wood",
+  "label": "bridge side wood",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/bridge_side_wood.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e6cfbb9dfd5d05d3d038b79e130f45dce87d354f6a4c9db206e93da69989da57",
+  "originalInputSha256": "3857c2a286d236375dbae209897884eebc379d18e4af39ee8414f2d9511e2c49",
+  "descriptor": "metadata.json",
+  "model": "bridge-side-wood.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[1.0199999809265137,0.3999999947845936,1.0399999618530273]",
+  "convertedAt": "2026-09-05T10:30:26.080Z"
+}

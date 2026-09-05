@@ -1,0 +1,23 @@
+{
+  "id": "bathroom-sink",
+  "label": "bathroomSink",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/bathroomSink.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "4db18f40eda0bad45243672e0a5fc971ec3b3e7f21f14c9275055142de244da6",
+  "originalInputSha256": "39d4f19608cab7e0fed52303b2c689f5f51fae1bad9b6913cb53d838875e797e",
+  "descriptor": "metadata.json",
+  "model": "bathroom-sink.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.3400000035762787,0.5600000023841858,0.28999999165534973]",
+  "convertedAt": "2026-09-05T10:30:12.788Z"
+}

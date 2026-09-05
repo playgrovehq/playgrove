@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "id": "rock-platforms-medium",
+  "label": "RockPlatforms Medium",
+  "description": "Platformer Game Kit by Quaternius.",
+  "category": "landscape",
+  "tags": [
+    "rock",
+    "platforms",
+    "medium",
+    "quaternius",
+    "ultimateplatformer",
+    "landscape",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#a77e5c"
+  ],
+  "colorNames": [
+    "gray"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "rock-platforms-medium.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 194,
+    "triangles": 288,
+    "parts": 1,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -2.40499,
+      0,
+      -2.40502
+    ],
+    "max": [
+      2.404967,
+      2.911053,
+      2.403407
+    ],
+    "size": [
+      4.809957,
+      2.911053,
+      4.808427
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "RockPlatforms_Medium"
+  ],
+  "materialNames": [
+    "Rock"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+    "download": "https://drive.google.com/uc?export=download&id=1pPt9BffIfD-gHvX7k-YjjFe0Sj4hyRlz",
+    "file": "Nature/glTF/RockPlatforms_Medium.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

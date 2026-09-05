@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "id": "computer",
+  "label": "Computer",
+  "description": "Cyberpunk Game Kit by Quaternius.",
+  "category": "props",
+  "tags": [
+    "computer",
+    "quaternius",
+    "cyberpunkgamekit",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#8b8b8b",
+    "#976735",
+    "#56747a",
+    "#747474"
+  ],
+  "colorNames": [
+    "gray",
+    "brown"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "computer.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 1045,
+    "triangles": 998,
+    "parts": 4,
+    "discardedDegenerate": 10
+  },
+  "bounds": {
+    "min": [
+      -0.234838,
+      -0.002464,
+      -0.224041
+    ],
+    "max": [
+      0.234838,
+      1.005338,
+      0.405241
+    ],
+    "size": [
+      0.469676,
+      1.007802,
+      0.629282
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "Computer"
+  ],
+  "materialNames": [
+    "LightGrey",
+    "Orange",
+    "Screen",
+    "Grey"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://quaternius.com/packs/cyberpunkgamekit.html",
+    "download": "https://drive.google.com/uc?export=download&id=1l8LhvW6D3rqgW68wdZTgNIZSXt6y1hRb",
+    "file": "Platforms/Computer.gltf",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

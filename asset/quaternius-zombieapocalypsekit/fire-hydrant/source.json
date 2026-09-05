@@ -1,0 +1,22 @@
+{
+  "id": "fire-hydrant",
+  "label": "FireHydrant",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=12eTSrvHAa4D5Sr-_oFnMEHWYY65jwDGo",
+  "file": "Environment/glTF/FireHydrant.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "505de841fda684aee3dd9dd9c594dcc5bfa328bb492e82c7a9cc28979c9fe257",
+  "originalInputSha256": "505de841fda684aee3dd9dd9c594dcc5bfa328bb492e82c7a9cc28979c9fe257",
+  "descriptor": "metadata.json",
+  "model": "fire-hydrant.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.515097975730896,0.7723589815432206,0.39916299283504486]",
+  "convertedAt": "2026-09-05T11:49:49.379Z"
+}

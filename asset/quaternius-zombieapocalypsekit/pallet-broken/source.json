@@ -1,0 +1,22 @@
+{
+  "id": "pallet-broken",
+  "label": "Pallet Broken",
+  "description": "Zombie Apocalypse Kit by Quaternius.",
+  "pack": "quaternius-zombieapocalypsekit",
+  "listing": "https://quaternius.com/packs/zombieapocalypsekit.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hZFumQsNw-1cjYBpUPS-PsdSLRwEktq-",
+  "file": "Environment/glTF/Pallet_Broken.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "795089b38549f9913c29f347fdc7496ed4da78b8edb47074aa55ac79cc971366",
+  "originalInputSha256": "795089b38549f9913c29f347fdc7496ed4da78b8edb47074aa55ac79cc971366",
+  "descriptor": "metadata.json",
+  "model": "pallet-broken.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.9172979891300201,0.1639339952089358,1.222113013267517]",
+  "convertedAt": "2026-09-05T11:49:49.395Z"
+}

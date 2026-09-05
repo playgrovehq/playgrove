@@ -1,0 +1,22 @@
+{
+  "id": "stairs",
+  "label": "Stairs",
+  "description": "Platformer Game Kit by Quaternius.",
+  "pack": "quaternius-ultimateplatformer",
+  "listing": "https://quaternius.com/packs/ultimateplatformer.html",
+  "download": "https://drive.google.com/uc?export=download&id=1H14dYoIDRucqOGWWaUrz8Vx0EfPvu8X8",
+  "file": "Level and Mechanics/glTF/Stairs.gltf",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "e27fccab3c4a9e36f276f0453410c34cc1aa216aab1e1c7b749ce90825831d0a",
+  "originalInputSha256": "e27fccab3c4a9e36f276f0453410c34cc1aa216aab1e1c7b749ce90825831d0a",
+  "descriptor": "metadata.json",
+  "model": "stairs.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[1.7657660245895386,2,0.25749000906944275]",
+  "convertedAt": "2026-09-05T11:48:29.037Z"
+}

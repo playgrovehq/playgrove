@@ -1,0 +1,23 @@
+{
+  "id": "tree-cone-fall",
+  "label": "tree cone fall",
+  "description": "Nature Kit by Kenney.",
+  "pack": "kenney-nature-kit",
+  "listing": "https://kenney.nl/assets/nature-kit",
+  "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+  "file": "Models/GLTF format/tree_cone_fall.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "c066e7bd598e393442b3cb78b8f0a8db2cd2ad3b35b06b6f07b285b673a7cfb2",
+  "originalInputSha256": "bd1d2833ef7a838fc27224c6f4a7cb0bb0680e1896f1c1f122814a8424e4c694",
+  "descriptor": "metadata.json",
+  "model": "tree-cone-fall.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.5296639800071716,1.4303329475224018,0.5296639800071716]",
+  "convertedAt": "2026-09-05T10:30:32.779Z"
+}

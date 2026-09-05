@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "id": "tree-pine-tall-c-detailed",
+  "label": "tree pineTallC detailed",
+  "description": "Nature Kit by Kenney.",
+  "category": "vegetation",
+  "tags": [
+    "tree",
+    "pine",
+    "tall",
+    "c",
+    "detailed",
+    "kenney",
+    "nature",
+    "kit",
+    "vegetation",
+    "static",
+    "native-mesh"
+  ],
+  "tagBasis": "source names and pack; category is a keyword classification",
+  "colors": [
+    "#72d3d5",
+    "#e7b5a3"
+  ],
+  "colorNames": [
+    "cyan",
+    "beige"
+  ],
+  "colorNameBasis": "nearest named base-color swatch",
+  "format": "playgrove-native-v1",
+  "model": "tree-pine-tall-c-detailed.ts",
+  "descriptor": "metadata.json",
+  "thumbnail": "thumbnail.png",
+  "geometry": {
+    "vertices": 244,
+    "triangles": 154,
+    "parts": 2,
+    "discardedDegenerate": 0
+  },
+  "bounds": {
+    "min": [
+      -0.240192,
+      -0.05,
+      -0.27735
+    ],
+    "max": [
+      0.240192,
+      1.620499,
+      0.27735
+    ],
+    "size": [
+      0.480384,
+      1.670499,
+      0.5547
+    ],
+    "unit": "meter",
+    "upAxis": "Y",
+    "origin": "source"
+  },
+  "compatibility": {
+    "renderer": "playgrove-native-v1",
+    "geometry": "embedded triangle meshes",
+    "materials": "opaque part colors",
+    "lighting": "native renderer lighting; source PBR shading is not reproduced",
+    "texturesRequired": false,
+    "paletteBaked": false,
+    "vertexColorsBaked": false,
+    "animated": false,
+    "hierarchy": "static world transforms baked into vertices",
+    "clips": "empty static tracks required by the native asset schema",
+    "positionPrecisionMeters": 0.000001
+  },
+  "sourceNodes": [
+    "tree_pineTallC_detailed"
+  ],
+  "materialNames": [
+    "leafsDark",
+    "woodBarkDark"
+  ],
+  "license": "CC0-1.0",
+  "source": {
+    "listing": "https://kenney.nl/assets/nature-kit",
+    "download": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+    "archiveSha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+    "file": "Models/GLTF format/tree_pineTallC_detailed.glb",
+    "license": "CC0-1.0"
+  },
+  "validation": {
+    "nodeContract": true,
+    "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+    "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+  }
+}

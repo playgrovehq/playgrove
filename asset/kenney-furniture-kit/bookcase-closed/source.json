@@ -1,0 +1,23 @@
+{
+  "id": "bookcase-closed",
+  "label": "bookcaseClosed",
+  "description": "Furniture Kit by Kenney.",
+  "pack": "kenney-furniture-kit",
+  "listing": "https://kenney.nl/assets/furniture-kit",
+  "download": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+  "file": "Models/GLTF format/bookcaseClosed.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "02dd4b2a15b546d1b76bb8ea0d9b5edb6401bd3433245e9f3ffb4712613a9154",
+  "originalInputSha256": "9d210448de5e1179541da895450bbc7a39f4cd673d677654cd6b134e4ea0e047",
+  "descriptor": "metadata.json",
+  "model": "bookcase-closed.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=1 materials=1 bounds=[0.4000000059604645,0.8500000238418579,0.25]",
+  "convertedAt": "2026-09-05T10:30:12.962Z"
+}

@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "generated": "2026-09-05T10:30:22.535Z",
+  "assets": [
+    {
+      "id": "patch-grass",
+      "label": "patch-grass",
+      "description": "Mini Forest by Kenney.",
+      "thumbnail": "patch-grass/thumbnail.png",
+      "model": "patch-grass/patch-grass.ts",
+      "package": "patch-grass",
+      "descriptor": "patch-grass/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://kenney.nl/assets/mini-forest",
+        "download": "https://kenney.nl/media/pages/assets/mini-forest/44a89aed7f-1784024079/kenney_mini-forest_1.0.zip",
+        "archiveSha256": "8691614018075a66458e35915b8c358c2e6178648aedadafcdf313b924aa6581",
+        "file": "Models/GLB format/patch-grass.glb"
+      },
+      "category": "vegetation",
+      "tags": [
+        "patch",
+        "grass",
+        "kenney",
+        "mini",
+        "forest",
+        "vegetation",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#76bc88"
+      ],
+      "colorNames": [
+        "gray"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 174,
+        "triangles": 295,
+        "parts": 1,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.171019,
+          0.5
+        ],
+        "size": [
+          1,
+          0.171019,
+          1
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": true,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    }
+  ]
+}

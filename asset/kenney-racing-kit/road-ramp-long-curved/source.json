@@ -1,0 +1,23 @@
+{
+  "id": "road-ramp-long-curved",
+  "label": "roadRampLongCurved",
+  "description": "Racing Kit by Kenney.",
+  "pack": "kenney-racing-kit",
+  "listing": "https://kenney.nl/assets/racing-kit",
+  "download": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "archiveSha256": "8a71ea16219315a01d00d5a90c4f6b5c090faddbc56d80ecf727e2b3b853c6c0",
+  "file": "Models/GLTF format/roadRampLongCurved.glb",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "cb1196eda1abb34daad582935423019d5c274abd089881360d04048f0fc39472",
+  "originalInputSha256": "893b38f89a49a0521ab54dcf7ffc180c6b05aaf0efd8f28b4a72ba33d5c6b400",
+  "descriptor": "metadata.json",
+  "model": "road-ramp-long-curved.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=3 materials=3 bounds=[0.9999999701976776,0.5199999902397394,2.0000001192092896]",
+  "convertedAt": "2026-09-05T10:30:37.992Z"
+}
