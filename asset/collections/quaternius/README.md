@@ -1,6 +1,6 @@
 # Quaternius
 
-1,734 ready native models from 30 admitted packs, originally by Quaternius and converted by PlayGrove. Each package contains geometry, preview, metadata and source provenance.
+1,736 ready native models from 30 admitted packs, originally by Quaternius and converted by PlayGrove. Each package contains geometry, preview, metadata and source provenance.
 
 - [quaternius-backgroundposedhumans](../../quaternius-backgroundposedhumans/catalog.json): 28 ready models; [source](https://quaternius.com/packs/backgroundposedhumans.html), [included license](../../quaternius-backgroundposedhumans/License.txt).
 - [quaternius-buildings](../../quaternius-buildings/catalog.json): 9 ready models; [source](https://quaternius.com/packs/buildings.html), [included license](../../quaternius-buildings/License.txt).
@@ -22,15 +22,15 @@
 - [quaternius-ultimatecrops](../../quaternius-ultimatecrops/catalog.json): 102 ready models; [source](https://quaternius.com/packs/ultimatecrops.html), [included license](../../quaternius-ultimatecrops/License.txt).
 - [quaternius-ultimatefantasyrts](../../quaternius-ultimatefantasyrts/catalog.json): 128 ready models; [source](https://quaternius.com/packs/ultimatefantasyrts.html), [included license](../../quaternius-ultimatefantasyrts/License.txt).
 - [quaternius-ultimatefood](../../quaternius-ultimatefood/catalog.json): 103 ready models; [source](https://quaternius.com/packs/ultimatefood.html), [included license](../../quaternius-ultimatefood/License.txt).
-- [quaternius-ultimatefurniture](../../quaternius-ultimatefurniture/catalog.json): 19 ready models; [source](https://quaternius.com/packs/ultimatefurniture.html), [included license](../../quaternius-ultimatefurniture/License.txt).
+- [quaternius-ultimatefurniture](../../quaternius-ultimatefurniture/catalog.json): 20 ready models; [source](https://quaternius.com/packs/ultimatefurniture.html), [included license](../../quaternius-ultimatefurniture/License.txt).
 - [quaternius-ultimategun](../../quaternius-ultimategun/catalog.json): 55 ready models; [source](https://quaternius.com/packs/ultimategun.html), [included license](../../quaternius-ultimategun/License.txt).
 - [quaternius-ultimatehomeinterior](../../quaternius-ultimatehomeinterior/catalog.json): 123 ready models; [source](https://quaternius.com/packs/ultimatehomeinterior.html), [included license](../../quaternius-ultimatehomeinterior/License.txt).
 - [quaternius-ultimatemodularruins](../../quaternius-ultimatemodularruins/catalog.json): 92 ready models; [source](https://quaternius.com/packs/ultimatemodularruins.html), [included license](../../quaternius-ultimatemodularruins/License.txt).
 - [quaternius-ultimatemodularscifi](../../quaternius-ultimatemodularscifi/catalog.json): 91 ready models; [source](https://quaternius.com/packs/ultimatemodularscifi.html), [included license](../../quaternius-ultimatemodularscifi/License.txt).
 - [quaternius-ultimatenature](../../quaternius-ultimatenature/catalog.json): 149 ready models; [source](https://quaternius.com/packs/ultimatenature.html), [included license](../../quaternius-ultimatenature/License.txt).
 - [quaternius-ultimateplatformer](../../quaternius-ultimateplatformer/catalog.json): 101 ready models; [source](https://quaternius.com/packs/ultimateplatformer.html), [included license](../../quaternius-ultimateplatformer/License.txt).
-- [quaternius-ultimaterpg](../../quaternius-ultimaterpg/catalog.json): 105 ready models; [source](https://quaternius.com/packs/ultimaterpg.html), [included license](../../quaternius-ultimaterpg/License.txt).
+- [quaternius-ultimaterpg](../../quaternius-ultimaterpg/catalog.json): 106 ready models; [source](https://quaternius.com/packs/ultimaterpg.html), [included license](../../quaternius-ultimaterpg/License.txt).
 - [quaternius-ultimatetexturedbuildings](../../quaternius-ultimatetexturedbuildings/catalog.json): 102 ready models; [source](https://quaternius.com/packs/ultimatetexturedbuildings.html), [included license](../../quaternius-ultimatetexturedbuildings/License.txt).
 - [quaternius-zombieapocalypsekit](../../quaternius-zombieapocalypsekit/catalog.json): 50 ready models; [source](https://quaternius.com/packs/zombieapocalypsekit.html), [included license](../../quaternius-zombieapocalypsekit/License.txt).
 
-See [store instructions](../../README.md) for search and format limits. Only specifically documented CC0 files are hosted; this does not grant rights to other Quaternius releases. One furniture model with a missing material file was excluded while the other 19 completed.
+See [store instructions](../../README.md) for search and format limits. Only specifically documented CC0 files are hosted; this does not grant rights to other Quaternius releases. Two source OBJ files referenced incorrect material filenames. Their authored matching MTL files were verified, references corrected for the exact input hashes, and both models recovered. Original and processed checksums plus correction details are retained in their source.json records.

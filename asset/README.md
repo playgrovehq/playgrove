@@ -1,6 +1,6 @@
 # PlayGrove asset store
 
-Search 2,927 converted 3D assets by their original creator: 1,193 Kenney and 1,734 Quaternius. Each ready package contains native mesh TypeScript, a thumbnail, searchable metadata and source provenance.
+Search 2,929 converted 3D assets by their original creator: 1,193 Kenney and 1,736 Quaternius. Each ready package contains native mesh TypeScript, a thumbnail, searchable metadata and source provenance.
 
 ## Search from anywhere
 
@@ -19,7 +19,7 @@ Results are JSON with download paths or URLs for the actual TypeScript geometry,
 ## Creator rooms
 
 - [Kenney](collections/kenney/README.md): 1,193 ready models.
-- [Quaternius](collections/quaternius/README.md): 1,734 ready models.
+- [Quaternius](collections/quaternius/README.md): 1,736 ready models.
 - [Poly Haven](collections/poly-haven/README.md): 2,370 source listings with original previews: 521 models, 856 textures and 993 HDRIs. No converted files yet.
 - PlayGrove original artwork: planned. Converted third-party artwork stays with its original creator.
 

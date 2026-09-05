@@ -1,0 +1,41 @@
+{
+  "id": "bookcase-books",
+  "label": "Bookcase Books",
+  "description": "Ultimate Furniture Pack by Quaternius.",
+  "pack": "quaternius-ultimatefurniture",
+  "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+  "download": "https://drive.google.com/uc?export=download&id=1hpa7I0QjHi_Hcg9_Dm-9TUN-Qb_a4WIN",
+  "file": "OBJ/Bookcase_Books.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "8cf2a70640a5d64b0e3c5ebceb3afe51b2a9c12b468a4b639e5cb2ef987916ee",
+  "originalInputSha256": "693b8de654cea7d06ce4dcad62cb272d5faabe03116f68f5ff96eb38881a2dca",
+  "dependencies": [
+    {
+      "path": "OBJ/Bookcase_Books.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1YEmYxrl6V9ORnZwHMSd64GWNxS-oPfTm",
+      "sha256": "b9297ef623c99636219582b1624d8d14c9f601ea6368b5f6fa1119c6dd53dccb",
+      "bytes": 2038
+    }
+  ],
+  "repairs": [
+    {
+      "pack": "ultimatefurniture",
+      "path": "OBJ/Bookcase_Books.obj",
+      "from": "Bookcase_Single_Books.mtl",
+      "to": "Bookcase_Books.mtl",
+      "inputSha256": "693b8de654cea7d06ce4dcad62cb272d5faabe03116f68f5ff96eb38881a2dca",
+      "materialSha256": "b9297ef623c99636219582b1624d8d14c9f601ea6368b5f6fa1119c6dd53dccb",
+      "reason": "OBJ names the wrong material-library filename; the author supplies a matching library beside the model."
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "bookcase-books.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=14 materials=14 bounds=[1.8419359922409058,3.371304040774703,0.6644049882888794]",
+  "convertedAt": "2026-09-05T14:33:29.752Z"
+}

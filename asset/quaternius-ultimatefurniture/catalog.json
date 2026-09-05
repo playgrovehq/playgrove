@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated": "2026-09-05T14:12:34.545Z",
+  "generated": "2026-09-05T14:33:29.765Z",
   "assets": [
     {
       "id": "bed-double",
@@ -221,6 +221,101 @@
         "vertices": 4732,
         "triangles": 2928,
         "parts": 7,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.916734,
+          -0.018219,
+          -0.286549
+        ],
+        "max": [
+          0.925202,
+          3.353085,
+          0.377856
+        ],
+        "size": [
+          1.841936,
+          3.371304,
+          0.664405
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "bookcase-books",
+      "label": "Bookcase Books",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "thumbnail": "bookcase-books/thumbnail.png",
+      "model": "bookcase-books/bookcase-books.ts",
+      "package": "bookcase-books",
+      "descriptor": "bookcase-books/metadata.json",
+      "license": "CC0-1.0",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hpa7I0QjHi_Hcg9_Dm-9TUN-Qb_a4WIN",
+        "file": "OBJ/Bookcase_Books.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "bookcase",
+        "books",
+        "quaternius",
+        "ultimatefurniture",
+        "book",
+        "case",
+        "single",
+        "cube",
+        "right",
+        "door",
+        "left",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e5941",
+        "#6a5339",
+        "#604e39",
+        "#b7ac85",
+        "#632921",
+        "#201f3a",
+        "#8c6f39",
+        "#303217",
+        "#37141f",
+        "#181e12",
+        "#877948"
+      ],
+      "colorNames": [
+        "brown",
+        "beige",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 19084,
+        "triangles": 10948,
+        "parts": 14,
         "discardedDegenerate": 0
       },
       "bounds": {

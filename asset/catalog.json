@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-05T14:12:35.026Z",
+  "generatedAt": "2026-09-05T14:36:46.467Z",
   "assets": [
     {
       "id": "kenney-3d-road-tiles/road-tile-001",
@@ -164456,6 +164456,101 @@
       }
     },
     {
+      "id": "quaternius-ultimatefurniture/bookcase-books",
+      "pack": "quaternius-ultimatefurniture",
+      "label": "Bookcase Books",
+      "description": "Ultimate Furniture Pack by Quaternius.",
+      "license": "CC0-1.0",
+      "model": "quaternius-ultimatefurniture/bookcase-books/bookcase-books.ts",
+      "thumbnail": "quaternius-ultimatefurniture/bookcase-books/thumbnail.png",
+      "descriptor": "quaternius-ultimatefurniture/bookcase-books/metadata.json",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimatefurniture.html",
+        "download": "https://drive.google.com/uc?export=download&id=1hpa7I0QjHi_Hcg9_Dm-9TUN-Qb_a4WIN",
+        "file": "OBJ/Bookcase_Books.obj"
+      },
+      "category": "buildings",
+      "tags": [
+        "bookcase",
+        "books",
+        "quaternius",
+        "ultimatefurniture",
+        "book",
+        "case",
+        "single",
+        "cube",
+        "right",
+        "door",
+        "left",
+        "buildings",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#6e5941",
+        "#6a5339",
+        "#604e39",
+        "#b7ac85",
+        "#632921",
+        "#201f3a",
+        "#8c6f39",
+        "#303217",
+        "#37141f",
+        "#181e12",
+        "#877948"
+      ],
+      "colorNames": [
+        "brown",
+        "beige",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 19084,
+        "triangles": 10948,
+        "parts": 14,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.916734,
+          -0.018219,
+          -0.286549
+        ],
+        "max": [
+          0.925202,
+          3.353085,
+          0.377856
+        ],
+        "size": [
+          1.841936,
+          3.371304,
+          0.664405
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
       "id": "quaternius-ultimatefurniture/chair",
       "pack": "quaternius-ultimatefurniture",
       "label": "Chair",
@@ -220739,6 +220834,84 @@
           1.257228,
           1.290794,
           1.257228
+        ],
+        "unit": "meter",
+        "upAxis": "Y",
+        "origin": "source"
+      },
+      "compatibility": {
+        "renderer": "playgrove-native-v1",
+        "geometry": "embedded triangle meshes",
+        "materials": "opaque part colors",
+        "lighting": "native renderer lighting; source PBR shading is not reproduced",
+        "texturesRequired": false,
+        "paletteBaked": false,
+        "vertexColorsBaked": false,
+        "animated": false,
+        "hierarchy": "static world transforms baked into vertices",
+        "clips": "empty static tracks required by the native asset schema",
+        "positionPrecisionMeters": 0.000001
+      },
+      "validation": {
+        "nodeContract": true,
+        "nativeAdmission": "ADMITTED: 1 assets, 1 worlds",
+        "executableSha256": "4ffbce9e8c9479a56815aba8696dae07c0e017fabf915003146c7b54ada5653b"
+      }
+    },
+    {
+      "id": "quaternius-ultimaterpg/pouch",
+      "pack": "quaternius-ultimaterpg",
+      "label": "Pouch",
+      "description": "Ultimate RPG Pack by Quaternius.",
+      "license": "CC0-1.0",
+      "model": "quaternius-ultimaterpg/pouch/pouch.ts",
+      "thumbnail": "quaternius-ultimaterpg/pouch/thumbnail.png",
+      "descriptor": "quaternius-ultimaterpg/pouch/metadata.json",
+      "source": {
+        "listing": "https://quaternius.com/packs/ultimaterpg.html",
+        "download": "https://drive.google.com/uc?export=download&id=1TmfO7gqFhCRYVH996mVQYsHgmrZXrVei",
+        "file": "OBJ/Pouch.obj"
+      },
+      "category": "props",
+      "tags": [
+        "pouch",
+        "quaternius",
+        "ultimaterpg",
+        "bag",
+        "cube",
+        "static",
+        "native-mesh"
+      ],
+      "colors": [
+        "#5d4539",
+        "#552d28"
+      ],
+      "colorNames": [
+        "brown",
+        "black"
+      ],
+      "format": "playgrove-native-v1",
+      "geometry": {
+        "vertices": 784,
+        "triangles": 414,
+        "parts": 2,
+        "discardedDegenerate": 0
+      },
+      "bounds": {
+        "min": [
+          -0.234663,
+          -0.009469,
+          -0.235199
+        ],
+        "max": [
+          0.235709,
+          0.538217,
+          0.235199
+        ],
+        "size": [
+          0.470372,
+          0.547686,
+          0.470398
         ],
         "unit": "meter",
         "upAxis": "Y",

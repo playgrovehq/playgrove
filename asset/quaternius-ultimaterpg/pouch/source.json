@@ -1,0 +1,41 @@
+{
+  "id": "pouch",
+  "label": "Pouch",
+  "description": "Ultimate RPG Pack by Quaternius.",
+  "pack": "quaternius-ultimaterpg",
+  "listing": "https://quaternius.com/packs/ultimaterpg.html",
+  "download": "https://drive.google.com/uc?export=download&id=1TmfO7gqFhCRYVH996mVQYsHgmrZXrVei",
+  "file": "OBJ/Pouch.obj",
+  "license": "CC0-1.0",
+  "licenseFile": "License.txt",
+  "inputSha256": "5fb1ec6827e5d23bb94814eab179ed0244386b07ca5d1f964950269313cbf613",
+  "originalInputSha256": "ea211bb93e57b29b865877a8d6af2f85c12c347c8e103c25b0297d0c7a07d8cf",
+  "dependencies": [
+    {
+      "path": "OBJ/Pouch.mtl",
+      "url": "https://drive.google.com/uc?export=download&id=1Nl10YBirndHh-UXYO3Tn4cWhZnCJUblj",
+      "sha256": "3505d1af5442e92d19f92ad0459c0365588b2a72c13ff40cad59d8db58f290e5",
+      "bytes": 410
+    }
+  ],
+  "repairs": [
+    {
+      "pack": "ultimaterpg",
+      "path": "OBJ/Pouch.obj",
+      "from": "Bag.mtl",
+      "to": "Pouch.mtl",
+      "inputSha256": "ea211bb93e57b29b865877a8d6af2f85c12c347c8e103c25b0297d0c7a07d8cf",
+      "materialSha256": "3505d1af5442e92d19f92ad0459c0365588b2a72c13ff40cad59d8db58f290e5",
+      "reason": "OBJ names the wrong material-library filename; the author supplies a matching library beside the model."
+    }
+  ],
+  "descriptor": "metadata.json",
+  "model": "pouch.ts",
+  "thumbnail": "thumbnail.png",
+  "converter": "2",
+  "convertedBy": "PlayGrove native mesh converter v2",
+  "format": "playgrove-native-v1",
+  "thumbnailRenderer": "three-headless-native-mesh",
+  "render": "GROVE_LOADED OK renderer=three-headless meshes=2 materials=2 bounds=[0.4703719913959503,0.5476860078051686,0.4703980088233948]",
+  "convertedAt": "2026-09-05T14:36:46.317Z"
+}

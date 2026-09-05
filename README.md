@@ -40,4 +40,4 @@ The code and first-party artwork licenses have not yet been selected. No license
 
 ## Searchable asset store
 
-The [asset store](asset/README.md) contains 2,927 ready native geometry assets from Kenney and Quaternius, plus 2,370 separately marked Poly Haven source listings. Search includes previews, creator and type filters, and explicit ready/source availability. Install the [GitHub search release](https://github.com/playgrovehq/playgrove/releases/tag/search-2026-09-05).
+The [asset store](asset/README.md) contains 2,929 ready native geometry assets from Kenney and Quaternius, plus 2,370 separately marked Poly Haven source listings. Search includes previews, creator and type filters, and explicit ready/source availability. Install the [GitHub search release](https://github.com/playgrovehq/playgrove/releases/tag/search-2026-09-05).
